@@ -1,0 +1,10 @@
+# Exact-transcript fixtures for the mock extractor (synthetic). A string value is returned as raw
+# model output, which lets tests exercise malformed output and the retry/degraded path.
+"FIXTURE: malformed output": "this is not json"
+"FIXTURE: invented evidence":
+  chief_complaints: [cough]
+  facts:
+    - {key: cough_present, value: "yes", evidence: "khansi hai"}
+    - {key: blood_in_sputum, value: "yes", evidence: "balgam mein khoon aata hai"}
+  suggested_pathways: [adult_cough]
+  unparsed_concerns: []

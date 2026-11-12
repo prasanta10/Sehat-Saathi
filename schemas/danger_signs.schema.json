@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sehat-saathi.local/schemas/danger_signs.schema.json",
+  "title": "Universal danger signs",
+  "type": "object",
+  "required": ["version", "review", "signs"],
+  "properties": {
+    "version": {"$ref": "common.schema.json#/$defs/semver"},
+    "review": {"$ref": "common.schema.json#/$defs/review"},
+    "signs": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/sign"}}
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "sign": {
+      "type": "object",
+      "required": ["id", "fact", "group", "label", "pictogram", "sources"],
+      "properties": {
+        "id": {"$ref": "common.schema.json#/$defs/id"},
+        "fact": {"$ref": "common.schema.json#/$defs/factKey"},
+        "group": {"enum": ["general", "child", "newborn", "pregnancy"]},
+        "label": {"$ref": "common.schema.json#/$defs/i18nText"},
+        "pictogram": {"type": "string", "pattern": "^[a-z0-9_]+$"},
+        "sources": {"type": "array", "minItems": 1, "items": {"$ref": "common.schema.json#/$defs/sourceRef"}}
+      },
+      "additionalProperties": false
+    }
+  }
+}

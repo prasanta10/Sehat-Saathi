@@ -1,0 +1,23 @@
+id: fx_no_low
+version: 0.0.1
+title: {en: "Fixture pathway without low care", hi: "परीक्षण पथ २"}
+applies_when: {fx_symptom: "yes"}
+review: {status: draft, reviewer: null, reviewed_on: null}
+sources: [fixture_ref]
+questions:
+  - fact: fx_duration_days
+    required: true
+    ask: {en: "Fixture duration?", hi: "परीक्षण अवधि?"}
+    input: duration
+rules:
+  - id: fx2.medium
+    level: MEDIUM
+    when: {fx_duration_days: {gte: 10}}
+    rationale: {en: "Fixture medium", hi: "परीक्षण मध्यम"}
+    source: {ref: fixture_ref, locator: "fixture"}
+    facility_level: PHC
+    target_window: within_3_days
+danger_signs: []
+referral:
+  bring: []
+low_care: null

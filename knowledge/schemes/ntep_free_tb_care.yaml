@@ -1,0 +1,38 @@
+# DRAFT — every statement transcribed from the cited official source (see sources). Hindi is a draft translation.
+id: ntep_free_tb_care
+name:
+  en: Free TB testing and treatment (NTEP)
+  hi: मुफ़्त टीबी जाँच और इलाज (NTEP)
+jurisdiction: national
+states_excluded: []
+care_types:
+- outpatient
+- diagnostics
+- inpatient
+not_for: []
+requires_tags:
+- tb_related
+priority: free_service
+eligibility_signals: []
+may_cover:
+  en:
+  - Free screening, testing and treatment for TB at government health centres
+  hi:
+  - सरकारी स्वास्थ्य केंद्रों पर टीबी की मुफ़्त स्क्रीनिंग, जाँच और इलाज
+does_not_cover:
+  en: []
+  hi: []
+documents: []
+where_to_confirm:
+  en: Government health centre; Ni-kshay Sampark helpline 1800-11-6666
+  hi: सरकारी स्वास्थ्य केंद्र; नि-क्षय संपर्क हेल्पलाइन 1800-11-6666
+helpline: 1800-11-6666
+amounts: []
+sources:
+- ref: pib_tb_backgrounder_2026_03
+  locator: pdf p4, free services
+- ref: pib_tb_backgrounder_2026_03
+  locator: pdf p4, helpline
+review:
+  status: draft
+  verified_on: '2026-11-12'

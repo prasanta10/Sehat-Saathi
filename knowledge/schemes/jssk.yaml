@@ -1,0 +1,52 @@
+# DRAFT — every statement transcribed from the cited official source (see sources). Hindi is a draft translation.
+id: jssk
+name:
+  en: Janani Shishu Suraksha Karyakram (JSSK)
+  hi: जननी शिशु सुरक्षा कार्यक्रम (JSSK)
+jurisdiction: national
+states_excluded: []
+care_types:
+- maternity
+- inpatient
+- outpatient
+- diagnostics
+- emergency_transport
+not_for: []
+applies_to:
+  any:
+  - pregnant: 'yes'
+  - all:
+    - age_years:
+        eq: 0
+    - age_months:
+        lt: 12
+priority: free_service
+eligibility_signals: []
+may_cover:
+  en:
+  - 'At public health facilities: free delivery including C-section, free drugs and consumables, free diagnostics, free diet during the stay, free blood, no user charges'
+  - Free transport from home to the facility, between facilities on referral, and back home
+  - Similar free entitlements for sick infants up to one year of age
+  hi:
+  - 'सरकारी स्वास्थ्य केंद्रों पर: मुफ़्त प्रसव (सिज़ेरियन सहित), मुफ़्त दवाइयाँ और सामान, मुफ़्त जाँच, रुकने के दौरान मुफ़्त भोजन, मुफ़्त खून, कोई शुल्क नहीं'
+  - घर से केंद्र, रेफ़र होने पर एक केंद्र से दूसरे, और वापस घर तक मुफ़्त परिवहन
+  - एक साल तक के बीमार शिशुओं के लिए भी ऐसी ही मुफ़्त सुविधाएँ
+does_not_cover:
+  en: []
+  hi: []
+documents:
+- mcp_card
+where_to_confirm:
+  en: At the government health facility; ask the ASHA or ANM
+  hi: सरकारी स्वास्थ्य केंद्र पर; आशा या एएनएम से पूछें
+amounts: []
+sources:
+- ref: nhm_jssk_page
+  locator: Free Entitlements for pregnant women
+- ref: pib_maternal_care_schemes_2026_08
+  locator: JSSK
+- ref: pib_maternal_care_schemes_2026_08
+  locator: JSSK sick infants
+review:
+  status: draft
+  verified_on: '2026-11-12'

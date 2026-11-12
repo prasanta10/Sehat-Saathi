@@ -1,0 +1,422 @@
+Pradhan Mantri Matru Vandana Yojana - Home
+
+Screen Reader Access
+
+Skip to main content
+
+X
+
+☰ Menu
+
+About Us
+
+Documents
+
+PMMVY Scheme Implementation Guidelines
+
+User Manual PMMVYsoft
+
+Dashboard
+
+PMMVY Dashboard
+
+Grievance Stats Dashboard
+
+Help
+
+Track Application Status
+
+Applicant Login
+
+Citizen Help Video
+
+Frequently Asked Questions
+
+Contact Us
+
+Login
+
+Clear
+
+Search
+
+1. What is Pradhan Mantri Matru Vandana Yojana (PMMVY)?
+
+Pradhan Mantri Matru Vandana Yojana (PMMVY) is a maternity benefit scheme under the Ministry of Women and Child Development. It was launched pan India with effect from 01.01.2017. The PMMVY Scheme is being implemented as per provisions under Section 4 of the National Food Security Act (NFSA), 2013 which provides for financial support for pregnant and lactating mothers to improve the health and nutrition for mother and child as well as compensation for wage loss, if any.
+
+2. When was Pradhan Mantri Matru Vandana Yojana (PMMVY) launched?
+
+PMMVY was launched on January 1, 2017, and provided benefits only for the first child. Now, with effect from 1.4.2022, PMMVY benefits are given for the second child also, if the second child is a girl.
+
+3. Who is eligible for PMMVY?
+
+The scheme aims to cover women belonging to socially, economically disadvantaged, and marginalized sections of society. Any of the following eligibility criteria is required to avail the benefit of PMMVY:
+
+Women belonging to scheduled castes and scheduled tribes
+
+Women who are partially (40%) or fully disabled (Divyang Jan)
+
+Women holder of BPL ration Card
+
+Women Beneficiaries under Pradhan Mantri Jan Aarogya Yojana (PMJAY) under Ayushman Bharat
+
+Women holding E-shram card
+
+Women farmers who are beneficiaries under Kisan Samman Nidhi
+
+Women holding MGNREGA Job Card
+
+Women whose net family income is less than ₹8 Lakh per annum
+
+Pregnant and Lactating AWWs/ AWHs/ ASHAs
+
+Women holding Ration Card under NFSA Act 2013
+
+Any other category as may be prescribed by the Central Government
+
+4. What are the objectives of PMMVY?
+
+The objective of the Pradhan Mantri Matru Vandana Yojana (PMMVY) is to provide cash incentive for partial compensation for the wage loss so that the woman can take adequate rest before and after delivery of the child; and to promote health-seeking behaviour among the Pregnant Women & Lactating Mothers (PW&LM).
+
+5. How much financial assistance is provided under PMMVY?
+
+The PMMVY benefit of Rs 5000/- is given for the first child in two instalments (first instalment of ₹3000/- after Ante-Natal Check-up (ANC) and second instalment of ₹2000/- after the childbirth and 14 weeks of universal immunization). Rs. 6000/- is given for the second child (if girl child) in a single instalment after the childbirth and completion of universal immunization within 14 weeks. In addition to the above, the beneficiary is also eligible to get the benefit of Janani Suraksha Yojana (Ministry of Health and Family Welfare Scheme) after institutional delivery.
+
+6. Are there any recent changes to the PMMVY scheme?
+
+Some for the new features added in PMMVY 2.0 are as follows:
+
+Provision for benefit for second child (girl child) has been introduced. This would contribute towards improving Sex Ratio at Birth by discouraging female foeticide.
+
+Benefits would be disbursed in 2 instalments for 1st living child and in a single instalment for second child, if second child is girl.
+
+In case of miscarriage/still birth, the beneficiary will be treated as fresh beneficiary in event of any future pregnancy.
+
+The mandatory provision of the husband’s Aadhaar has been removed.
+
+7. How can I apply for PMMVY?
+
+The nearest Anganwadi worker/ASHA worker can fill the form online for an eligible woman. An eligible women can also fill the form directly from the PMMVY portal. The URL is
+https://pmmvy.wcd.gov.in
+
+8. What are the conditions for receiving benefits for the first child under PMMVY?
+
+| Scheme Condition for First Child
+
+| Instalment
+
+| Condition
+
+| Amount (₹)
+
+| Registration/First Instalment
+
+|
+Registration of Pregnancy and at least two Ante-Natal Check-up (ANC) preferably within six months from LMP
+
+Anganwadi Centre (AWC)/ approved Health facilities may be identified by the respective administering State /UT
+
+| ₹ 3,000
+
+| Second Instalment
+
+|
+The birth of the child is registered.
+
+Child has completed first cycle of immunization (14 weeks)
+
+| ₹,2000
+
+9. What conditions apply to receive benefits for the second child (if girl child)?
+
+| Scheme Condition for Second Child
+
+| Instalment
+
+| Condition
+
+| Amount (₹)
+
+| Single Instalment
+
+|
+Registration of Pregnancy and at least two Ante-Natal
+Check-up (ANC) preferably within six months from LMP
+
+Anganwadi Centre (AWC)/ approved Health facilities may be
+identified by the respective administering State /UT
+
+The birth of the child is registered.
+
+Child has completed first cycle of immunization (14 weeks)
+
+| ₹ 6,000
+
+10. What are the new features introduced in PMMVY portal?
+
+PMMVY application system and portal has been revamped in accordance with Mission Shakti guidelines. New Features of PMMVY Portal are :
+
+First-time self-registration provision for citizens has been introduced across the country.
+
+Mobile App has been introduced for registration under Pradhan Mantri Matru Vandana Yojana (PMMVY).
+
+Field functionaries like Anganwadi Workers / ASHA workers can fill the application online for the beneficiary in their jurisdiction.
+
+All the mandatory provisions like Aadhaar, Aadhaar based payment etc. will be checked at the time of registration for smooth and efficient process.
+
+Mobile number has been made mandatory for providing information regarding the status of application and disbursement of fund.
+
+11. What are the major improvements in PMMVY 2.0 over PMMVY 1.0?
+
+Some of the key features introduced in PMMVY 2.0 are as follows :
+
+| PMMVY 1.0
+
+| PMMVY 2.0
+
+| Aadhaar was only mandatory for 3rd instalment.
+
+| Aadhaar is mandatory for registration under PMMVY
+Compulsory Aadhaar based payments has been introduced.
+
+| Only one level of check at sanctioning officer
+
+| 2 level checks for each functionality to ensure validity and authenticity of information
+
+| Benefits were disbursed in 3 instalments for 1st living child.
+
+| Benefits will be disbursed in 2 instalments for 1st living child and in a single instalment for second child, if the child is girl.
+
+| No provision for benefit for 2nd girl child
+
+| Provision for benefit for second child (girl child) has been introduced
+
+| Self-registration by citizen rolled out only for Delhi and UP as pilot project but it was not a complete online solution
+
+| Self-registration by citizen through PMMVY portal and mobile app has been introduced across the country
+
+| No mobile app
+
+| Mobile app has been introduced for Anganwadi worker/ASHA worker as well as for individual beneficiary
+
+| No provision for re-registration in case of miscarriage or stillbirth
+
+| In case of miscarriage/still birth, the beneficiary will be treated as fresh beneficiary in event of any future pregnancy.
+
+12. Some additional features of PMMVY 2.0 and its portal :
+
+Timeline from LMP to childbirth - LMP+140 days to LMP+300 days (pre-mature and postmature)
+
+The age of beneficiary under PMMVY should be 18 years &` 7 month and less than 55 years at the time of child birth.
+
+Tracking system for citizens on mobile app (to be launched soon) as well as web application
+
+A beneficiary is eligible to register in PMMVY till 270 days from childbirth
+
+For beneficiaries of second girl child born on or after 1.04.2022 can apply for benefits
+
+13. Whether PMMVY is to be implemented in all the districts of the country? If so, the date from which this scheme would be implemented?
+
+Now, the Competent Authority has approved the guidelines for 'Mission Shakti' The norm of PMMVY 2.0 under Mission Shakti will be applicable with effect from 01.04. 2022. Earlier, Government of India has approved implementation of the PMMVY1.0 in all the districts of the country w.e.f. 01.01.2017. Currently, the scheme is not being implemented in Telangana and Odisha as they are implementing their own respective maternity benefit schemes.
+
+14. Is Aadhaar required to enrol in the scheme?
+
+Pradhan Mantri Matru Vandana Yojana (PMMVY) is one of the components under Mission Shakti notified and Mission SHAKTI is notified under Section 7 of Aadhaar (Targeted Delivery of Financial and Other Subsidiaries, Benefits and Services) Act, 2016. So, AADHAAR of beneficiary is mandatory for availing the scheme.
+
+15. Whether in case of miscarriage/still birth, can women avail the benefit of PMMVY?
+
+Yes. In case of miscarriage/still birth, the beneficiary will be treated as fresh beneficiary in event of any future pregnancy
+
+16. How is the benefit transferred under PMMVY?
+
+After filling of online application form and approval of block level officer the fund will be directly credited to the Aadhaar based bank account of the beneficiary through Direct Beneficiary Transfer (DBT).
+
+17. Is there any online platform for Pradhan Mantri Matru Vandana Yojana and how it will be useful for common public?
+
+Yes, one dedicated portal has been developed for Pradhan Mantri Matru Vandana Yojana. The URL is https://pmmvy.wcd.gov.in. The online application form has been simplified. New Features of PMMVY Portal are:
+
+First-time self-registration provision for citizens has been introduced across the country
+
+The online application form has been simplified.
+
+All the mandatory provisions like Aadhaar, Aadhaar based payment etc. will be checked at the time of registration for smooth and efficient process.
+
+Mobile number has been made mandatory for providing information regarding the status of application and disbursement of fund
+
+Mobile App has been introduced for registration under Pradhan Mantri Matru Vandana Yojana (PMMVY)
+
+Field functionaries like Anganwadi Workers / ASHA workers can fill the application online for the beneficiary in their jurisdiction
+
+18. How has government made it easy for beneficiary?
+
+The nearest Anganwadi worker/ASHA worker can fill the form online for an eligible woman. An eligible women can also fill the form directly from the PMMVY portal using citizen login.
+
+19. What is the role of an Anganwadi worker/ASHA worker in PMMVY?
+
+Anganwadi workers play a crucial role in PMMVY by assisting eligible beneficiaries in the application process and providing information related to PMMVY scheme. They will assist eligible beneficiary in filling out the application online through the PMMVY portal or mobile app, ensuring all necessary details are included.
+
+20. What are the key changes in PMMVY 2.0 that should be informed to all Anganwadi worker/ ASHA worker?
+
+PMMVY 2.0 introduced additional cash incentives for the second child if it's a girl. The mandatory requirement of the husband's Aadhaar has been removed.
+
+21. What documents do beneficiaries need to apply for PMMVY?
+
+Beneficiaries need documents such as their Aadhaar card, Aadhaar mapped bank/post office account details, mobile number, eligibility proof, MCP/RCHI card, LMP date, ANC date, child birth certificate, child immunization details etc. Mentioned below a list of documents which required to upload at the time of registration (any one of these)
+
+Mentioned below a list of documents which required to upload at the time of registration (any one of these)
+
+Women whose net family income is less than ₹ 8 Lakh per annum
+
+Women holding MGNREGA Job Card
+
+Women farmers who are beneficiaries under Kisan Samman Nidhi
+
+Women holding e-Shram card
+
+Women Beneficiaries under Pradhan Mantri Jan Aarogya Yojana (PMJAY) under Ayushman Bharat
+
+Women holder of BPL ration Card
+
+Women who are partially (40%) or fully disabled (Divyang Jan)
+
+SC Women
+
+ST Women
+
+Pregnant and Lactating AWWS/ AWHS/ASHAS
+
+Women Beneficiaries holding Ration card under National Food Security Act (NFSA), 2013
+
+22. How can Anganwadi worker/ASHA worker track the progress of PMMVY applications?
+
+Anganwadi worker/ASHA worker can use the PMMVY portal or mobile app to monitor the status of applications and provide beneficiaries with updates.
+
+23. What steps can Anganwadi worker/ASHA worker take to promote PMMVY and encourage eligible women to apply?
+
+Anganwadi worker/ASHA worker can conduct awareness campaigns, workshops, and community meetings to inform women about the benefits of PMMVY and encourage them to apply.
+
+24. What is the timeline from LMP to child birth?
+
+The timeline from LMP to child birth is LMP +140 days to LMP +300 days (pre-mature and post-mature).
+
+25. What is the age-limit for eligible beneficiary?
+
+The eligible age of beneficiary is between 18 years 7 months to 55 years at the time of child birth.
+
+26. After the child birth, when can the beneficiary register in the PMMVY portal?
+
+A beneficiary is eligible to register in the PMMVY portal till 270 days from child birth.
+
+27. Are there any specific training programs for Anganwadi workers related to PMMVY?
+
+It's advisable to undergo training sessions or workshops organized by the government to stay
+updated on PMMVY guidelines and procedures. Training modules are also available in the form of
+study material and videos on PMMVY portal. Time to time online and physical training will also be
+organised by Government of India, State Government and District Administration.
+
+28. . Can Anganwadi worker/ASHA worker help beneficiaries receive their PMMVY benefits directly
+into their bank accounts?
+
+Yes, Anganwadi worker/ASHA worker can assist beneficiaries in linking their bank/post office
+accounts with Aadhaar to enable direct benefit transfer (DBT). The beneficiary bank/post office
+account should be Aadhaar mapped for Aadhaar based payment. For the above purpose beneficiary
+should visit respective banks/post office for enabling the bank /post office account Aadhaar linked.
+
+29. Are there any specific responsibilities Anganwadi worker/ASHA worker have regarding data sharing and reporting under PMMVY?
+
+Anganwadi worker/ASHA worker should ensure accurate data entry and reporting on the
+PMMVY portal, as this information is crucial for monitoring and evaluation.
+
+30. How can Anganwadi worker/ASHA worker address any issues or challenges faced by beneficiaries during the PMMVY application process?
+
+As an Anganwadi worker/ASHA worker, you can act as a bridge between beneficiaries and
+relevant authorities to resolve any application-related issues.
+
+31. Can Anganwadi worker/ASHA worker use the PMMVY mobile app for my work?
+
+Yes, the mobile app has been developed to assist Anganwadi worker/ASHA worker in their
+data-centric operations and viewing reports related to PMMVY.
+
+32. Are there any additional responsibilities for Anganwadi worker/ASHA worker under PMMVY 2.0?
+
+Under PMMVY 2.0, Anganwadi worker/ASHA worker should be aware of the new cash
+incentives for first child and second child, if girl child. The PMMVY benefit is given for first child Rs
+5000/- in two instalments (first instalment after ANC and second instalment after the child birth and
+14 weeks of universal immunization) and second child (if girl child) Rs 6000/- in a single instalment
+after the child birth and completion of 14 week of universal immunization. The husband's Aadhaar is
+not required for availing the benefit of PMMVY.
+
+33. How can Anganwadi worker/ASHA worker access training materials and resources related to PMMVY?
+
+Anganwadi worker/ASHA worker can inquire with your supervisory authorities or visit
+government websites for training materials and resources to enhance your knowledge about PMMVY.
+
+34. Any provision of incentive /honorarium for motivating Anganwadi worker/ASHA worker for filling the online application form for eligible beneficiary?
+
+Yes, Government has decided to give incentive /honorarium for eligible Anganwadi worker
+/ASHA worker to promote e governance and motivate field functionaries. The incentive/honorarium
+will be disbursed through direct benefit transfer in the Aadhaar based bank/post office account of
+Anganwadi worker /ASHA worker.
+
+35. What are the conditionalities defined for incentive /honorarium for Anganwadi worker /ASHA worker?
+
+Conditionalities are as under:
+
+| Instalment No.
+
+| Class of worker entitled for honorarium for online application
+
+| Honorarium within 30 days of application due
+
+| Honorarium beyond 30 days of application due
+
+| First Child
+
+| First
+
+| AWW/ASHA
+
+| ₹150/-
+
+| ₹50/-
+
+| Second
+
+| AWW/ASHA
+
+| ₹100/-
+
+| ₹50/-
+
+| Total
+
+| AWW/ASHA
+
+| ₹250/-
+
+| ₹100/-
+
+| Second Child (Girl)
+
+|
+
+| AWW/ASHA
+
+| ₹250/-
+
+| ₹100/-
+
+In case of self-registration by the beneficiaries, ₹150/- would be given to ASHA/AWW for field level
+verification within a period of 30 days of self-registration. Beyond 30 days, incentive of ₹ 50/- would
+be given to the ASHA/AWW for field level verification.
+In case of self-registration by the beneficiaries, 3150/- would be given to ASHA/AWW for field level
+verification within a period of 30 days of self-registration. Beyond 30 days, incentive of = 50/- would
+be given to the ASHA/AWW for field level verification.
+
+Website Content Owned by Ministry of Women and Child Development, GoI
+
+Designed, Developed and Hosted by National Informatics Centre (NIC)
+
+Please Wait...
+
+Do not press any button

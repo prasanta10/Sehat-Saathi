@@ -1,0 +1,2943 @@
+                              Module for ASHA on
+              Non-Communicable Diseases
+
+
+
+
+              HEALTH M
+         AL
+NATION
+
+
+
+
+                     ISSI N
+                         O
+     Module for ASHA on
+Non-Communicable Diseases
+About this Book
+This module covers common non-communicable diseases such
+as Hypertension, Diabetes and three common Cancers (Cervical,
+Breast and Oral Cancer) and associated risk factors. The tasks
+for the ASHAs are built upon her existing tasks. The focus of this
+module is on building the knowledge and skills of the ASHA in
+prevention and health promotion. It also helps her in serving as a
+member of the frontline worker team with the ANM.
+
+This module is intended as reading material for the ASHAs
+and is therefore to be given to each ASHA. The content of this
+module will be covered in five days.
+
+
+Acknowledgements
+Thanks are due to Members of the National ASHA Mentoring
+Group, the Technical Advisory Group on Non-Communicable
+Diseases set up by the Ministry of Health and Family Welfare,
+Government of India for providing inputs. We also thank the
+Non-Communicable Disease Cell and the Directorate General
+of Health Services who also manage the National Programme
+for Prevention and Control of Cancer, Diabetes, Cardiovascular
+Disease and Stroke (NPCDCS), for providing feedback.
+
+Some sections of this module are excerpted and adapted from
+various sources. They are manuals of National Programme for
+Prevention and Control of Cancer, Diabetes, Cardiovascular
+Disease and Stroke (NPCDCS), National Institute of Mental
+Health and Neuroscience (NIMHANS) and World Health
+Organization (WHO).
+
+We also thank ASHAs in the states of Maharashtra, Gujarat,
+Haryana and Delhi for their valuable inputs to the module.
+Contents
+
+Chapter 1
+Importance of Health Promotion                                         4
+
+Chapter 2
+Risk Factors for Non-Communicable Diseases                             7
+   2.1: Tobacco and Alcohol                                           11
+   2.2: Healthy Diet and Physical Activity                            16
+   2.3: Stress                                                        23
+   2.4: Overweight                                                    24
+
+Chapter 3
+Hypertension                                                          27
+
+Chapter 4
+Diabetes                                                              34
+
+Chapter 5
+Cancer                                                                41
+   5.1: Cervical Cancer                                               41
+   5.2: Breast Cancer                                                 43
+   5.3: Oral Cancer                                                   46
+
+Chapter 6
+Key Tasks of the ASHA                                                 49
+
+Annexures                                                             55
+   Annexure 1: Reporting Format for ASHA                              57
+   Annexure 2: Community Based Assessment Checklist (CBAC)
+                Form for Early Detection of NCDs                      59
+   Annexure 3: Consent Form                                           61
+   Annexure 4: Healthcare Services for NCDs at Various Facility Levels 62
+Module for ASHA on Non-Communicable Diseases
+
+Introduction
+In the last ten years, we have seen improvements in the health of mothers and children. This
+includes an increase in institutional deliveries, immunization coverage, improvements in
+infant and child health, and reductions in maternal and infant deaths. You, as an ASHA,
+have played a large role in making this happen.
+
+You were selected as an ASHA to serve your community and improve health outcomes
+for the people. So far, you have been trained on topics related to maternal, new born,
+child health, nutrition and infectious diseases. You were also trained on issues such as
+improving communication skills, negotiation and building community relationships,
+reaching the most vulnerable or remote populations, and on addressing violence against
+women in the community.
+
+The country has made progress in improving maternal and child health and communicable
+diseases such as malaria, tuberculosis and leprosy. But now, we face another set of health
+challenges. You must have heard in your community that people complain of having high
+blood pressure or high blood sugar or suffering from cancers.
+
+These complaints are heard across the country. More and more people are affected by
+diseases like heart attacks and stroke, cancer, asthma and breathing difficulty, mental
+disorder injuries, kidney, liver and other problems. These diseases are called Non-
+Communicable Diseases (NCDs).
+
+This module will tell you more about these NCDs. It will also guide you on how you can
+help people in the community in preventing NCDs and in identifying and supporting
+those who are affected by them. However, you must remember that your efforts on
+community prevention and control of communicable diseases and in improving maternal
+child health, continue to be important.
+
+Let us first understand what we mean by Non-Communicable Diseases?
+NCDs are diseases of long duration. These are non-infectious conditions that cannot be
+transmitted to other individuals. Some NCDs progress slowly or cause chronic symptoms
+requiring long term care and control while others progress rapidly. They affect adult men
+and women but children are vulnerable as well. People may appear healthy but still suffer
+from these conditions.
+
+One of the most serious concerns about NCDs is that they affect people in the productive
+years of their life. They also cause “premature deaths” - that is, a death occurring before
+the average life expectancy. Though NCDs can affect a person at any age, older individuals
+are more vulnerable to NCDs.
+
+
+
+
+                                                                    Module for ASHA on Non-Communicable Diseases | 1
+                       In this module, you will be trained on five common NCDs:
+                       l   Hypertension.
+                       l   Diabetes.
+                       l   Cervical Cancer.
+                       l   Breast Cancer.
+                       l   Oral Cancer.
+
+                       Besides these, there are other NCDs like epilepsy, asthma and other respiratory
+                       diseases, but you will be taught about them in later modules.
+
+                       As an ASHA, you are in the unique position of being able to reach every individual
+                       and family. Over time, you have gained credibility and respect in the community.
+                       This module builds on your existing knowledge and skills by providing you with new
+                       information and skills.
+
+                       Training in this module will help you:
+
+                       l   Build your knowledge of the risk factors, prevention and control of common Non-
+                           Communicable Diseases and guide you on how to mobilise the community on
+                           these issues.
+
+                       l   Strengthen your understanding of the programmes for Non-Communicable
+                           Diseases in your area including screening, early detection and referral.
+
+
+
+
+                                           “Didi, people are               Didi, they are charging me
+                                           asking why get tested           money for checking blood
+                                           when they are not ill?”         sugar and blood pressure at
+                                                                           the government hospital and
+                                                                           I don’t have the money to
+                                                                           pay - Can you help me?
+
+
+
+                                                                                           Didi, my blood sugar
+                                                                                           level is high. Do I have to
+                                                                                           go to the far away town
+                                                                                           or is there something you
+                                                                                           can suggest?
+
+
+
+
+                                                                                  Didi, I have diabetes.
+         Didi, I have an                                                          Do I have to take medicines
+         ulcer in my mouth,                                                       throughout my life?
+         what shall I do?
+
+
+
+
+2 | Module for ASHA on Non-Communicable Diseases
+l   Learn basic skills to assess and counsel individual and families on modifying life style
+    behaviours and promoting health.
+
+l   Gain competencies in measuring key parameters and using checklists related to Non-
+    Communicable Diseases.
+
+l   Learn how to follow-up patients with Non Communicable Diseases, help patients
+    take their medication regularly and make changes in their lifestyles.
+
+l   Become familiar with checklist and records to be maintained.
+
+
+In this module, there are six chapters and each chapter deals with a specific aspect of
+common NCDs and their risk factors. This module is organised as follows:
+
+                                                                         can take
+                                        health promotion by which people
+     In Chapter 1, you will learn about
+                                         rove their health.
+     control of their behaviours and imp
+
+    In Chapter 2, you will understand risk factors associated with common Non-
+    Communicable Diseases and their prevention.
+
+
+    In Chapter 3 and 4, you will learn
+                                         about Hypertension and Diabete
+                                                                       s.
+
+    In Chapter 5, you will learn about important details of common
+    Cancers (Oral, Breast and Cervical).
+
+
+     In Chapter 6, you will learn about
+                                          tasks of the ASHA.
+
+
+
+
+                                                                     Module for ASHA on Non-Communicable Diseases | 3
+                       Chapter 1
+
+                       Importance of Health Promotion
+
+
+
+                           In this Chapter,
+                           you will learn about:
+
+                                 l   Health Promotion.
+                                 l   Importance of Health Promotion.
+                                 l   Linkages of Health Promotion to Healthy Lifestyles.
+
+
+                       What is Health promotion?
+                       Health promotion focuses on
+
+                       l   Keeping people healthy.
+
+                       l   Helping people make changes in lifestyles to prevent diseases.
+
+                       l   Motivating behaviour changes to avoid complications among those with diseases.
+
+                       Importance of Health Promotion?
+                       The purpose of health promotion is to improve the health behaviour of individuals and
+                       communities and make positive changes in the living and working conditions that affect
+                       their health.
+
+                       l   Health promotion improves the health status of individuals, families, communities.
+
+                       l   Health promotion enhances the quality of life for all people.
+
+                       l   Health promotion reduces premature deaths.
+
+                       l   By focusing on prevention, health promotion reduces the costs (both financial and
+                           human) that individuals and communities would spend on medical treatment.
+
+                       Health Promotion and Healthy Lifestyle
+                       Health Promotion has a lifelong effect. The earlier health promotion begins, the better its
+                       effects are. A healthy lifestyle is one which helps to improve people’s health and wellbeing.
+                       It improves critical health indicators such as weight, blood sugar, blood pressure, and
+                       blood cholesterol.
+
+
+
+
+4 | Module for ASHA on Non-Communicable Diseases
+                                                      Healthy living include healthy
+                                                      eating,    physical     activities,
+                                                      good personal hygiene, weight
+                                                      management, stress management,
+                                                      avoiding tobacco, drugs, and the
+                                                      harmful use of alcohol.
+
+                                                      Healthy lifestyle is associated with:
+                                                      l Health awareness.
+                                                      l Work safety.
+                                                      l Living in safe environments.
+                                                      l Good nutrition.
+                                                      l Adequate sleeping patterns.
+                                                      l Physical fitness and regular
+                                                         exercise.
+                                                      l Absence of addiction.
+                                                      l Good personal hygiene.
+                                                      l Positive social communication.
+
+
+Health promotion is thus about eating healthy food, avoiding unhealthy food, and
+ensuring positive social, environmental and occupational conditions so that where one
+lives and works plays a major role towards health and wellbeing of an individual. However,
+when giving people advice about health promotion, you must understand their current
+lifestyles and be sensitive to their specific needs.
+
+
+
+   For example: Asking a construction worker to exercise daily for 30 minutes is not a
+   good advice as she/he is already engaged in active physical work throughout the day.
+   Ensuring a safe working environment, preventing work place related accidents, safe
+   drinking water and sanitation should be a priority for her/his health and wellbeing.
+
+
+
+There are wide health gaps between the rich and poor in India, so a single health promotion
+programme will not fit everybody. Health promotion messages should be adapted to the
+local needs of the community and take into account different behaviours and lifestyles.
+
+
+
+
+  For example: Recommending expensive dietary options to those who cannot afford
+  to have even one full meal a day is being insensitive to realities of poor people’s
+  lives. However, encouraging people to consume traditional foods that are locally
+  available would meet their nutritional needs without imposing high costs.
+
+
+
+
+                                                                                   Importance of Health Promotion | 5
+                                               Target Population
+                                               Health promotion should be targeted across
+                                               all age groups.
+
+                                               Special focus should be given to adolescents
+                                               and young adults. The earlier an individual
+                                               begins a healthy lifestyle, the easier it will be
+                                               to maintain the good habits upon reaching
+                                               adulthood and throughout one’s life.
+
+
+
+
+                            Promoting healthy habits ensures:
+                            l    Healthy families and communities
+                            l    Reduced cost of treatment for illnesses
+                            l    Better quality of life
+                            l    Avoiding lost wages on account of sickness
+
+
+
+
+6 | Module for ASHA on Non-Communicable Diseases
+Chapter 2
+
+Risk Factors for Non-Communicable Diseases
+
+
+
+   In this Chapter,
+   you will learn about:
+
+         l   Risk Factors for Non-Communicable Diseases.
+         l   Identification of Risk Factors.
+         l   Raising Awareness and Mobilising Community to Modify Risk Factors.
+
+
+What are Risk Factors?
+A risk factor is a condition or behaviour that increases the chances of developing a
+particular disease. Here are some examples of risky behaviours that can cause diseases.
+
+                                                                           years old.
+                                        chewing tobacco since he was ten
+       Nawab is 24 years old has been
+                                        keeps getting ulcers in his mouth.
+       His teeth are discoloured and he
+
+      Rani and Shyam have moved from a rural area of Bihar to an urban construction
+      site near Delhi. They are both construction workers and are at the working site
+      from morning till evening. Because of the long working hours, Rani is too tired to
+      cook at home. They regularly buy food from a nearby stall which sells deep fried
+      ready to eat food like samosa, kachori, pakora, poori-sabji etc. and enjoy eating
+      this food. Shyam also consumes alcohol on a daily basis.
+
+
+      Rafia is 40 years old. Recently she
+                                           noticed a lump in her breast. Her
+      aunt had a history of breast cancer.                                   mother and
+                                           Her aunt died when she was 45 yea
+                                                                              rs old.
+
+                                       t of Ratanpur. Both her parents
+      Shabnam is a 50-year-old residen
+                                      father died of stroke.
+      had high blood pressure and her
+
+
+In these cases, we illustrate the various risk factors that are responsible for NCDs.
+Risk factors can be of two types: Non-modifiable and Modifiable risk factors.
+
+
+
+
+                                                                       Risk Factors for Non-Communicable Diseases | 7
+                       The diagram below shows how risk factors can lead to NCDs. The more risk factors one
+                       has, the greater is the chance of getting a particular disease.
+
+
+
+                           Modifiable Risk Factors
+                           l Unhealthy diets                                                Outcome
+                                                                 l High blood
+                           l Lack of physical activity             pressure
+                                                                                            l Cardiovascular diseases
+                           l Tobacco use                         l High blood                 (Heart disease, Stroke)
+                                                                   glucose levels
+                           l Alcohol consumption                                            l Diabetes
+                                                                 l High blood fat
+                           l Environmental factors                                          l Cancers
+                                                                   levels
+                                                                                            l Chronic Respiratory
+                           Non-Modifiable Risk Factors           l Excess body
+                                                                                              Diseases (Asthma,
+                                                                   fat (being
+                           l Age                                                              difficulty in breathing)
+                                                                   overweight)
+                           l Sex                                                            l Tooth decay/cavities
+
+                           l Family history
+
+
+                       Source: Adapted from WHO STEPwise approach to NCD surveillance, WHO-2003
+
+
+
+
+                       Non-modifiable risk factors
+                       These risk factors are inherent to an individual and cannot be changed, such as age,
+                       family history and sex (as seen in the case of Rafia and Shabnam).
+
+                       l     Age: With increasing age, our body undergoes changes. As we grow older, there is an
+                             increase in the risk of developing high blood pressure, (Hypertension), high blood
+                             sugar levels, (Diabetes), high levels of body fat and blood fats. These conditions can
+                             lead to Non-Communicable Diseases like - heart and blood vessel diseases (stroke),
+                             diabetes, cancer, respiratory problems, etc.
+
+                       l     Sex: Both women and men are at risk of developing Non-Communicable Diseases.
+                             Men are at a higher risk of developing Non-Communicable Diseases. However,
+                             women who have reached menopause are more likely to suffer from heart attacks
+                             than pre-menopausal women. Some risk factors for developing Non-Communicable
+                             Diseases such as high blood pressure or high blood glucose can affect women even
+                             during pregnancy.
+
+                       l     Family history: The chances of getting some NCDs are higher if a close family member
+                             - parents, siblings also have the disease. This is called Family History. If a person has a
+                             family history of NCDs she/he has a high chance of getting the disease.
+
+                       Modifiable risk factors
+                       These are risk factors that can be changed by specific action,. The harmful effect can be
+                       reduced with changes in lifestyle and treatment. Risk factors may affect the individual such
+                       as unhealthy diets, lack of physical activity, tobacco and alcohol consumption (as seen in
+                       the case of Nawab, Rani and Shyam). Population level risk factors include poverty, poor
+                       living and working conditions and environmental factors like pollution from factory smoke,
+                       cars and even cooking stove (chulha) in home, can increase the risk of many NCDs.
+
+                       At the individual level, some modifiable risk factors can be changed if the person changes
+                       her/his individual behaviours. However, some factors also require changes at the level of
+
+
+
+
+8 | Module for ASHA on Non-Communicable Diseases
+laws and government action, e.g. government should provide smokeless chulhas (stove)
+to reduce indoor pollutions or reduce air pollution by imposing fine on industries setup
+in residential areas. Also, there is a law against selling of tobacco products near schools
+and colleges so that children do not start smoking early.
+
+Having one or more of these conditions such as - high blood pressure, high blood
+glucose levels, high blood fat levels and excess body fat (being overweight) can result
+in Cardiovascular diseases (Heart disease, Stroke), Diabetes, Cancers and Chronic
+Respiratory Diseases (Asthma, difficulty in breathing).
+
+Are Non-Communicable Diseases Increasing? If so, then why?
+Over the past few years, we are noticing an increase in deaths and illnesses due to Non-
+Communicable Diseases. Some of the reasons are:
+
+l   People shifting from rural areas to urban areas and making changes in lifestyles
+    related to diet, exercise and other behaviours.
+
+l   Increase life expectancy of people and thus more people living at an increasing age.
+
+l   Decrease in physical activity due to availability of motor vehicles for transport.
+
+l   Lack of adequate, safe spaces for regular exercise.
+
+l   Availability and use of tobacco and alcohol for all age groups.
+
+l   Increased use of foods high in fats, salt, sugar and sugar sweetened beverages.
+
+l   Low consumption of fruits and vegetables because of high costs/lower availability.
+
+l   Increased consumption of refined foods (foods that are available in packaged form).
+
+l   Growing environmental pollution (air, food, water).
+
+What is the Effect of Non-Communicable Diseases on the Poor
+and Women?
+A common perception is that Non-Communicable Diseases
+are a disease of the rich. However, this understanding is
+not correct. Poor and vulnerable people can suffer from
+NCDs too. Two important factors that can cause NCDs
+are poverty and malnutrition.
+
+As you know, many children are born with low birth
+weight (weighing less than 2.5 kg at birth). The lack
+of nutrition for the baby while in the womb, has
+consequences in adulthood. While growing up, the
+bodies of such Low birth weight babies are not able
+to adapt to fatty or sugary foods. This results in an
+increase in risk factors like hypertension, high blood
+fat levels, and high blood glucose levels.
+
+Poverty contributes to NCDs in several ways, including maternal malnutrition. Also, poor
+people are not able to buy and consume healthy foods such as nuts, fresh fruits, etc. As
+
+
+
+
+                                                                        Risk Factors for Non-Communicable Diseases | 9
+                       a result, they often can only afford to eat rice or roti, with no pulses or vegetables. Also,
+                       particularly in the case of urban poor, long working hours do not leave them enough time
+                       to cook healthy meals, such as the use of leafy green vegetables or healthy grains that take
+                       longer to cook. The poor also live in places where there are higher risks of air pollution,
+                       such as near factories which release harmful chemicals. So, you can see that the risks of
+                       NCDs can be higher among the poor, when compared to the rich, who may have more
+                       time and money to invest in healthier lifestyles.
+
+                       Non-Communicable Diseases are also associated with higher health care costs due to
+                       long and expensive treatment. With NCDs, you cannot stop taking medicines once you
+                       feel better – you have to keep taking them to keep illness away, often for a lifetime. But
+                       many people stop taking medicines once they feel better or when they run out of money.
+                       These illnesses also require close monitoring and regular follow up by a health service
+                       provider. The poor may not be able to visit a health centre regularly as that would mean
+                       loss of wages. High transportation costs to and from the health facility, lower energy to do
+                       work, lack of money to make healthy food choices and stress, are added factors leading to
+                       higher levels of Non-Communicable Diseases among the poor.
+
+                       Treatment for Non-Communicable diseases is generally spread over a long period of time.
+                       In case of complications, people may need hospitalisation. This can lead to financial
+                       hardship. Such illnesses of even one family member could affect the family’s income.
+                       This may result in the children dropping out of school, or even affect the consumption of
+                       nutritious food for the rest of the family.
+
+                       Women are particularly disadvantaged as they are often more vulnerable because of their
+                       status within the family and society. Poverty is a factor that increases this vulnerability. In
+                       comparison to men, they lack access to healthcare, have little control over the household
+                       income and are unable to make decisions for themselves regarding care and treatment.
+                       Also, as a tradition in many households, women eat leftovers which may not constitute
+                       a healthy dietary choice. Therefore, it is important to increase women’s awareness
+                       about Non-Communicable Diseases and ensure that they participate in screening and
+                       treatment programmes.
+
+
+
+
+10 | Module for ASHA on Non-Communicable Diseases
+2.1: Tobacco and Alcohol
+
+
+
+
+   In this Section,
+   you will learn about:
+
+         l   Effects of Tobacco and Alcohol Consumption.
+         l   Benefits of Quitting Tobacco and Alcohol.
+         l   Withdrawal Symptoms among those who Quit Tobacco and Alcohol.
+         l   Laws Related to Tobacco and Alcohol.
+
+
+
+
+Why do People use Tobacco and Alcohol?
+Many people start smoking/chewing tobacco and consuming alcohol in their early
+twenties or even earlier. Adolescents may begin to use tobacco or alcohol in order to act
+older, or as a way of experimenting, to gain social acceptance among peers, or in stressful
+situations. Adults begin to smoke and drink to either overcome stress or pressures of daily
+life or for pleasure. Individuals react differently to the amount of alcohol they drink. While
+some individuals experience ill effects with even small quantities of alcohol, others can
+consume larger quantities without any harmful effects appearing immediately.
+
+It is also important to remember that in some parts of our country, drinking alcohol is
+part of the local tradition. Your task is to understand the harmful consequences of the use
+of these substances and communicate this to the people of your community.
+
+What are the Various Forms in which Tobacco is Used?
+There are smoking and smokeless forms of tobacco.
+
+                 l Smoking tobacco can be in the form of cigarettes, bidis, cigars,
+                     hukkahs or pipes. Bidi smoking is the most popular form of tobacco
+                     smoking in India.
+
+                       l Smokeless tobacco is consumed through chewing (through
+                           the mouth), sucking and applying tobacco preparations to the
+                                          teeth and gums or inhaling. It is chewed (in the
+                                          form of gutkha, zarda, mawa, pan masala (with
+                                          tobacco) and pan (with tobacco) or khaini),
+                                          applied as a paste in the form of gudakhu, gul,
+                                          and inhaled in the form of snuff, chutta, etc.
+
+
+
+
+                                                                         Risk Factors for Non-Communicable Diseases | 11
+                       What is Passive Smoking?
+                       Smoking cigarettes or bidis not only harms the individual’s health but also harms those
+                       who are standing nearby or sitting in the same room where an individual is smoking.
+                       Exposure to second hand smoking is called Passive Smoking. Children and women are
+                       especially exposed to the dangers of second-hand smoke, if they have a family member
+                       who smokes.
+
+                       Passive smoking is associated with an increased risk of lung cancer, heart attack, difficulty
+                       in breathing, coughing, asthma, ear infection, irritation to the eyes, nose and throat, and
+                       long-term negative effects on the brain.
+
+                       Effects of tobacco use
+                       Tobacco use is dangerous. The negative health effects include both long-term (i.e.
+                       future) and short-term (i.e. immediate) effects. The effects occur not only as a result of
+                       regular use, but even when used occasionally and in some cases, with exposure to passive
+                       smoking. The table below lists the effects of tobacco:
+
+                        Short Term Health Effects        Long Term Health Effects
+                        Asthma                           Eye problems like cataract
+                        Tooth decay/Gum disease          Cancers of oral cavity, larynx (voice box), oesophagus
+                                                         (food pipe), lungs, stomach, throat and other cancers.
+                        Trouble breathing                Increased chances of Tuberculosis
+                        Bad breath                       Heart Attack - Heart and blood vessel disease (stroke)
+                                                         High Blood Pressure; Diabetes; Kidney Damage
+                                                         Tobacco use in pregnancy leads to Low Birth Weight
+                                                         babies
+                                                         Respiratory/Breathing problems
+                                                         Impotence and low fertility among men
+
+
+
+                       India’s Tobacco Cessation Programme
+                       In 2003, India introduced the Cigarettes and Other Tobacco Products Act (COTPA-2003).
+                       According to this Act,
+
+                       l   Smoking is completely banned in public places like hospitals, public transport like
+                           buses, trains, taxis, schools and colleges, parks, etc.
+
+                       l   Tobacco products cannot be sold to person below the age of 18 years.
+
+                       l   Tobacco cannot be sold in places within 100 metres from the educational institutions
+                           such as schools and colleges.
+
+                       l   Ban of advertisements on tobacco through electronic and print media.
+
+                       The National Tobacco Control Programme (NTCP) is a programme launched by
+                       Government of India in 2007 to increase public awareness about the harmful effects of
+
+
+
+
+12 | Module for ASHA on Non-Communicable Diseases
+tobacco use, training of healthcare providers on tobacco control, establishing clinics in
+healthcare facilities to quit tobacco, and to oversee effective implementation of COTPA.
+
+You should know about this, so that you can educate community members on this aspect.
+
+What are the Benefits of Giving up Tobacco?
+Even after a person has been consuming tobacco in any form for any period of time, giving
+up tobacco has several benefits. They include improvement in breathing, reduction in
+risk of heart attack, or cancer and improved health. However, giving up tobacco causes
+withdrawal symptoms for which the person needs to be supported by her/his family.
+
+Withdrawal symptoms
+When a person quits the habit of tobacco consumption, they are likely to have “withdrawal
+symptoms”. These include:
+
+
+ Headache                                  Anxiety/feeling of worry, concern
+
+ Nausea/vomiting                           Depressed mood
+
+ Constipation or diarrhoea                 Increased hunger
+
+ Fatigue (tiredness), drowsiness and       Increased desire for the taste of sweets
+ difficulty in sleeping
+
+ Irritability                              Desire for tobacco
+
+
+
+Withdrawal symptoms can be reduced by the support and encouragement of family and
+friends, finding ways of keeping oneself busy, drinking plenty of fluids, regular exercise,
+sufficient sleep and eating a balanced diet, or even simple things like carrying out deep
+breathing exercises.
+
+What are the Various Forms of Alcohol?
+Alcohol is consumed in India in many forms by all age groups: adolescents, men, women
+and older adults. There are various forms of alcohol:
+
+l   Alcohol made from locally grown grains, vegetables and fruits. Eg. arrack, mahwa,
+    tari (toddy) etc.
+
+l   Distilled alcohol/foreign alcohol like whisky, rum etc.
+
+l   Beer.
+
+l   Locally made drinks which are illegal but consumed widely.
+
+Although alcohol has been being widely used in India for a long time, in recent years the
+harmful use of alcohol has increased. This means that people are drinking in quantities
+which has harmful effects on body.
+
+
+
+
+                                                                      Risk Factors for Non-Communicable Diseases | 13
+                       Effects of alcohol
+                       l   Damages the heart, causes stroke and high blood pressure.
+
+                       l   Increases the risk of developing certain cancers - mouth, food pipe, throat, liver and
+                           breast.
+
+                       l   Leads to a variety of problems related to the liver, kidney, pancreas.
+
+                       l   Weakens the body’s ability to fight diseases.
+
+                       l   Causes disorders of mind including alcohol dependence, suicidal tendencies,
+                           problems in behaviours leading to fights, violence, depression, injuries and accidents
+                           (resulting in untimely death).
+
+                       l   Can result in a person being isolated or shunned by family and friends.
+
+                       l   Can result in loss of livelihood - causing the entire family to suffer.
+
+                       l   Drinking during pregnancy leads to complications during delivery and defects in the
+                           child.
+
+                       Governments in the states and at the centre have taken certain actions to control and
+                       regulate alcohol consumption:
+
+                       l   Prohibition of alcohol in few states like Gujarat, Bihar, Kerala etc.
+
+                       l   Observation of “dry day” where consumption is prohibited during certain days of the
+                           week or month.
+
+                       l   Ban of sale of alcohol to minors (age varies according to the state) and drinking in
+                           public places.
+
+                       l   Prohibition of driving while under the influence of alcohol.
+
+                       l   Ban of advertisements on alcohol through electronic and print media.
+
+
+
+14 | Module for ASHA on Non-Communicable Diseases
+The role of ASHA in addressing tobacco and alcohol as
+risk factors
+So far your work has largely dealt with female members of the community
+since you have worked mostly on women and children’s issues. However, as
+you begin to work on NCDs, communicating with men on topics such as the
+use of tobacco and alcohol is important. This may at first seem difficult. This is
+perhaps more in areas where there are barriers for open discussions between
+women and men. It is important for you to more actively seek the participation
+of members of the Village Health Sanitation and Nutrition Committee or
+members of the Mahila Arogya Samiti or other community groups, such as
+- youth groups, SHG groups, etc. Your key tasks are to:
+1. Increase community awareness about the harmful effects of tobacco and
+   alcohol to their health and the health of those around them.
+2. Improve understanding of the money spent on tobacco and alcohol use and
+   the likely costs of treatment needed if they were to fall ill.
+3. Ensure that children and adolescents - both boys and girls are also aware
+   regarding the effects of tobacco and alcohol use. The platform of adolescent
+   meeting and Rashtriya Kishor Swasthya Karyakram (RKSK) can be used to
+   disseminate these messages.
+4. Work with individuals who use tobacco and alcohol and motivate them to
+   quit these habits by explaining the harmful consequences of tobacco and
+   alcohol use. Request the Male Multipurpose worker/ASHA Facilitator or
+   male volunteers in your community to support you.
+5. Work with the VHSNC to undertake community activities to see how
+   many young people use tobacco and alcohol and share this information in
+   community. With the VHSNC you can organise community action against
+   the availability of tobacco and alcohol - like set-up of shops, illegal supply and
+   production of tobacco and alcohol in the community. This demands building
+   solidarity and support for this cause from various women’s groups, other
+   ASHAs, panchayat/ULB members, recognised healthcare providers etc.
+6. Identify tobacco cessation centres and de-addiction centres that are in your
+   area and provide information to people about how to access these centres.
+7. Mobilise on a priority basis, those who consume tobacco and alcohol to
+   attend screening for Non-Communicable Diseases. Support those with
+   hypertension and diabetes and motivate them to give up these habits.
+
+
+
+
+                                                                       Risk Factors for Non-Communicable Diseases | 15
+                       2.2: Healthy Diet and Physical Activity
+                       2.2.1. Healthy Diet
+
+
+
+                           In this Section,
+                           you will learn about:
+
+                                 l   Classification of Food Groups with examples.
+                                 l   Difference between a Healthy and an Unhealthy Diet.
+                                 l   Effects of an Unhealthy Diet.
+                                 l   How to make Healthy Food Choices.
+                                 l   How Unhealthy Food Choices are due to lack of Information or Poverty,
+                                     rather than Availability.
+
+
+
+                       What is a Healthy Diet?
+                       In Modules 6 and 7 you have learnt about nutrition of the child and pregnant woman. In
+                       this module, you will learn how healthy eating habits are important in preventing and
+                       controlling non-communicable diseases.
+
+                       There are four basic food groups listed in the table below. Eating foods from all food
+                       groups is called Dietary Diversity. It means that foods from all the basic four food groups
+                       should be eaten in proper quantities.
+
+                       The quantity of foods needed to meet body requirements differ with age, gender, body
+                       composition and physical activity. Thus those who engage in heavy work need to eat
+                       more, but those who do not do much activity need lower quantities. Many traditional
+                       foods that are fibre-rich like whole products - wheat (atta products), jowar, bajra, maize,
+                       unhusked dals (with chilka), fruits and vegetables constitute a Healthy Diet. Eating such
+                       foods also helps to maintain a healthy body weight and reduces the risk of NCDs. Some
+                       Non-Communicable Diseases require food restrictions. People suffering from NCDs
+                       require specific dietary advice.
+
+
+                       Classification of Food Groups with examples
+
+                        Food Group                              Examples*
+                        Cereals, Millets and Pulses             Cereals - Wheat, wheat flour (atta/maida), rice
+                                                                (brown/white), rice flakes (chiwra), maize/corn,
+                                                                barley, oats, suji, vermicelli (sevian), puffed rice,
+                                                                etc.;
+                                                                Millets - Bajra, Ragi, Jowar;
+                                                                Pulses/dals and legumes - Bengal gram (channa
+                                                                dal), Bengal gram flour (besan), green gram
+                                                                (moong dal), black gram (urad dal), arhar dal
+                                                                (tur dal) chickpea (white/black/green chana),
+                                                                sprouted pulses, legumes like rajma, lobia,
+                                                                soyabean and its products, etc.
+
+
+
+
+16 | Module for ASHA on Non-Communicable Diseases
+ Food Group                                               Examples*
+ Vegetables and Fruits                                    Green leafy vegetables - spinach, mustard
+                                                          leaves (sarson), fenugreek leaves, bathua,
+                                                          coriander leaves etc;
+                                                          Other vegetables - carrots, onion, brinjal,
+                                                          ladies finger, cucumber, cauliflower, tomato,
+                                                          capsicum, cabbage etc;
+                                                          **Starchy roots and tubers - potatoes, sweet
+                                                          potatoes, yam, colocasia and other root
+                                                          vegetables;
+                                                          Fruits - Mango, guava, papaya, orange, sweet
+                                                          lime, watermelon, lemon, grapes, amla, etc.
+ Milk and Animal Products                                 Milk and milk products - Milk, curd, skimmed
+                                                          milk, cheese, cottage cheese (paneer), etc.;
+                                                          Animal products - Meat, egg, fish, chicken, liver,
+                                                          etc.
+
+
+
+
+ Oils, Fats, Sugars and Nuts                              Oils and Fats - Butter, ghee, vegetable cooking
+                                                          oils like groundnut oil, mustard oil, coconut oil,
+                                                          etc;
+                                                          Sugars - Sugar, jaggery, honey;
+                                                          Nuts - peanuts, almonds, cashew nuts,
+                                                          pistachios, walnuts, etc.
+
+* These examples will change according to local crops and diets in different areas
+** Starchy roots and tubers like potatoes, sweet potatoes (shakarkandi), yam (jimikand), colocasia (arbi) and other root
+    vegetables; as well as fruits like banana are rich in starch which provide energy.
+
+
+
+
+What is an Unhealthy Diet?
+In the last few years, there have been changes in the lifestyle of people in India in rural and
+urban areas. Improved economic growth and status among some people has led to dietary
+changes. Increasing poverty levels have also led to changes in people’s eating habits.
+
+People have shifted from consuming traditional and fibre-rich foods like whole products
+- wheat (atta products), jowar, bajra, maize, unhusked dals (with outer covering), fruits
+and vegetables towards eating more processed foods like - white rice, maida, husked dals
+(without outer covering), foods of animal origin, foods available in packaged forms which
+are ready-to-eat and cook, etc.
+
+A diet rich in sugar, salt, fat, foods such as red meat - mutton, liver; milk and milk products
+such as full cream milk, butter, ghee, but low in the amount of fruits and vegetables is
+called an Unhealthy Diet.
+
+It is important however, to remember that healthy eating is not only the type of food
+consumed. It also refers to the way food is prepared and consumed. Food prepared with
+excess of fats, sugar, salt, or consumption of refined foods, ready-to-eat and packaged
+foods are all risk factors causing NCDs.
+
+
+
+                                                                                                     Risk Factors for Non-Communicable Diseases | 17
+                       Such changes in the diet are not only applicable to rural areas but also to urban areas,
+                       where intake of processed foods has increased because of the lack of easily available
+                       fruits and vegetables. The cost of vegetables and fruits has also risen. Ready-to-eat and
+                       packaged foods are hard to resist and easily available everywhere. Sometimes they are
+                       cheaper and easier to make when compared to healthy/fresh foods.
+
+
+                       Effects of an Unhealthy Diet
+                                                                  Overweight
+
+                                               Certain
+                                               Cancers                                          Heart
+                                                                                               Diseases
+                                                                                              and Stroke
+
+
+
+
+                                Inability to fight
+                                 infections, risk                                              Tooth Decay
+                                   of catching                                                     and
+                                more infections                                                Gum Diseases
+
+
+
+
+                                                                               High Blood
+                                                         High Blood
+                                                                              Sugar Levels
+                                                          Pressure
+
+
+
+                           An unhealthy diet during pregnancy increases the risk of premature delivery,
+                           low birth weight and birth defects. Such babies are more prone to develop Non-
+                           Communicable Diseases as adults.
+
+
+
+                       Helping people make healthy food choices
+                       The following points will help you to explain healthy food choices to your community.
+
+                       l    Consume a variety of fresh, seasonal and locally available fruits and vegetables
+                            (including green leafy vegetables).
+
+                       l    Eat whole cereals and pulses (with outer covering) as they are high in fibre or roughage
+                            than refined cereals and pulses (without outer covering). Fibre/roughage helps in
+                            slowing down the absorption of sugar and fats into the blood.
+
+                       l    Avoid eating processed foods or foods available in packets - these have high amount
+                            of fat, salt and sugar.
+
+                       l    Try to include foods from each of the four basic food groups shown in the table of
+                            food group classification.
+
+                       l    Eat whole fruits as they are rich in natural fibre or roughage.
+
+
+
+
+18 | Module for ASHA on Non-Communicable Diseases
+l   Avoid salt rich foods like papads, pickles, salted namkeens/savouries, etc. Those
+    with family history of high blood pressure should especially reduce their daily salt
+    consumption.
+
+l   Reduce the consumption of sugar rich foods. Those with family history of diabetes
+    should be careful of the amount and type of food to be consumed.
+
+l   Restrict intake of red meat like mutton, liver, etc. and consume lean meats like
+    chicken, fish, etc.
+
+l   Use vegetables oils like mustard oil, groundnut oil, soyabean oil, etc. for cooking. In
+    practice, it is best to use a mixture of oils.
+
+l   Reduce the consumption of deep fried foods - samosa, vadas, kachori, pakoras, etc.
+
+l   Roadside vendors who sell fried foods, heat the same oil over and over again, The oil
+    they use can lead to blocking/clogging of blood vessels and possibly to a heart attack
+    and other Non-Communicable Diseases.
+
+l   Drink plenty of water, at least 8-10 glasses of water daily. Beverages like water,
+    buttermilk, lassi, coconut water, should be consumed instead of bottled soft drinks
+    and readymade fruit juices.
+
+Poverty as an underlying cause for unhealthy food choices
+Most information that is available through advertisements and newspapers, highlight
+that unhealthy foods (foods particularly rich in fats, sugars and salt). are the reasons for
+causing NCDs. They also urge people to eat more fruits, nuts and vegetables, eat more
+often, and use healthy oils in their cooking.
+
+These messages assume that such healthy foods are easily available to everyone, and that
+people have the time and money to purchase and prepare healthy foods.
+
+However, poor people are unable to afford such dietary items on a regular basis.. Poor
+people tend to eat larger quantities of foods that are cheap but do not have much
+nutritional value. For instance, you will find people eating five or six chapattis, but with
+hardly any vegetables or only watery dal. Among rice eating communities, poor people
+cannot afford pulses and vegetables so they may eat a large quantity of rice, with just a
+little dal or buttermilk.
+
+Also, in rural areas, poor people may farm on plots of borrowed land. Even though they
+cultivate healthy grains/pulses or fruits and vegetables the major share of the harvest is
+taken away by the landowners.
+
+Over the past few decades several environmental factors, changes in farming practices
+(farmers are no longer cultivating traditional grains and have shifted to wheat/rice
+cultivation) and food marketing strategies have affected the quality of diets. It has also
+resulted in decreased consumption of locally and regionally available foods which are
+nutritionally adequate (rich in all vital nutrients). All these changes have a higher adverse
+affect on the poor.
+
+
+
+
+                                                                        Risk Factors for Non-Communicable Diseases | 19
+                       2.2.2. Physical Activity
+
+
+
+
+                                  In this Section,
+                                  you will learn about:
+
+                                        l   Physical Activity.
+                                        l   Benefits of Physical Activity in Adults.
+                                        l   Daily Requirement of Physical Activity in Adults.
+                                        l   How to Enable Adequate and Regular Physical Activity in your
+                                            Community.
+
+
+                       What is Physical Activity?
+                       l   Physical activity is any body movement that involves the use of muscles of the body,
+                           and requires energy.
+
+                       l   Examples: Walking, running, jogging, playing a sport, dancing, swimming, climbing
+                           the stairs, yoga, work like farming, lifting and moving heavy objects as in construction,
+                           household work like sweeping, cleaning, washing, dusting.
+
+                       Benefits of Physical Activity in adults
+                       l   Maintains a healthy body weight and body fat distribution.
+
+                       l   Protects against the development of heart diseases, stroke, hypertension, diabetes,
+                           joint problems and some cancers.
+
+                       l   Builds and maintain healthy bones, muscles and joints.
+
+                       l   Helps in managing painful conditions, like back pain or knee pain.
+
+                       l   Improves mental health and alertness.
+
+                       l   Helps to avoid fractures and falls.
+
+                                                How much Physical Activity is
+                                                Needed for an Adult?
+                                                Adults should undertake at least 150 minutes
+                                                of moderate exercise per week. This can be
+                                                spread throughout the week e.g. 30 minutes
+                                                of activity 5 times per week. 10 minutes of
+                                                moderate activity can be done three times
+                                                a day, that will add up to the 30 minutes of
+                                                physical activity per day.
+
+                                                Examples of exercises are brisk walking
+                                                (walking fast), climbing stairs, jogging, cycling,
+                                                dancing, playing sports and games, yoga,
+                                                carrying/moving moderate loads (<20kg), etc.
+
+
+
+20 | Module for ASHA on Non-Communicable Diseases
+Exercise should increase the heart rate. Household activities like sweeping, cleaning,
+washing, dusting, etc. do contribute to physical activity. However, doing only such
+household work alone may not meet the daily requirements.
+
+Advice on physical activity should be given according to the occupation and life style of
+individuals. For example, those who spend long hours in strenuous physical work such as
+working in the fields or as labourers, or carrying heavy loads may not need to engage in
+further physical activity.
+
+
+    Please Note: People suffering from heart problem, person with disabilities,
+    pregnant women, or lactating women, and those with other health issues may
+    need to do different amount and types of exercises to suit their condition.
+    They should receive advice on this from the nurse or the Medical Officer at
+    the PHC.
+
+
+
+
+Yoga
+Yoga is a popular form of physical exercise based upon asanas (physical postures),
+breathing techniques and meditation
+
+Health Benefits of Yoga
+l    Improves balance and flexibility.
+l    Increases muscular strength and blood circulation.
+l    Improves breathing.
+l    Reduces lower back pain.
+l    In addition to taking regular medicine, yoga can help in the management
+     of diabetes, respiratory/breathing disorders, and other lifestyle related
+     disorders.
+l    It helps to reduce depression, tiredness, anxiety/nervousness disorders and stress.
+
+
+
+Enabling Adequate and Regular Physical Activity in
+your Community
+
+                           Members of a Self-Help Group in Tamil Nadu decided that
+                           they would meet every day at 7 pm when they had finished
+                           their household chores. Together they would walk to the village
+                           boundary which is nearly 2 km away. They also learnt yoga from
+                           a TV show and practiced it three times a week.
+
+                           As seen from this example, given below are some ideas for people
+                           who do not engage in regular physical activity:
+                           l    Choose an activity that fits into daily routine.
+                           l    Find time for exercise and make it a routine.
+                           l    Exercising in groups improves motivation to exercise.
+
+
+
+
+                                                                         Risk Factors for Non-Communicable Diseases | 21
+           The role of ASHA in promoting healthy diet and
+           physical activity
+           l   Educate community members on the importance of consuming a
+               healthy diet and help them make healthy food choices based on local
+               food availability.
+
+           l   Undertake group activities to raise awareness about various food groups
+               that are locally available.
+
+           l   Explain the benefits of physical activity and its role in preventing Non-
+               Communicable Diseases.
+
+           l   Work with the VHSNC/MAS and Panchayati Raj Institution (PRI)/ULB
+               representatives to create spaces such as parks and walking areas that are
+               safe and clean.
+
+           l   Plan group physical activity programmes.
+
+           l   In your group or community meetings identify those with NCDs,
+               undertake follow up through home visits to counsel them on diet
+               modifications and undertaking regular physical activities.
+
+
+
+
+22 | Module for ASHA on Non-Communicable Diseases
+2.3: Stress
+
+
+
+   In this Section,
+   you will learn about:
+
+         l   Stress and its Ill Effects.
+         l   Strategies in Managing Stress.
+
+
+
+What is Stress?
+Stress can be caused by family problems, poverty, dissatisfaction with job, unemployment,
+pressure of work, grief and migration. It can affect the body (physical) or mind (mental) or
+both. Prolonged stress may affect the overall health of a person and affect her/his family
+as well.
+
+Stress may lead to digestive problems, back or neck pain, sleeping problems, substance
+abuse, headaches, sleeplessness, depressed mood, anger and irritability. Stress
+contributes to health problems, such as heart disease, stroke, ulcers, high blood pressure,
+diabetes, depression, anxiety disorder, and other illnesses. Handling stress depends on
+an individual’s personality.
+
+
+
+
+    The role of ASHA in helping people to manage stress
+    l   Help individuals identify the cause of stress.
+
+    l   Understand that stress management varies from person to person.
+
+    l   Help such individuals to build supportive relationships - A positive
+        and stable bond between people that can provide emotional and social
+        support is important. Talk to the individual’s family members, friends,
+        community members to discuss the problem and reasons for stress.
+
+    l   Motivate these individuals to exercise regularly - Walking, practicing
+        yoga, jogging, etc. can all help improve mood and reduce stress.
+
+    l   Educate them to make positive changes in behaviour such as eating a
+        healthy diet, control of anger, managing depression, appreciating the
+        positives in oneself and others.
+
+    l   Help them seek care for health problems from an appropriate service
+        provider.
+
+
+
+
+                                                                       Risk Factors for Non-Communicable Diseases | 23
+                       2.4: Overweight
+
+
+                           In this Section,
+                           you will learn about:
+
+                                 l   Causes of becoming Overweight.
+                                 l   Risks Associated with being Overweight.
+                                 l   Measurement of Waist Circumference.
+                                 l   Benefits of Reducing Weight in a Healthy Manner.
+
+
+                       You have read in the earlier chapters that we are seeing changes in
+                       life style related to eating habits, increasing consumption of tobacco,
+                       alcohol and reduced physical activity. This has affected the nutritional
+                       status leading to individuals becoming overweight.
+
+                       However, we also continue to see under nutrition not just among
+                       children but among adult women and men as well in many parts
+                       of the country. In your own area, you will see that there are both
+                       undernourished individuals and people who are overweight.
+
+                       The common perception is that Non-Communicable Diseases occur
+                       only in overweight individuals. However, undernourished women
+                       are more likely to have low birth weight babies, who are at increased
+                       risk of developing Non-Communicable Diseases when they grow into
+                       adults. We have discussed this earlier.
+
+                       Causes of becoming Overweight
+                       If the weight of an individual goes above a certain level, the person is referred to as being
+                       overweight. This is defined as having too much body fat in the body, which can lead to
+                       health problems.
+
+                       The main causes of becoming overweight are:
+                       l   Family history.
+                       l   Eating an unhealthy diet.
+                       l   Lack of physical activity.
+                       l   Presence of psychological factors - Depression, anxiety, stress, and low esteem can
+                           result in over eating.
+                       l   Hormonal imbalance in the body.
+
+                       You can see that some of these factors are preventable.
+
+                       Risks Associated with being Overweight
+                       Being overweight can result in health problems, such as:
+                       l   Cardiovascular diseases (mainly heart diseases and stroke).
+                       l   High blood fat levels (Eg. cholesterol).
+
+
+24 | Module for ASHA on Non-Communicable Diseases
+l   High blood pressure – Hypertension.
+l   High blood sugar – Diabetes.
+l   Sleep disorder.
+l   Cancer – cancer of breast, cervix, ovary, liver, gallbladder, kidney, colon, rectum and
+    prostrate.
+l   Diseases of the joints.
+l   Lung disorders.
+
+Diagnosing “Overweight” in Individuals
+In this section, you will learn how to diagnose an overweight individual through
+measuring waist circumference. Waist Circumference is a commonly used method to
+identify individuals at risk of being overweight at the community level and in the clinics.
+
+Waist Circumference (WC)
+People who develop excess body fat especially around the waist are more likely to develop
+Non-Communicable Diseases even if they have no other risk factors. It can be measured
+by taking waist circumference in centimetres (cm).
+
+
+
+
+                              Less than or              Less than or
+                              equal to 90 cm            equal to 80 cm
+                              in men                    in women
+
+
+
+
+The steps are:
+
+Tool
+
+l   Non-stretchable flexible measuring tape.
+
+Important point to keep in mind
+
+l   Waist circumference should be taken on standing posture.
+
+Process steps
+l   Remove any layers of clothing blocking the waist. If the individual is unwilling to
+    remove clothing the measurement can be taken over the thinnest layer of clothing.
+
+l   The individual stands straight looking in front with abdomen (stomach) relaxed, arms
+    at side and their feet fairly close together.
+
+l   You will stand in front, facing the subject. Find the midpoint between the lowest rib/
+    bony point in front and top of hip bone in back. Waist circumferences can also be
+    measured across the umbilical line.
+
+l   The person should be asked to breathe normally. At the time of the reading of the
+    measurement she/he asked to breathe out gently.
+
+
+
+
+                                                                      Risk Factors for Non-Communicable Diseases | 25
+                       l   Place the tape firmly in a horizontal position making sure the measuring tape is
+                           parallel to the floor and not folded or twisted.
+
+                       l   Record the reading at the end of the normal expiration/breathing.
+
+                       l   The tape should be loose enough to allow the ASHA to place one finger between the
+                           tape and the person’s body but the tape should fit firmly but comfortably around the
+                           waist. The tape should not squeeze the skin.
+
+                       l   Look at the place on the tape where the zero end meets the other end of the tape
+                           measure. The location of this meeting point is the waist measurement.
+
+                       l   Record the measurement in cms to the nearest 0.0 or 0.5 cm in the individual’s card or
+                           your register. Example - If the exact measurement is 85.7 cm, it should be recorded as
+                           85.5 cm and if it is 85.9 cm, then record the reading as 86 cm.
+
+
+                       Benefits of Reducing Weight
+                       The reduction of weight lowers the risk of
+                       l   Cardiovascular diseases (CVDs) – heart diseases, stroke.
+                       l   High blood sugar – Diabetes.
+                       l   Harmful blood fats.
+                       l   High blood pressure – Hypertension.
+                       l   Sleeping disorders.
+
+
+
+
+          The role of ASHA in helping an individual reduce weight
+          l   Motivate the individual who is overweight to make a firm decision to lose
+              weight and change lifestyle to become healthier.
+
+          l   Help her/him make small changes in lifestyle, for example if she/he is
+              eating three chapattis, reduce to two or one gradually.
+
+          l   Encourage the family members and friends to provide support and
+              motivation to the overweight individual.
+
+          l   Advise her/him to reduce the amount of fried foods, foods rich in sugar
+              and fat in their diets.
+
+          l   Explain that they should not resort to misleading measures that promise
+              weight loss in a short term; pills, churan, mixtures, surgeries etc.
+
+          l   Motivate them to avoid consuming tobacco and drinking alcohol.
+
+          l   Encourage them to incorporate regular physical exercise in their daily
+              routine.
+
+          l   Regular follow-up with the individual is required to monitor changes in
+              their weight or any related health conditions.
+
+
+
+
+26 | Module for ASHA on Non-Communicable Diseases
+Chapter 3
+
+Hypertension
+
+
+
+    In this Chapter,
+    you will learn about:
+
+         l   Common Risk Factors leading to High Blood Pressure (Hypertension).
+         l   Measurement of Blood Pressure using Electronic Digital Blood
+             Pressure Machine.
+         l   Management and Control of High Blood Pressure.
+         l   Heart Attack and Stroke and Risk Factors.
+         l   Warning Signs of Heart Attack and Stroke.
+         l   Prevention of Heart Attack and Stroke.
+
+
+
+What is Hypertension?
+Hypertension occurs when the blood moves through the blood vessels at a higher
+pressure than normal. This requires the heart to work harder to push blood through the
+blood vessels. This increases the load on the heart.
+
+Hypertension is also referred to as “silent killer”. This is because it can exist without
+causing any warning signs or symptoms. That is why it is important to screen all
+individuals at least above the age of 30 years for blood pressure at least once annually.
+
+High blood pressure, if not controlled, may lead to damage of blood vessels, heart and
+other organs, such as the brain, kidneys and eyes. Constant high blood pressure can
+cause life - threatening conditions, such as heart diseases and stroke, diabetes, kidney
+diseases, etc. Reducing blood pressure to even a small extent can help lower the risk of
+these conditions.
+
+Risk Factors for Hypertension
+The following are some common factors that can lead to high blood pressure
+
+l   Family history.
+
+l   Unhealthy diet - A diet especially high in salt, fat and low in vegetables/fruits.
+
+l   Lack of physical activity (or sedentary lifestyle).
+
+l   Being overweight.
+
+
+
+
+                                                                                            Hypertension | 27
+                       l   Tobacco use in any form (smoking and chewing tobacco).
+
+                       l   Excessive alcohol consumption.
+
+                       l   Chronic conditions such as kidney and hormone problems, diabetes, and high levels
+                           of harmful blood fats.
+
+                       l   Stress.
+
+                       In your community, the ANM, with your help will undertake screening of all adults 30
+                       years and above, for hypertension. This will take place on a fixed day. Individuals who
+                       have normal blood pressure should be screened once in a year. Any individual diagnosed
+                       with high BP should be referred to a higher level for further diagnosis and management.
+
+                       It is the medical officer’s responsibility to develop a treatment plan for the patient, based
+                       on the level of blood pressure and the presence of other conditions such as high levels of
+                       blood glucose and fat. The treatment plan includes not just anti-hypertensive medication
+                       but also a plan for addressing any modifiable risk factors. It is part of your role to ensure
+                       that the patient adheres to the treatment and makes changes in her/his lifestyle to reduce
+                       modifiable risk factors.
+
+                       Diagnosis of High Blood Pressure
+                       The only way to detect high blood pressure is to measure it using a BP apparatus. There
+                       are many kinds of BP apparatus. In this section, we will discuss the use of a Digital blood
+                       pressure machine.
+
+                       A blood pressure measurement gives you two readings
+                       (numbers). The upper one, which is higher of the two
+                       numbers, is called the systolic blood pressure. The
+                       lower number, which is also the smaller of the two
+                       numbers, is the diastolic blood pressure.
+
+                       In a screening programme, an individual with a
+                       systolic pressure (upper reading) of 140 mm Hg or
+                       more and a diastolic pressure (lower reading) of 90
+                       mm Hg requires referral.
+
+                       Recording Blood Pressure
+                       Tools
+                       l   Digital blood pressure instrument.
+
+                       A digital blood pressure instrument measures blood pressure. It shows the readings on a
+                       small screen. It can be used by anyone with a little training. However confirmation of high
+                       blood pressure can only be made by a medical doctor.
+
+                       Important points to keep in mind
+                       l   Ensure the patient is sitting comfortably with back supported, with their feet flat on
+                           the floor. The legs should not be crossed.
+
+                       l   Ensure the measurement is taken in a quiet room with comfortable temperature.
+
+
+
+
+28 | Module for ASHA on Non-Communicable Diseases
+Process steps
+A. How to apply the cuff
+
+l   Ask the individual to remove all clothing that covers the location of cuff placement.
+    When necessary, roll up the sleeves of the subject’s clothing.
+
+l   Ensure the hand is relaxed. Place one arm of the participant on the table with the
+    palm facing upward. Always use the same arm for blood pressure readings, as each
+    arm will give you a slightly different reading.
+
+l   Make sure the arm cuff is properly deflated (air is out) before placing it around the
+    patient’s upper arm.
+
+l   Ensure that the cuff is the correct size for the individual. If required use a smaller or
+    larger cuff.
+
+l   Wrap the cuff comfortably or snugly around the upper arm, and tie it up properly with
+    the velcro tape.
+
+l   Make sure the whole cuff is above the elbow, about 2cm (or 2 finger breadths) from
+    the elbow.
+
+l   Keep the level of the cuff at the same level as the heart during measurement. Make
+    sure that the tubing falls over the front centre of the arm, so that the centre is correctly
+    placed.
+
+B. Recording blood pressure by using the digital blood pressure instrument
+
+l   Press the START/STOP button to begin taking blood pressure measurement.
+
+l   The BP cuff will start bloating up. This will compress the arm a bit and the patient may
+    complain of pain. Reassure the patient that the pain is temporary.
+
+l   The cuff will start to inflate and then slowly deflate so that the machine can take the
+    measurement.
+
+l   When the reading is complete, the blood pressure giving systolic and diastolic
+    readings and pulse rate will appear on the screen.
+
+l   If the monitor/machine does not record the reading, re-position the cuff and try again
+    after 1-2 minutes and repeat the steps as mentioned above.
+
+l   Record the reading either in the machine or in family card of the person.
+
+l   It is suggested to take a minimum of 2 readings at interval of 1 minute. The average of
+    those readings should be used to represent the patient’s blood pressure.
+
+l   Additional readings should be taken if the difference between the first two is greater
+    than 5 mm Hg, and then the average of these multiple readings is used.
+
+l   Press the START/STOP button to turn the machine off.
+
+
+
+
+                                                                                                   Hypertension | 29
+                          Please Note: A single high reading (more than normal) does not necessarily
+                          mean that the person has high blood pressure. The measurement must be
+                          repeated.
+
+
+
+
+                       Why is it Important to Check Blood Pressure even among those
+                       without any Symptoms?
+                       Regular screening of blood pressure helps in making an early diagnosis of hypertension.
+                       This is helpful in taking early corrective measures leading to better control of blood
+                       pressure.
+
+
+
+
+           The role of ASHA in management and control of high
+           blood pressure
+           ASHA should motivate those with high blood pressure to:
+
+           l   Stop the use of tobacco in any form (smoking or chewing), also avoid
+               exposure to second-hand smoke.
+
+           l   Reduce the intake of alcohol.
+
+           l   Reduce the amount of salt - maximum of 1 teaspoon (5 gms) of salt for
+               the whole day.
+
+           l   Decrease consumption of refined cereals, high fat/oily foods, sugary
+               foods.
+
+           l   Decrease excess amount of tea, coffee, cola drinks (rich in caffeine).
+
+           l   Increase fresh fruits, vegetables and whole grains and whole pulses.
+
+           l   Maintain healthy weight; people who are overweight need to lose weight.
+
+           l   Ensure regular physical activity.
+
+           l   Ensure monthly monitoring of blood pressure.
+
+           l   Compliance to treatment plan for drugs.
+
+           l   Regular check-up at the PHC/CHC as advised.
+
+
+
+
+30 | Module for ASHA on Non-Communicable Diseases
+Principles of Drug Treatment for Hypertension
+The Medical Officer at the PHC will decide on the drug therapy for the patient. Whether a
+person requires medicines for his high blood pressure and which medicine is best for the
+patient would depend on:
+
+l   The blood pressure reading.
+
+l   Whether the high blood pressure has already affected the heart, kidneys, eyes and
+    blood vessels.
+
+l   Existing conditions such as diabetes, heart disease, kidney disease and other risk
+    factors like use of unhealthy dietary habits, lack of physical activity or low physical
+    activity, tobacco, alcohol, overweight and high levels of harmful blood fats.
+
+l   Other considerations will be age, sex (male/female) and body weight.
+
+There are several classes of medicines that can be used for the management of
+hypertension, diabetes and common cancers. Every state has its Essential Drug List
+(EDL) for common diseases available. The essential drugs for Hypertension, Diabetes
+and Common Cancers are expected to be available at the PHC, CHC and higher heath
+facilities. This essential drug list is updated on a regular basis and varies state-wise.
+
+Drugs for hypertension are available free of cost to those patients who use government
+health facilities. The drugs are prescribed by the medical officer and the patient should be
+given a month’s supply of drugs. The patient should be able to collect refills every month
+from the nearest health facility. This could be a Sub-Centre (SC) or a Primary Health
+Centre (PHC).
+
+The blood pressure reading should be monitored regularly. The frequency depends on
+the advice of the medical officer. In some states, ASHA may also be given the digital
+instruments to measure BP of those who are under treatment to make sure they are taking
+their medication and their blood pressure is under control.
+
+Heart Attack
+A person who has hypertension is at risk for having a heart attack and stroke. These are
+complications of hypertension.
+
+Heart attack is defined as severe chest pain for more than 30 minutes, radiating to left
+arm and not relieved by pain killers. It is associated with nausea, vomiting and sweating.
+
+Risk factors of heart attack
+l   High blood pressure (hypertension).
+
+l   High blood glucose level (diabetes).
+
+l   Excess alcohol intake.
+
+l   Unhealthy foods.
+
+l   Smoking.
+
+l   Being overweight.
+
+
+
+
+                                                                                               Hypertension | 31
+                       Reasons for heart attack
+                       The heart pumps blood through blood vessels to supply oxygen to all parts of our body.
+                       Factors such as age, family history and eating high fat diets can cause fat to settle in the
+                       calls of the blood vessels. This can cause the vessel to become narrow or blocked and
+                       reduce the blood flow. This leads to a heart attack.
+
+                       Warning signs
+                       l   Pain, pressure or constriction in the centre of the chest for more than 30 minutes.
+
+                       l   Nausea.
+
+                       l   Unconsciousness.
+
+                       l   Pain in jaw, neck, arms, shoulders or back.
+
+                       l   Shortness of breath.
+
+                       Stroke
+                       Stroke is defined as paralysis or numbness of one side of the body. It can also cause,
+                       difficulty of speech, hearing, reading or writing. Stroke is due to a lack of blood supply to
+                       the brain. The lack of blood supply may be due to a blood clot/break in the blood vessel.
+                       A stroke is a medical emergency.
+
+                       Risk factors for stroke
+
+                        Major factors                                 Secondary factors
+
+                        l High BP/hypertension                       l Increased levels of harmful blood fats
+
+                        l Diabetes                                   l Lack of physical activity
+
+                        l Heart diseases                             l Being overweight
+
+                        l Smoking
+
+                        l Alcohol
+
+
+                       Warning signs
+                       l   Sudden weakness, paralysis or numbness on face, arm and leg on one side of
+                           the body.
+
+                       l   Loss of speech or difficulty speaking or understanding speech.
+
+                       l   Dimness or loss of vision, particularly in only one eye.
+
+                       l   Unexplained dizziness, unsteadiness or sudden falls.
+
+                       l   Sudden severe headache or loss of consciousness.
+
+                       Prevention of heart attack and stroke
+                       l   Eat healthy and balanced diet.
+
+                       l   Avoid smoking.
+
+
+
+
+32 | Module for ASHA on Non-Communicable Diseases
+l   Say no to alcohol.
+
+l   Be physically active.
+
+l   Keep and maintain your blood pressure at a healthy level.
+
+l   Keep and maintain your blood sugar at a healthy level.
+
+
+
+
+     The role of ASHA in control of heart attack and stroke
+     Knowing the warning signs of heart attack and stroke and seeking immediate
+     medical help can improve the outcomes. Individuals with any of the signs
+     of heart attack and stroke should be referred immediately to a CHC for
+     assessment and management.
+
+     Simple ways of preventing heart attack and stroke are
+
+     l   The ASHA should ensure that all women and men of 30 years of age and
+         above are screened annually for hypertension and diabetes.
+
+     l   Blood pressure and blood sugar should be monitored regularly in high-
+         risk individuals – including those with a family history of stroke or heart
+         attack.
+
+     l   Motivate those with high blood pressure and high blood sugar to change
+         lifestyles and regularly take their medicines.
+
+     l   Encourage individuals with hypertension and diabetes to avoid refined
+         cereals, sugar, salt and fats in the diet; and eat foods that are high in fibre
+         like fruits, vegetables, whole grains, whole pulses with outer covering
+         and their products.
+
+     l   Encourage them to incorporate regular and adequate amount of physical
+         exercise in their daily routine.
+
+     l   Motivate them to avoid the use of tobacco and alcohol.
+
+     l   Help them maintain healthy weight; people who are overweight need to
+         lose weight.
+
+     l   Help them adopt strategies to cope with stress (as discussed in the
+         chapter on Stress).
+
+     l   Emphasise that if there are any signs of heart attack or stroke, she/
+         he should seek immediate medical attention by a qualified health
+         professional at the higher facilities.
+
+     l   Encourage patients to follow medical advice provided by a qualified
+         health professional and ensure compliance to treatment.
+
+
+
+
+                                                                                           Hypertension | 33
+                       Chapter 4
+
+                       Diabetes
+
+
+
+                           In this Chapter,
+                           you will learn about:
+
+                                 l   Different Types of Diabetes, (Type 1, Type 2 and Gestational Diabetes).
+                                 l   Risk Factors for Type 2 Diabetes.
+                                 l   Common Signs and Symptoms for Type 2 Diabetes.
+                                 l   Estimation of Blood Glucose using Glucometer.
+                                 l   Management and Control of Diabetes.
+
+
+                       What is Diabetes?
+                       All food that we eat is broken down into a sugar called glucose.
+                       Glucose is carried by the blood to all the parts of the body to give
+                       energy. The hormone which helps glucose move from the blood
+                       into the cells, is called INSULIN.
+
+                       Insulin helps to keep the blood sugar levels normal. In diabetes, the
+                       body does not produce insulin or cannot use the insulin properly.
+                       The glucose builds up in the blood, resulting in high blood glucose
+                       levels.
+
+
+                       Diabetes is classified into three types namely Type 1, Type 2 and Gestational Diabetes.
+
+
+                         Types of Diabetes                   What is it?                     Who gets it?
+
+
+                         Type 1 Diabetes            Body does not produce            The disease can affect
+                                                    insulin at all. People with      people of any age, but
+                                                    this form of diabetes require    usually starts in childhood or
+                                                    daily injections of insulin in   young adults.
+                                                    order to control the levels of
+                                                    glucose in their blood.
+
+
+
+
+34 | Module for ASHA on Non-Communicable Diseases
+    Types of Diabetes               What is it?                       Who gets it?
+
+
+    Type 2 Diabetes        This is the most common           This type of diabetes used
+                           type of diabetes. The body        to be seen only in adults
+                           produces some insulin, but        but it is now also occurring
+                           not enough.                       increasingly in children and
+                                                             adolescents. It is seen in
+                                                             those with a family history
+                                                             of diabetes, excess body
+                                                             weight, lack of physical
+                                                             activity, and as people grow
+                                                             older.
+
+
+    Gestational            Diabetes which occurs             Has a risk of complications
+    Diabetes               among women during                during pregnancy and
+                           pregnancy.                        delivery The children of
+                                                             women with Gestational
+                                                             Diabetes are at an increased
+                                                             risk of type 2 diabetes in the
+                                                             future
+
+
+
+
+In this section, we will only discuss about Type 2 Diabetes as it is the most common.
+
+Risk Factors for Type 2 Diabetes
+l     Family history of diabetes.
+
+l     It occurs most frequently in adults, but is seen increasingly in adolescents as well.
+
+l     Being overweight.
+
+l     Unhealthy eating habits.
+
+l     Lack of physical activity.
+
+l     High blood pressure.
+
+l     High levels of harmful blood fats.
+
+l     Addictions like tobacco use, drug and harmful use of alcohol.
+
+l     If the woman during pregnancy had diabetes or even mild elevation of blood sugar
+      level during pregnancy.
+
+
+
+
+                                                                                              Diabetes | 35
+                       Common Signs and                                  If the blood glucose stays too high, it can
+                       Symptoms of Type 2 Diabetes                       cause damage to the
+
+                       l    Frequent urination.                          l   Kidneys – causing kidney failure.
+
+                       l    Increased hunger.                            l   Heart and blood vessel disease -
+                                                                             causing heart attack and stroke.
+                       l    Excessive thirst.
+                                                                         l   Nerves damage - causing numbness,
+                       l    Unexplained Weight loss.
+                                                                             tingling in hands and/or feet, foot
+                       l    Lack of energy, extreme tiredness.               ulcers and infections.
+                       l    Blurred vision.                              l   Eyes - causing blindness.
+                       l    Repeated or severe infections such as        l   Oral cavity – causing gum diseases.
+                            vaginal infections.
+                       l    Slow healing of wounds.
+
+
+
+
+                       In your community, the ANM, with your help will undertake screening of all adults of 30
+                       years and above for diabetes. This will take place on a fixed day. Individuals who have
+                       normal blood glucose should be screened once in a year. Any individual diagnosed
+                       with high Blood sugar should be referred to a higher level for further diagnosis and
+                       management.
+
+                       It is the medical officer’s responsibility to develop a treatment plan for the patient, based
+                       on the level of blood glucose and the presence of other conditions such as high levels of
+                       blood pressure and fat. The treatment plan includes not just anti-diabetic medication
+                       but also a plan for addressing any modifiable risk factors. Your role is to ensure that
+                       the patient adheres to the treatment and makes changes in her/his lifestyle to reduce
+                       modifiable risk factors.
+
+                       Blood Glucose Estimation
+                       A glucometer is a device used to determine glucose levels in the blood. It enables a blood
+                       glucose check using a small drop of blood. For the purposes of screening, any patient
+                       with a random blood sugar over 140 mg/dl should be referred to the medical officer for
+                       further investigation.
+
+                       Blood glucose estimation using a glucometer
+                       Tools
+                       l Cotton (dry or with spirit); swab.
+                       l Lancet (needle).
+                       l Lancet device (pricker).
+                       l Test strips.
+                       l Glucometer.
+                       l Sharp bin.
+                       l Alcohol based wipe.
+
+
+
+
+36 | Module for ASHA on Non-Communicable Diseases
+A glucometer is an instrument used to determine glucose levels in the blood.
+
+Process steps
+
+1. Wash your hands to prevent infection.
+
+2. Ask the participant to wash and dry their hands thoroughly.
+
+3. Place the glucometer on a flat surface.
+
+4. Open the lancet device provided with the glucometer.
+
+5. Insert the lancet. Take the sealing cap off the needle. Do not touch the needle. Close
+   the device. Set the spring of the device so that it is ready to use by pressing or pulling
+   the load button on the lancet device.
+
+6. Clean the fingertip of the subject prior to needle prick.
+
+7. Turn on the glucometer and place a test strip in the machine when the machine
+   is ready. One end will need to face the top of the glucometer; usually it has a dark
+   coloured line on it. This is where the blood will be placed for testing. Watch the
+   indicator for indication to place a blood drop onto the strip.
+
+8. Use a lancet to prick the side or top of the finger to get small amount of blood. Let the
+   blood flow freely from the fingertip; do not squeeze the finger. Squeezing the finger
+   can affect the results. Rubbing/Milking your finger before pricking it helps in easy
+   availability of a blood droplet for the meter.
+
+9. Place the drop of blood on the test strip. The blood drop is to be placed against the edge
+   or top of the strip. Wipe away the first drop of blood because it may be contaminated
+   with tissue fluid or debris.
+
+10. Apply cotton ball to subject’s finger and hold firmly until bleeding stops.
+
+11. Watch the glucometer screen. It should show a “waiting” or “processing” symbol, and
+   will produce a beep when the sample has been tested. The results will be displayed as
+   a number on the screen.
+
+12. Note the reading in the notebook or family folder of the subject. Keeping a record
+   will make it easier to identify the subjects who need referral, and for the doctor to
+   establish a good treatment plan.
+
+13. Turn the glucometer off.
+
+14. Place the used needle device into the sharps bin immediately.
+
+15. Dispose of test strip into clinical waste bin before removing gloves.
+
+16. If sharp bin and clinical waste bin are not available; then use two separate boxes
+   to store the sharp disposal and clinical waste products separately. After the blood
+   glucose test; these boxes need to be transferred to bio-hazard container. Always wear
+   gloves before transferring the bio-hazard products. (be alert to avoid needle pricks).
+
+17. Use an alcohol based wipe to clean the meter ensuring all external surfaces are clean.
+
+18. If the reading is high, then the individual should be referred to a medical professional
+   for check-up.
+
+
+                                                                                                Diabetes | 37
+                       What is Hypoglycaemia (Low Blood Glucose)?
+                       Among those with Diabetes a condition called – Hypoglycaemia
+                       or low blood sugar levels can occur. Hypoglycaemia occurs when
+                       blood sugar (glucose) level falls below a level of 70 milligrams per
+                       decilitre (mg/dl) or less.
+
+                       Symptoms are tremors, nervousness or anxiety, sweating,
+                       irritability, confusion, rapid/fast heartbeat, dizziness, hunger,
+                       nausea, blurred/impaired vision, headaches, weakness or fatigue,
+                       lack of coordination, seizures, unconsciousness, etc.
+
+                       There are several reasons why this may happen. One cause can be
+                       a long gap between two meals. The other common reason is side
+                       effects of some anti-diabetic drugs.
+
+                       Hypoglycaemia can be treated by consuming a small amount
+                       of sugar-rich foods as soon as symptoms appear. For such an
+                       emergency, diabetic patients should be advised to always carry
+                       something to eat such as loose sugar, rock candy (misri) or toffee
+                       etc.
+
+                       Motivating diabetics to regularly monitor blood glucose levels,
+                       eat regular meals, creating awareness on hypoglycaemia and
+                       providing a tailor-made treatment plan with drugs, etc. are some
+                       of the ways to prevent Hypoglycaemia amongst diabetic patients.
+
+                       Management and Control of Diabetes
+                       Change in lifestyle behaviours is effective in preventing or delaying
+                       the occurrence of Type 2 diabetes or the onset of complications.
+                       They include
+
+                       l   Maintaining a healthy body weight - avoid excess weight gain.
+
+                       l   Regular physical activity of at least 30 minutes of regular activity for at least 5 days a
+                           week. Higher levels of activity are required for weight control.
+
+                       l   Take regular small frequent meals. Skipping a meal can lead to low blood sugar level.
+                           Eat a balanced and healthy diet-avoiding sugar, salt and fats in the diet.
+
+                       l   Eat foods that are high in fibre like fruits, vegetables, whole grains, cereals, whole
+                           pulses with chilka (skin) and their products.
+
+                       l   Avoid tobacco in any form.
+
+                       l   Avoid drinking alcohol.
+
+                       l   Regularly check the blood sugar levels.
+
+                       l   Follow medical advice of the doctor.
+
+
+
+
+38 | Module for ASHA on Non-Communicable Diseases
+Principles of drug therapy for type 2 diabetes
+The Medical Officer at the PHC will decide on the drug therapy for the patient. Whether a
+person requires medicines and which medicine is best for the patient would depend on:
+
+l   The blood sugar reading.
+
+l   Whether the high blood sugar levels have already affected organs in the body such as
+    heart, kidneys, eyes and blood vessels.
+
+l   Other medical conditions such as high blood pressure, heart disease, kidney disease,
+    nerve and eye damage, and other risk factors like use of unhealthy dietary habits,
+    lack of physical activity or low physical activity, tobacco, alcohol, overweight and high
+    levels of harmful blood fats, etc.
+
+l   Other considerations such as age, sex (male/female) and body weight.
+
+There are several classes of medicines that can be used for the management of
+hypertension, diabetes and common cancers. Every state has its Essential Drug List
+(EDL) for common diseases available. The essential drugs for Diabetes are expected to be
+available at the PHC, CHC and higher heath facilities. This essential drug list is updated
+on a regular basis and varies state-wise.
+
+Drugs for diabetes are available free of cost to those patients who use government health
+facilities. The drugs are prescribed by the medical officer and the patient should be given
+a month’s supply of drugs. For diabetes, both oral dugs and Insulin injections can be
+provided based on the decision of the Medical Officer.
+
+The patient should be able to collect refills every month from the nearest health facility.
+This could be a Sub-Centre (SC) or a Primary Health Centre (PHC).
+
+
+
+
+    The role of ASHA in management and control of high blood sugar
+    levels (this also applies to those with high blood pressure).
+    ASHA should motivate those with high blood sugar levels to:
+
+    l   Increase consumption of foods rich in fibre - variety of seasonal and fresh fruits,
+        vegetables (including green leafy vegetables); whole grains and whole pulses and their
+        products.
+
+    l   Decrease consumption of refined cereals, foods rich in excess amount of fat/oil, foods
+        rich in salt and sugar.
+
+    l   Reduce the amount of salt : A maximum of 1 teaspoon (5 gms) of salt for the whole day
+        should be consumed by those who have high blood pressure.
+
+    l   Sugar should be avoided amongst those diagnosed with diabetes.
+
+
+
+
+                                                                                                 Diabetes | 39
+    l   Stop the use of tobacco in any form (smoking or chewing), also avoid exposure to
+        second-hand smoke.
+
+    l   Reduce the intake of alcohol.
+
+    l   Decrease excess amount of tea, coffee, cola drinks (all are rich in caffeine).
+
+    l   Maintain healthy weight; people who are overweight need to lose weight.
+
+    l   Ensure regular and adequate physical activity.
+
+    l   Adopt strategies to cope with stress.
+
+    l   Help the individual to maintain a healthy blood pressure and control of blood
+        sugar levels by preventing and controlling the risk factors and ensure monthly
+        monitoring of blood pressure and blood sugar.
+
+    l   Follow-up of the patients referred to the health facilities/referral centres and
+        support them through the consultation and diagnostic processes as required.
+
+    l   Compliance to treatment plan for drugs as advised by the medical doctor.
+
+    l   Be alert to new signs and symptoms - they may be due to side-effects of the
+        medicines being taken.
+
+    l   Regular check-up at the PHC/CHC or higher facilities as advised.
+
+    l   Ensure that the patient and their family members receive education on diabetes
+        management and life style modifications.
+
+    l   Regularly conduct home-visits by prioritising those households which are
+        vulnerable and marginalised, where there are treatment defaulters or those who
+        experience complications and bring these cases to the notice of the ANM and the
+        Medical Officer.
+
+    l   Several people in your community will ask you about home remedies or other
+        medicines from Ayurveda, Homeopathy etc. You should tell them to consult the
+        medical officer before changing any medication.
+
+
+
+
+40 | Module for ASHA on Non-Communicable Diseases
+Chapter 5
+
+Cancer
+
+
+
+    In this Chapter,
+    you will learn about:
+
+         l   Common Types of Cancer (Breast, Cervical and Oral Cancer)
+         l   Risk Factors of Cancer.
+         l   Common Symptoms of Cancer.
+         l   Prevention of Cancer.
+
+
+What is Cancer?
+Cancer is a disease caused by uncontrolled division of cells in any part of the body. This
+causes abnormal growth of that part of the body. The cancer may also spread to more
+distant parts of the body through the blood. There are various kinds of cancers that are
+prevalent in our country. In this module, we are specifically going to address only the
+three most commonly occurring cancers in India - cancer of the cervix and breast among
+women and oral cancers in women and men.
+
+These three are commonly occurring cancers in India. Together, they account for
+approximately 34% of all cancers in India. If these cancers are diagnosed early and treated
+appropriately, chances of survival are good. Thus, regular screening programmes which
+can diagnose cancers at early stages are an important preventive health programme.
+
+
+5.1: Cervical Cancer
+Risk Factors for Cervical Cancer
+l   Multiple sexual partners.
+
+l   Unprotected sex.
+
+l   Early marriage.
+
+l   Early age at first child birth.
+
+l   Higher numbers of pregnancy and childbirth.
+
+l   Smoking.
+
+
+
+
+                                                                                              Cancer | 41
+                       Common Signs and Symptoms of Cervical Cancer
+                       l   Bleeding between periods.
+
+                       l   Bleeding after sexual intercourse.
+
+                       l   Bleeding in post - menopausal women.
+
+                       l   Pain during sexual intercourse.
+
+                       l   Foul smelling vaginal discharge.
+
+                       l   Vaginal discharge tinged with blood.
+
+                       l   Pelvic pain.
+
+                       l   Fatigue.
+
+                       l   Unexplained weight loss.
+
+                       l   Pain during urination.
+
+                       Screening of Cervical Cancer
+                       Screening would normally be undertaken at a Primary health Centre or Community
+                       health Centre by a trained doctor or by a trained nurse or by a gynaecologist. Screening or
+                       regular check-ups for cervical cancer are important, since during the early stages, women
+                       may experience no symptoms. Cervical cancer is one of the most successfully treatable
+                       cancers when detected at early stage. A common method for screening cancer is VIA
+                       (Visual Inspection with Acetic Acid).
+
+                                                                    Screening should be done in a separate room
+                                                                    from regular OPD, and if a separate room is
+                                                                    not available then a curtain should be used
+                                                                    to maintain privacy.
+
+                                                                    l   Approximately 30 women can be
+                                                                        screened in a day, so screening should
+                                                                        be planned accordingly.
+
+                                                                    l   Once an abnormality is detected, the
+                                                                        individual should be referred to a
+                                                                        gynaecologist.
+
+                                                                    l   Your role is to mobilise all women over
+                                                                        30 years of age to be screened at least
+                                                                        once in five years. For those women with
+                                                                        a family history or those who develop
+                                                                        these symptoms at any time, this should
+                                                                        be done as soon as possible. Such
+                                                                        patients should be referred to a health
+                                                                        facility at any time.
+
+
+
+
+42 | Module for ASHA on Non-Communicable Diseases
+5.2: Breast Cancer
+Risk Factors
+l   Early onset of menstrual period.
+
+l   Late menopause.
+
+l   Late age at first child birth.
+
+l   Alcohol and tobacco use.
+
+l   Family history.
+
+l   Being overweight.
+
+l   Lack of physical activity.
+
+l   Shorter duration or no breastfeeding.
+
+Common Signs and Symptoms of Breast Cancer
+l   A change in size of the breasts.
+
+l   A nipple that is pulled in or changed in position or shape.
+
+l   A rash on or around the nipple.
+
+l   Discharge from one or both nipples.
+
+l   Puckering or dimpling of skin of the breasts.
+
+l   Lump or thickening in the breast.
+
+l   Constant pain in the breast or armpit.
+
+Women over 30 years should be screened by a trained provider, at least once in five years.
+Those who have a family history of breast cancer should be encouraged to gets screened
+more often.
+
+Screening for breast cancer can be done by a trained health workers such as an ANM at
+the sub centre. This is called Clinical Breast examination. Any of the signs above should
+be considered suspicious and the woman should be referred to a medical officer.
+
+What is Breast Self-Examination (BSE)
+Breast self-examination is recommended to raise awareness of breast cancer. The practice
+of BSE empowers women to take responsibility for their health. However this is not a
+substitute for examination by a trained provider.
+
+Best time to undertake BSE:
+
+l   7-10 days after the first day of the menstrual period.
+
+l   If not menstruating, pick a certain day - such as the first day of each month.
+
+l   If taking hormones, then do it 1-2 days after withdrawal bleeding.
+
+
+                                                                                             Cancer | 43
+Steps of Breast Self-Examination (BSE)
+Five steps of BSE
+
+  Step 1: Begin by looking at your breasts in the mirror with
+  shoulders straight and arms on hips.
+
+  What to look for:
+  l   Any change from the usual size, shape, and colour.
+  l   Any visible distortion or swelling of the breast.
+
+  If any of the following changes are seen, bring them to your
+  doctor's attention:
+  l   Dimpling, puckering, or bulging of the skin.
+  l   A nipple that has changed position or an inverted nipple
+      (pushed inward instead of sticking out).
+  l   Redness, soreness, rash, or swelling.
+
+  Step 2: Same changes to be looked for with arms raised.
+
+
+  Step 3: Also look for any signs of fluid coming out of one or
+  both nipples (this could be a watery, milky, or yellow fluid or
+  blood).
+
+
+
+
+  Step 4: Next, feel breasts while lying down, using the right
+  hand to feel the left breast and then the left hand to feel the
+  right breast. Use a firm, smooth touch with the finger pads
+  of your hand, keeping the fingers flat and together. Use a
+  circular motion, about the size of a quarter.
+
+  Cover the entire breast from top to bottom, side to side —
+  from your collarbone to the top of the abdomen, and from
+  the armpit to your cleavage.
+  l   Follow a pattern to be sure that the whole breast is
+      covered.
+  l   Begin at the nipple, moving in larger and larger circles
+      until the outer edge of the breast is reached.
+
+
+
+
+44 | Module for ASHA on Non-Communicable Diseases
+  l    Ensure that all the tissue from the front to the back of the
+       breasts is examined. For the skin and tissue just beneath,
+       use light pressure; use medium pressure for tissue in the
+       middle of your breasts; use firm pressure for the deep
+       tissue in the back.
+  l    When the deep tissue is reached, the individual should
+       be able to feel down to the ribcage.
+
+  Step 5: Finally, the breasts should be examined while standing
+  or sitting. Many women find that the easiest way to feel their
+  breasts is when their skin is wet and slippery, so this can be
+  done while taking a bath, using the same hand movements
+  described in Step 4.
+
+
+
+
+SOURCE: http://www.breastcancer.org/symptoms/testing/types/self_exam/bse_steps
+
+
+
+
+      Role of ASHA in cervical and breast cancer
+      ASHA plays a key role in the early detection and reducing the burden of
+      cervical and breast cancer.
+
+      l    Motivating females of 30 years and above for screening.
+
+      l    Creating awareness in the community regarding risk behaviours so that
+           women volunteer for screening of cancers, including going to the PHC
+           (for cervical cancer).
+
+      l    If any symptoms appear, refer the patient immediately to the nearest
+           facility where a Medical Officer is available.
+
+
+
+
+                                                                                   Cancer | 45
+                       5.3: Oral Cancer
+                       Risk Factors
+                       l   Poor oral hygiene.
+                       l   Oral cancers are twice as common in men as compared to women.
+                       l   Unhealthy diet - Low intake of fresh fruits and vegetables.
+                       l   Family history.
+                       l   Tobacco use.
+                       l   Alcohol consumption.
+                       l   Betel nuts and other form of chewing tobacco.
+                       l   Sharp teeth and ill-fitting dentures.
+
+
+
+
+                                                    Tobacco, Smoking
+                                                      Cigarette, Bidi
+
+
+
+
+                         Ill-Fitting Dentures   Oral Cancer               Tobacco Chewing
+
+                                                Risk Factors
+
+
+                                                                           Alcohol
+                                   Ageing
+
+
+                                                    Betel Quid Chewing
+
+
+
+                       Common Signs and Symptoms of Oral Cancer
+                       l   A white/red patch in the oral cavity.
+                       l   Ulceration/roughened areas in the oral cavity, especially those that does not heal for
+                           more than a month.
+                       l   Whiteness of the lining of the oral cavity.
+                       l   Difficulty in tolerating spicy foods.
+                       l   Difficulty in opening the mouth.
+                       l   Difficulty in protruding the tongue.
+
+
+
+
+46 | Module for ASHA on Non-Communicable Diseases
+l   Change in voice (nasal voice).
+l   Excessive salivation.
+l   Difficulty in chewing/swallowing/speaking.
+
+Screening of Oral Cancer
+Like other cancers, every individual (woman or man) of 30 years and above should be
+screened by a trained provider, at least once in five years. Those who use tobacco in any
+form should be encouraged to be screened more often. In the case of individuals who have
+been using tobacco from a young age, they should be motivated to undergo examination
+by a trained provider, even if they are not thirty years old.
+
+Screening for oral cancer can be done by a trained health workers such as an ANM at the
+sub centre. This is called Oral Visual Examination.
+
+Oral cavity should be examined thoroughly using a mouth mirror and a white light. A
+torch can be used for proper light. Any abnormal patch (white/red), ulcer, rough area,
+granular area or swelling is to be considered for further examination at a referral facility.
+
+l   Self-examination can detect oral lesions at an early stage.
+
+l   All habitual tobacco users should do self-examination of oral cavity on a monthly
+    basis.
+
+l   Method of doing Self-examination of oral cavity:
+     Rinse the mouth with water and stand before a mirror in adequate light.
+     Normal oral cavity lining is soft and pink.
+     Look in the mirror for any abnormal white or red patch, ulcer or roughened area,
+       granular area or swelling in the mouth.
+     Consult a doctor if any abnormal area is found.
+
+
+
+
+                                                                                                Cancer | 47
+                       Management of Cancers
+                       During screening, if an individual is found to have a sign that could indicate cancer, a test
+                       called a biopsy would need to be taken done by a trained service provider.
+
+                       l   Treatment for cancer can be provided at the district hospital, in the medical college or
+                           in special centres created for treatment of cancer.
+
+                       l   Treatment for cancer could be through surgery, medicines or radiotherapy (treatment
+                           using X-rays).
+
+
+
+
+      The role of the ASHA
+      l    You must remember that all cases who may have one or more signs
+           of cancer, may not actually have cancer. Several people who undergo
+           screening may have one sign or more, but unless this is proved by biopsy,
+           it cannot be confirmed. You must take care not to create a panic situation
+           by informing people that they have cancer before this is confirmed by a
+           medical doctor.
+
+      l    Cancer treatment is long and causes both emotional and financial stress
+           to the family. One of your tasks should be to support the family through
+           visits, helping them to access the services in the health system and
+           encourage the community to help them as required.
+
+      l    Encourage the patients undergoing cancer treatment to have fresh,
+           hygienic, well-cooked foods, avoid alcohol and tobacco in any form.
+
+      l    People receiving cancer treatment specially with medicines may have
+           a higher risk of acquiring infections. You can play an important role in
+           informing patients and families on adopting methods for preventing
+           infections. These include-tips for handwashing, body hygiene, oral
+           hygiene, and avoiding crowded places or covering the face with a mask
+           while in crowded places.
+
+      l    The cost of cancer treatment for poor patients is often free. Different
+           states have schemes that will take care of these costs. You should find out
+           what happens in your state, so that people in your community can get
+           access to reduced cost of care.
+
+
+
+
+48 | Module for ASHA on Non-Communicable Diseases
+Chapter 6
+
+Key Tasks of the ASHA
+
+
+In the earlier chapters, you learnt about your specific role related to several disease
+conditions. In this chapter, you will learn what tasks are expected of you in the screening,
+prevention and control of common NCDs. You will find that many points that have been
+highlighted are repeated here, but this will help you to understand and plan your day to
+day work.
+
+In order to provide community level care, you will continue to use Home Visits, the Village
+Health Nutrition Day (VHND), and meetings of Village Health Sanitation & Nutrition
+Committee (VHSNC). The main difference now is that your role will now expand to reach
+all adults of 30 years and above.
+
+The ASHA facilitator and ANM will support you in household visits, conducting
+community health promotion activities, and follow up, particularly among those who are
+not regular with the treatment or are not making required lifestyle changes.
+
+
+
+Tasks of ASHA in prevention and control of
+Non-Communicable Diseases
+1. Listing of all adults of 30 years and above.
+2. Completing the Community Based Assessment
+   Checklist.
+3. Organising a screening day - understanding
+   the work-flow processes.
+4. Undertaking health promotion activity in the
+   community.
+5. Undertaking follow up for treatment adherence
+   and enabling lifestyle changes.
+6. Creating Patient Support Groups.
+
+
+
+1. Listing
+So far you have made lists of pregnant women, new-borns, children, and eligible couples,
+so that you can ensure that they receive services that they require. For NCDs you will now
+also make lists of those women and men in your community who are of 30 years and above,
+so as to ensure that they are screened for NCDs and undertake follow up. You will continue
+to ensure that you reach the most marginalised as well as those who migrate into your area,
+so that they are also part of the screening and follow up process.
+
+
+                                                                                          Key Tasks of the ASHA | 49
+                       Your first task is to list all women and men who are 30 years of age and above. Normally
+                       in a population of 1000 you will have about 370 people in this age group. (182 women and
+                       188 men). This list is to be updated every 6 months. You will enter into your diary or health
+                       register the names, ages and sex of these individuals. (a format is attached at Annexure 1).
+                       Over time, these records will become available in an electronic format. You will be given a
+                       specific register or folder in which to record this information. The information is then to
+                       be given to the ANM who manages the sub centre of your area.
+
+                       2. Completion of Community Based Assessment Checklist
+                       Completion of Community Based Assessment Checklist (CBAC) for NCD screening
+                       through home visits. The next task is to complete a CBAC (Annexure 2) for all in this age
+                       category. This form is intended to capture information related to age, family history, waist
+                       circumference, and risky behaviours such as lack of physical activity, use of/or exposure
+                       to tobacco and alcohol. The CBAC also includes questions related to symptoms for cancer
+                       cervix, breast cancer, oral cancer, etc. The checklist will help you remember the key risk
+                       factors, identify those who must be prioritised to attend the screening camp and refer the
+                       individuals with symptoms to the nearest health facility where a Medical Officer is available.
+
+                       When are completing the tool, please remember if a person responds, “yes” to any
+                       question in CBAC, it does not mean that they have the disease. Also, if somebody says
+                       “no” in response to a question it does not mean that they do not have the disease. The
+                       important thing for you to remember is that everybody (of 30 years and above) must be
+                       screened. You should also know that if an individual has a low score on the CBAC, this
+                       does not mean that they do not need screening. However, those with high risk scores on
+                       the CBAC should be strongly urged to get screened.
+
+                       There is also a section in the form in which you must enter details of exposure to smoke
+                       which is not related to tobacco. This tells you about the risk of people to respiratory
+                       diseases.
+
+                       You should also be careful to not create panic or scare in the community about these
+                       disease conditions. The checklist itself does not diagnose a patient with disease. You must
+
+
+                       Community Based Assessment Checklist (CBAC)
+
+
+
+
+50 | Module for ASHA on Non-Communicable Diseases
+explain to people, that they need to be first screened by the ANM and then the diagnosis
+will be confirmed by a medical officer. The key message is most NCDs are preventable
+and also that NCDs including cancer can be treated if detected early.
+
+In completing the formats and CBAC, you will be asking individuals for Aadhaar numbers.
+Please note that every individual has to provide their consent to giving you the number.
+At Annexure 3, is a consent form that every individual must sign.
+
+3. Screening
+Screening is an activity where a person even though she/he is
+apparently healthy, is examined physically, or with the help of
+equipment or tests to identify if they have a disease condition.
+Individuals with Non-Communicable Diseases may
+appear healthy, so it is important to screen adults at
+regular intervals. This time period is different for different
+conditions. For hypertension and diabetes screening
+should be conducted every year, and for cancers once
+in five years.
+
+On a fixed day, every week, the ANM will undertake
+screening for hypertension, diabetes, oral and breast
+cancer. Until the ANMs are trained for detecting cancer
+of the cervix, screening for cancer cervix will take place
+at the PHC/CHC nearest the village. Depending on the distance the screening by ANMs
+can take place at the village or at the sub- centre. In urban areas, this can take place in the
+Urban PHC or outreach sessions. Screening involves examination of the mouth and the
+breast by the ANM, measurement of BP and glucose.
+
+Target population (for screening):
+l   All men and women of 30 years and above for Oral cancer, Hypertension and Diabetes
+    Mellitus.
+
+l   All women of 30 years and above for cervical and breast cancer.
+
+Your tasks prior to the screening day are to mobilise the community to attend the
+screening on the date and time of the ANMs visit to the village or the date on which they
+need to go to the sub centre.
+
+You should remember that most of the people will at first not agree to being examined,
+since they are healthy. You will need to use your skills to convince people that screening
+would help to identify disease conditions that may not have symptoms till the disease
+is advanced. If you find it difficult to convince any individual, you can ask the ASHA
+facilitator and ANM to visit the family along with you and explain the importance of
+screening.
+
+On a particular day, about 30 people can be screened. Thus, in twelve or thirteen days
+you can screen the target population. These will be spread over the entire year. The ANM
+will make a schedule for screening in her area-and you will get the dates for your area
+from her. This also means that you will have to make sure that the number of people on a
+particular screening day, do not exceed thirty. Otherwise the ANM will be overburdened
+and crowd management will be difficult. You will also help the ANM in recording the
+
+
+
+                                                                                             Key Tasks of the ASHA | 51
+                       measurements. On every screening day, you also have to ensure that VHSNC and MAS
+                       members are also present and support you in undertaking health promotion activities.
+
+                       There are also likely to be people in your community who have already been diagnosed
+                       with one of these conditions. Their BP and glucose should be measured on a monthly
+                       basis and not necessarily on the screening day.
+
+                       4. Undertaking Health Promotion
+                       In chapter 1, you have learnt about the importance of health promotion. You have also
+                       learnt about how to undertake health promotion related to specific risk behaviours. You
+                       have learnt how healthy lifestyles like diets, physical activity, and avoidance of tobacco
+                       and harmful drinking, etc ,can lead to prevention of diseases. You will need to make
+                       sure that health promotion activities are continuous and not limited to the screening
+                       day alone. You can also undertake health promotion during home visits and community
+                       meetings, including meetings of the VHSNC/MAS.
+
+
+
+
+                       5. Undertaking Follow-up for Treatment Adherence and Enabling
+                       Lifestyle Changes
+                       If an individual is referred by the ANM to the PHC-MO, you will need to follow up with
+                       them or even escort them to the health facility. Your task is to ensure that all individuals
+                       who are asked by the ANM to visit the health facility actually are examined by the MO.
+                       Some of them may be put on treatment for blood pressure or diabetes. Some may need
+                       to go to a CHC or district hospitals for confirmation of cancer. At Annexure four is a list
+                       of health care services for each condition that is available at the various levels of facility,
+                       including referral sites.
+
+                       Once an individual is put on treatment for hypertension or diabetes the treatment is most
+                       likely lifelong. Your task is to make sure they obtain their supply of drugs from the sub
+                       centre or PHC, and are regular in taking the medicines. You will also need to undertake
+                       home visits to ensure that they are making changes in their life style and adopting positive
+                       health behaviours. This will reduce the likelihood of complications.
+
+                       Sometimes patients may complain of symptoms that could be a result of side effects of
+                       medicines. You must refer them to the MO in the PHCs. In the case of cancer patients,
+                       the treatment is at the level of a medical college or specialised cancer treatment centre.
+                       However, when the patient returns home you should follow up to provide support and
+                       enable referral in case of any symptoms.
+
+
+
+52 | Module for ASHA on Non-Communicable Diseases
+6. Creating Patient Support Groups
+As an ASHA, you should try to form groups of patients diagnosed with hypertension,
+diabetes and those on cancer treatment. Patients/friends/families/frontline workers can
+form these groups to help each other by bringing them together. Setting up and managing
+a patient support group does not require medical qualifications. All it needs is compassion,
+an ability to form groups conduct meetings and ensure that members are sensitive to each
+other’s needs.
+
+Patient support groups help patients and their family members by providing mutual support,
+providing information about diseases, raising awareness about complications, countering
+discrimination and stigma attached to a particular disease and enabling support for
+treatment continuation and changes in lifestyle behaviour. As an ASHA, you should ensure
+that individuals who are part of marginalised groups and have a disease condition are also
+encouraged and supported to become part of these groups. You will speak at first to individual
+patient with a particular condition and tell them about the benefits of participating in such a
+group. Then you could even start with 2-3 individuals and their families/friends and enable
+regular meetings. Slowly people will join as word spreads.
+
+As you complete your training in this book, you will have learnt a lot about these non-
+communicable diseases. You will have understood that all of them share several common
+features, particularly in relation to the modifiable risk factors - diet, physical activity,
+                       use of tobacco and alcohol. All of these can be addressed through
+                       health promotion efforts. Undertaking health promotion is a very
+                        important part of addressing non communicable diseases. There
+                        will be initial difficulties especially since it is hard to change
+                                           behaviours, but with patience and practice you
+                                           will become more confident in helping people.
+                                           This will make you a trusted member of the
+                                           community. Remember that you can always go
+                                            to the ANM, nurse or medical officer in your
+                                            PHC to clarify your doubts.
+
+
+
+
+                                                                                             Key Tasks of the ASHA | 53
+ANNEXURES
+Annexure 1
+
+Reporting Format for ASHA
+
+ASHA Name
+
+Village Name									Hamlet Name
+
+Sub centre Name								PHC Name
+
+
+Part A) Family folder
+1. Household details –
+   i. Number/ID
+   ii. Name of Head of the Household
+   iii. Details of household amenities –                                                                  Please specify
+a) Type of house
+
+(Kuccha/Pucca with stone and mortar/Pucca with bricks and concrete/or any other specify)
+b) Availability of toilet
+
+(Flush toilet with running water/flush toilet without water/pit toilet with running water
+supply/pit toilet without water supply/or any other specify)
+c) Source of drinking water
+
+(Tap water/hand pump within house/hand pump outside of house/well/tank/river/pond/
+or any other specify)
+d) Availability of electricity
+
+(Electricity supply/generator/solar power/kerosene lamp/or any other specify)
+e) Motorised vehicle
+
+(Motor bike/Car/Tractor/or any other specify)
+f) Type of fuel used for cooking
+
+(Firewood/crop residue/ cow dung cake/ coal/ kerosene/ LPG/ or any other specify)
+
+g) Contact details – (Telephone number of head of the family)
+
+S. Individual Aadhaar ID              Individual Health IDSex Date of Age Marital Beneficiary of any   Current Status of
+No Name       (if Aadhaar id is not                           Birth       Status health insurance      residence
+              available please        (issued by SHC/ANM)                         scheme
+              add details of other
+              ids like Voter id or
+              Ration card)
+                                                                                   Yes/    Details     Staying at   Migrated
+                                                                                           of the      the house    temporarily
+                                                                                   No      scheme (as currently     for work
+                                                                                           applicable)
+
+
+
+
+                                                                                                                Annexures | 57
+                                                    Part B) Individual Health Record
+                                                    Individual Name
+                                                    Individual ID
+
+                                                    A. History
+
+                                                    Known Medical Illness       Date of Diagnosis         Treatment                                     Any Complications   Others
+                                                    for NCDs
+                                                                                                          Currently under          Discontinued
+                                                                                                          treatment
+
+
+
+
+                                                    B. Screening for NCD
+
+
+
+
+58 | Module for ASHA on Non-Communicable Diseases
+                                                    Screened for (specify date on which screening was done)         Screening Result                                           Risk    Other -
+                                                                                                                                                                               Factors Remarks
+                                                    Hypertension Diabetes Oral   Breast Cervical COPD       Hypertension Diabetes Oral   Breast Cervical COPD
+                                                                          Cancer Cancer Cancer (Respiratory                       Cancer Cancer Cancer (Respiratory
+                                                                                                 Disorders)                                              Disorders)
+
+
+
+
+                                                    C. Treatment Details
+
+                                                    Condition Date of   Treatment Initiation    Treatment Compliance - Currently on Treatment     Treatment Discontinued              Other -
+                                                              Diagnosis                                                                                                               Remarks
+                                                                           Health Date Details Health Date of Supply of Medicine Side Effects/    Reasons for       Date of
+                                                                           Facility            Facility Visit Received – Monthly Complications    Discontinuation   Discontinuation
+                                                                                                                                       (if any)
+Community Based Assessment Checklist (CBAC) Form for Early Detection of
+NCDs and Tuberculosis (TB)
+General Information
+Name of ASHA                         Village
+Name of MPW/ANM                      Sub Centre
+PHC                                  Date
+Personal Details
+Name                                 Any Identifier (Aadhar Card, UID, Voter ID)
+Age                                  State Health Insurance Schemes: (Y/N) ________
+Sex                                  Telephone No.
+Address
+
+
+Part A: Risk Assessment
+Question                         Range                         Circle Any Write Score
+1.What is your age? (in 30-39 years                            0
+complete years)                  40-49 years                   1
+                                 ≥ 50 years                    2
+2. Do you smoke or consume Never                               0
+smokeless products such as Used to consume in the past/ 1
+gutka or khaini?                 Sometimes now
+                                 Daily                         2
+3.Do you consume alcohol No                                    0
+daily                            Yes                           1
+4. Measurement of waist (in Female             Male
+cm)                              80 cm or less 90 cm or less   0
+                                 81-90 cm      91-100 cm       1
+                                 More than 90 More than 100 2
+                                 cm            cm
+5. Do you undertake any At least 150 minutes in a week         0
+physical      activities     for
+minimum of 150 minutes in a Less than 150 minutes in a week 1
+week?
+6. Do you have a family No                                     0
+history (any one of your
+parents or siblings) of high
+                                 Yes                           2
+blood pressure, diabetes and
+heart disease?
+Total Score
+A score above 4 indicates that the person may be at risk for these NCDs and needs to be
+prioritized for attending the weekly NCD day
+Part B: Early Detection: Ask if Patient has any of these Symptoms
+B1: Women and Men                                  Yes/No                                               Yes/No
+Shortness of breath                                            History of fits
+Coughing more than 2 weeks*                                    Difficulty in opening mouth
+Blood in sputum*                                               Ulcers/patch/growth in mouth that has
+                                                               not healed in two weeks
+Fever for > 2 weeks*                                           Any change in the tone of your voice
+Loss of weight*                                                Any patch or discoloration on skin
+Night Sweats*                                                  Difficulty in holding objects with
+                                                               fingers
+Are you currently taking anti-TB drugs**                       Loss of sensation for Cold/Hot objects
+                                                               in in palm or sole
+Anyone in family currently suffering from
+TB**
+History of TB *
+B2: Women only                                     Yes/No                                               Yes/No
+Lump in the breast                                             Bleeding after menopause
+Blood stained discharge from the nipple                        Bleeding after intercourse
+Change in shape and size of breast                             Foul smelling vaginal discharge
+Bleeding between periods
+In case of individual answers Yes to any one of the above-mentioned symptoms, refer the patient immediately to
+the nearest facility where a Medical Officer is available
+*If the response is Yes- action suggested: Sputum sample collection and transport to nearest TB testing center
+** If the answer is yes, tracing of all family members to be done by ANM/MPW
+
+
+Part C: Circle all that Apply
+Type of Fuel used for cooking – Firewood/Crop Residue/ Cow dung cake/Coal/Kerosene
+Occupational exposure – Crop residue burning/burning of garbage – leaves/working in industries with smoke,
+gas and dust exposure such as brick kilns and glass factories etc.
+Annexure 3
+
+Consent Form
+
+Consent for MoHFW (To be obtained from beneficiary)
+
+I, ____________, the holder of Aadhaar number ___________, hereby give my consent to
+MoHFW/State Government to use my Aadhaar number, biometric etc. for electronic/
+paperless Know Your Customer (eKYC) data with UIDAI for all government programmes/
+services in health and nutrition sector. I also give my consent for sharing of my Aadhaar
+number with other concerned State/Central government departments/organisations
+for the purpose of authentication. MoHFW/State Government has informed me that
+my biometrics will not be stored/shared and will be utilised only for the purpose of
+authentication.
+
+
+
+
+Date:							Signature/Thumb Impression
+
+Place:								
+
+
+
+
+                                                                                            Annexures | 61
+Annexure 4
+
+Healthcare Services for NCDs at Various Facility Levels
+
+
+ Name of NCDs             Health Facility       Package of Services Available
+ Hypertension,            Sub-centre (SC)       l Health promotion for behaviour change
+ Diabetes, Breast         with ANM and/or
+ Cancer                   MPW                   l Screening for blood pressure and random blood sugar
+
+                                                l Screening for Clinical Breast Examination (CBE) to detect any
+                                                    abnormality in breasts.
+
+                                                l Referral of suspected cases of hypertension and diabetes for
+                                                    confirmation to nearest PHC
+
+                                                l Undertake regular follow-up on treatment
+
+                                                l Identifying and referring those with complications
+
+                                                l Home-based care for patients
+
+ Hypertension,            Primary Health        l Health promotion for behaviour change
+ Diabetes, Common         Centre (PHC) with
+ Cancers - Breast,        MO and SN             l Conducting clinical and laboratory investigations for suspected
+ Oral and Cervix                                    cases of hypertension and diabetes for confirmatory diagnosis
+
+                                                l Conduct CBE for screening of breast cancer, and OVE for
+                                                    screening of oral cancer by a trained health professional
+
+                                                l Conduct VIA for screening of cervical cancer
+
+                                                l Prompt referral of positive cases of common cancers/
+                                                    precancerous lesions to CHC/SDH/DH or other higher facilities
+                                                    for confirmation
+
+                                                l PHC Medical Officer to provide treatment plan and initiate
+                                                    treatment for diagnosed cases of hypertension and diabetes
+
+                                                l Ensure that adequate drugs and supplies are available for
+                                                    dispensing by SC staff
+ Hypertension,            Community Health      l Health promotion for behaviour change
+ Diabetes, Common         Centres (CHC);
+ Cancers - Breast,        Sub Divisional        l Confirmatory diagnosis of referred cases from lower level
+ Oral and Cervix          Hospital (SDH),           health facilities
+                          District Hospital
+                                                l Management of NCDs - outpatient and inpatients
+                          (DH) and other
+                          higher facilities     l Treatment plan and initiation for confirmed disease conditions
+
+                                                l Ensure adequate drugs and supplies
+
+
+
+
+62 | Module for ASHA on Non-Communicable Diseases
+

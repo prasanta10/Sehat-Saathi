@@ -1,0 +1,189 @@
+pathway: adult_cough
+# A fully asked visit with every answer negative: cough for 3 days, nothing else.
+base:
+  age_years: 35
+  cough_present: "yes"
+  cough_duration_days: 3
+  blood_in_sputum: "no"
+  fever_present: "no"
+  significant_weight_loss: "no"
+  night_sweats: "no"
+  tb_household_contact: "no"
+  past_tb: "no"
+  rf_breathless: "no"
+  rf_altered_consciousness_convulsions_weakness: "no"
+  rf_coughing_blood_cup: "no"
+  rf_severe_chest_or_abdominal_pain: "no"
+  rf_confined_to_bed: "no"
+  rf_recurrent_vomiting_diarrhoea: "no"
+cases:
+  # --- whole-pathway behaviour -------------------------------------------------------------
+  - id: cough_all_negative_is_not_low
+    expect: {urgency: INCOMPLETE, reason: no_rule_matched, fired: []}
+  - id: cough_nothing_known
+    no_base: true
+    facts: {}
+    expect: {urgency: INCOMPLETE, reason: missing_facts, missing_includes: [age_years, cough_present, rf_breathless, cough_duration_days]}
+  - id: cough_red_flags_asked_first
+    no_base: true
+    facts: {age_years: 40, cough_present: "yes"}
+    expect: {urgency: INCOMPLETE, missing_first: rf_breathless}
+  - id: cough_universal_danger_sign_overrides
+    facts: {ds_unconscious: "yes", cough_duration_days: 30}
+    expect: {urgency: EMERGENCY, fired: [general.unconscious]}
+    covers: [{rule: general.unconscious, kind: firing}]
+  - id: cough_universal_danger_sign_with_nothing_else
+    no_base: true
+    facts: {ds_sudden_chest_pain: "yes"}
+    expect: {urgency: EMERGENCY, fired: [general.sudden_chest_pain]}
+  - id: cough_age_17_pathway_not_applicable
+    facts: {age_years: 17, cough_duration_days: 20}
+    expect: {urgency: INCOMPLETE, reason: pathway_not_applicable, minimum_level: MEDIUM}
+  - id: cough_age_18_applies
+    facts: {age_years: 18, cough_duration_days: 20}
+    expect: {urgency: MEDIUM, fired: [cough.two_weeks_or_more]}
+  - id: cough_medium_but_red_flag_unknown
+    facts: {cough_duration_days: 20}
+    unset: [rf_breathless]
+    expect: {urgency: INCOMPLETE, reason: missing_facts, minimum_level: MEDIUM, missing_includes: [rf_breathless]}
+  - id: cough_several_medium_first_wins
+    facts: {cough_duration_days: 20, night_sweats: "yes", past_tb: "yes"}
+    expect: {urgency: MEDIUM, fired: [cough.two_weeks_or_more]}
+  - id: cough_high_beats_medium
+    facts: {cough_duration_days: 20, rf_confined_to_bed: "yes"}
+    expect: {urgency: HIGH, fired: [cough.red_flag_confined_to_bed]}
+  - id: cough_high_with_most_facts_missing
+    no_base: true
+    facts: {age_years: 50, cough_present: "yes", rf_coughing_blood_cup: "yes"}
+    expect: {urgency: HIGH, fired: [cough.red_flag_coughing_blood_cup], missing_includes: [rf_breathless, cough_duration_days]}
+
+  # --- red flags (HIGH) --------------------------------------------------------------------
+  - id: rf_breathless_fires
+    facts: {rf_breathless: "yes"}
+    expect: {urgency: HIGH, fired: [cough.red_flag_breathless]}
+    covers: [{rule: cough.red_flag_breathless, kind: firing}]
+  - id: rf_breathless_unknown
+    unset: [rf_breathless]
+    expect: {urgency: INCOMPLETE, missing_includes: [rf_breathless]}
+    covers: [{rule: cough.red_flag_breathless, kind: unknown}]
+  - id: rf_consciousness_fires
+    facts: {rf_altered_consciousness_convulsions_weakness: "yes"}
+    expect: {urgency: HIGH, fired: [cough.red_flag_consciousness_convulsions_weakness]}
+    covers: [{rule: cough.red_flag_consciousness_convulsions_weakness, kind: firing}]
+  - id: rf_consciousness_unknown
+    unset: [rf_altered_consciousness_convulsions_weakness]
+    expect: {urgency: INCOMPLETE, missing_includes: [rf_altered_consciousness_convulsions_weakness]}
+    covers: [{rule: cough.red_flag_consciousness_convulsions_weakness, kind: unknown}]
+  - id: rf_blood_cup_fires
+    facts: {rf_coughing_blood_cup: "yes", blood_in_sputum: "yes"}
+    expect: {urgency: HIGH, fired: [cough.red_flag_coughing_blood_cup]}
+    covers: [{rule: cough.red_flag_coughing_blood_cup, kind: firing}]
+  - id: rf_blood_cup_unknown
+    unset: [rf_coughing_blood_cup]
+    expect: {urgency: INCOMPLETE, missing_includes: [rf_coughing_blood_cup]}
+    covers: [{rule: cough.red_flag_coughing_blood_cup, kind: unknown}]
+  - id: rf_severe_pain_fires
+    facts: {rf_severe_chest_or_abdominal_pain: "yes"}
+    expect: {urgency: HIGH, fired: [cough.red_flag_severe_pain]}
+    covers: [{rule: cough.red_flag_severe_pain, kind: firing}]
+  - id: rf_severe_pain_unknown
+    unset: [rf_severe_chest_or_abdominal_pain]
+    expect: {urgency: INCOMPLETE, missing_includes: [rf_severe_chest_or_abdominal_pain]}
+    covers: [{rule: cough.red_flag_severe_pain, kind: unknown}]
+  - id: rf_confined_fires
+    facts: {rf_confined_to_bed: "yes"}
+    expect: {urgency: HIGH, fired: [cough.red_flag_confined_to_bed]}
+    covers: [{rule: cough.red_flag_confined_to_bed, kind: firing}]
+  - id: rf_confined_unknown
+    unset: [rf_confined_to_bed]
+    expect: {urgency: INCOMPLETE, missing_includes: [rf_confined_to_bed]}
+    covers: [{rule: cough.red_flag_confined_to_bed, kind: unknown}]
+  - id: rf_vomiting_fires
+    facts: {rf_recurrent_vomiting_diarrhoea: "yes"}
+    expect: {urgency: HIGH, fired: [cough.red_flag_recurrent_vomiting_diarrhoea]}
+    covers: [{rule: cough.red_flag_recurrent_vomiting_diarrhoea, kind: firing}]
+  - id: rf_vomiting_unknown
+    unset: [rf_recurrent_vomiting_diarrhoea]
+    expect: {urgency: INCOMPLETE, missing_includes: [rf_recurrent_vomiting_diarrhoea]}
+    covers: [{rule: cough.red_flag_recurrent_vomiting_diarrhoea, kind: unknown}]
+
+  # --- presumptive TB (MEDIUM) -------------------------------------------------------------
+  - id: cough_14_days_fires
+    facts: {cough_duration_days: 14}
+    expect: {urgency: MEDIUM, fired: [cough.two_weeks_or_more]}
+    covers: [{rule: cough.two_weeks_or_more, kind: firing}]
+  - id: cough_13_days_boundary
+    facts: {cough_duration_days: 13}
+    expect: {urgency: INCOMPLETE, reason: no_rule_matched}
+    covers: [{rule: cough.two_weeks_or_more, kind: boundary}]
+  - id: cough_duration_unknown
+    unset: [cough_duration_days]
+    expect: {urgency: INCOMPLETE, missing_includes: [cough_duration_days]}
+    covers: [{rule: cough.two_weeks_or_more, kind: unknown}]
+  - id: blood_in_sputum_fires
+    facts: {blood_in_sputum: "yes"}
+    expect: {urgency: MEDIUM, fired: [cough.blood_in_sputum]}
+    covers: [{rule: cough.blood_in_sputum, kind: firing}]
+  - id: blood_in_sputum_unknown
+    unset: [blood_in_sputum]
+    expect: {urgency: INCOMPLETE, missing_includes: [blood_in_sputum]}
+    covers: [{rule: cough.blood_in_sputum, kind: unknown}]
+  - id: fever_14_days_fires
+    facts: {fever_present: "yes", fever_duration_days: 14}
+    expect: {urgency: MEDIUM, fired: [cough.fever_two_weeks_or_more]}
+    covers: [{rule: cough.fever_two_weeks_or_more, kind: firing}]
+  - id: fever_13_days_boundary
+    facts: {fever_present: "yes", fever_duration_days: 13}
+    expect: {urgency: INCOMPLETE, reason: no_rule_matched}
+    covers: [{rule: cough.fever_two_weeks_or_more, kind: boundary}]
+  - id: fever_duration_unknown
+    facts: {fever_present: "yes"}
+    expect: {urgency: INCOMPLETE, missing_includes: [fever_duration_days]}
+    covers: [{rule: cough.fever_two_weeks_or_more, kind: unknown}]
+  - id: fever_presence_unknown
+    unset: [fever_present]
+    expect: {urgency: INCOMPLETE, missing_includes: [fever_present]}
+  - id: weight_loss_fires
+    facts: {significant_weight_loss: "yes"}
+    expect: {urgency: MEDIUM, fired: [cough.weight_loss]}
+    covers: [{rule: cough.weight_loss, kind: firing}]
+  - id: weight_loss_unknown
+    unset: [significant_weight_loss]
+    expect: {urgency: INCOMPLETE, missing_includes: [significant_weight_loss]}
+    covers: [{rule: cough.weight_loss, kind: unknown}]
+  - id: night_sweats_fires
+    facts: {night_sweats: "yes"}
+    expect: {urgency: MEDIUM, fired: [cough.night_sweats]}
+    covers: [{rule: cough.night_sweats, kind: firing}]
+  - id: night_sweats_unknown
+    unset: [night_sweats]
+    expect: {urgency: INCOMPLETE, missing_includes: [night_sweats]}
+    covers: [{rule: cough.night_sweats, kind: unknown}]
+  - id: age_61_any_duration_fires
+    facts: {age_years: 61, cough_duration_days: 1}
+    expect: {urgency: MEDIUM, fired: [cough.any_duration_over_60]}
+    covers: [{rule: cough.any_duration_over_60, kind: firing}]
+  - id: age_60_boundary
+    facts: {age_years: 60, cough_duration_days: 1}
+    expect: {urgency: INCOMPLETE, reason: no_rule_matched}
+    covers: [{rule: cough.any_duration_over_60, kind: boundary}]
+  - id: age_unknown
+    unset: [age_years]
+    expect: {urgency: INCOMPLETE, reason: missing_facts, missing_includes: [age_years]}
+    covers: [{rule: cough.any_duration_over_60, kind: unknown}]
+  - id: household_contact_fires
+    facts: {tb_household_contact: "yes", cough_duration_days: 2}
+    expect: {urgency: MEDIUM, fired: [cough.any_duration_household_contact]}
+    covers: [{rule: cough.any_duration_household_contact, kind: firing}]
+  - id: household_contact_unknown
+    unset: [tb_household_contact]
+    expect: {urgency: INCOMPLETE, missing_includes: [tb_household_contact]}
+    covers: [{rule: cough.any_duration_household_contact, kind: unknown}]
+  - id: past_tb_fires
+    facts: {past_tb: "yes"}
+    expect: {urgency: MEDIUM, fired: [cough.any_duration_past_tb]}
+    covers: [{rule: cough.any_duration_past_tb, kind: firing}]
+  - id: past_tb_unknown
+    unset: [past_tb]
+    expect: {urgency: INCOMPLETE, missing_includes: [past_tb]}
+    covers: [{rule: cough.any_duration_past_tb, kind: unknown}]

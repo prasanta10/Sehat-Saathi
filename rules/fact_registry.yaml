@@ -1,0 +1,279 @@
+# Fact registry: every fact the extractor, UI, rules engine and offline evaluator may use.
+# `unknown` is always allowed and is distinct from `no`. Labels need review by Hindi-speaking
+# health workers before field use.
+version: 0.1.0
+facts:
+  # --- person record --------------------------------------------------------------------
+  age_years:
+    type: number
+    unit: years
+    min: 0
+    max: 120
+    integer: true
+    group: person
+    label: {en: "Age (years)", hi: "उम्र (साल)"}
+  age_months:
+    type: number
+    unit: months
+    min: 0
+    max: 59
+    integer: true
+    group: person
+    label: {en: "Age (months, for children under 5)", hi: "उम्र (महीने, 5 साल से छोटे बच्चे के लिए)"}
+    note: "Total age in months, used only for children under five years."
+  sex:
+    type: enum
+    values: [female, male, other]
+    value_labels:
+      female: {en: "Female", hi: "महिला"}
+      male: {en: "Male", hi: "पुरुष"}
+      other: {en: "Other", hi: "अन्य"}
+    group: person
+    label: {en: "Sex", hi: "लिंग"}
+  pregnant:
+    type: tristate
+    group: person
+    label: {en: "Currently pregnant", hi: "अभी गर्भवती"}
+
+  # --- universal danger signs (rules/danger_signs.yaml) ----------------------------------
+  ds_unconscious:
+    type: tristate
+    group: danger_sign
+    label: {en: "Unconscious or not responding to voice or touch", hi: "बेहोश, या आवाज़ देने या छूने पर कोई जवाब नहीं"}
+  ds_profuse_bleeding:
+    type: tristate
+    group: danger_sign
+    label: {en: "Heavy bleeding that cannot be stopped", hi: "बहुत ज़्यादा खून बहना जो रुक नहीं रहा"}
+  ds_sudden_limb_weakness:
+    type: tristate
+    group: danger_sign
+    label: {en: "Sudden weakness in an arm or leg (usually one side of the body)", hi: "अचानक हाथ या पैर में कमज़ोरी (अक्सर शरीर के एक तरफ़)"}
+  ds_sudden_face_drooping:
+    type: tristate
+    group: danger_sign
+    label: {en: "Sudden drooping or weakness of one side of the face", hi: "चेहरे का एक तरफ़ अचानक लटकना या कमज़ोर होना"}
+  ds_sudden_speech_difficulty:
+    type: tristate
+    group: danger_sign
+    label: {en: "Sudden difficulty in speaking, or cannot speak", hi: "अचानक बोलने में कठिनाई, या बोल न पाना"}
+  ds_sudden_vision_blurring:
+    type: tristate
+    group: danger_sign
+    label: {en: "Sudden blurring of vision", hi: "अचानक धुंधला दिखाई देना"}
+  ds_sudden_balance_headache_dizziness:
+    type: tristate
+    group: danger_sign
+    label: {en: "Sudden loss of balance, headache or dizziness", hi: "अचानक संतुलन खोना, सिरदर्द या चक्कर आना"}
+  ds_sudden_chest_pain:
+    type: tristate
+    group: danger_sign
+    label: {en: "Sudden pain in the chest", hi: "अचानक सीने में दर्द"}
+  ds_preg_bleeding:
+    type: tristate
+    group: danger_sign
+    label: {en: "Bleeding during pregnancy", hi: "गर्भावस्था के दौरान रक्तस्राव"}
+  ds_delivery_excessive_bleeding:
+    type: tristate
+    group: danger_sign
+    label: {en: "Excessive bleeding during or after delivery", hi: "प्रसव के दौरान अथवा प्रसव के पश्चात् अत्यधिक रक्तस्राव"}
+  ds_preg_high_fever:
+    type: tristate
+    group: danger_sign
+    label: {en: "High fever during pregnancy or within one month of delivery", hi: "गर्भावस्था अथवा प्रसव के एक महीने के भीतर तेज बुखार"}
+  ds_preg_fits_headache_vision_swelling:
+    type: tristate
+    group: danger_sign
+    label: {en: "In pregnancy: fits, blurring of vision, headache, or swelling all over the body", hi: "दौरे पड़ना, धुंधला दिखाई देना, सिरदर्द, उल्टी, पूरे शरीर में सूजन"}
+  ds_labour_over_12_hours:
+    type: tristate
+    group: danger_sign
+    label: {en: "Labour pain for more than 12 hours", hi: "12 घण्टे से अधिक समय तक प्रसव पीड़ा"}
+  ds_waters_broke_without_labour:
+    type: tristate
+    group: danger_sign
+    label: {en: "Bursting of water bag without labour pains", hi: "प्रसव पीड़ा के बिना ही पानी की थैली फट जाना"}
+  ds_postnatal_convulsions:
+    type: tristate
+    group: danger_sign
+    label: {en: "After delivery: convulsions (fits)", hi: "प्रसव के बाद दौरे (झटके) पड़ना"}
+  ds_postnatal_breathing_difficulty:
+    type: tristate
+    group: danger_sign
+    label: {en: "After delivery: difficulty in breathing", hi: "प्रसव के बाद सांस लेने में कठिनाई"}
+  ds_postnatal_severe_abdominal_pain:
+    type: tristate
+    group: danger_sign
+    label: {en: "After delivery: severe abdominal pain", hi: "प्रसव के बाद पेट में तेज़ दर्द"}
+  ds_nb_reduced_movement:
+    type: tristate
+    group: danger_sign
+    label: {en: "Newborn moves only when stimulated, or does not move at all", hi: "नवजात केवल छूने/हिलाने पर हिलता है, या बिल्कुल नहीं हिलता"}
+  ds_nb_not_able_to_feed:
+    type: tristate
+    group: danger_sign
+    label: {en: "Newborn is not able to feed", hi: "नवजात दूध नहीं पी पा रहा"}
+  ds_nb_convulsion:
+    type: tristate
+    group: danger_sign
+    label: {en: "Newborn has convulsions (fits)", hi: "नवजात को दौरे (झटके) आ रहे हैं"}
+  ds_nb_breathing_difficulty:
+    type: tristate
+    group: danger_sign
+    label: {en: "Newborn has difficulty in breathing", hi: "नवजात को सांस लेने में कठिनाई"}
+  ds_nb_fast_breathing:
+    type: tristate
+    group: danger_sign
+    label: {en: "Newborn breathes more than 60 times in one minute (counted)", hi: "नवजात एक मिनट में 60 से ज़्यादा बार सांस लेता है (गिनकर)"}
+  ds_nb_severe_chest_indrawing:
+    type: tristate
+    group: danger_sign
+    label: {en: "Newborn has severe chest indrawing", hi: "नवजात की छाती सांस लेते समय ज़ोर से अंदर धंसती है"}
+  ds_nb_yellow_palms_soles:
+    type: tristate
+    group: danger_sign
+    label: {en: "Newborn has yellow palms and soles", hi: "नवजात की हथेलियाँ और तलवे पीले हैं"}
+  ds_nb_blood_in_stool:
+    type: tristate
+    group: danger_sign
+    label: {en: "Newborn has blood in stool", hi: "नवजात के मल में खून"}
+  ds_nb_feels_hot:
+    type: tristate
+    group: danger_sign
+    label: {en: "Newborn feels hot to touch (armpit temperature 37.5 °C or above)", hi: "नवजात छूने पर गर्म है (बगल का तापमान 37.5 °C या ज़्यादा)"}
+  ds_nb_feels_cold:
+    type: tristate
+    group: danger_sign
+    label: {en: "Newborn feels cold to touch (armpit temperature below 36 °C)", hi: "नवजात छूने पर ठंडा है (बगल का तापमान 36 °C से कम)"}
+  ds_child_not_able_to_drink_or_feed:
+    type: tristate
+    group: danger_sign
+    label: {en: "Child is not able to drink, breastfeed or feed", hi: "बच्चा कुछ पी, स्तनपान या खा नहीं पा रहा"}
+  ds_child_vomits_everything:
+    type: tristate
+    group: danger_sign
+    label: {en: "Child vomits everything", hi: "बच्चा जो भी खाए-पिए, सब उल्टी कर देता है"}
+  ds_child_lethargic_or_unconscious:
+    type: tristate
+    group: danger_sign
+    label: {en: "Child is lethargic (very drowsy) or unconscious", hi: "बच्चा बहुत सुस्त है या बेहोश है"}
+  ds_child_convulsions:
+    type: tristate
+    group: danger_sign
+    label: {en: "Child has convulsions now or has had them in this illness", hi: "बच्चे को अभी दौरे पड़ रहे हैं या इस बीमारी में पड़े हैं"}
+  ds_child_breathing_difficulty:
+    type: tristate
+    group: danger_sign
+    label: {en: "Child has difficulty in breathing", hi: "बच्चे को सांस लेने में कठिनाई"}
+  ds_child_severe_chest_indrawing:
+    type: tristate
+    group: danger_sign
+    label: {en: "Child has severe chest in-drawing", hi: "बच्चे की छाती सांस लेते समय ज़ोर से अंदर धंसती है"}
+  ds_child_fast_breathing:
+    type: tristate
+    group: danger_sign
+    label: {en: "Child breathes fast (counted for one minute): more than 50 if 2–12 months old, more than 40 if 1–5 years old", hi: "बच्चा तेज़ सांस लेता है (एक मिनट गिनकर): 2–12 महीने में 50 से ज़्यादा, 1–5 साल में 40 से ज़्यादा"}
+  ds_child_fever_over_7_days_no_doctor:
+    type: tristate
+    group: danger_sign
+    label: {en: "Child has had fever for more than 7 days and has not seen a doctor", hi: "बच्चे को 7 दिन से ज़्यादा से बुखार है और डॉक्टर को नहीं दिखाया"}
+  ds_child_diarrhoea_over_14_days:
+    type: tristate
+    group: danger_sign
+    label: {en: "Child has had diarrhoea for more than 14 days", hi: "बच्चे को 14 दिन से ज़्यादा से दस्त है"}
+  ds_child_blood_in_stools:
+    type: tristate
+    group: danger_sign
+    label: {en: "Child has blood in stools", hi: "बच्चे के मल में खून"}
+
+  # --- adult cough pathway ------------------------------------------------------------------
+  cough_present:
+    type: tristate
+    evidence_must_include: ["khans", "khaans", "खांस", "खाँस", "cough", "खास", "कफ"]
+    group: symptom
+    label: {en: "Has a cough", hi: "खांसी है"}
+  cough_duration_days:
+    type: number
+    evidence_must_include: ["khans", "khaans", "खांस", "खाँस", "cough", "खास", "कफ"]
+    unit: days
+    min: 0
+    max: 3650
+    integer: true
+    group: symptom
+    label: {en: "Days of cough", hi: "खांसी कितने दिन से"}
+  blood_in_sputum:
+    type: tristate
+    evidence_must_include: ["khoon", "khun", "खून", "रक्त", "blood", "ब्लड", "bleed", "ब्लीड"]
+    group: symptom
+    label: {en: "Blood in sputum (any amount)", hi: "बलगम में खून (थोड़ा भी)"}
+  fever_present:
+    type: tristate
+    evidence_must_include: ["bukh", "बुखा", "fever", "taap", "ताप", "फीवर", "temperature", "टेम्प"]
+    group: symptom
+    label: {en: "Has fever", hi: "बुखार है"}
+  fever_duration_days:
+    type: number
+    evidence_must_include: ["bukh", "बुखा", "fever", "taap", "ताप", "फीवर", "temperature", "टेम्प"]
+    unit: days
+    min: 0
+    max: 3650
+    integer: true
+    group: symptom
+    label: {en: "Days of fever", hi: "बुखार कितने दिन से"}
+  significant_weight_loss:
+    type: tristate
+    evidence_must_include: ["wajan", "vajan", "wazan", "वज़न", "वजन", "weight", "dubla", "दुबल", "patla", "पतल", "वेट"]
+    group: symptom
+    label: {en: "Noticeable weight loss", hi: "वज़न साफ़ तौर पर घटा है"}
+  night_sweats:
+    type: tristate
+    evidence_must_include: ["pasin", "पसीन", "sweat", "स्वेट"]
+    group: symptom
+    label: {en: "Sweating at night", hi: "रात को पसीना आता है"}
+  tb_household_contact:
+    type: tristate
+    evidence_must_include: ["\\btb\\b", "\\bt b\\b", "टीबी", "टी बी", "तपेदिक", "क्षय", "tuberculosis", "ट्यूबर"]
+    group: history
+    label: {en: "Someone in the household has TB", hi: "घर में किसी को टीबी है"}
+  past_tb:
+    type: tristate
+    evidence_must_include: ["\\btb\\b", "\\bt b\\b", "टीबी", "टी बी", "तपेदिक", "क्षय", "tuberculosis", "ट्यूबर"]
+    group: history
+    label: {en: "Has had TB before", hi: "पहले टीबी हो चुकी है"}
+  rf_confined_to_bed:
+    type: tristate
+    evidence_must_include: ["bistar", "बिस्तर", "uth nahi", "उठ नहीं", "bed", "बेड"]
+    group: red_flag
+    label: {en: "Confined to bed (cannot get up)", hi: "बिस्तर से उठ नहीं पा रहे"}
+  rf_breathless:
+    type: tristate
+    evidence_must_include: ["saans", "sans", "सांस", "साँस", "breath", "dam ", "दम ", "सास", "ब्रीद", "ब्रेथ"]
+    group: red_flag
+    label:
+      en: "Breathless at rest, cannot finish a sentence without a pause, unable to eat, or breathless after walking 10–15 feet or going to the toilet"
+      hi: "आराम में भी सांस फूलना, बिना रुके एक वाक्य पूरा न कर पाना, खा न पाना, या 10–15 फ़ुट चलने या शौच जाने पर सांस फूलना"
+  rf_severe_chest_or_abdominal_pain:
+    type: tristate
+    evidence_must_include: ["dard", "दर्द", "pain", "पेन"]
+    group: red_flag
+    label: {en: "Severe chest pain or abdominal pain", hi: "सीने या पेट में तेज़ दर्द"}
+  rf_altered_consciousness_convulsions_weakness:
+    type: tristate
+    evidence_must_include: ["behosh", "बेहोश", "होश", "dora", "daura", "दौर", "jhatk", "झटक", "kamzor", "कमज़ोर", "कमजोर", "confus", "fit", "unconscious", "weak", "दौरा", "दौरे", "कन्फ्यू", "अनकॉन्श", "वीक"]
+    group: red_flag
+    label: {en: "Confused or drowsy, fits (convulsions), or weakness of a limb", hi: "उलझन या बेसुधी, दौरे (झटके), या हाथ-पैर में कमज़ोरी"}
+  rf_coughing_blood_cup:
+    type: tristate
+    group: red_flag
+    evidence_must_include: ["cup", "कप", "katori", "कटोरी", "glass", "गिलास"]
+    label: {en: "Coughing out blood, one cup or more", hi: "खांसी में एक कप या ज़्यादा खून"}
+  rf_recurrent_vomiting_diarrhoea:
+    type: tristate
+    evidence_must_include: ["ulti", "उल्टी", "उलटी", "dast", "दस्त", "vomit", "वोमिट", "वॉमिट", "loose motion", "लूज", "मोशन", "diarr", "डायर", "डाइर"]
+    group: red_flag
+    label: {en: "Repeated vomiting or diarrhoea", hi: "बार-बार उल्टी या दस्त"}
+
+  # --- household (optional, only to refine scheme information; never blocks a visit) ---------
+  ayushman_card_held:
+    type: tristate
+    group: household
+    label: {en: "Has an Ayushman card", hi: "आयुष्मान कार्ड है"}

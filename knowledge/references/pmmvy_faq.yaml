@@ -1,0 +1,20 @@
+id: pmmvy_faq
+title: Pradhan Mantri Matru Vandana Yojana — Frequently Asked Questions
+publisher: Ministry of Women and Child Development
+url: https://pmmvy.wcd.gov.in/Home/FrequentlyAskedQuestions
+version_or_date: Undated web page
+retrieved_on: '2026-11-12'
+jurisdiction: national
+kind: scheme
+sha256: 034b7691769412290f445873bd21032a7ec94bb841993072d0c674ce5bcf6b19
+local_copy: knowledge/references/files/pmmvy_faq.txt
+excerpts:
+- locator: Q3 eligibility
+  text: Women belonging to scheduled castes and scheduled tribes … Women holder of BPL ration Card … Women Beneficiaries under Pradhan Mantri Jan Aarogya Yojana (PMJAY) under Ayushman Bharat … Women holding
+    MGNREGA Job Card … Women whose net family income is less than ₹8 Lakh per annum … Women holding Ration Card under NFSA Act 2013
+- locator: Q13 states not implementing
+  text: Currently, the scheme is not being implemented in Telangana and Odisha as they are implementing their own respective maternity benefit schemes.
+- locator: Q21 documents
+  text: Beneficiaries need documents such as their Aadhaar card, Aadhaar mapped bank/post office account details, mobile number, eligibility proof, MCP/RCHI card, LMP date, ANC date, child birth certificate,
+    child immunization details etc.
+notes: Mission Shakti guidelines (2022) differ from this FAQ on ANC count and registration deadline; those details are not shown.

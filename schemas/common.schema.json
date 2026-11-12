@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sehat-saathi.local/schemas/common.schema.json",
+  "title": "Shared definitions",
+  "$defs": {
+    "id": {"type": "string", "pattern": "^[a-z0-9_]+(\\.[a-z0-9_]+)*$"},
+    "factKey": {"type": "string", "pattern": "^(?!(all|any|not)$)[a-z][a-z0-9_]*$"},
+    "semver": {"type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$"},
+    "date": {"type": "string", "format": "date", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+    "i18nText": {
+      "description": "User-facing text. Both Hindi and English are required.",
+      "type": "object",
+      "required": ["en", "hi"],
+      "properties": {
+        "en": {"type": "string", "minLength": 1},
+        "hi": {"type": "string", "minLength": 1}
+      },
+      "additionalProperties": false
+    },
+    "i18nList": {
+      "type": "object",
+      "required": ["en", "hi"],
+      "properties": {
+        "en": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "hi": {"type": "array", "items": {"type": "string", "minLength": 1}}
+      },
+      "additionalProperties": false
+    },
+    "sourceRef": {
+      "description": "Pointer to an official document in knowledge/references/ and the place in it.",
+      "type": "object",
+      "required": ["ref", "locator"],
+      "properties": {
+        "ref": {"$ref": "#/$defs/id"},
+        "locator": {"type": "string", "minLength": 1}
+      },
+      "additionalProperties": false
+    },
+    "review": {
+      "type": "object",
+      "required": ["status"],
+      "properties": {
+        "status": {"enum": ["draft", "clinician_reviewed"]},
+        "reviewer": {"type": ["string", "null"]},
+        "reviewed_on": {"oneOf": [{"$ref": "#/$defs/date"}, {"type": "null"}]},
+        "content_hash": {"type": ["string", "null"]}
+      },
+      "additionalProperties": false,
+      "if": {"properties": {"status": {"const": "clinician_reviewed"}}},
+      "then": {
+        "required": ["reviewer", "reviewed_on", "content_hash"],
+        "properties": {
+          "reviewer": {"type": "string", "minLength": 1},
+          "reviewed_on": {"$ref": "#/$defs/date"},
+          "content_hash": {"type": "string", "minLength": 1}
+        }
+      }
+    },
+    "level": {"enum": ["EMERGENCY", "HIGH", "MEDIUM", "LOW", "INCOMPLETE"]},
+    "facilityLevel": {"enum": ["SC_HWC", "PHC", "CHC", "SDH", "DH", "MEDICAL_COLLEGE"]},
+    "targetWindow": {"enum": ["immediately", "today", "within_24_hours", "next_working_day", "within_3_days", "within_7_days"]},
+    "scalar": {"type": ["string", "number", "boolean"]},
+    "operator": {
+      "type": "object",
+      "minProperties": 1,
+      "properties": {
+        "eq": {"$ref": "#/$defs/scalar"},
+        "in": {"type": "array", "items": {"$ref": "#/$defs/scalar"}, "minItems": 1},
+        "gte": {"type": "number"},
+        "lte": {"type": "number"},
+        "gt": {"type": "number"},
+        "lt": {"type": "number"}
+      },
+      "additionalProperties": false
+    },
+    "condition": {
+      "description": "Map of fact key to value (equality) or operator object; several keys mean all must hold. Special keys all/any/not combine sub-conditions.",
+      "type": "object",
+      "minProperties": 1,
+      "properties": {
+        "all": {"type": "array", "items": {"$ref": "#/$defs/condition"}, "minItems": 1},
+        "any": {"type": "array", "items": {"$ref": "#/$defs/condition"}, "minItems": 1},
+        "not": {"$ref": "#/$defs/condition"}
+      },
+      "patternProperties": {
+        "^(?!(all|any|not)$)[a-z][a-z0-9_]*$": {"oneOf": [{"$ref": "#/$defs/scalar"}, {"$ref": "#/$defs/operator"}]}
+      },
+      "additionalProperties": false
+    }
+  }
+}

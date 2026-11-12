@@ -1,0 +1,15 @@
+id: nhm_jssk_page
+title: Janani Shishu Suraksha Karyakram (JSSK)
+publisher: National Health Mission, MoHFW
+url: https://nhm.gov.in/index4.php?lang=1&level=0&linkid=150&lid=171
+version_or_date: Undated web page; JSSK launched 1 June 2011
+retrieved_on: '2026-11-12'
+jurisdiction: national
+kind: scheme
+sha256: d22dc5ea7718d26e24676c9e0a9f50f5bc846e30f87aec5ee28764d08e4afdce
+local_copy: knowledge/references/files/nhm_jssk_page.txt
+excerpts:
+- locator: Free Entitlements for pregnant women
+  text: 'The following are the Free Entitlements for pregnant women: … Free and cashless delivery … Free C-Section … Free drugs and consumables … Free diagnostics … Free diet during stay in the health institutions
+    … Free provision of blood … Exemption from user charges … Free transport from home to health institutions … Free transport between facilities in case of referral … Free drop back from Institutions to
+    home after 48hrs stay'

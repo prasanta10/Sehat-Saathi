@@ -1,0 +1,39 @@
+# DRAFT — every statement transcribed from the cited official source (see sources). Hindi is a draft translation.
+id: suman
+name:
+  en: SUMAN — Surakshit Matritva Aashwasan
+  hi: सुमन — सुरक्षित मातृत्व आश्वासन
+jurisdiction: national
+states_excluded: []
+care_types:
+- maternity
+- inpatient
+- outpatient
+- diagnostics
+not_for: []
+applies_to:
+  pregnant: 'yes'
+priority: free_service
+eligibility_signals: []
+may_cover:
+  en:
+  - Care at no cost and no denial of services for every pregnant woman and newborn at public health facilities
+  hi:
+  - सरकारी स्वास्थ्य केंद्रों पर हर गर्भवती महिला और नवजात को बिना ख़र्च और बिना इनकार के देखभाल
+does_not_cover:
+  en: []
+  hi: []
+documents:
+- mcp_card
+where_to_confirm:
+  en: At the government health facility
+  hi: सरकारी स्वास्थ्य केंद्र पर
+amounts: []
+sources:
+- ref: pib_maternal_care_schemes_2026_08
+  locator: SUMAN
+- ref: nhm_maternal_health_page
+  locator: 'Flagship Programmes: SUMAN'
+review:
+  status: draft
+  verified_on: '2026-11-12'

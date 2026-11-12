@@ -1,0 +1,57 @@
+# DRAFT — every statement transcribed from the cited official source (see sources). Hindi is a draft translation.
+id: pmjay_70_plus
+name:
+  en: PM-JAY for people aged 70 and above (Ayushman Vay Vandana)
+  hi: 70 वर्ष और उससे अधिक उम्र के लिए PM-JAY (आयुष्मान वय वंदना)
+jurisdiction: national
+states_excluded: []
+care_types:
+- inpatient
+not_for:
+- outpatient
+- diagnostics
+applies_to:
+  age_years:
+    gte: 70
+priority: hospital_cover
+eligibility_signals: []
+may_cover:
+  en:
+  - Hospital care under PM-JAY for every person aged 70 or above, whatever the family income
+  hi:
+  - 70 वर्ष या उससे अधिक उम्र के हर व्यक्ति के लिए PM-JAY में अस्पताल इलाज, आय चाहे जो हो
+does_not_cover:
+  en:
+  - Out-patient (OPD) visits
+  hi:
+  - ओपीडी (बिना भर्ती) दिखाना
+to_confirm:
+  en:
+  - Enrolment is needed (Ayushman Vay Vandana card)
+  hi:
+  - पंजीकरण ज़रूरी है (आयुष्मान वय वंदना कार्ड)
+not_applicable_note:
+  en: This cover is for hospital care, not ordinary out-patient visits.
+  hi: यह सुविधा अस्पताल में भर्ती के लिए है, साधारण ओपीडी के लिए नहीं।
+documents:
+- aadhaar_card
+where_to_confirm:
+  en: Empanelled hospital help desk; helpline 14555
+  hi: सूचीबद्ध अस्पताल हेल्प डेस्क; हेल्पलाइन 14555
+helpline: '14555'
+amounts:
+- text:
+    en: Up to ₹5 lakh per year on a family basis (for senior citizens not already covered)
+    hi: प्रति वर्ष ₹5 लाख तक, परिवार के आधार पर (पहले से शामिल न होने वाले वरिष्ठ नागरिकों के लिए)
+  source:
+    ref: pib_pmjay_70plus_cabinet_2024
+    locator: 'release text: cover for other senior citizens'
+  as_of: '2024-09-11'
+sources:
+- ref: pib_pmjay_70plus_cabinet_2024
+  locator: 'release text: 70 years and above'
+- ref: nha_pmjay_compendium_vol1_2026
+  locator: pdf p34, 2.3.3 New Families (70 years and above)
+review:
+  status: draft
+  verified_on: '2026-11-12'

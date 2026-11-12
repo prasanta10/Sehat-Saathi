@@ -1,0 +1,87 @@
+# Hand-authored synthetic visit accounts (Hinglish and Hindi). All people are invented.
+# gold: facts stated in the text. Any adult_cough fact not listed is "not stated" (must stay null).
+# Needs review by a Hindi speaker before being used as a gate set.
+pathway: adult_cough
+cases:
+  - id: a01
+    text: "Teen hafte se khansi hai. Bukhar nahi hai."
+    gold: {cough_present: "yes", cough_duration_days: 21, fever_present: "no"}
+  - id: a02
+    text: "तीन हफ़्ते से खांसी है, रात को पसीना आता है।"
+    gold: {cough_present: "yes", cough_duration_days: 21, night_sweats: "yes"}
+  - id: a03
+    text: "Khansi do din se hai, balgam mein khoon nahi aata."
+    gold: {cough_present: "yes", cough_duration_days: 2, blood_in_sputum: "no"}
+  - id: a04
+    text: "Kaafi din se khansi hai, bukhar bhi rehta hai."
+    gold: {cough_present: "yes", fever_present: "yes"}
+  - id: a05
+    text: "Ek mahine se khansi hai aur wajan kam ho gaya hai."
+    gold: {cough_present: "yes", cough_duration_days: 30, significant_weight_loss: "yes"}
+  - id: a06
+    text: "Khansi nahi hai, bas bukhar hai das din se."
+    gold: {cough_present: "no", fever_present: "yes", fever_duration_days: 10}
+  - id: a07
+    text: "Ghar mein bhai ko TB hai. Inko bhi khansi shuru hui hai."
+    gold: {tb_household_contact: "yes", cough_present: "yes"}
+  - id: a08
+    text: "Pehle TB ho chuki hai. Ab phir se khansi hai do hafte se."
+    gold: {past_tb: "yes", cough_present: "yes", cough_duration_days: 14}
+  - id: a09
+    text: "बुखार नहीं है। खांसी पाँच दिन से है।"
+    gold: {fever_present: "no", cough_present: "yes", cough_duration_days: 5}
+  - id: a10
+    text: "Khansi hai. Bus ka kiraya nahi hai isliye hospital nahi gaye."
+    gold: {cough_present: "yes"}
+    concerns: true
+  - id: a11
+    text: "Raat ko pasina nahi aata. Khansi saat din se."
+    gold: {night_sweats: "no", cough_present: "yes", cough_duration_days: 7}
+  - id: a12
+    text: "Do ya teen hafte se khansi hai."
+    gold: {cough_present: "yes"}
+  - id: a13
+    text: "बलगम में खून आता है, खांसी दो हफ़्ते से है।"
+    gold: {blood_in_sputum: "yes", cough_present: "yes", cough_duration_days: 14}
+  - id: a14
+    text: "Aaj mausam garam hai. Bachche school gaye hain. Inko khansi hai."
+    gold: {cough_present: "yes"}
+  - id: a15
+    text: "Saans phoolti hai chalne par, khansi bees din se."
+    gold: {cough_present: "yes", cough_duration_days: 20}
+  - id: a16
+    text: "Wajan nahi ghata. Khansi chaar din se."
+    gold: {significant_weight_loss: "no", cough_present: "yes", cough_duration_days: 4}
+  - id: a17
+    text: "Mujhe kuch nahi pata, inse poochiye."
+    gold: {}
+  - id: a18
+    text: "खांसी है, बुखार भी है तीन दिन से।"
+    gold: {cough_present: "yes", fever_present: "yes", fever_duration_days: 3}
+  - id: a19
+    text: "Cough for two weeks, no fever."
+    gold: {cough_present: "yes", cough_duration_days: 14, fever_present: "no"}
+  - id: a20
+    text: "Dihadi chhut jaayegi, paise nahi hain. Khansi ek hafte se."
+    gold: {cough_present: "yes", cough_duration_days: 7}
+    concerns: true
+  # Written the way the speech model (IndicConformer, hi) transcribes: Devanagari only, no
+  # punctuation, everyday spellings (खासी) and English loanwords in Devanagari.
+  - id: a21
+    text: "मेरे को तीन दिन से खासी है"
+    gold: {cough_present: "yes", cough_duration_days: 3}
+  - id: a22
+    text: "मुझे बार बार उल्टी और दस्त हो रहे हैं"
+    gold: {rf_recurrent_vomiting_diarrhoea: "yes"}
+  - id: a23
+    text: "मुझे दो हफ्ते से खासी है और बुखार भी है रात को पसीना आता है"
+    gold: {cough_present: "yes", cough_duration_days: 14, fever_present: "yes", night_sweats: "yes"}
+  - id: a24
+    text: "पांच दिन से खांसी है बुखार नहीं है"
+    gold: {cough_present: "yes", cough_duration_days: 5, fever_present: "no"}
+  - id: a25
+    text: "मेरे को फीवर है और खासी भी है"
+    gold: {cough_present: "yes", fever_present: "yes"}
+  - id: a26
+    text: "तीन हफ्ते से खांसी है और बार बार वॉमिटिंग हो रही है"
+    gold: {cough_present: "yes", cough_duration_days: 21, rf_recurrent_vomiting_diarrhoea: "yes"}

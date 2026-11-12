@@ -1,0 +1,54 @@
+# Fixed text for generated outputs. Hindi needs review by Hindi-speaking health workers.
+not_diagnosis: {en: "This is not a diagnosis. A doctor will examine you.", hi: "यह निदान नहीं है। डॉक्टर आपकी जाँच करेंगे।"}
+not_diagnosis_note: {en: "Referral support only — not a diagnosis. Facts were confirmed with the family by the health worker.", hi: "केवल रेफ़रल सहायता — निदान नहीं। तथ्य स्वास्थ्य कार्यकर्ता ने परिवार के साथ जाँचे हैं।"}
+draft: {en: "Demonstration pathway — not clinically validated.", hi: "प्रदर्शन हेतु पाथवे — चिकित्सकीय रूप से प्रमाणित नहीं।"}
+emergency_call: {en: "If the person gets worse or you see a danger sign, call 108 at once.", hi: "हालत बिगड़े या कोई ख़तरे का लक्षण दिखे तो तुरंत 108 पर कॉल करें।"}
+emergency_now: {en: "Emergency: call 108 or 112 now. Do not wait for documents.", hi: "आपातकाल: अभी 108 या 112 पर कॉल करें। काग़ज़ों का इंतज़ार न करें।"}
+handoff_title: {en: "Referral note from community health worker", hi: "सामुदायिक स्वास्थ्य कार्यकर्ता का रेफ़रल नोट"}
+family_title: {en: "What to do next", hi: "आगे क्या करना है"}
+patient: {en: "Patient", hi: "मरीज़"}
+age: {en: "age", hi: "उम्र"}
+years: {en: "years", hi: "साल"}
+village: {en: "village", hi: "गाँव"}
+concern: {en: "Main concern", hi: "मुख्य परेशानी"}
+present: {en: "Reported present", hi: "मौजूद बताया"}
+absent: {en: "Reported absent", hi: "नहीं बताया गया (मना किया)"}
+unknown: {en: "Not known", hi: "पता नहीं"}
+urgency: {en: "Urgency (rules engine)", hi: "तात्कालिकता (नियम)"}
+rule: {en: "Rule", hi: "नियम"}
+source: {en: "Source", hi: "स्रोत"}
+action: {en: "Action by worker", hi: "कार्यकर्ता ने क्या किया"}
+action_referred: {en: "Advised to attend {facility} — {window}.", hi: "{facility} जाने की सलाह — {window}।"}
+action_emergency: {en: "Prompted the family to call 108/112 for emergency transport.", hi: "परिवार को आपातकालीन वाहन के लिए 108/112 पर कॉल करने को कहा।"}
+action_incomplete: {en: "Not all key facts could be obtained; advised assessment.", hi: "सभी ज़रूरी बातें पता नहीं चलीं; जाँच की सलाह दी।"}
+worker: {en: "Health worker", hi: "स्वास्थ्य कार्यकर्ता"}
+go_to: {en: "Go to: {facility}.", hi: "कहाँ जाएँ: {facility}।"}
+by_when: {en: "When: {window}.", hi: "कब: {window}।"}
+carry: {en: "Carry: {items}.", hi: "साथ ले जाएँ: {items}।"}
+carry_note: {en: "Do not delay going if you cannot find documents.", hi: "काग़ज़ न मिलें तो भी जाने में देर न करें।"}
+assess: {en: "Please get the person checked at a health centre.", hi: "कृपया व्यक्ति को स्वास्थ्य केंद्र पर दिखाएँ।"}
+low_home: {en: "Care at home is possible. Come back at once if:", hi: "घर पर देखभाल हो सकती है। तुरंत वापस आएँ अगर:"}
+urgency_levels:
+  EMERGENCY: {en: "EMERGENCY", hi: "आपातकाल"}
+  HIGH: {en: "HIGH — same-day assessment", hi: "ऊँची — आज ही जाँच"}
+  MEDIUM: {en: "MEDIUM — see a doctor soon", hi: "मध्यम — जल्द डॉक्टर को दिखाएँ"}
+  LOW: {en: "LOW — home care per pathway", hi: "कम — पाथवे के अनुसार घर पर देखभाल"}
+  INCOMPLETE: {en: "INCOMPLETE — key facts missing", hi: "अधूरी — ज़रूरी जानकारी नहीं"}
+facility:
+  SC_HWC: {en: "Sub-centre / Ayushman Arogya Mandir", hi: "उप-स्वास्थ्य केंद्र / आयुष्मान आरोग्य मंदिर"}
+  PHC: {en: "Primary Health Centre (with a doctor)", hi: "प्राथमिक स्वास्थ्य केंद्र (डॉक्टर वाला)"}
+  CHC: {en: "Community Health Centre or district hospital", hi: "सामुदायिक स्वास्थ्य केंद्र या ज़िला अस्पताल"}
+  SDH: {en: "Sub-district hospital", hi: "उप-ज़िला अस्पताल"}
+  DH: {en: "District hospital", hi: "ज़िला अस्पताल"}
+  MEDICAL_COLLEGE: {en: "Medical college hospital", hi: "मेडिकल कॉलेज अस्पताल"}
+window:
+  immediately: {en: "now", hi: "अभी"}
+  today: {en: "today", hi: "आज ही"}
+  within_24_hours: {en: "within 24 hours", hi: "24 घंटे के अंदर"}
+  next_working_day: {en: "next working day", hi: "अगले कामकाजी दिन"}
+  within_3_days: {en: "within 3 days", hi: "3 दिन के अंदर"}
+  within_7_days: {en: "within 7 days", hi: "7 दिन के अंदर"}
+bring:
+  id_document: {en: "any identity document, if easily available", hi: "कोई भी पहचान पत्र, अगर आसानी से मिले"}
+  previous_reports: {en: "old reports and prescriptions", hi: "पुरानी रिपोर्ट और पर्चे"}
+  current_medicines: {en: "medicines being taken now", hi: "अभी ली जा रही दवाइयाँ"}

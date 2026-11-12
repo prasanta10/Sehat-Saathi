@@ -1,0 +1,18 @@
+id: ntep_differentiated_tb_care_2025
+title: "National Guidance on Differentiated TB Care"
+publisher: "Central TB Division, MoHFW"
+url: "https://tbcindia.mohfw.gov.in/wp-content/uploads/2025/07/National-Guidance-on-Differential-TB-Care_Final_March-2025-3.pdf"
+version_or_date: "March 2025"
+retrieved_on: "2026-11-11"
+jurisdiction: national
+kind: clinical_guidance
+sha256: "eb31ae73d5614ebaf0f47cdef3dfd4ec7784b9ea596479fe0738d98ff14643a7"
+local_copy: "knowledge/references/files/ntep_differentiated_tb_care_2025.txt"
+notes: "Red flags are framed for people with TB; Box 2.1 assigns ASHA/family to check them 'Before diagnosis' too. Their use for undiagnosed adults with cough needs clinician confirmation."
+excerpts:
+  - locator: "p. 11 (pdf 23), 2.3.1 Systematic Triaging: red-flag criteria"
+    text: "Red-flag criteria include the presence of signs and symptoms which are critically important, can be assessed at community level personnel and are to be mandatorily assessed at all levels of … • Patient confined to bed … • Breathlessness - at rest, speaks with difficulty-unable to complete a sentence without a pause, unable to take feed, on 10-15 feet walk or on attending nature’s call … • Severe pain: chest pain/abdominal pain … • Altered consciousness or convulsions or limb weakness … • Coughing out blood ≥ 1 cup … • Recurrent vomiting/ diarrhoea"
+  - locator: "p. 11-12 (pdf 24), Box 2.1 Triaging framework"
+    text: "Box 2.1 Differentiated TB Care (DTC) – Triaging framework … Before diagnosis"
+  - locator: "p. 12 (pdf 25), Triaging process: referral of triage-positive patients"
+    text: "Triage-positive patients are referred immediately to higher-level health facilities, such as CHCs or district hospitals, tertiary level health institutions for hospitalization and further assessment."

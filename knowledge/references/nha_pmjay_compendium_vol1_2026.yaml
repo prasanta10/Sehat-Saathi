@@ -1,0 +1,20 @@
+id: nha_pmjay_compendium_vol1_2026
+title: AB PM-JAY Compendium of Guidelines Vol-I 2026
+publisher: National Health Authority
+url: https://nha.gov.in/strapi/uploads/Compendium_of_Guidelines_Vol_1_54e729f77a.pdf
+version_or_date: 2026; guidelines effective from 17 April 2026
+retrieved_on: '2026-11-12'
+jurisdiction: national
+kind: scheme
+sha256: e33fccb0f4f9e82f78622aefb76f1e2e678a7ee8e85460ec8be003dda55fd55f
+local_copy: knowledge/references/files/nha_pmjay_compendium_vol1_2026.txt
+excerpts:
+- locator: pdf p10, effective date
+  text: This document is effective from 17 April 2026 and is intended for official use
+- locator: 'pdf p16-17, Guidelines for Pradhan Mantri Arogya Mitra (PMAM): roles'
+  text: I.    Search eligible beneficiaries either using Aadhaar card or Ration card … The PMAM shall clearly communicate to beneficiaries that OPD services are not covered under PM-
+- locator: pdf p22, PMAM help desk
+  text: VIII. The PMAM shall be available at the help desk at all times during assigned duty hours.
+- locator: pdf p34, 2.3.3 New Families (70 years and above)
+  text: 2.3.3 New Families - For senior citizens aged 70 years and above who belong to families not currently covered
+notes: pmjay.gov.in was unreachable on 2026-11-12; NHA documents fetched via nha.gov.in.

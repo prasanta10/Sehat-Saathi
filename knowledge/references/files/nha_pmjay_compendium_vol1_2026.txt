@@ -1,0 +1,2161 @@
+       Ayushman Bharat
+Pradhan Mantri Jan Arogya Yojana
+
+
+COMPENDIUM OF
+  GUIDELINES
+                Volume-I
+                  2026
+
+
+
+
+    National Health Authority
+     Ministry of Health & Family Welfare
+            Government1  of India
+2
+       Ayushman Bharat
+Pradhan Mantri Jan Arogya Yojana
+         (AB PM-JAY)
+
+COMPENDIUM OF
+  GUIDELINES
+           Volume – I
+             2026
+
+
+
+
+               3
+4
+5
+6
+          National Health Authority (NHA) plays a pivotal role in strengthening India’s health
+          financing and service delivery ecosystem through the implementation and stewardship
+          of key national health initiatives, most notably Ayushman Bharat Pradhan Mantri Jan
+          Arogya Yojana (AB PM-JAY) and the Ayushman Bharat Digital Mission (ABDM). Over the
+          years, as an attached office of the Ministry of Health and Family Welfare, NHA has issued
+          a wide range of operational guidelines, policy advisories, standard operating procedures,
+          and implementation frameworks to support States, Union Territories, insurers, hospitals,
+          and other stakeholders in ensuring the effective and uniform implementation of these
+          programmes across the country.
+
+          Given the scale and complexity of India’s health system, with diverse administrative
+          capacities, institutional arrangements, and service delivery contexts across States and
+          Union Territories, it has become increasingly important to consolidate these directives
+          into a single, accessible reference resource.
+PREFACE
+
+
+
+
+          This Compendium of Guidelines for AB PM-JAY has therefore been developed as a
+          comprehensive repository of key guidelines issued by NHA, bringing together critical
+          policy documents and operational instructions related to implementation of PM-
+          JAY in one place. The compendium aims to enhance clarity, promote consistency in
+          implementation, and facilitate easier access to authoritative guidance for all stakeholders
+          involved in the execution of the scheme.
+
+          The compendium will serve multiple purposes. First, it will act as a central reference
+          document for State Health Agencies, implementation support agencies, insurers, third-
+          party administrators, empanelled hospitals, and partner organizations for PM-JAY. By
+          consolidating guidelines that were previously issued across different time periods and
+          formats, it will help users navigate the regulatory and operational framework more
+          efficiently. Second, it contributes to institutional memory and knowledge management
+          within the health system by systematically documenting the evolution of policies,
+          processes, and operational standards developed by NHA. Third, it supports capacity
+          building and training efforts, enabling stakeholders at national, state, and district levels
+          to better understand the programmatic requirements and implementation protocols.
+
+          The guidelines included in this compendium span a wide range of thematic areas
+          essential to the effective functioning of PM-JAY scheme. These include policies related
+          to beneficiary identification and verification, hospital empanelment and management,
+          claims management and payment processes, fraud prevention and detection, grievance
+          redressal mechanisms, IEC, finance and capacity-building initiatives. Together, these
+          guidelines provide a structured framework that ensures transparency, accountability,
+          and quality in programme implementation while safeguarding beneficiary interests.
+
+
+
+
+                                           7
+          It is important to note that the compendium is intended to function as a living resource. As
+          the scheme evolves and new policy directions emerge, guidelines may be updated, revised,
+          or supplemented to address emerging needs and challenges. Users of this compendium are
+          therefore encouraged to refer to the latest notifications and advisories issued by NHA to
+          ensure alignment with current policy directions.
+
+          By bringing together these critical guidelines in a structured and accessible format, this
+          compendium seeks to support the continued strengthening of PM-JAY implementation,
+          foster greater alignment across stakeholders, and ultimately contribute to the broader
+          vision of Universal Health Coverage in India.
+PREFACE
+
+
+
+
+                                           8
+   GUIDELINES FOR
+  PRADHAN MANTRI
+AROGYA MITRA (PMAM)
+       UNDER
+     AB PM-JAY
+    Applicability and Conditions of Use
+This document is effective from 17 April 2026 and is intended for official use
+by relevant stakeholders.
+This document consolidates and supersedes all Office Memorandums (OMs)
+and guidelines related to the relevant subject area. Wherever required,
+necessary revisions, updates, and clarifications have been incorporated
+to ensure consistency, accuracy, and alignment with current policies and
+implementation needs.
+
+
+
+
+                                     10
+Table of Contents								
+
+ABBREVIATIONS
+1.     PMAM GOVERNANCE FRAMEWORK								                                               12
+1.1    Who is a Pradhan Mantri Arogya Mitra (PMAM)?						                              13
+1.2    Deployment of PMAM in EHCPs					                                   			          13
+1.3    Selection Criteria and Compliance Requirements				                        		    13
+1.4    Recruitment of PMAM					                          			                     		    14
+1.5    Remuneration and Benefits for PMAMs					                                  		    15
+1.6    Terms of engagement of PMAM			                     		             			           15
+2.    PMAM REGISTRATION AND ROLE MAPPING WITHIN NHA’S IT FRAMEWORK		                   15
+2.1    Registration on User Management Portal (UMP)						                              15
+2.2    PMAM Roles Mapped under the User Management Portal (UMP)            			         16
+3.     ROLES AND RESPONSIBILITIES								                                              17
+3.1    Roles and Responsibilities of PMAM								                                      17
+3.2    Responsibilities of Empanelled Hospitals regarding PMAMs under AB-PMJAY    		   18
+3.3    Responsibilities of SHA regarding PMAMs under AB-PMJAY       				               19
+4.     CAPACITY BUILDING OF PMAMS								                                              20
+4.1    Compliance with LMS-enabled capacity building       					                       20
+4.2    Topics Covered under the LMS (Quarterly)						                                  21
+4.3    Refresher and Need-Based Trainings via LMS					                           		    21
+4.4    Assessment, Certification, and Re-certification Framework					                  21
+4.5    Institutional Roles and Responsibilities						                                  21
+5.     DO’S / DON’TS FOR PMAM					                               				                  22
+5.1    Do’s											                                                                 22
+5.2    Don’ts												                                                              22
+5.     CONCLUSION					                                 				                       		   23
+ANNEXURES												                                                                  24
+Annexure 1: SLA -KPIs for PMAM to be monitored by SHA					                             25
+
+
+
+
+                                                 11
+Abbreviations											
+
+
+   Abbreviations                               Full Form
+
+  AB PM-JAY        Ayushman Bharat – Pradhan Mantri Jan Arogya Yojna
+
+  ASHA             Accredited Social Health Activist
+
+  BFA              Beneficiary Facilitation Agency
+
+  BIS              Beneficiary Identification System
+
+  EHCP             Empaneled Health Care Provider
+
+  IC               Insurance Company
+
+  ISA              Implementation Support Agency
+
+  Medco            Medical Coordinator
+
+  NHA              National Health Authority
+
+  PMAM             Pradhan Mantri Arogya Mitra
+
+  SHA              State Health Agency
+
+  TMS              Transaction Management System
+
+  UMP              User Management Portal
+
+  UTs              Union Territories
+
+  IEC              Information, Education & Communication
+
+
+
+
+                                         12
+                 Guidelines for Pradhan Mantri Arogya
+                   Mitra (PMAMs) under AB PM-JAY
+Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (AB PM-JAY) is a flagship Government of India initiative
+that provides health assurance coverage of up to ₹5 lakh per family per year for secondary and tertiary care
+hospitalisation to over 15.14 crore eligible beneficiary families (PM-JAY, VVS and ASHA, Anganwadi workers
+and helpers). The scheme offers free, cashless and paperless treatment at empanelled public and private
+hospitals, with benefits that are portable across the country.
+The implementation of AB PM-JAY entails multiple complex and technology-driven functions, including
+beneficiary enrolment and verification, hospital empanelment, pre-authorization and claims management, IT
+platform operations, and grievance redressal at the State/UT level.
+To streamline the health service delivery and provide a seamless experience to the beneficiary, a ‘Pradhan
+Mantri Arogya Mitra’ (PMAM) is deployed at each empanelled hospital to facilitate beneficiaries in accessing
+healthcare services under AB PM-JAY.
+This guideline under Ayushman Bharat–Pradhan Mantri Jan Arogya Yojana (AB PM-JAY) provide a structured
+framework for engaging Pradhan Mantri Arogya Mitras (PMAMs) to support States/UTs and empanelled
+healthcare providers (EHCPs) in strengthening implementation across the key functional areas of the scheme.
+
+1. PMAM Governance Framework				
+1.1 Who is a Pradhan Mantri Arogya Mitra (PMAM)?
+    A PMAM is a verified frontline health service professional who shall be present at each of the Empanelled
+    Health Care Provider (EHCP) and shall serve as a first point of contact for the beneficiaries. The Pradhan
+    Mantri Arogya Mitra (PMAM) serves as a bridge between beneficiaries, empanelled hospitals, state
+    health agencies and the AB PM-JAY system, ensuring that eligible patients are guided, well informed, and
+    supported throughout the process of availing treatment under the assurance scheme.
+
+1.2 Deployment of PMAM in EHCPs
+    PMAMs shall be placed at every public and private EHCP. The number of PMAMs to be deployed may be
+    determined by taking the following points into account.
+    I.    The number of PMAMs to be deputed in an EHCP shall be determined based on the patient load.
+    II.   Deployment of PMAMs shall be planned in accordance with operational requirements and shift
+          schedules.
+    III. A minimum of two PMAMs shall be deployed per shift. However, the State may exercise flexibility to
+         modify the deployment based on specific requirements and available facilities.
+          *State/EHCP shall ensure that services are available to beneficiaries round the clock (24×7) in the
+          hospital, particularly at emergency counters. After the initial placement, the SHA may consider
+          rotating PMAMs every 8-12 months within the same city or town. *
+
+1.3 Selection Criteria and Compliance Requirements
+    Pradhan Mantri Arogya Mitras (PMAMs) shall be selected based on the following criteria:
+    I.    The minimum educational qualification shall be 10+2 from a recognised institution (preferably
+          graduation)
+    II.   Candidates with experience of 3 yrs or more with a healthcare background shall be given preference.
+
+
+                                                     13
+   III. The candidate should be fluent in the local language of the State/region and shall have a working
+        knowledge of English and Hindi.
+   IV. Preference shall be given to candidates possessing adequate functional computer literacy, including
+       proficiency in the Microsoft Office Suite and the ability to navigate internet-based portals.
+   The following compliance requirements shall be followed by SHAs and EHCPs during PMAM selection:
+   I.      The SHA and EHCPs shall ensure that candidates deployed as PMAMs are competent, adequately
+           trained, possess strong communication skills with proficiency in the local language and consistently
+           demonstrate a helpful and courteous approach while interacting with patients and their family
+           members.
+   II.     The SHA / EHCPs / third-party agency / BFA shall conduct due diligence to verify the character and
+           antecedents of candidates prior to their deployment as PMAMs, ensuring that they have no adverse
+           police records or pending criminal cases.
+   III. The SHA /EHCPs / third-party agency / BFA shall collect and verify proof of identity, including a
+        recent photograph and Aadhaar card, prior to deployment.
+   IV. The SHA / EHCPs / third-party agency / BFA shall replace the PMAM deployed at the concerned
+       EHCP in cases of misconduct, breach of integrity, and/or abuse of position.
+
+1.4 Recruitment of PMAM
+   The EHCP is required to ensure that PMAMs are recruited in adequate numbers and possess the requisite
+   qualifications under the scheme guidelines.
+
+   1.4.1 For Public EHCPs:
+
+         Public Health Facility       Scenario 1         Scenario 2          Scenario 3          Scenario 4
+           Administrative &
+                                         SHA                 SHA                 SHA                 SHA
+         Operational Authority
+                                                                                              3rd party agency
+             Hiring Agency               SHA                EHCP                 BFA             /any other
+                                                                                                mechanism
+                                                                                              3rd party agency
+             Honorarium
+                                         SHA                EHCP                 BFA             /any other
+         Disbursement Agency
+                                                                                                mechanism
+                          Table 1: Illustrative Recruitment Scenarios with Multiple Partners
+                        (More than one scenario may apply simultaneously to a district or health facility)
+
+   The following section explains the scenarios:
+   I.      The State Health Agency (SHA) / EHCPs shall have the flexibility to recruit PMAM through third-party
+           agency / NHA empanelled Beneficiary Facilitation Agencies (BFA) or through any other mechanism.
+   II.     Based on the number of PMAMs required, the SHA / EHCPs shall pay them through a third-party
+           agency / BFA / EHCPs or any other mechanism. In case of the requirement of extra PMAMs, the SHA
+           / BFA / EHCP shall have the capability to promptly scale up its capacity and provide the required
+           number of PMAMs.
+   III. SHA can directly hire PMAMs at state / district or hospital level who can be shuffled every 8 / 12
+        months.
+   IV. If the SHA requires, they can even nominate existing staff of public EHCP as PMAMs.
+
+
+
+                                                       14
+   1.4.2 For Private EHCPs:
+   In the case of Private Empanelled Health Care Providers (EHCPs), the recruitment and engagement of the
+   Pradhan Mantri Ayushman Mitra (PMAM) shall be the responsibility of the respective healthcare provider.
+
+1.5 Remuneration and Benefits for PMAMs
+   The monthly remuneration of PMAMs, including fixed components and additional incentives, shall not be
+   less than the minimum wages prescribed under the Minimum Wages Act.
+
+   1.5.1 For Public EHCPs
+   For all the PMAMs working in public facilities, benefits shall be paid by the SHA / BFA/ EHCP. The suggested
+   benefits for the PMAM can be done in two ways:
+   I.    A fixed honorarium with case-based incentive OR
+   II.   A fixed remuneration per month
+         Honorarium / salary of PMAM may be paid from the Rogi Kalyan Samiti of EHCPs or any other
+         source.
+
+   1.5.2 For Private EHCPs
+   I.    For all PMAMs employed in Private EHCPs, benefits shall be provided by the Private EHCP.
+   II.   The nature and structure of benefits shall be determined by the Private EHCP in accordance with the
+         Minimum Wages Act.
+   III. The monthly remuneration of PMAMs may include fixed components and additional incentives, if
+        applicable.
+   Incentives may be linked to the KPIs defined for PMAMs in Annexure 1; however, the proposed incentive
+   structure is indicative in nature. States with a different contractual structure may design and implement
+   their own incentive mechanisms for PMAMs.
+
+1.6 Terms of engagement of PMAM
+   A PMAM may be engaged initially for a period of one year, with the contract subject to annual renewal
+   based on performance against the key performance indicators defined by the State Health Agency (SHA).
+
+
+2. PMAM Registration and Role Mapping within NHA’s IT
+Framework
+2.1 Registration on User Management Portal (UMP)
+   Registration on the User Management Portal (UMP) through Aadhaar-based authentication is mandatory
+   for all deployed PMAMs to access any application within the AB PM-JAY IT ecosystem.
+   Under the User Management Portal (UMP), PMAM user roles are mapped to the respective Empanelled
+   Health Care Provider (EHCP) and approved through the EHCP admin login.
+   PMAMs shall consult the UMP User Manual on the NHA portal for complete instructions on registration
+   and role-mapping procedures.
+   To ensure timely access to medical care, PMAMs shall be responsible for operating the Beneficiary
+   Identification System (BIS) to identify, authenticate, and verify beneficiaries eligible under AB PM-JAY.
+   He/she shall be responsible for the Transaction Management System (TMS) for pre-authorisation, claim
+   processing, and related activities under the guidance of MEDCO, in accordance with the guidelines issued
+   by the SHA/NHA, as amended from time to time.
+                                                     15
+2.2 PMAM Roles Mapped under the User Management Portal (UMP)
+   The following roles are mapped for PMAM under the UMP:
+
+   2.2.1 PMAM as BIS Operator
+
+   This role is linked to the Beneficiary Identification System (BIS) for the creation of Ayushman Cards.
+   Access under this role is granted through Aadhaar OTP authentication, verified using the mobile number
+   registered with PMAM.
+   In this role, the PMAM shall undertake the following responsibilities:
+   I.    Search eligible beneficiaries either using Aadhaar card or Ration card
+   II.   Perform e-KYC and Aadhaar authentication, if required
+   III. Link Aadhaar with beneficiary records
+   IV. Add eligible family members (for SECC families / State specific if any)
+   V.    Generate and download Ayushman card pdf
+
+
+
+
+                          Fig 1: BIS Workflow for Ayushman Card Generation
+
+   Where the inpatient already possesses an Ayushman Card, Pre-auth can be initiated on the TMS platform,
+   subject to the patient’s consent and the treating doctor’s directions at the concerned EHCP.
+
+   2.2.2 PMAM as TMS Operator
+
+   This role provides access to the AB PM-JAY Transaction Management System (TMS) for hospital-level
+   transaction management.
+   Under this role, the PMAM shall undertake the following activities under the guidance of MEDCO:
+   I.    Register eligible beneficiaries/patients on the AB PM-JAY platform
+   II.   Verify the available balance in the PM-JAY beneficiary family wallet
+   III. Perform biometric authentication of beneficiaries
+   IV. Initiate pre-authorisation requests and enter package and treatment details as prescribed by the treating
+       doctor
+   V.    Submit enhancement requests based on the beneficiary’s medical condition and the treating
+         physician’s prescription
+   VI. Process patient discharge on the TMS platform
+   VII. Upload discharge summaries and complete beneficiary feedback, including biometric authentication
+   VIII. Submit online claims accurately and within the prescribed timelines
+
+
+
+
+                                                     16
+   IX. Perform any other duties related to admissions and cashless treatment under AB PM-JAY, as assigned
+       by the concerned EHCP
+
+
+
+
+                              Fig 2: TMS Workflow for hospital admission
+
+
+3. Roles and Responsibilities					
+3.1 Roles and Responsibilities of PMAM
+   Under AB PM-JAY, an PMAM performs three key roles: first, as a trusted partner of beneficiaries; second,
+   as a representative of the EHCPs; and third, as a system operator. The PMAM serves as the primary point
+   of contact for beneficiaries at each EHCP and is responsible for the following broad functional areas:
+   I.    Guiding beneficiaries on the overall benefits available under PM-JAY and facilitating timely access
+         to the eligible beneficiaries for availing treatment at empanelled healthcare providers (EHCPs). The
+         PMAM shall be responsible for verifying and communicating to citizens whether they are eligible to
+         avail benefits under the PM-JAY scheme.
+   II.   The PMAM shall clearly communicate to beneficiaries that OPD services are not covered under PM-
+         JAY.
+   III. The PMAM shall be responsible for operating the Beneficiary Identification System (BIS) for the
+        identification and verification of PM-JAY–eligible beneficiaries.
+   IV.   The PMAM shall have access to the Transaction Management System (TMS) to manage hospital-
+         level transaction functions. This includes scanning and uploading all documents required for pre-
+         authorization requests, updating surgery and treatment details, filing claims, and verifying discharge
+         summaries in coordination with the medical coordinator of the EHCP.
+   V.    The PMAM is also responsible for responding to queries or providing additional information to the
+         Insurance Company, State Health Agency (SHA), ISA, or other relevant authorities, ensuring timely
+         and accurate communication for smooth claim and treatment processing.
+   VI. The PMAM shall be responsible for operating the Hospital Empanelment Module (HEM) by completing
+       all required details in consultation with and approval from the concerned EHCP. In addition, the
+       PMAM shall regularly update EHCP details in the Health Facility Registry (HFR).
+   VII. The PMAM shall be responsible for ensuring that the patient, from the time of pre-authorization to
+        discharge, is getting all the benefits as per AB PM-JAY norms.
+   VIII. The PMAM shall be responsible for liaising with the EHCP to facilitate timely patient admission and
+         ensure the availability of beds. The PMAM shall liaise and coordinate with the Medical Officer /
+         MEDCO to collect, scan, and upload all requisite documents for submission of claim requests.
+   IX. In the event of loss or damage to an Ayushman Card, the PMAM shall guide and assist the cardholder
+       in obtaining a duplicate copy of the Ayushman Card.
+
+                                                     17
+   X.     To promptly escalate all grievances to the grievance cell, either
+          directly, through the district coordinator, or by lodging the
+          grievance on the Central Grievance Redressal Management
+          System (CGRMS).
+   XI. Ensuring that the privacy and confidentiality of personal and
+       sensitive beneficiary information are maintained while operating
+       IT systems under PM-JAY.
+   XII. PMAMs shall adhere to all operational and technical guidelines
+        issued by the NHA, as amended from time to time. The
+        recommended list of major documents / guidelines published by
+        the NHA can be accessed from the website for further reading:
+        https://pmjay.gov.in/resources/documents
+   XIII. PMAMs shall guide beneficiaries in downloading and effectively
+         using the Ayushman mobile application to access information
+         and services under the PM-JAY scheme. The upgraded application
+         enables beneficiaries to verify eligibility, view and download their
+         Ayushman card, check wallet balance, track treatment and claim
+         history, locate nearby empanelled healthcare providers, raise
+         grievances and submit feedback.                                         Fig 3: Ayushman App Interface
+          Link to application:
+          https://play.google.com/store/apps/details?id=com.beneficiaryapp&pcampaignid=web_share
+   XIV. Awareness Generation regarding Ayushman Bharat Digital Mission (ABDM):
+          a.   The PMAM shall inform and educate beneficiaries about the Ayushman Bharat Health Account
+               (ABHA), which is created at the time of issuance of the Ayushman card. The PMAM shall explain
+               that ABHA serves as a unique digital health identifier enabling beneficiaries to securely store,
+               access, and share their digital health records through any linked Personal Health Record (PHR)
+               application.
+          b.   The PMAM shall also guide beneficiaries on the use of ABHA for availing digital services such as
+               Scan and Share to reduce waiting time at healthcare facilities. Further, the PMAM shall encourage
+               beneficiaries to maintain and regularly update their health-related documents within the PHR
+               application.
+        XV. Accountability of misuse of Scheme Systems:
+          a.   The PMAM shall be directly responsible and accountable for any misuse of beneficiary
+               data, verification credentials, admission records, pre-authorisation submissions, discharge
+               documentation, or any transaction processed through their authorised login and any deliberate
+               misrepresentation, concealment, manipulation, unauthorised access, or collusive activity shall
+               constitute misconduct and shall invite disciplinary and legal action under applicable guidelines
+               and laws.
+
+3.2 Responsibilities of Empanelled Hospitals regarding PMAMs under AB PM-JAY
+   EHCPs shall play a crucial role in enabling PMAMs to function effectively as the last-mile facilitators
+   of AB PM-JAY. Adequate institutional support, effective coordination, and strict adherence to scheme
+   guidelines by EHCPs are critical to improving beneficiary experience, enhancing utilisation, and ensuring
+   transparency and accountability under the scheme.
+   I.     EHCPs shall provide adequate and dedicated workspace to PMAMs, including a helpdesk or
+          facilitation counter at prominent locations. The EHCP shall ensure availability of basic infrastructure
+          such as seating, power supply, internet connectivity, and access to computers / printers required.
+
+                                                       18
+   The indicative list of equipment to be installed by each EHCP for the effective functioning of PMAMs
+   includes the following (but is not limited to):
+           a. Computer/ laptop with the latest browser
+           b. Internet connectivity (a preferred bandwidth of 2 Mbps or above)
+           c. QR Code Scanner
+           d. Document scanner to scan requisite documents
+           e. Printer
+           f.   Web camera for photo
+           g. Device for fingerprint, face auth and IRIS biometrics
+           h. Stationary Items
+   II.   EHCPs shall involve PMAMs into patient admission, discharge, and billing workflows related to AB-
+         PMJAY. Treating departments, admission desks, and billing sections shall coordinate with PMAMs
+         to ensure timely initiation of pre-authorisation, smooth beneficiary admission and compliance with
+         scheme guidelines.
+   III. EHCPs shall provide PMAMs access to ward to ensure coverage of any left-out patients in the wards.
+        If, at any point of time, a patient possessing a valid Ayushman card is present in the ward, it shall
+        be the responsibility of the PMAM to facilitate admission of such patients under the scheme, in
+        accordance with the applicable AB PM-JAY guidelines.
+   IV. EHCPs shall provide PMAMs access to relevant patient records, clinical documents, and administrative
+       information required for pre-authorisation, claims processing, audits, and grievance redressal, in
+       accordance with data privacy and confidentiality norms.
+   V.    EHCPs shall adhere to AB PM-JAY guidelines, package rates, and Standard Operating Procedures
+         (SOPs) and shall cooperate with PMAMs in ensuring compliance at all stages of treatment. Any
+         deviation observed by PMAMs shall be promptly addressed by EHCP.
+   VI. EHCPS shall cooperate with PMAMs in resolving beneficiary grievances at the facility level. EHCP
+       authorities shall designate a nodal officer to coordinate with PMAMs, SHAs, and NHA for timely
+       resolution of complaints and corrective action.
+   VII. EHCPs shall allow PMAMs to perform their duties independently and professionally, without any
+        pressure or interference. PMAMs should not be assigned tasks unrelated to AB PM-JAY or used in
+        place of hospital administrative staff
+   VIII. EHCPs shall facilitate PMAM participation in training, reviews, audits, and capacity-building activities
+         organised by SHAs / NHA. Hospital management shall ensure timely dissemination of scheme
+         updates, circulars, and SOP revisions to PMAMs.
+   IX. EHCPs shall coordinate with PMAMs during audits, inspections, and verification exercises by SHAs,
+       NHA, or third-party agencies, including timely submission of records and compliance with audit
+       observations.
+   X.    EHCPs shall be accountable for actions taken at the facility level under AB PM-JAY and shall cooperate
+         with PMAMs in reporting utilisation data, grievances, and operational issues accurately and in a
+         timely manner.
+
+3.3 Responsibilities of SHA regarding PMAMs under AB PM-JAY
+   I.    SHA shall ensure that the deployed PMAMs adhere to the operational guidelines published by NHA /
+         SHA / EHCPs, as amended from time to time. In the event of any irregularities, the SHA shall initiate
+         disciplinary proceedings against errant PMAMs and/or the deployed BFA(s), in accordance with
+         applicable contractual provisions and guidelines.
+                                                      19
+    II.   SHA shall develop a mechanism to track the productivity of individual PMAMs
+    III. SHA shall ensure that deployed PMAMs are paid their salaries and any other perks / incentives in a
+         timely manner
+    IV. The SHA shall establish a patient feedback mechanism and incorporate the same into the appraisal
+        of PMAMs. Such information shall also be shared with the NHA.
+    V.    SHAs shall be responsible to close all BFA agency logins during agency replacement and create new
+          ones for the incoming agency to prevent fraud.
+    VI. SHA shall ensure that deployed PMAMs attend all capacity-building sessions organised by the NHA
+        or SHA. Further, PMAMs shall complete the certification process as prescribed by the NHA/SHA,
+        failing which such PMAMs shall be suitably replaced.
+    VII. Ensure quarterly performance review of deployed PMAM are conducted by BFA / EHCPs in joint
+         presence of nodal officers from SHA according to the key performance indicators mentioned in
+         Annexure 1; however, the proposed incentive structure is indicative in nature. States may define
+         their own KPIs in cases where they opt not to adopt Annexure 1.
+    VIII. Issue necessary instructions to public EHCPs to provide requisite support to the empanelled agency
+          in fulfilling its contractual obligations.
+    IX. SHA shall issue necessary (State specific) guidelines for the patients in EHCP to cooperate with the
+        PMAM and provide him/her necessary information/document to verify the eligibility under the scheme.
+
+
+4. Capacity Building of PMAMs						
+Capacity building for Pradhan Mantri Arogya Mitras (PMAMs) shall be undertaken through a structured
+framework aimed at ensuring that each PMAM is comprehensively trained in their roles and responsibilities.
+The framework seeks to institutionalize a continuous, technology-enabled capacity-building mechanism
+through a Learning Management System (LMS) to enable consistent knowledge dissemination, skill
+enhancement, adherence to Ayushman Bharat–Pradhan Mantri Jan Arogya Yojana (AB PM-JAY) guidelines,
+and overall improvement in scheme utilization and beneficiary experience.
+
+4.1 Compliance with LMS-enabled capacity building
+    I.    Registration on LMS: All PMAMs engaged under AB-PMJAY shall be mandatorily registered on the
+          designated Learning Management System (LMS) prescribed by the National Health Authority (NHA).
+    II.   Regular participation: Regular login and participation on the LMS shall be compulsory for all
+          PMAMs for accessing training content, completing assessments, and maintaining certification status.
+    III. Quarterly Capacity Building through LMS: Quarterly capacity-building programmes shall
+         be delivered through a blended learning approach, with core modules hosted on the LMS and
+         supplemented by classroom-based or virtual sessions, as required.
+    IV. Activity status on LMS: LMS login credentials shall be treated as official credentials, and non-usage
+        or prolonged inactivity on the LMS shall be considered as non-compliance with capacity-building
+        requirements. Each PMAM shall be required to:
+            a. Log in to the LMS at least once during each quarter
+            b. Complete prescribed quarterly learning modules
+            c. Appear for online assessments hosted on the LMS
+    V.    LMS as the Single Source of Truth: The LMS shall function as the single source of truth for tracking
+          PMAM training attendance, module completion, assessment scores, and certification status.
+
+
+
+                                                     20
+   VI. Monitoring by SHA: SHAs shall monitor LMS dashboards on a periodic basis and submit consolidated
+       compliance reports to NHA.
+   VII. Consequences of LMS Non-Compliance: Repeated non-compliance with LMS requirements may
+        result in:
+         a. Mandatory refresher training
+         b. Conditional suspension of benefits
+         c. Disengagement of PMAMs, as per prescribed norms
+
+4.2 Topics Covered under the LMS (Quarterly)
+   a.    Phase I: AB-PM-JAY and ABDM Scheme overview, beneficiary eligibility, entitlements, Ayushman
+         card usage, facilitation and communication skills
+   b.    Phase II: Admission workflow, pre-authorisation, documentation standards, package selection, and
+         claims processes
+   c.    Phase III: BIS, TMS, claims portals, data quality, cybersecurity, and dashboard usage
+   d.    Phase IV: SOP compliance, quality assurance, grievance redressal, audit readiness, and ethical
+         conduct
+
+4.3 Refresher and Need-Based Trainings via LMS
+   I.    Refresher training arising from policy changes, IT system upgrades, or identified performance gaps
+         shall be mandatorily delivered and tracked through the LMS.
+   II.   Completion of refresher modules within prescribed timelines shall be compulsory for:
+         a. Newly onboarded PMAMs
+         b. PMAMs identified as low performing
+         c. PMAMs shall adapt to major updates in guidelines, policies, or IT systems that affect their roles,
+            responsibilities, or system access.
+
+4.4 Assessment, Certification, and Re-certification Framework
+   I.    All assessments shall be conducted exclusively through the LMS to ensure standardisation,
+         transparency, and auditability.
+   II.   PMAMs shall be required to secure the minimum qualifying score, as prescribed by NHA/SHAs, to
+         obtain or retain certification.
+   III. Certification and re-certification status shall be auto generated and recorded on the LMS and shall be
+        a prerequisite for:
+         a. Continuation of engagement or deployment at EHCPs
+         b. Eligibility for performance-based incentives
+         c. Incentives may be withheld, reduced, or deferred in cases of:
+            •   Non-registration on LMS
+            •   Failure to qualify prescribed assessments
+
+4.5 Institutional Roles and Responsibilities
+   I.    NHA shall:
+         a. Designate and maintain the national LMS platform
+
+
+                                                     21
+           b. Upload standardised training content and assessments
+           c. Define certification norms and LMS compliance benchmarks
+   II.      State Health Agencies (SHAs) shall:
+           a. Ensure LMS onboarding of all PMAMs
+           b. Monitor login frequency, completion rates, and assessment outcomes
+           c. Take corrective actions in cases of non-compliance
+   III. Empanelled Hospitals shall:
+           a. Facilitate PMAM access to computers/internet for LMS usage
+           b. Ensure PMAMs are provided time and institutional support to complete LMS modules
+
+4.6 In-person Training
+   In addition to the learning modules on the LMS, offline capacity-building sessions will be scheduled in
+   advance. PMAMs shall be duly informed and are required to attend these sessions.
+
+
+5. Do’s / Don’ts for PMAM							
+5.1 Do’s
+     I.       The PMAM shall greet beneficiaries courteously at the beginning of every interaction and maintain
+              a polite, respectful, and empathetic demeanour throughout the engagement
+     II.      The PMAM shall ensure the privacy and confidentiality of all beneficiary documents and personal
+              information, including but not limited to Aadhaar cards, ration cards, prescriptions, treatment
+              details, and mobile numbers.
+     III.     The PMAM shall inform the beneficiary of all patient rights at the time of discharge.
+     IV.      The PMAM shall ensure that the beneficiary receives the prescribed medicines.
+     V.       The PMAM shall ensure that grievances are promptly raised and escalated to the concerned
+              authorities for resolution.
+     VI.      The PMAM shall provide complete and accurate patient-related information to the patient party.
+     VII. The PMAM shall ensure that adequate connectivity and necessary equipment are available for
+          smooth operations.
+     VIII. The PMAM shall be available at the help desk at all times during assigned duty hours.
+     IX.      The PMAM shall be neatly and professionally dressed in the approved uniform during working
+              hours.
+
+5.2 Don’ts
+     I.       The PMAM shall always uphold ethical conduct and shall not engage in any activity involving
+              unethical demands or practices.
+     II.      The PMAM shall not engage in any form of misbehaviour while interacting with beneficiaries,
+              hospital staff, or other stakeholders.
+     III.     The PMAM shall not leave the designated desk unattended during working hours.
+
+
+
+
+                                                        22
+6. Conclusion									
+PMAMs are central to the effective delivery of services under the PM-JAY scheme and are required to function in
+accordance with the established governance framework. Strengthening their capacity, ensuring accountability,
+and adherence to defined roles are critical for seamless beneficiary service delivery, with continued support
+from SHAs and EHCPs. Ongoing capacity building through the LMS, along with the effective use of digital
+platforms such as BIS, TMS, and the Ayushman App, will further enhance implementation outcomes. All
+stakeholders must ensure compliance with guidelines, uphold professional standards, and promote continuous
+learning and improvement.
+
+
+
+
+                                                      23
+ANNEXURES
+
+
+
+
+    24
+Annexure 1: SLA -KPIs for PMAM to be monitored by SHA
+                             Public /
+ S No.         KPIs          Private         Definition                    Measurement Criteria
+                              EHCP
+                                                              High: Pre-auth raised within 24 hours
+                                                              Moderate: Pre-auth raised within 48 hours
+                              Private
+                                                              Low: Pre-auth raised again after 48 hours of auto
+         Pre-Authorization                Timely initiation   rejection in TMS
+   1       after patient                         of
+            registration                     pre-auth         High: Pre-auth raised within 48 hours
+                                                              Moderate: Pre-auth raised within 72 hours
+                              Public
+                                                              Low: Pre-auth raised again after 72 hours of auto
+                                                              rejection in TMS
+
+         Pre-Authorization
+                             Public or    Timely response     Moderate: A response must be provided within 2
+   2     query response in
+                              Private        to query         hours
+            Portability
+
+                                                              High: A response is provided within 30 minutes
+                                                              (1st reminder)
+         Response on PPD     Public or    Timely response     Moderate: A response is provided within 2 hours
+   3
+              query           Private        to query         (3rd reminder)
+                                                              Low: Reponses provided after 2 hours / No
+                                                              response provided
+                                                              High: Submission within 3 days (at 2nd reminder)
+                              Private                         Moderate: Submission within 7 days
+                                              Timely          Low: Submission after 7 days
+         Claim submission
+   4                                       submission of
+          after discharge                                     High: Submission within 7 days (at 2nd reminder)
+                                              claims
+                              Public                          Moderate: Submission within 15 days
+                                                              Low: Submission after 15 days
+                                                              High: Submission within 3 days (at 2nd reminder)
+                              Private                         Moderate: Submission within 7 days
+         Response of CPD                  Timely response     Low: Submission after 7 days
+   5
+             query                           to query         High: Submission within 7 days (at 2nd reminder)
+                              Public                          Moderate: Submission within 15 days
+                                                              Low: Submission after 15 days
+              Correct
+                                                              High: No errors on monthly basis
+          documentation,     Public or     Upload without
+   6                                                          Moderate: Errors in 2% cases
+         details and photo    Private          errors
+                                                              Low: Errors in more than 2% cases
+              upload
+                                             Number of
+         Number of eKYC      Public or     Ayushman card
+   7                                                          Moderate: 100% eKYC verification
+           processed          Private       created with
+                                          eKYC verification
+         Issuing Ayushman                  Ayushman card
+                             Public or                        Moderate: Issue 3 Ayushman card to non-entitled
+   8        card to non-                  to a non-entitled
+                              Private                         person
+           entitled person                     person
+
+*States may define their own KPIs in cases where they opt not to adopt Annexure 1*
+The proposed incentive structure is suggestive
+
+
+
+
+                                                     25
+   GUIDELINES
+  FOR FINANCIAL
+MANAGEMENT UNDER
+    AB PM-JAY
+    Applicability and Conditions of Use
+This document is effective from 17 April 2026 and is intended for official use
+by relevant stakeholders.
+This document consolidates and supersedes all Office Memorandums (OMs)
+and guidelines related to the relevant subject area. Wherever required,
+necessary revisions, updates, and clarifications have been incorporated
+to ensure consistency, accuracy, and alignment with current policies and
+implementation needs.
+
+
+
+
+                                     27
+                        TABLE OF CONTENTS
+DEFINITIONS & ABBREVIATIONS                                                                  30
+1.   BACKGROUND AND PURPOSE                                                                  32
+1.1 Introduction                                                                             32
+1.2 Scope and Applicability                                                                  32
+1.3 Beneficiary Coverage                                                                     32
+2.   BENEFICIARY COVERAGE AND DATABASE                                                       32
+2.1 AB PM-JAY Beneficiary Database                                                           32
+2.2 Accredited Social Health Activists, Anganwadi Workers, and Anganwadi Helpers Expansion   33
+2.3 Ayushman Bharat Vay Vandana Scheme (Senior Citizens of 70 Years of Age and Above)        33
+2.4 Eligibility Verification                                                                 34
+3.   FINANCIAL FRAMEWORK                                                                     34
+3.1 Demand-Driven Fund Release                                                               34
+3.2 Centre–State Sharing Pattern                                                             34
+3.3 “Lowest of Three” Principle                                                              35
+3.4 Annual GIA ceiling for Implementation                                                    35
+3.5 Annual GIA ceiling for Administration                                                    35
+4.   GIA FOR IMPLEMENTATION                                                                  36
+4.1 Modes of Implementation                                                                  36
+4.2 Conditions for Release of GIA                                                            36
+4.3 Schedule of Release                                                                      36
+5.   GIA FOR ADMINISTRATION                                                                  37
+5.1 GIA Admin under AB PM-JAY                                                                37
+5.2 Utilisation of GIA for Administrative Expenses                                           37
+5.3 Permissible Heads of Expenditure                                                         37
+5.4 Flexible Heads (No Fixed Ceiling)                                                        37
+5.5 Restricted Heads (Max 15% Combined)                                                      38
+5.6 Stage of Release of GIA for Administrative Expenses                                      38
+6.   BANKING OPERATIONS AND PAYMENT MODALITIES                                               38
+6.1 Escrow Account                                                                           38
+6.2 Flow of Funds                                                                            38
+
+
+                                                     28
+6.3 Technology and Monitoring Requirements                                                           39
+7.   PROCEDURE FOR FUND RELEASE                                                                      39
+7.1 Submission of Proposals:                                                                         39
+7.2 Utilisation Certificate                                                                          39
+7.3 Interest on GIA                                                                                  39
+7.4 Conditions for Subsequent Releases                                                               40
+7.5 Audit and Verification                                                                           40
+8.   SPECIAL PROVISIONS                                                                              40
+8.1 Refund of Premium - Insurance Mode                                                               40
+8.2 Final Authority                                                                                  41
+9.   FUND RELEASE PORTAL                                                                             41
+9.1 Scope                                                                                            41
+9.2 User Roles                                                                                       42
+9.3 Process Workflow                                                                                 42
+9.4 Proposal request via Fund release portal                                                         44
+ANNEXURES                                                                                            48
+Annexure 1: Escrow Account Guidelines                                                                49
+Annexure 2: Illustration of GIA-Admin Release                                                        51
+Annexure 3: Trust Mode GIA computation                                                               53
+Annexure 4: Insurance Mode GIA computation                                                           55
+Annexure 5: Mixed Mode GIA computation                                                               57
+Annexure 6: ASHA/AWW/AWH Premium Calculation Template and Example                                    59
+Annexure 7: Vay Vandana Calculation Template and Example                                             62
+Annexure 8: Office Memorandum - Guidelines for Issuance of Utilisation Certificate under AB PM-JAY   64
+Annexure 9: Office Memorandum - Fund Release for Ayushman Bharat Vay Vandana Scheme
+Beneficiaries                                                                                        70
+Annexure 10: Guidelines on the inclusion of ASHA/AWW/AWH under AB PM-JAY                             72
+Annexure 11: Office Memorandum - Financial Guidelines for Fund Utilisation for ASHA/AWW/AWH
+under AB PM-JAY                                                                                      77
+Annexure 12: Office Memorandum - GIA Administration Expenses                                         83
+Annexure 13: Office Memorandum - Beneficiary family allocation to States/UTs                         84
+Annexure 14: Office Memorandum - Banking Arrangements for Implementing Agencies (2016)               87
+Annexure 15: Office Memorandum - Banking Arrangements for Implementing Agencies (2019)               89
+
+
+
+
+                                                   29
+                       Definitions and Abbreviations
+S. No.          Term                                       Definition
+
+                          Ayushman Bharat Vay Vandana Scheme - card issued to eligible senior
+  1.     AB VVS
+                          citizens aged 70 years and above under the expansion of AB PM-JAY.
+
+                          Accredited Social Health Activist - as notified by the National health Mission
+  2.     ASHA
+                          under Ministry of Health and Family Welfare.
+
+                          Anganwadi Helper - as notified by the Ministry of Women and Child
+  3.     AWH
+                          Development.
+
+                          Anganwadi Worker - as notified by the Ministry of Women and Child
+  4.     AWW
+                          Development.
+
+                          Beneficiary Identification System - NHA’s IT platform for beneficiary
+  5.     BIS
+                          identification, verification, and Ayushman Card issuance.
+
+  6.     CAPF             Central Armed Police Force
+
+  7.     CGHS             Central Government Health Scheme
+
+                          District Implementation Unit - district-level implementing body under the
+  8.     DIU
+                          SHA.
+
+                          Expenditure, Advance and Transfer Module of PFMS - for fund disbursement
+  9.     EAT Module
+                          and tracking.
+
+ 10.     ECHS             Ex- Servicemen Contributory Health Scheme
+
+                          Electronic Know Your Customer - Aadhaar-based digital authentication
+ 11.     eKYC
+                          process for enrolment/identification and verification of beneficiaries.
+
+                          Designated bank account opened separately for GIA-Implementation and
+ 12.     Escrow Account
+                          GIA-Admin, through which all fund flows under AB PM-JAY are channelled.
+
+                          General Financial Rules, 2017 - the rules governing financial management
+ 13.     GFR
+                          and procurement procedures for the Government of India.
+
+                          Grant-in-Aid - financial assistance provided by the Central/ State
+ 14.     GIA
+                          Government.
+
+ 15.     GIA-Admin        Grant-in-Aid released for administrative expenses.
+
+         GIA-             Grant-in-Aid released for premium payments towards the health cover of
+ 16.
+         Implementation   beneficiary families.
+
+                          Information, Education and Communication - activities related to beneficiary
+ 17.     IEC
+                          awareness, outreach, and scheme promotion.
+
+                          Mode of implementation wherein the State or UT implements AB PM-JAY
+ 18.     Insurance Mode   through an Insurance Company, selected as per the NHA-approved Model
+                          Tender Document.
+
+
+
+
+                                               30
+      Mixed/Hybrid   Mode of implementation wherein the State or UT implements AB PM-JAY
+19.
+      Mode           through a combination of Insurance Mode and Trust Mode.
+
+20.   MoF            Ministry of Finance, Government of India.
+
+21.   MoHFW          Ministry of Health and Family Welfare, Government of India.
+
+22.   NFSA           National Food Security Act
+
+                     National Health Authority - apex body responsible for implementing AB
+23.   NHA
+                     PM-JAY at the national level.
+
+                     Public Financial Management System - Government of India’s financial
+24.   PFMS
+                     management platform.
+
+                     Rashtriya Swasthya Bima Yojana - the predecessor scheme subsumed into
+25.   RSBY
+                     AB PM-JAY.
+
+                     Senior Citizen Health Insurance Scheme - predecessor scheme subsumed
+26.   SCHIS
+                     into AB PM-JAY upon its launch.
+
+                     Socio Economic Caste Census 2011 - primary database used for identifying
+27.   SECC
+                     eligible beneficiary families under AB PM-JAY.
+
+                     State Health Agency - designated body at State or Union Territory level
+28.   SHA
+                     responsible for implementing AB PM-JAY.
+
+                     Mode of implementation wherein the State or UT implements AB PM-
+29.   Trust Mode     JAY through a designated Trust, Society, or Organisation without the
+                     involvement of an insurance company.
+
+                     Utilization Certificate - certificate confirming the utilization of Grant-in-Aid
+30.   UC
+                     released for implementation and administrative purposes.
+
+
+
+
+                                          31
+Guidelines for Financial Management under AB PM-JAY
+Ayushman Bharat Pradhan Mantri – Jan Arogya Yojana (AB PM-JAY) is the world’s largest health assurance
+scheme that intends to reduce the out-of-pocket expenditure arising due to catastrophic expenditure on
+healthcare. AB PM-JAY was launched on 23rd September 2018 as recommended by the National Health Policy
+2017, to achieve the SDGs vision of Universal Health Coverage (UHC), subsuming the erstwhile Rashtriya
+Swasthya Bima Yojana (RSBY). The scheme provides health cover of Rs. 5 lakhs per family per year for secondary
+and tertiary care hospitalization to bottom 40% of the India’s poor and vulnerable population.
+
+1. Background and Purpose			
+1.1 Introduction
+      1.1.1   Initially, 10.74 crore eligible households were identified under the scheme from SECC 2011 based
+              on certain deprivation and occupational criteria in rural and urban areas respectively. Further, in
+              January 2022, the Cabinet to the Government of India revised the beneficiary based to 12 crore
+              families, considering the decadal population growth rate of 11.7% and gave the flexibility to
+              States/UTs to use other State scheme databases.
+      1.1.2   In March 2024, 37 lakh families of Accredited Social Health Activists (ASHAs), Anganwadi Workers
+              (AWWs) and Anganwadi Helpers (AWHs) were also included in the scheme.
+      1.1.3   Further, on 29th October 2024, the Government has expanded AB PM-JAY to provide free treatment
+              benefits of up to ₹5 lakh per year to all senior citizens aged 70 years and above along with their
+              families, irrespective of their socio-economic status.
+      1.1.4   This consolidated guideline is issued to bring all operative financial provisions under a single
+              reference document - covering fund release for implementation and administrative purposes
+              across all modes of implementation and for all eligible beneficiary families covered under AB PM-
+              JAY categories.
+1.2 Scope and Applicability
+      1.2.1   These guidelines shall apply to all States and Union Territories implementing AB PM-JAY, their
+              respective State Health Agencies (SHAs), District Implementation Units (DIUs), and other
+              implementation partners (i.e. banks, insurance companies, etc) involved in the financial operations
+              of the scheme.
+      1.2.2   The provisions herein govern:
+              a.   Release of GIA for implementation and administrative purposes across all modes of
+                   implementation - Insurance Mode, Trust Mode, and Mixed Mode - in respect of AB PM-JAY
+                   beneficiaries, ASHA/AWW/AWH beneficiaries and Ayushman Bharat Vay Vandana Scheme
+                   beneficiaries.
+              b.   Banking and escrow account operations.
+              c.   Utilization certification and audit compliance.
+1.3   Beneficiary Coverage: These guidelines apply in respect of the AB PM-JAY beneficiaries, ASHA/AWW/
+      AWH beneficiaries, and Ayushman Bharat Vay Vandana Scheme beneficiaries.
+
+
+2. BENEFICIARY COVERAGE AND DATABASE
+2.1    AB PM-JAY Beneficiary Database
+2.1.1 Total number of eligible beneficiary families for the release of Grant-in-Aid (GIA),
+
+                                                        32
+       a.   State/UT-wise ceilings representing 12 Crore families, as determined by the higher of the SECC
+            2011 database or existing RSBY-enrolled families.
+       b.   States/UTs are permitted the flexibility to utilize non-SECC databases to tag beneficiaries against
+            unidentifiable or non-traceable families. (OM S-12018/395/2022-NHA dated 2 Dec 2024 attached
+            as annexure 13)
+2.2   Accredited Social Health Activists, Anganwadi Workers, and Anganwadi Helpers Expansion
+2.2.1 As per the Guideline of ASHA/AWW/AWH inclusion (Annexure 10) and OM S-12018/130/2021-NHA-
+      Part (2) dated 23 Feb 2026 regarding the fund release (Annexure 11), following categories of frontline
+      health workers and their families are covered under AB PM-JAY as a distinct beneficiary category
+2.2.2 Eligible Categories
+       a.   Accredited Social Health Activists (ASHAs), as notified by the Ministry of Health and Family
+            Welfare.
+       b.   Anganwadi Workers (AWWs), as notified by the Ministry of Women and Child Development.
+       c.   Anganwadi Helpers (AWHs), as notified by the Ministry of Women and Child Development.
+2.2.3 Family Coverage: All eligible ASHA/AWW/AWH beneficiaries1 and their family members shall be covered
+      under AB PM-JAY. Family members shall include:
+       a.   Spouse,
+       b.   Dependent parents,
+       c.   Dependent sons and daughters, including stepchildren and adopted children,
+       d.   Any other dependent person related to them or their spouse by blood or marriage.
+2.2.4 Ineligibility Provisions for ASHA/AWW/AWHs whose spouse is either:
+       a.   Permanently employed under the Government; OR
+       b.   A pensioner of the Government
+2.2.5 It is to be mentioned here that if ASHA/AWW/AWHs are already identified as eligible existing
+      beneficiaries under the AB PM-JAY and are subsequently tagged by the State or Union Territory under
+      the ASHA/AWW/AWH category, such beneficiaries shall be treated as ASHA/AWW/AWH families for
+      the purposes of these guidelines.
+2.3   Ayushman Bharat Vay Vandana Scheme (Senior Citizens of 70 Years of Age and Above)
+2.3.1 On 11th September 2024, the Government of India approved the expansion of AB PM-JAY to cover all
+      senior citizens of the age of 70 years and above, irrespective of their socio-economic status, on family
+      basis. Under this expansion, eligible senior citizens are issued the Ayushman Bharat Vay Vandana card
+      (OM s-12018/395/2022-NHA dated 2 Dec 2024 attached as annexure 9).
+2.3.2 Existing AB PM-JAY Families - Shared Top-Up Cover
+      For senior citizens aged 70 years and above who belong to families already covered under AB PM-JAY
+      (hereinafter referred to as “existing families”), an additional shared top-up cover of up to Rs. 5.00 lakh
+      per year shall be provided, subject to the following conditions:
+       a.   For existing families, the additional per family cost per year is estimated to be Rs. 75.70 for the
+            additional top up wallet of Rs.5 Lakh which will be utilized only when the primary family wallet of
+            Rs. 5 lakh is fully exhausted.
+
+
+1.Where more than one ASHA, AWW, or AWH belongs to the same family, they shall be clubbed together as a single
+beneficiary family in the Beneficiary Identification System (BIS) of NHA.
+
+
+
+
+                                                       33
+      b.    In cases where the senior citizens utilise the full or part of the original family wallet of Rs. 5.00
+            lakh, the other members of the family shall be provided a top-up cover of up to Rs. 5.00 lakh.
+2.3.3 New Families - For senior citizens aged 70 years and above who belong to families not currently covered
+      under AB PM-JAY (hereinafter referred to as “new families”), a shared cover of up to Rs. 5.00 lakh per
+      year shall be available.
+      a.    This cover shall not be available to other members of the new family who are not of the age of 70
+            years and above.
+      b.    The annual per-family cost for new families is estimated at Rs. 1,052, aligning with the existing
+            premium cap under AB PM-JAY.
+2.3.4 It is seen that various senior citizens of the age 70 years and above are already covered by central
+      government health insurance schemes such as CGHS, ECHS, CAPF schemes, and other State Government
+      cashless or reimbursement-based health schemes. To ensure that beneficiaries claim benefits under
+      only one Government-funded scheme, the following conditions shall apply:
+      a.    The beneficiary must declare that they are not receiving free healthcare services under any other
+            scheme partially or fully funded by the Central Government or a State Government.
+      b.    If the beneficiary is covered under another scheme, they shall have the option to either retain their
+            current scheme coverage or choose to avail benefits under AB PM-JAY, this choice shall be one-
+            time and final.
+      c.    Coverage under a private health insurance policy shall not be a bar for availing benefits under AB
+            PM-JAY.
+      d.    Beneficiaries of the Employees’ State Insurance Scheme (ESIC) shall also remain eligible under the
+            scheme.
+2.4   Eligibility Verification
+2.4.1 Aadhaar-Based eKYC: For the purpose of enrolment/Verification under AB PM-JAY, the Aadhaar-based
+      electronic Know Your Customer (eKYC) process shall be mandatory for the issuance of Ayushman Cards
+      to all the eligible beneficiaries.
+
+
+3. FINANCIAL FRAMEWORK
+3.1   Demand-Driven Fund Release
+3.1.1 The release of funds under AB PM-JAY for Ayushman Bharat is demand-driven. Funds shall be released
+      as per demand of the SHA, subject to fulfilment of all requisites as per scheme guidelines and adherence
+      to the provisions of the General Financial Rules, 2017. The funding structure and funding pattern for the
+      implementation of the scheme shall remain largely unchanged.
+3.2   Centre–State Sharing Pattern
+3.2.1 The sharing pattern ratio between the Central Government and the States/Union Territories for premium
+      and administrative expenses under AB PM-JAY shall be as follows:
+
+
+
+
+                                                      34
+                                                    Table 1: Centre-State Sharing Pattern*
+
+
+                                                                                                                       Centre - State
+                                         Category of State/UT
+                                                                                                                         Ratio**
+
+  All States (other than North Eastern Region) and UTs with Legislatures (Delhi and
+                                                                                                                            60 : 40
+  Puducherry)
+
+  North-Eastern region states and Himalayan States/UTs (Himachal Pradesh,
+                                                                                                                            90 : 10
+  Uttarakhand, and Jammu & Kashmir)
+
+  Union Territories without Legislatures                                                                                    100 : 0
+
+*The above sharing pattern ratio is subject to change in accordance with the directives issued by the Ministry of Finance from time to time.
+**As per annual maximum ceiling under implementation and administration expenses.
+
+3.3     “Lowest of Three” Principle
+3.3.1 The Central Government’s share2 of GIA for implementation shall be calculated and provided based on
+      the lower of the following three criteria, whichever is lowest:
+         a.     The actual cost of treatment of AB PM-JAY beneficiary families; or
+         b.     The maximum ceiling amount established by the Government of India (currently Rs. 1,052 per
+                family per annum); or
+         c.     The Central share corresponding to the State Government’s contribution for AB PM-JAY families.
+3.4     Annual GIA ceiling for Implementation
+3.4.1 The maximum annual GIA ceiling for implementation purposes is Rs. 1,052 per family per annum, as
+      decided by the Government of India, subject to revision by directives issued by the Government of India
+      from time to time. This ceiling is applicable irrespective of the mode of implementation in States/UTs.
+      The NHA’s maximum share, calculated on the basis of the applicable sharing pattern ratio, shall be as
+      under:
+
+                                          Table 2: Maximum annual GIA ceiling for implementation
+
+
+
+                                                                                                 Maximum share per Family per
+                                           Category
+                                                                                                  Annum for implementation
+
+       North-Eastern region states and Himalayan States/UTs
+                                                                                               90% of Rs. 1,052 = Rs. 946.80
+       (Himachal Pradesh, Uttarakhand, and Jammu & Kashmir)
+
+       All States (other than North Eastern Region) and UTs with
+                                                                                               60% of Rs. 1,052 = Rs. 631.20
+       Legislatures (Delhi and Puducherry)
+
+       Union Territories without Legislatures                                                  100% of Rs. 1,052 = Rs. 1,052
+
+
+3.5     Annual GIA ceiling for Administration
+3.5.1 The actual administrative expenses, the maximum ceiling of the estimated annual administrative
+      expenses per family as per eligible beneficiaries’ base, or central share corresponding to the state
+
+
+2.This principle applies uniformly across all beneficiary categories and across all modes of implementation.
+
+
+
+                                                                       35
+        government’s contribution for AB PM-JAY families, whichever is less, shall be shared between the Central
+        Government and the States/Union Territories in the applicable sharing ratio. The existing annual ceiling
+        per family for each category (AB PM-JAY beneficiaries, ASHA/AWW/AWH beneficiaries, and Ayushman
+        Bharat Vay Vandana Scheme beneficiaries) for administrative expenses is as under:
+
+                                        Table 3: Maximum annual GIA ceiling for Administration*
+
+
+
+                                                                      Maximum share per Family per Annum for
+          Beneficiary Base of State/UT
+                                                                                 Administration
+
+  States with up to 1 lakh beneficiary families               Rs. 200/- per family or Rs. 1.00 Crore, whichever is higher
+
+  States with more than 1 lakh but less than                  Rs. 150/- per family or Rs. 2.00 Crore, whichever is higher
+  10 lakh beneficiary families
+
+  States with more than 10 lakh beneficiary                   Rs. 50/- per family or Rs. 15.00 Crore, whichever is higher
+  families
+
+*The above ceiling limit shall be applicable irrespective of the mode of implementation opted by the State Government or Union Territory.
+
+
+
+4. GIA FOR IMPLEMENTATION
+4.1     Modes of Implementation
+4.1.1 States and Union Territories may implement AB PM-JAY through one of the following three modes:
+        a.     Insurance Mode: The State or UT implements AB PM-JAY through an Insurance Company, without
+               which the policy period does not commence.
+        b.     Trust Mode: The State or UT implements AB PM-JAY through its designated Trust, Society, or
+               Organisation without the involvement of an Insurance Company.
+        c.     Mixed/Hybrid Mode: The State or UT implements AB PM-JAY through a combination of Insurance
+               Mode and Trust Mode.
+4.2     Conditions for Release of GIA
+4.2.1 The release of Central Government’s Share of GIA shall be subject to the following conditions:
+        a.     The State or UT shall release its proportionate share upfront into the separate designated escrow
+               account of SHA opened for the implementation of AB PM-JAY and share the details of funds released
+               along with a copy of the bank statement with NHA.
+        b.     The State or UT shall also share the Utilisation Certificate in Form 12-A of the General Financial
+               Rules 2017, and copies of Annual Audited Statement of Accounts along with any other requisite
+               documents specified by NHA from time to time.
+        c.     For the purpose of deciding the annual tenure for release of GIA, the period shall be the Financial
+               Year, i.e., from 1st April to 31st March. Computation of Central share of contribution shall be based
+               on 365 days, or 366 days in the case of a leap year, and not on a monthly basis.
+4.3     Schedule of Release
+4.3.1 Insurance Mode: For States and UTs implementing AB PM-JAY in Insurance Mode, and for the Insurance
+      component of Mixed Mode, the GIA shall be released as per the timeline decided in the contract signed
+      between the SHA and the Insurance Company.
+4.3.2 Trust Mode: For States and UTs implementing AB PM-JAY in Trust Mode, Grant-in-Aid (GIA) shall be
+      released, preferably in two tranches of 50% each as per the requirements raised by the respective states,
+
+
+                                                                   36
+      subject to the proportionate upfront release of the State share and the utilization certificate of earlier
+      released GIA.
+4.3.3 Mixed Mode: The annual payable Grant-in-Aid in case of Mixed Mode, will be funds will be computed
+      for the premium payment as per the applicable insurance contract signed between SHA and insurance
+      company. Further, the computation of payable treatment cost of NHA’s Share for claim payment under
+      trust mode will be done from the left-over funds with revised beneficiary base.
+
+
+5. GIA FOR ADMINISTRATION
+5.1   GIA Admin under AB PM-JAY
+5.1.1 Grant-in-Aid for Administrative Expenses (GIA-Admin) is the financial assistance provided to
+      administrative costs incurred in the course of implementation of AB PM-JAY, irrespective all modes of
+      implementation.
+5.2   Utilisation of GIA for Administrative Expenses
+5.2.1 The GIA released for Administrative Expenses shall be utilised only for the specific purpose of incurring
+      administrative expenses in the course of implementation of AB PM-JAY by the SHA. Expenditure shall be
+      incurred in a manner so that there is no rush of expenditure in February and March of any financial year.
+5.3   Permissible Heads of Expenditure
+5.3.1 The types of expenses permitted to be incurred under the Administrative GIA are set out below. The
+      percentages indicated against each head are indicative, as prescribed under the Guidelines for Release
+      of Administrative Expenses. These indicative percentages stand modified by the Office Memorandum
+      No. S-120/18/277/2022-NHA dated 23rd February 2026 attached as Annexure 12.
+5.4   Flexible Heads (No Fixed Ceiling)
+5.4.1 Human Resources
+      a.    Payment to contractual staff, either recruited directly or through an agency, for administrative
+            work specific to AB PM-JAY.
+      b.    Travel expenses incurred specifically for work related to AB PM-JAY; travel, lodging, and boarding
+            shall be regulated as per the respective State’s or UT’s rules.
+      c.    Holding of training programmes.
+5.4.2 IT Infrastructure
+      a.    IT-related purchases specifically for AB PM-JAY work, including hardware such as computers,
+            peripherals, and printers.
+      b.    Software applications required for administrative work, such as MS Office suite or Adobe
+            applications.
+      c.    AMC charges and other associated and incidental expenses.
+5.4.3 IEC (Information, Education, and Communication) – Minimum 10%
+      a.    Advertising and promotion.
+      b.    Printing of brochures and promotional material in local languages.
+      c.    Translation and delivery of scheme-related information and material.
+      d.    Beneficiary awareness initiatives, outreach campaigns, capacity-building activities, media
+            engagement, and dissemination of scheme-related information.
+
+
+                                                      37
+5.5   Restricted Heads (Max 15% Combined)
+5.5.1 Office Expenses
+       a.   Hiring of vehicles specifically for AB PM-JAY work.
+       b.   Newspaper bills.
+       c.   Subscriptions to magazines pertaining to the Health Sector.
+       d.   Payment of electricity and water bills.
+       e.   Bank charges levied on the SHA by their bank.
+       f.   Purchase of office supplies and postage specifically for AB PM-JAY work.
+       g.   Phone bills and internet bills as per applicable norms.
+       h.   Lease rent of office space of SHA.
+       i.   Payment of monthly rent for rooms/buildings.
+       j.   Rental of office equipment specifically for AB PM-JAY work.
+5.5.2 Contingencies: Any Unforeseen expenditure incurred for the implementation of AB PM-JAY.
+5.6   Stage of Release of GIA for Administrative Expenses
+5.6.1 The GIA for Administrative Expenses shall be released as per the requirements raised by the respective
+      states, subject to proportionate upfront release of the State’s or UT’s share and utilisation details of GIA
+      released earlier, if any. This schedule of release shall be applicable irrespective of the mode in which AB
+      PM-JAY is being implemented in the State.
+
+
+6. BANKING OPERATIONS AND PAYMENT MODALITIES
+6.1   Escrow Account
+6.1.1 The State Governments and Union Territories shall open two separate designated escrow accounts, name
+      as “GIA Implementation Account” and “GIA Administrative Account”, with any of the banks permissible
+      as per the instructions issued by the Ministry of Finance. (Escrow Guidelines attached as Annexure 1)
+6.1.2 The escrow accounts shall be opened in accordance with the instructions issued by the Ministry of
+      Finance vide O.M. No. S-11012/3(1)/Bank/Ref.Case/2010/RBD/1688-1772 dated 10th November
+      2016 (enclosed as Annexure 14), read with O.M. No. S-11012/3(1)/Bank/Ref.Case/2010/GBA/1351-
+      1454 dated 21st August 2019 (enclosed as Annexure 15).
+6.1.3 The SHA shall share the details of the designated escrow accounts with NHA within 7 days of opening
+      the accounts or any change in the details of the designated escrow accounts.
+6.2   Flow of Funds
+6.2.1 The State or UT shall upfront release its share for each beneficiary category into designated escrow
+      accounts of SHA opened for the AB PM-JAY and share the details of funds released along with a copy of
+      the bank statement with NHA.
+6.2.2 The Central Government shall then release its share of GIA through the PFMS portal into the designated
+      escrow accounts of the SHA of the respective State or UT (as applicable) within 21 working days from
+      the receipt of the duly completed proposal from the State Government.
+6.2.3 In case of Insurance mode, upon receipt of the Central Government’s Share of GIA, the State or UT shall
+      release the aforesaid instalment of premium within 7 working days from the SHA Premium Escrow
+      Account to the Insurance Company. The complete fund flow of the scheme requires regular flow of
+      information and monitoring of funds at all levels. At the State/UT level, SHA, shall ensure the timely
+
+
+                                                       38
+           disbursement of funds to downward agencies that is from the bank to the EHCPs.
+6.3        Technology and Monitoring Requirements:
+6.3.1 SHA shall ensure selection of a bank which has robust technology solutions with experience of handling
+      government transactions including providing escrow arrangement services for government schemes
+      and projects. The solution provided by SHA’s banker shall facilitate the following:
+           a.   Multi-level fund monitoring through a single account system,
+           b.   Authorization-based payment mechanism in the form of Maker and Checker,
+           c.   Component head-wise payment and tracking - received funds categorised in the form of expenditure
+                heads,
+           d.   Real-time balance reports to monitor all expenditure head-wise transaction summaries,
+           e.   View access of transactions across hierarchy,
+           f.   Customised MIS/Reports to ensure smooth reconciliations,
+           g.   Capability of integration with accounting system for easy bookkeeping
+
+
+7. PROCEDURE FOR FUND RELEASE
+7.1        Submission of Proposals:
+7.1.1 The proposal for release of Central Government’s Share of GIA shall be made by the State Government
+      upon release of its matching share of contribution into the separate designated escrow accounts
+7.1.2 Certified expenditure statement for treatment cost and other requisite documents as specified under
+      the General Financial Rules, 2017 shall be submitted by respective states.
+7.2        Utilisation Certificate
+7.2.1 The Utilisation Certificate shall be furnished in Form 12-A under Rule 238(1) of the General Financial
+      Rules 2017.
+7.2.2 Copies of the Annual Audited Statement of Accounts and any other requisite documents specified by
+      NHA shall be submitted.
+7.2.3 Audited & certified Utilisation Certificates by the Chief Executive Officer (CEO) of the SHA along with the
+      Head of Accounts/Finance Department of the SHA, shall be submitted within 12 months of the closure
+      of the financial year. (OM S-12018/299/2022-NHA-Part(1) dated 7 Aug 2024 regarding issuance of UC
+      attached as Annexure 8)
+7.3        Interest on GIA
+7.3.1 Interest, if any, accrued in the designated bank account shall be allocated in the ratio of total contribution
+      made by the Centre and the State in that financial year, duly supported by the interest earned certificate
+      issued by the bank, without considering the TDS deducted by the bank, if any.
+Table 4: List of documents to share at the time of submission of fund proposal
+
+  S. No.                     Document/ Information                                    Format
+
+      1.        Letter from SHA requesting fund release /         Original/Certified by competent authorities.
+                Proposal on fund Release Portal by designated
+                CEO of State/UT’s Health Agency.
+
+      2.        Total number of eligible beneficiary families     Detailed validated figures with certification
+                identified
+
+
+                                                         39
+      3.        Premium calculation sheet                          Excel/Spreadsheet format
+
+      4.        State-wise and beneficiary family category-        As per prescribed format
+                wise breakup
+
+      5.        Premium payment receipt                            Applicable to Insurance Mode States
+
+      6.        Premium payment receipt                            Applicable to Insurance Mode States
+
+      7.        Claim paid summary sheet                           Applicable to Trust Mode States
+
+      8.        Undertaking regarding ineligible beneficiaries     Signed undertaking
+
+      9.        Details of Administrative Expenditure (Admin       Itemised bank statement and expenditure
+                expense sheet)                                     sheet
+
+      10.       Bank statement of escrow accounts                  Details of upfront release of the
+                                                                   proportionate State share
+
+      11.       Utilisation Certificate in Form 12-A of the        Along with copies of Annual Audited
+                General Financial Rules 2017 under Rule            Statement of Accounts - for GIA-
+                238(1)                                             Implementation and for GIA-Administrative
+                                                                   Expenses
+
+      12.       Receipt for remittance of Interest earned on       Bharat Kosh
+                GIA
+
+7.4        Conditions for Subsequent Releases
+7.4.1 In line with Rule 238(2) of the General Financial Rules 2017, with respect to recurring Grants, the
+      following conditions shall apply:
+           a.   The amount sanctioned for a subsequent financial year shall be released only after the Utilisation
+                Certificate in respect of Grants of the preceding financial year is submitted.
+           b.   Release of GIA in excess of 75% of the total amount sanctioned for the subsequent financial year
+                shall be made only after the audited Utilisation Certificate and the Annual Audited Statement
+                relating to GIA released in the preceding year are submitted to the satisfaction of NHA.
+           c.   Reports submitted by the Internal Audit parties of the Ministry of Health and Family Welfare or NHA,
+                Inspection Reports received from the Indian Audit and Accounts Department, and performance
+                reports received for the third and fourth quarter of the year shall also be taken into consideration
+                while sanctioning further Grants by NHA.
+7.5        Audit and Verification
+7.5.1. The accounts maintained by the SHA shall be audited by designated auditors. The figures depicted in
+       the Utilisation Certificate shall tally with the audited figures mentioned in the financial statements and
+       accounts.
+7.5.2 SHAs shall ensure that audited financial statements and reconciled UCs are available for all years since
+      implementation of the scheme in the State.
+
+
+8. SPECIAL PROVISIONS
+8.1        Refund of Premium - Insurance Mode
+8.1.1 In cases where States and Union Territories implement the scheme under Insurance Mode or Mixed
+
+
+                                                          40
+      Mode, the following provisions shall apply:
+       a.   The SHA shall ensure that the refund due from the Insurance Company is recovered from them
+            within the stipulated time period as mentioned in the contract executed with the Insurance
+            Company. Company. SHA shall impose relevant provisions in case of delay on the part of the
+            Insurance Company in refund of premium after calculation of the total amount payable to the
+            Insurance Company as per the provisions of the contract signed by the States/UTs.
+       b.   The amount of refund shall be shared between Centre and State/UT as per the following formulas:
+            •   Step 1 - Effective Premium:
+                Effective Premium = [(Total premium paid – Total premium returned) / Total Number of
+                families]
+            •   Step 2 - Per Family Central Share in Effective Premium:
+                i.    If Effective Premium < Rs. 1,052: Central Share = Effective Premium × 0.6/0.9/1 (as
+                      applicable)
+                ii.   If Effective Premium > Rs. 1,052: Central Share = Rs. 1,052 × 0.6/0.9/1 (as applicable)
+            •   Step 3 - Per Family State Share in Effective Premium:
+                i.    If Effective Premium < Rs. 1,052: State Share = Effective Premium × 0.4/0.1/0 (as
+                      applicable)
+                ii.   If Effective Premium > Rs. 1,052: State Share = (Rs. 1,052 × 0.4/0.1/0) + (Effective
+                      Premium – Rs. 1,052)
+            •   Step 4 - Calculation of Central and State Share of Refunds:
+                i.    Central Share per family:
+                      a. If Effective Premium < Rs. 1,052: Central share in refund = Actual amount paid by
+                         NHA – Effective Central Share
+                      b. If Effective Premium > Rs. 1,052: Central share in refund = Nil
+                ii.   State Share per family:
+                      a. If Effective Premium < Rs. 1,052: State share in refund = Actual amount paid by SHA
+                         – Effective State Share
+                      b. If Effective Premium > Rs. 1,052: State share in refund = Total refund received
+                      c. On receipt of the refunds from the Insurance Company, SHA shall calculate the central
+                         share of refund and share the information with NHA along with the subsequent
+                         proposal for funds release. The central share of refunds received shall be adjusted
+                         against the subsequent release of central share.
+                      d. In case of Insurance Mode, the due amount of refund shall be shared in the same
+                         ratio of premium contributed by NHA and SHA respectively.
+8.2   Final Authority
+8.2.1 For any disagreement or issues pertaining to interpretation, understanding, or any other matter arising
+      out of these guidelines, the decision of NHA shall be final and binding on all States and Union Territories.
+
+
+9. FUND RELEASE PORTAL
+9.1   Scope
+9.1.1 All GIA requests under AB PM-JAY shall be submitted through the NHA Grant Request Portal (https://
+
+
+                                                       41
+      fundrelease.nha.gov.in)- a dedicated web-based application through which State and UT Finance
+      Divisions raise GIA proposals for Implementation and Administrative funds. The Portal facilitates
+      systematic, transparent, and paperless processing of GIA requests, reduces manual dependency, and
+      enables real-time tracking of proposal status by States and UTs.
+9.2   User Roles
+9.2.1 The following designated roles shall manage end-to-end workflows within the Portal:
+
+             Role                                             Responsibility
+
+ NHA Report Admin            Approves user profile set-up; creates, amends, or deactivates role-based users;
+                             downloads reports
+
+ NHA Reviewer                Takes final decision on proposal - approves or raises query; may be mapped to
+                             multiple States/UTs.
+
+ NHA State Coordinator       Verifies State CEO-approved proposal; raises query or approves and forwards to
+                             NHA Reviewer; may be mapped to multiple States/UTs
+
+ SHA Finance Division        Raises GIA proposal and submits requisite documents; mapped to respective
+ Individual                  State/UT
+
+ State CEO                   Reviews, approves proposal with mandatory checklist compliance and
+                             e-signature; mapped to single State/UT
+
+9.3   Process Workflow
+
+
+
+
+      i.     SHA Finance division individual will login the application and selects GIA proposal type-
+             Implementation or Administrative submits the grant request along with requisite mandatory
+             documents and details. Upon submission of request, it will create unique request number in
+             application
+      ii.    SMS notification will trigger to State CEO mapped with SHA Finance division
+      iii.   State CEO will be able to view (only) all the details/documents filed by SHA Finance division. State
+
+                                                       42
+      CEO can also download the grant request and documents filed by SHA Finance division for records.
+iv.   State CEO will take decision on the grant request
+      a) Raise a query:
+      •   State CEO will mention query remarks
+      •   System generated SMS notification will be sent to SHA Finance division
+      •   SHA finance division will be able to see the query remarks, amend the details, delete or upload
+          the documents during re-work
+      •   SHA finance division will re-work and re-submit the request to State CEO with closure remarks
+      •   System generated SMS notification will be sent to State CEO
+      •   State CEO can again raise a query, if required (follow starting point)
+      •   State CEO can select SHA (option to whom query can be send back) and then send back query
+      b) Approves the request
+      •   State CEO approves the request
+      •   There will be checklist which State CEO mandatorily ticks at every box then only able to
+          approve the request
+      •   State CEO performs e-sign (mandatorily)
+      •   System generated SMS notification will be sent to NHA state coordinator
+v.    NHA State coordinator will review GIA request sent by State CEO
+vi.   NHA State coordinator will take decision on the grant request
+      a) Raise a query:
+      •   NHA state coordinator will mention query remarks
+      •   System generated SMS notification will be sent to NHA Reviewer
+      •   GIA request will get assigned to NHA reviewer
+      b) Approves the request
+      •   NHA state coordinator approves the request
+      •   System generated SMS notification will be sent to NHA Reviewer
+      •   GIA request will get assigned to NHA reviewer
+vii. NHA reviewer will take final decision on the grant request- approved/raised query by NHA State
+     Co-Ordinator
+      a) Raise a query:
+      •   NHA reviewer will mention query remarks
+      •   System generated SMS notification will be sent to respective State CEO
+      •   GIA request will get assigned to State CEO
+      •   State CEO can see the query remarks and able to assign the request back to SHA Finance with
+          additional comments
+      •   SHA finance division will re-work and re-submit the request to State CEO with closure remarks
+      •   System generated SMS notification will be sent to State CEO
+
+
+
+
+                                                43
+            •   State CEO will approve the request
+            •   State CEO will perform e-sign (mandatorily)
+            •   System generated SMS notification will be sent to NHA state coordinator (refer to point#5)
+            •   Apart from this NHA reviewer can also, send query to NHA state coordinator with query
+                remarks
+            b) Approves the request:
+            •   NHA reviewer will approve the request
+            •   Request will get assigned to NHA State coordinator
+      viii. NHA state coordinator will mention approved amount in system and upload sanction letter
+      ix.   NHA state coordinator will update details in system- Submitted on e-file date (through date
+            calendar), Sanction upload date (date when sanction letter uploaded)
+      x.    System generated SMS notification will be sent to State CEO
+9.4   Proposal request via Fund release portal
+9.4.1 States may submit their proposal request via NHA’s fund release portal itself, the steps along with
+      pictures has been mentioned below
+      (https://fundrelease.nha.gov.in/videos/video.mp4)
+      a.    Login Page
+
+
+
+
+                                                     44
+b.   State CEO Dashboard
+
+
+
+
+c.   SHA Finance Division Dashboard
+
+
+
+
+                                      45
+d.   Raise proposal – Part I: Proposal Details
+
+
+
+
+e.   Raise proposal – Part II: Beneficiary Funding details
+
+
+
+
+f.   Raise proposal – Part III: Implementation calculation request
+
+
+
+
+                                                 46
+g.   Raise proposal – Part IV: State share contribution for AB PM-JAY eligible families
+
+
+
+
+h.   Raise proposal – Part V: Compliance & required documents
+
+
+
+
+i.   Raise proposal – Part VI: Submit details
+
+
+
+
+                                                47
+ANNEXURES
+
+
+
+
+    48
+Annexure 1: Escrow Account Guidelines
+
+
+
+
+                         49
+50
+Annexure 2: Illustration of GIA-Admin Release
+                       Table 5: Slabs for Admin release as per AB PM-JAY Family in respected State/UT
+
+
+
+          Beneficiary Base of State/UT                                            Annual Ceiling
+
+States with up to 1 lakh beneficiary families          Rs. 200/- per family or Rs. 1.00 Crore, whichever is higher
+
+States with more than 1 lakh but less than
+                                                       Rs. 150/- per family or Rs. 2.00 Crore, whichever is higher
+10 lakh beneficiary families
+
+States with more than 10 lakh beneficiary
+                                                       Rs. 50/- per family or Rs. 15.00 Crore, whichever is higher
+families
+
+                               Table 6: Computation of Grant-in-aid for administrative expenses
+
+
+                                            Part A- General Information
+Sr. No.                     Particulars                             Remarks, if any                      Information
+   1.       State / UT Name
+   2.       Mode of Implementation                                                                Insurance/Trust/Mixed
+   3.       Date of Implementation
+   4.       Benefit Cover                                                                         5,00,000
+   5.       NHA’s Share in GIA                                                                    60%
+   6.       Name of the Scheme                                                                    Ayushman Bharat….
+   7.       Total Beneficiary Families Covered in MoU between NHA & State 1,44,07,110
+            the State as per MoU                  Scheme
+   8.       Total eligible SECC Beneficiary Families Based on SECC Database 61,47,562
+            for which Central share is payable       Note (i)
+
+   9.       % eligible SECC Beneficiary Families (8) / (7) x 100                                  42.67%
+            out of total beneficiary families covered
+            by SHA
+  10.       Maximum GIA-implementation payable GIA for Implementation 631.2
+            by NHA / Beneficiary Family        Purpose [Rs. 1052/- @ 60%]
+
+  11.       Maximum GIA-Admin payable by NHA / Rs. 50/- @ 60%                                     30
+            Beneficiary Family
+  12.       Maximum GIA-Implementation payable (8) x (10)                                         3,88,03,41,134
+            by NHA
+  13.       Maximum GIA-Admin payable by NHA                (8) x (11)                            18,44,26,860
+  14.       Policy Period                                                                         01/04/2025               to
+                                                                                                  31/03/2026
+                    Part C - Computation of Grant-in-Aid for Administrative Expenses
+ S. No.                     Particulars                               Information                      Amount (in Cr Rs)
+
+
+
+                                                             51
+15.   Estd. total cost of Administrative As per information provided 95,40,53,460
+      Expenses for the policy period     by SHA (Note iii)
+16.   Cost of Administrative Expenses for (I) x 40%                       38,16,21,384
+      SHA
+17.   Cost of Administrative Expenses for (I) x 60%                       57,24,32,076
+      NHA
+18.   Total upfront amount of State’s Share As per the information 90,00,00,000
+      released by State until now           provided by the state
+19.   NHA’s Share corresponding to amount [(IV) x 0.6/0.4]                1,35,00,00,000
+      released by SHA
+20.   Payment tranche No.                      1/2 :: 50/50               Second remaining
+21.   Total GIA-admin payable uptill this (13) x 1.0                      18,44,26,860
+      tranche
+22.   Total GIA payable by NHA as on date      Minimum of {III, V, VII}   18,44,26,860
+23.   Earlier amount released by NHA                                      13,83,20,145
+24.   Amount left over from previous year UC                              0
+      Payment
+25.   Total amount payable by NHA for this (VIII)-(IX)-(X)                4,61,06,715
+      policy period in this proposal
+
+
+
+
+                                               52
+Annexure 3: Trust Mode GIA computation
+                                 Table 7: Computation of Grant-in-Aid in Trust Mode
+
+
+                                        Part A- General Information:
+Sr. No.                   Particulars                               Remarks, if any     Information
+1         State / UT Name
+2         Mode of Implementation                                                      Trust
+3         Date of Implementation
+4         Benefit Cover                                                               500,000
+5         NHA’s Share in GIA                                                          60%
+6         Name of the Scheme                                                          Ayushman Bharat
+          Total Beneficiary Families Covered in
+7                                               MoU between NHA & State Scheme 1,44,07,110
+          the State as per MoU
+          Total eligible SECC Beneficiary Families Based on SECC Database
+8                                                                                     61,47,562
+          for which Central share is payable       Note (i)
+          % eligible SECC Beneficiary Families out
+9         of total beneficiary families covered by (8) / (7) x 100                    42.67%
+          SHA
+10        Maximum GIA-implementation payable GIA for Implementation Purpose           631.20
+          by NHA / Beneficiary Family        [Rs. 1052/- @ 60%]
+          Maximum GIA-Admin payable by NHA / Rs. 50/- @ 60%                           30.00
+11
+          Beneficiary Family
+          Maximum GIA-Implementation payable (8) x (10)                               388,03,41,134
+12
+          by NHA
+13        Maximum GIA-Admin payable by NHA             (8) x (11)                     18,44,26,860
+          Policy Period                                                               01/04/2025 to
+14
+                                                                                      31/03/2026
+                          Part B - Computation of Grant-in-Aid under Trust Mode
+Sr. No.                   Particulars                                Information          Amount
+                                                                                         (in Cr Rs)
+15        Total cost of treatment provided/paid As per information provided by SHA 3884,08,59,100
+          by SHA                                Note (ii)
+16        Cost of treatment provided/paid for (15) x (9)                              1657,35,24,423
+          PM-JAY beneficiaries
+17        NHA’s share in cost of treatment (16) x 0.6                                 994,41,14,654
+          provided/paid for PM-JAY beneficiaries
+18        Total upfront amount of State’s Share As per information provided by SHA 1450,32,99,931
+          released by State until now
+19        Share of upfront release by SHA for PM- As per information provided by SHA 1450,32,99,931
+          JAY beneficiaries
+20        NHA’s share corresponding to amount [(19) x 0.6/0.4]                        2175,49,49,897
+          released by SHA
+21        Payment tranche No.                          1/2 :: 50/50                   Second remaining
+
+
+                                                        53
+22   Total amount payable uptill this tranche (12) x 1.0                    388,03,41,134
+23   Total amount payable by NHA as on date Minimum of { 12, 17, 20, 22 }   388,03,41,134
+24   Earlier amount released by NHA                                         291,02,55,851
+     Unspent amount as per previous year
+25                                                                          0
+     UC
+26   Amount proposed to be released           (23) - (24) - (25)            97,00,85,284
+
+
+
+
+                                               54
+Annexure 4: Insurance Mode GIA computation
+                                Table 8: Computation of Grant-in-Aid in Insurance Mode
+
+
+
+                                        Part A- General Information
+
+ Sr. No.                        Particulars                                Remarks, if any         Information
+
+1          State / UT Name
+
+2          Mode of Implementation                                                             Insurance
+
+3          Date of Implementation
+
+4          Benefit Cover                                                                      5,00,000
+
+5          NHA’s Share in GIA                                                                 60%
+
+6          Name of the Scheme                                                                 Ayushman
+                                                                                              Bharata Pradhan
+                                                                                              Mantri Jan Arogya
+                                                                                              Yojna-
+
+7          Total Beneficiary Families Covered in the State as                                 1,38,92,759
+           per MoU
+
+8          Total eligible SECC Beneficiary Families for which                                 66,37,371
+           Central share is payable
+
+9          % eligible SECC Beneficiary Families out of total                                  47.78%
+           beneficiary families covered by SHA
+
+10         Maximum GIA-implementation payable by NHA /                   Rs. 1052/- @ 60%     631.20
+           Beneficiary Family
+
+11         Maximum GIA-Admin payable by NHA / Beneficiary                Rs.50*0.6            30
+           Family
+
+12         Maximum GIA-Implementation payable by NHA                     (8 X 10)             4,18,95,08,575
+
+13         Maximum GIA-Admin payable by NHA                              (8 X 11)             19,91,21,130
+
+14         Policy Period                                                                      30-01-2025 to
+                                                                                              29-01-2026
+
+                    Part B - Computation of Grant-in-Aid under Insurance Mode:
+
+ Sr. No.                        Particulars                                  Information       Amount (in Rs)
+
+15         Name of Insurance Company (ies)                               New India
+                                                                         Assurance
+                                                                         Company
+
+16         Annual Insurance Premium / Beneficiary Family                 Rs 2370 per family   2,346
+                                                                         per year
+
+
+
+                                                         55
+17   Total NHA’s Share of Premium payable                 [(1052) X 60%) X      4,18,95,08,575
+                                                         (8)]
+
+18   Total SHA’s share of Premium                        [(16) - 631.20]x (8)   11,38,17,63,791
+
+19   Total upfront amount of State’s Share released by   Copy of Bank           32,02,09,61,298
+     State until now for all beneficiaries               Statement
+
+20   Total upfront amount of State’s Share released by   (19) X47.78%           15,29,82,57,165
+     State until now for AB PM-JAY beneficiaries
+
+21   NHA’s Share corresponding to amount released by     (20) X.6/.4            22,94,73,85,747
+     SHA
+
+22   Payment tranche No.                                 1/2/3/4:               Forth (Final)
+                                                         25/25/25/25
+
+23   Total Amount payable uptill this tranche            (17) x 100%            4,18,95,08,575
+
+24   Total amount payable by NHA as on date              Minimum of {17,        4,18,95,08,575
+                                                         21, 23 }
+
+25   Earlier amount released by NHA                      As per     sanction    3,14,21,31,431
+                                                         order
+
+26   Unspent amount as per previous year UC
+
+27   Amount proposed to be released                      (24)-(25)-(26)         1,04,73,77,144
+
+
+
+
+                                                56
+Annexure 5: Mixed Mode GIA computation
+                                Table 9: Computation of Grant-in-Aid in Mixed Mode
+
+
+                                       Part A- General Information
+ Sr. No.                     Particulars                            Remarks, if any          Information
+1          State / UT Name
+2          Mode of Implementation                                                      Mixed
+3          Date of Implementation
+4          Benefit Cover                                                                5,00,000
+5          NHA’s Share in GIA                                                          60%
+6          Name of the Scheme                                                          Ayushman Bharat -
+7          Total Beneficiary Families Covered in the State Total Family base            61,50,000
+           as per MoU
+8          Total eligible SECC Beneficiary Families for SECC Family base                31,18,620
+           which Central share is payable
+9          % eligible SECC Beneficiary Families out of (8) / (7) X100                  51%
+           total beneficiary families covered by SHA
+
+10         Maximum GIA-implementation payable by GIA for Implementation 631.20
+           NHA / Beneficiary Family              Purpose [Rs. 1052/- @
+                                                 60%]
+11         Maximum GIA-Administrative payable by NHA Rs.50/- @ 60%                     30.00
+           / Beneficiary Family
+12         Maximum GIA-Implementation payable by (8) x (10)                            196,84,72,944
+           NHA
+13         Maximum GIA-Admin payable by NHA                    (8) x (11)              9,35,58,600
+14         Policy Period                                       365 days
+                       Part B - Computation of Grant-in-Aid under Mixed Mode:
+ Sr. No.                     Particulars                             Information           Amount (in Rs)
+15         Name of Insurance Company (ies)                     XXXXX                   XXXXXX
+16         Annual Insurance Premium / Beneficiary Rs. 980                              980
+           Family
+17         Total NHA’s Share of Premium payable                [(16) X 60%) X (8)]     183,37,48,560
+18         Total SHA’s share of Premium                        [(16) X 40%) X (8)]     122,24,99,040
+19         Total upfront amount of State’s Share released                              50,00,00,000
+           for PM-JAY beneficiaries by State until now
+20         NHA’s Share corresponding to amount released [(19) x 0.6/0.4]               75,00,00,000
+           by SHA
+21         Payment tranche No.                                 1/2/3 :: 45/45/10       Second
+22         Total Amount payable uptill this tranche            (17) x 45%              82,51,86,852
+23         Total amount payable by NHA as on date              Minimum of { 12, 17, 20, 75,00,00,000
+                                                               22 }
+24         Earlier amount released by NHA for this period                              37,50,00,000
+25         Unspent amount as per UC                                                    0
+
+
+                                                       57
+26   Amount proposed to be released                        (23) - (24)            37,50,00,000
+27   Maximum amount which can released under (12) -(17)                           13,47,24,384
+     trust mode
+28   Total cost of treatment provided/paid by SHA
+     uptill date (or during last Policy Period for first
+     tranche release)
+29   Cost of treatment provided/paid for PM-JAY (28) x (9)                        0
+     beneficiaries
+30   NHA’s share in cost of treatment provided/ (29) x 0.6                        0
+     paid for PM-JAY beneficiaries
+31   SHA’s share in cost of treatment provided/paid (29) x 0.4                    0
+     for PM-JAY beneficiaries
+32   Total upfront amount of State’s Share released
+     by State until now
+33   Share of upfront release by SHA for PM-JAY                                   0
+     beneficiaries
+34   NHA’s share corresponding to amount released [(33) x 0.6/0.4]                0
+     by SHA
+35   Payment tranche No.                                   1/2:: 50/50
+36   Total amount payable uptill this tranche              (27) X .75%            6,73,62,192
+37   Total amount payable by NHA as on date                Minimum of {27, 30, 34, 0
+                                                           36 }
+38   Earlier amount released by NHA
+39   Unspent amount as per UC                                                     0
+40   Amount proposed to be released                        (37) - (38)            0
+41   Total amount proposed to be released                  (26) + (40)            37,50,00,000
+
+
+
+
+                                                  58
+Annexure 6: ASHA/AWW/AWH Premium Calculation
+Template and Example
+                       Table 10: ASHA/AWW/AWH Template for premium calculation
+
+
+                      Particulars                                    Count (No.)/Amount (Rs.)
+    Number of ASHA beneficiaries (Families)                                     ___________
+    Number of AWW beneficiaries (Families)                                      ___________
+    Number of AWH beneficiaries (Families)                                      ___________
+    Total Beneficiary Families (after clubbing)                                 ___________
+    Annual Premium per Family (Rs. 1,052)                                             1,052
+    Total Annual Premium                                                        ___________
+    Centre Share % (as applicable)                                              ___________
+    Central Share (Grant-in-Aid)                                                ___________
+    State Share %                                                               ___________
+    State Share                                                                 ___________
+    Administrative Expenditure (as per guidelines)                   As per the Approved Limit*
+
+
+                           Table 11: Illustrative Example - State Funds Calculation
+
+
+                       Particulars                                                Details
+    Number of ASHA beneficiaries’ Families identified          50,000
+    Number of AWW beneficiaries’ Families identified           30,000
+    Number of AWH beneficiaries’ Families identified           20,000
+    Total Beneficiary Families (after clubbing)- (X)           1,00,000
+    Premium per Family per annum (Rs.) – (Y)                   1,052
+    Total Annual Premium (A) – (X*Y)                           Rs. 10,52,00,000
+    Centre Share @ 60% (B)                                     Rs. 6,31,20,000
+    State Share @ 40% (C)                                      Rs. 4,20,80,000
+    Administrative Expenditure                                 As per guidelines and attached
+                                                               Annexure: Illustration of GIA-Admin
+                                                               Release
+
+
+
+
+                                                     59
+                                        Part A - General Information
+Sr. No.                   Particulars                           Remarks, if any             Information
+1         UT Name
+
+2         Mode of Implementation                                                      Trust Mode
+
+3         Date of Implementation                                                      01.12.2018
+
+4         Benefit Cover                                    Full Amount in UT’s Case   5,00,000
+
+5         NHA’s Share in GIA                                                          90%
+
+6         Name of the Scheme                                                          AB - PM JAY-ASHA/
+                                                                                      AWW/AWH
+
+7         Total families Covered in the State as per                                  6,70,010
+          MoU
+
+8         Total eligible ASHA/AWW/AWH families                                        48,939
+          for which Central share is payable
+
+9         Maximum GIA-implementation payable by            GIA for Implementation     946.8
+          NHA / Beneficiary Family                         Purpose
+                                                           [Rs. 1052/- @ 90%]
+
+10        Maximum GIA-Implementation payable by            (8) x (9)                  4,63,35,445
+          NHA
+
+11        Maximum GIA-Admin payable by NHA /               GIA for Admin Purpose      180
+          Beneficiary Family                               [Rs. 200/- @ 90%]
+
+12        Maximum GIA-Admin payable by NHA                 (8) x (11)                 88,09,020
+
+13        Policy Period                                                               1st April 2025 to
+                                                                                      31st March 2026
+
+                       Part B - Computation of Grant-in-Aid under Trust Mode
+
+Sr. No.                   Particulars                            Information            Amount (in Rs)
+
+14        Total estd. cost of treatment provided/paid      Estimation as per          11,77,92,182
+          by SHA up for current policy period              information provided by
+                                                           IT team
+
+15        NHA’s share in cost of treatment provided/       (15) x 0.9                 10,60,12,964
+          paid for ASHA/AWS/AWW beneficiaries
+
+16        Share of upfront release by SHA for PM-JAY       Copy of mail attached      73,00,000
+          beneficiaries
+
+17        NHA’s share corresponding to amount               [(16) x 0.9/0.1]          6,57,00,000
+          released by SHA
+
+18        Payment tranche No.                              1:2: :: 50:50              Second
+
+19        Total amount payable up till this tranche        (10) *1.0                  4,63,35,445
+
+
+
+
+                                                      60
+20   Total amount payable by NHA as on date        Minimum of       4,63,35,445
+                                                   {10,15,17,19}
+
+21   Earlier amount released by NHA                                 2,25,00,000
+
+22   Unspent of the previous year
+23   Amount proposed to be released                (20)-(21)-(22)   2,38,35,445
+
+
+
+
+                                              61
+Annexure 7: Vay Vandana Calculation Template and
+Example
+
+                                        Part A- General Information
+Sr. No.                        Particulars                        Remarks, if any          Information
+1         State Name
+2         Mode of Implementation                                                          Trust Mode
+3         Date of Implementation                                                          29.10.2024
+4         Benefit Cover                                                                   500000
+5         NHA’s Share in GIA                                                              60%
+6         Mode of Implementation                                                          AB - PM JAY
+7         New Beneficiary Families Covered in the State for                               58,691
+          Vay Vandana
+8         Maximum GIA-implementation (Vay Vandana)               GIA for Implementation   631.20
+          payable by NHA / Beneficiary Family                    Purpose
+                                                                 [Rs. 1052/- @ 60%]
+9         Existing Beneficiary Families Covered in the State                              12,18,353
+          for Vay Vandana
+10        Maximum GIA-implementation (Vay Vandana)               GIA for Implementation   45.42
+          payable by NHA / Beneficiary Family                    Purpose
+                                                                 [Rs. 75.70/- @ 60%]
+11        Maximum GIA-Implementation (Vay Vandana)               (7) x (8) +(9)x(10)      9,23,83,352
+          payable by NHA
+12        Maximum GIA- Admin (VVS) payable by NHA                GIA for Implementation   3,83,11,320
+                                                                 Purpose
+                                                                 [Rs. 50/- @ 60%]
+13        Policy Period                                                                   1st April 2025 -
+                                                                                          31st      March
+                                                                                          2026
+                          Part B - Computation of Grant-in-Aid under Trust Mode
+Sr. No.                        Particulars                             Information           Amount
+                                                                                             (in Rs)
+11        Total cost of treatment provided/paid by SHA up till   Estimation as per        1,93,29,52,742
+          date on the basis of Pre-Auth Amount                   information provided
+12        NHA’s share in cost of treatment provided/paid for     (11) x 0.6               115,97,71,645
+          VVS beneficiaries
+13        SHA’s share in cost of treatment provided/paid for     (11)X.4                  77,31,81,097
+          VVS beneficiaries
+
+
+
+
+                                                     62
+14   Share of upfront release by SHA for PM-JAY        Copy of bank Statement   75,00,00,000
+     beneficiaries
+15   NHA’s share corresponding to amount released by   [(13) x 0.6/0.4]         1,12,50,00,000
+     SHA
+16   Payment tranche No.                               1:2: :: 50:50            First/Second
+17   Total amount payable up till this tranche         (9) *1.0                 9,23,83,352
+18   Total amount payable by NHA as on date            Minimum of               9,23,83,352
+                                                       { 10 , 12, 15 , 17}
+19   Earlier amount released by NHA                                             0
+20   Unspent amount as per UC                                                   0
+21   Amount proposed to be released                    (18) - (19) -(20)        9,23,83,352
+
+
+
+
+                                                 63
+Annexure 8: Office Memorandum - Guidelines for
+Issuance of Utilisation Certificate under AB PM-JAY
+
+
+
+
+                           64
+65
+66
+67
+68
+69
+Annexure 9: Office Memorandum - Fund Release for
+Ayushman Bharat Vay Vandana Scheme Beneficiaries
+
+
+
+
+                        70
+71
+Annexure 10: Guidelines on the inclusion of ASHA/
+AWW/AWH under AB PM-JAY
+
+
+
+
+                          72
+73
+74
+75
+76
+Annexure 11: Office Memorandum - Financial
+Guidelines for Fund Utilisation for ASHA/AWW/AWH
+under AB PM-JAY
+
+
+
+
+                        77
+78
+79
+80
+81
+82
+Annexure 12: Office Memorandum - GIA Administration
+Expenses
+
+
+
+
+                         83
+Annexure 13: Office Memorandum - Beneficiary family
+allocation to States/UTs
+
+
+
+
+                        84
+85
+86
+Annexure 14: Office Memorandum - Banking
+Arrangements for Implementing Agencies (2016)
+
+
+
+
+                        87
+88
+Annexure 15: Office Memorandum - Banking
+Arrangements for Implementing Agencies (2019)
+
+
+
+
+                        89
+90
+91
+                       Please visit NHA website for the above
+                     document and other relevent information.
+                Further information available at www.pmjay.gov.in
+
+  National Health Authority, 3rd, 4th, 7th & 9th Floor, Tower 1, Jeevan Bharati Building,
+                         Connaught Place, New Delhi-110001
+
+
+
+www.nha.gov.in | www.pmjay.gov.in/                                       @AyushmanNHA
+
+
+
+
+                                          92
+

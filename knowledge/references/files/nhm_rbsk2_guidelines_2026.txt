@@ -1,0 +1,2818 @@
+Rashtr ya Bal Swasthya Karyakram (RBSK 2.0)
+
+                              SCREENING
+
+
+
+
+DISTRICT EARLY
+INTERVENTION                                             SURGICAL
+   CENTRE                                                  CARE
+
+
+
+
+                               MOBILE
+                             HEALTH TEAM
+
+
+                  LokLF; ds gj dne
+           cPpksa ds lkeF;Z dks c<+krs gjne
+                 OPERATIONAL GUIDELINES - 2026
+
+                          Child Health Division
+                   Ministry of Health & Family Welfare
+                          Government of India
+Rashtriya Bal Swasthya
+   Karyakram 2.0
+  OPERATIONAL GUIDELINES - 2026
+
+
+
+
+           Child Health Division
+    Ministry of Health & Family Welfare
+           Government of India
+TABLE OF CONTENTS
+Chapter 1:   Introduction                                                       1
+
+Chapter 2:   Aim, Objectives and Beneficiaries                                 11
+
+Chapter 3:   Health Conditions for Screening Under RBSK 2.0                    15
+
+Chapter 4:   Implementation Mechanisms                                         23
+
+Chapter 5:   Human Resources Under RBSK 2.0                                    33
+
+Chapter 6:   Roles and Responsibilities of Health Providers Under RBSK 2.0     37
+
+Chapter 7:   RBSK 2.0 Capacity Building and Training Framework                 43
+
+Chapter 8:   Digital Framework Under RBSK 2.0                                  51
+
+Chapter 9:   Ensuring Tertiary Care Linkages and Institutional Collaboration   59
+
+Chapter 10: Monitoring, Reporting & Review Mechanism Under RBSK 2.0            65
+
+Chapter 11: Convergence & Collaboration Under RBSK 2.0                         69
+
+             ANNEXURES                                                         73
+                 INTRODUCTION
+Chapter 1
+1.1 Background
+1.2 Rationale
+1.3 Evolving Approach
+1.4 New Components
+    Every Child, A Healthy Start
+
+
+
+
+           RBSK Screening of Newborn at Facility
+2
+1.1 BACKGROUND
+The cradle of India’s future lies in the health and well-being of its children, with each life supported through
+thoughtful care and nurturing. Ensuring quality care and services is essential for proper growth and development
+of our children. Early childhood is the most critical window for growth and development; a period when timely
+identification and management of health conditions can make a profound and lasting difference to a child’s life
+trajectory This includes early screening within communities, building trust at the grassroots level, and strengthening
+systems that reaches all parts of country. Creating confidence in last-mile delivery enables that children are not
+left behind in accessing essential health services.
+
+These efforts can be reflected upon in the progress made in the last decade. Globally, India has emerged as
+a leading exemplar and is amongst the top performing countries with reduction in child mortality rates. India
+achieved a 41% (against Global 18%) decline in the under-five mortality rate and 37% (against Global 15%) decline
+in the neonatal mortality rate during 2014-2024 (Source: UNIGME report). These efforts are being sustained with
+commited efforts and evaluated with continuous monitoring and review for deliverables to ensure that momentum
+is not only maintained but also accelerated to ensure achievement of the embedded aims and objectives.
+
+At the core of RBSK lies a structured, operationally viable framework designed to screen children across four priority
+domains; collectively known as the 4Ds: Defects at birth, Deficiencies, Diseases, and Developmental delays. This
+framework combines facility-based newborn screening with community-level outreach conducted by dedicated
+Mobile Health Teams operating through Anganwadi Centres and school networks. Children identified with health
+conditions by connecting through public health facilities for free treatment and follow-up care through District Early
+Intervention Centres (DEICs). This integrated model has strengthened coverage across the country by extending
+care to every child.
+
+A defining feature of RBSK is its strong convergence with established national delivery platforms. By operating
+through Anganwadi Centres and school networks, the programme has effectively bridged the intersection of health,
+nutrition, and education. Embedding health screening and follow-up services within these pre-existing community
+touchpoints has enabled a more holistic approach to child development; one where children already accessing
+nutrition support and educational services simultaneously receive health assessments and interventions. This
+integrated model has strengthened the programme’s reach, coverage, and impact by ensuring that screening and
+curative services are available within familiar settings that children and families already engage with.
+
+
+
+
+        RBSK: A DECADE OF TRANSFORMATIVE IMPACT
+
+
+    One of the largest         Implemented across all           Reached millions of        Extensive network of Mobile
+     population-based        States and Union Territories   children through nationwide     Health Teams and District
+  child health screening              of India                        coverage              Early Intervention Centres
+   programmes globally                                                                     ensuring continuum of care
+
+
+
+
+                  Enabled integrated,         Brought early detection         Reduced out of pocket
+                community-based service     and definitive care closer to   expenditure to families for
+                       delivery                    communities                     treatment
+
+
+
+
+                                                                                                                         3
+    1.2 RATIONALE FOR RBSK 2.0
+    Across the globe, the child health landscape is rapidly evolving, and India is proactively adapting to this dynamic
+    shift. With the growing young population and changing socio-economic context, the health needs of children
+    and the demand for services are also evolving over time, influenced by multiple determinants. There is a rising
+    concern of obesity, diabetes mellitus, and hypertension among children, indicating a shift in the overall child health
+    profile.The rapid advancement of the digital era has introduced new dimensions affecting child health, including
+    increased screen exposure, altered lifestyle patterns, changing environmental and behavioural factors. These
+    changes are increasingly reflected in children presenting with issues such as sleep issues, reduced attention and
+    concentration, and other behavioural concerns. Further, with improved awareness, availability of quality health
+    care, and enhanced access to health services have led to increased care-seeking behaviour among families.
+    Keeping in view these paradigm shifts, the RBSK programme strengthened its focus on contemporary issues as
+    well for preventive, promotive, and therapeutic care with early detection and treatment.
+
+
+
+
+                                          Screening of Children at School
+4
+1.3 EVOLVING APPROACH UNDER RBSK 2.0
+
+
+
+
+Given the significant strides made
+by India towards Universal Health
+Coverage (UHC) and achievements
+towards SDGs for children, the
+RBSK programme has evolved
+contemporaneously to meet the
+requirements of emerging child health
+needs and new era conditions.
+
+
+
+
+    1           Strengthening the 4Ds
+                RBSK 2.0 is built on the existing 4D framework to expand the programme’s scope to include
+                behavioural dimensions, social determinants, and emerging health conditions.
+
+                This approach integrates preventive, promotive, and curative care, with added emphasis
+                on development of healthy habits and strengthening of health-seeking behaviour. The
+                programme scope is expanded to include non-communicable diseases, developmental
+                disorders such as autism, mental health conditions, lifestyle-related risks, and additional
+                conditions including kidney disorders, ensuring a comprehensive continuum of care from
+                identification to treatment and follow-up. It also addresses lifestyle factors; such as digital
+                exposure related issue and sleep disorders that significantly influence long-term child health
+                outcomes.
+
+
+
+
+    2           Expanding Human Resources and Flexible Service Delivery
+                RBSK 2.0 strengthens the Mobile Health Team structure while keeping its core composition
+                intact. The flexibility of the core team has been expanded to accommodate MBBS/ BDS
+                Surgeons alongside AYUSH Medical Officers, further strengthening clinical assessment
+                capability at the screening level. Additionally, trained professionals such as nursing staff,
+                interns, counsellors, and allied health personnel as available in NHM programs/ Government
+                programs to reinforce the core team’s capacity. Further, additional functionaries such as
+                Community Health Officers (CHOs), Health and Wellness Ambassadors (HWAs), Peer
+                Educators, Adolescent Health Counsellors/ Block Coordinators, and Ophthalmic Assistants
+                are envisaged to support screening, counselling, and follow-ups. States and Union Territories
+                are provided flexibility to re-appropriate and augment team composition based on local
+                needs, population norms, and geographical context. This enables more efficient, equitable,
+                and context-specific outreach, particularly in underserved and hard-to-reach areas.
+
+
+
+
+                                                                                                                  5
+               4D APPROACH
+
+
+
+
+    3   Strengthened Screening, Referral Mechanisms and Financial Protection
+        RBSK 2.0 introduces improvements in screening tools, referral pathways, and financial
+        support systems. Under RBSK 2.0, a digital health card is generated for every child screened
+        and digitally mapped to their health record. Age-appropriate screening questionnaires for
+        children aged 0–6 years and 6–18 years are revised to include newly identified and emerging
+        conditions. Mobile Health Team toolkits are upgraded with additional equipment to enhance
+        early detection different health conditions like diabetes and hypertension.
+
+        Referral mechanisms are streamlined with clearly defined pathways to ensure timely access
+        to all children disgnosed as per NHM norms. Strengthened linkage with District Early
+        Intervention Centres (DEICs), along with improved follow-up systems, supports continuity of
+        care. An expanded network of tertiary and mentoring institutions is leveraged to improve
+        referral compliance and quality of care.
+
+        To reduce out-of-pocket expenditure for families, model costing guidelines have been aligned
+        with Pradhan Mantri Jan Arogya Yojana (PMJAY). All children diagnosed under RBSK 2.0 are
+        entitled to advanced care, with coverage extended to avail secondary and tertiary services.
+        In certain circumstances, States can utilize a mix of financing mechanisms including RBSK
+        funds, CSR funds, state/UT funds/schemes, and other partnerships to faciliate children
+        are facilitated in accessing healthcare services. Additionally, the eligible age for cochlear
+        implant coverage has been revised up to 6 years, strengthening timely access to this critical
+        intervention.
+
+        States are supported based on the NHM norms to ensure coverage as per requirements.
+        Special camps and mop-up rounds can supplement regular activities as per the microplanning
+        to capture the missed cases.
+
+
+
+
+    4   Digital Tracking, Monitoring and Accountability
+        RBSK 2.0 leverages digital platforms to strengthen programme efficiency, monitoring, and
+        accountability. Ensure a longitudinal digital health record for continuous tracking and follow-
+        up. Integration with National Digital System such as JANANI (RCH 2.0), UDISE+, U-WIN, and
+        Poshan Tracker supports better data sharing, synchronized planning, and evidence-based
+        decision-making. This enhances programme monitoring, improves service delivery, and
+        ensures accountability across all.
+
+
+
+
+    5   Whole-of-Government Convergence
+        RBSK 2.0 strengthens inter-sectoral convergence through a whole-of-government approach.
+        Inter-ministry convergence with Ministry of Women and Child Development, Ministry of
+        Education, and Ministry of Social Justice and Empowerment to ensure aligned action and
+        shared accountability. Intra- Ministerial convergence is established across the Ministry of
+        Health and Family Welfare programs. This convergence supports alignment of services related
+        to nutrition, early childhood development, education, and social support through platforms
+        such as Anganwadi Centres, schools, and community-based systems. It ensures a more
+        comprehensive and holistic approach to child development. Intra- Ministerial convergence
+        helps in ensuring children are benefited for availing services across the departments of
+        vision, hearing, dental, mental health, adolescent health and other departments.
+
+
+
+
+6
+6    Social and Behaviour Change Communication (SBCC) with Participatory Care
+     RBSK 2.0 places strong emphasis on awareness generation and behaviour change.
+     Information, Education and Communication (IEC) strategies are strengthened to improve
+     understanding and awareness regarding various issues of the children at the household
+     level.
+
+     The concept of enabling a child’s health card is promoted so that the families can regularly
+     monitor their child health status. This supports informed decision-making and timely care-
+     seeking behaviour.
+
+
+
+
+7    Addressing Emerging Social and Lifestyle Determinants
+     RBSK 2.0 expands its focus beyond clinical conditions to actively promote healthy behaviours
+     and lifestyle changes among children. Key areas highlighting screen time, adequate sleep,
+     healthy dietary practices, and positive lifestyle habits are integrated now. This ensures
+     that children and caregivers receive relevant, actionable guidance on associated risks and
+     preventable measures.
+
+
+
+
+8    Early Health Education and Concept Building
+     The programme emphasizes early education and concept building among children regarding
+     healthy and unhealthy practices. Age-appropriate communication is promoted to help
+     children understand body functions, nutrition, hygiene, physical activity, mental well-being,
+     and responsible healthy behaviour. This early engagement supports development of lifelong
+     healthy habits and positive attitudes towards health.
+
+
+
+
+9    Community and Family Participation
+     RBSK 2.0 promotes active involvement of children, families, schools, and communities in
+     the continuum of care and adoption of healthy practices at home. Coordinated efforts at
+     household, school, and community levels help reinforce protective behaviours and improve
+     long-term health outcomes.
+
+
+
+
+10   Expanded Scope of Secondary & Tertiary Care
+     The scope of secondary and tertiary care under RBSK 2.0 is envisioned with a structured
+     hub-and-spoke model to enable specialist services reach children at all levels. Institutional
+     partnerships, can be established, as per norm, to facilitate expert consultations and
+     therapeutic interventions. This model enables specialized services ensuring equitable
+     access for children as per need.
+
+
+
+
+                                                                                                     7
+    11        Capacity Building
+              Structured capacity building is institutionalised across all cadres to ensure programme
+              readiness and sustained service quality. An integrated training module covering all
+              components of RBSK is developed for frontline workers; ASHAs, ANMs, and CHOs to bridge
+              existing gaps across all levels of care. DEIC staff are regularly mentored and technical skill
+              upgradation is inbuilt in the program.
+
+
+
+
+    12        Strengthened Review Mechanism
+              A robust accountability mechanism is institutionalized through various mechanisms such as:
+              regular reviews by the states, interdepartmental convergence meetings, state review missions
+              under NHM to enable a structured and accountable program oversight. State is to strengthen
+              the programs through various mechanisms as per the state’s needs. Emphasis is placed on
+              a robust system to ensure that the programme is systematically reviewed, challenges are
+              identified and addressed for effective implementation.
+
+
+
+
+    Screening of Children by RBSK Team and Promoting Early Childhood Development
+8
+1.4 NEW COMPONENTS UNDER RBSK 2.0
+
+   THEME                 RBSK                                 RBSK 2.0
+                  4Ds: Defects,             Expanded 4Ds, digital exposure, inclusion of healthy
+                  Deficiencies, Diseases,   behaviours, Lifestyle factors, and socio-climatic
+  FRAMEWORK       Developmental Delays      determinants.
+
+
+                  Focus on health
+                                            Inclusion of NCDs, mental health, behavioural
+                  conditions,
+                                            issues, lifestyle risks, and additional conditions
+    SCOPE OF      deficiencies, and
+   CONDITIONS
+                                            (e.g., kidney disorders)
+                  developmental delays
+
+                                            Early detection, timely treatment & follow up,
+                  Early detection and
+                                            concurred through digital framework.
+                  treatment (curative
+  PROGRAMME                                 Promotion of lifelong healthy practices (i.e. curative
+                  approach)
+   OBJECTIVE                                along with preventive, promotive approach)
+
+
+                  Beneficiary-centric       Participatory approach with active involvement of
+ CHILD & FAMILY   approach                  children and families in care and follow-up
+  ENGAGEMENT
+
+                                            Strengthened inter-ministerial convergence
+                  Linkages with ICDS and    (MoHFW, MoWCD, MoE, MoSJE) and intra-ministerial
+                  schools                   convergence within different programs under
+  CONVERGENCE                               MoHFW
+
+                  Fixed MHT composition     Strengthened existing MHT with multidisciplinary
+                  (primarily AYUSH-         flexible HR composition (MBBS/ BDS/ AYUSH) with
+     HUMAN        based, Total no: 4        additional support from nurses/ counsellors/ interns
+   RESOURCES      persons)                  of other existing health programs of NHM
+
+
+                                            RBSK 2.0 digital platform with longitudinal tracking,
+                  Basic reporting through
+                                            digital health records, dashboards, integrated with
+     DIGITAL      RBSK portal
+                                            JANANI (RCH 2.0), U-WIN & POSHAN
+    SYSTEMS
+
+
+                                            Introduction of longitudinal “Health Card” linked with
+                                            child tracking (report card concept)
+  HEALTH CARD
+    CONCEPT
+
+                                            Model costing guidelines revised in alignment with
+                  State-based funding       PMJAY
+                  support under RBSK        Utilization of RBSK, CSR, State/UT funds/schemes
+   FINANCIAL
+  PROTECTION                                for treatment as per Government regulations
+
+   AGE GROUP
+  OF COCHLEAR
+     IMPLANT      0-2 Years                 Expansion of coverage of age group 0-6 years
+  INTERVENTION
+
+
+
+
+                                                                                                     9
+10
+               AIM, OBJECTIVES AND
+               BENEFICIARIES
+
+Chapter 2
+2.1 Revised Operational Framework Components
+2.2 Target Audience
+
+
+
+
+                                               11
+     Little Lives, Big Future
+
+
+
+
+      Screening of Children at Aganwadi Centre by RBSK Team
+12
+2.1 REVISED OPERATIONAL FRAMEWORK COMPONENTS
+The aim of the guideline is to establish a revised operational framework for RBSK 2.0, accelerating on the
+achievements of the past decade while systematically addressing the gaps and valuing the emerging health
+challenges among children and adolescents aged 0–18 years.
+
+
+
+
+    1
+                  4Ds CONTINUUM CARE
+                To provide a robust system for appropriate management of 4Ds through early identification,
+                screening, referral, treatment, and follow-up in children for healthy survival.
+
+
+
+
+    2
+                  INTEGRATED APPROACH
+                To broad base the program to strengthen the programme scope by integrating emerging
+                priorities such as lifestyle disorders, climatic and socio-behavioural determinants.
+
+
+
+
+    3
+                  EQUITABLE DELIVERY
+                To ensure equitable and quality service delivery across community, school, and health
+                facilities for all eligible beneficiaries.
+
+
+
+
+    4
+                  COLLABORATIVE ACTION
+                To strengthen delivery system through a technically augmented trained human resources,
+                capacity building, functional DEICs, digital monitoring, and data-driven programme
+                management.
+
+
+
+
+    5
+                  HOLISTIC DEVELOPMENT
+                To promote inter-sectoral convergence and community participation for holistic growth,
+                development, and well-being of every child and adolescent.
+
+
+
+
+                                                                                                             13
+     2.2 TARGET AUDIENCE
+     The program aims to provide health coverage to children and adolescents in the 0–18 years age group, including
+     those enrolled in Anganwadi Centres, Government and Government-aided schools.
+
+     Together, these target groups form the continuum of child health coverage under RBSK 2.0 from birth through
+     adolescence ensuring that no child is left outside the reach of systematic screening, early intervention, and follow-
+     up care, regardless of geography, socioeconomic status, or institutional enrolment.
+
+
+       CATEGORIES                                        AGE GROUP                              PLATFORMS
+
+                Children born at public
+                                                       Birth to 6 weeks                       Delivery Points
+                health facilities
+
+
+                Preschool children                   6 weeks to 6 years                     Anganwadi Centers
+
+
+                Children enrolled in
+                classes 1st to 12th                                                     Government & Government-
+                                                        6 to 18 years
+                in Government &                                                               aided Schools
+                Government-aided schools
+
+
+
+
+14
+                   HEALTH CONDITIONS
+                   FOR SCREENING
+                   UNDER RBSK 2.0
+
+Chapter 3
+3.1 Health Conditions
+3.2 Inclusion of Non-Communicable Diseases
+3.3 Preventive and Promotive Care
+      3.3.1 Healthy Diet
+      3.3.2 Physical Exercise
+      3.3.3 Issues Concerning Digital Exposure
+
+
+
+
+                                                 15
+     Strong Foundations for Every Child
+
+
+
+
+            Screening at District Early Intervention Centre
+16
+3.1 HEALTH CONDITIONS
+RBSK 2.0 newborn and child health screening and early intervention services under NHM envisages to cover identified health
+conditions for early detection, free treatment and management as given in the table below.
+
+
+Health Conditions Identified for Newborn and Child Health Screening and Early Intervention Services
+
+
+
+               DEFECTS AT BIRTH                                                        DEFICIENCIES
+
+   1. Neural tube defects                                               11. Vitamin A deficiency
+   2. Down syndrome                                                     12. Vitamin D deficiency (rickets)
+   3. Cleft lip & palate/ cleft lip or palate alone                     13. Severe acute malnutrition
+   4. Talipes (club foot)                                               14. Goiter
+   5. Developmental dysplasia of the hip                                15. Anaemia
+   6. Congenital cataract
+   7. Congenital deafness
+   8. Congenital heart diseases
+   9. Retinopathy of prematurity                                                DEVELOPMENTAL DELAYS
+   10. CAKUT (Congenital Anomalies of the
+       Kidney and Urinary Tract)#
+                                                                        27. Vision impairment
+                                                                           27.1 Refractive error
+                                                                           27.2 Strabismus
+                                                                        28. Hearing impairment
+                                                                        29. Neuro-motor impairment
+             CHILDHOOD DISEASES
+                                                                        30. Motor delay
+               INCLUDING NCDs                                           31. Cognitive delay
+                                                                        32. Language delay
+   16. Skin conditions (Scabies, fungal                                 33. Behavioural disorders
+   infection                                                               33.1 Anxiety disorders
+       and Eczema)                                                         33.2 Attention-deficit hyperactivity
+   17. Rheumatic heart disease                                             disorder (ADHD)
+   18. Reactive airway disease                                             33.3 Sleep disorders*
+   19. Dental caries                                                    34. Neurodevelopmental disorders
+   20. Convulsive disorders                                                34.1 Autism & autism spectrum disorder
+   21. Diabetes Mellitus (T1 &T2)                                                (ASD)
+   22. Hypertension                                                        34.2 Specific learning disorders (SLD)
+   23. Disorders of kidney/ nephrotic                                   35. Global developmental delay (GDD)
+       syndrome/ glomerulonephritis
+   24. Acute suppurative otitis media/ chronic
+       suppurative otitis media
+   25. Tuberculosis                                                     36. Optional: congenital hypothyroidism
+   26. Leprosy                                                          37. Specific health concerns among
+                                                                            adolescents
+                                                                        38. Red flag for referral to health facility
+
+
+
+
+#Included with existing health conditions covered under RBSK comprehensive newborn screening
+* Excluding organic sleep disorders
+
+                                                                                                                             17
+     3.2 INCLUSION OF NON-COMMUNICABLE DISEASES
+     India is witnessing a silent but significant rise in non-communicable diseases (NCDs) among children and adolescents, a
+     trend that demands urgent programmatic and policy attention within the public health system. Conditions such as Type 1
+     and Type 2 Diabetes Mellitus, hypertension, and obesity are now being increasingly diagnosed in the paediatric age group,
+     driven by changing dietary patterns, reduced physical activity, rising screen time, and genetic predisposition. If left undetected
+     and unmanaged, these conditions can lead to serious long-term complications, increased healthcare burden, and adverse
+     implications for human capital development and national productivity. This epidemiological transition necessitates a shift from
+     an exclusively acute care approach to a continuum of preventive, promotive, screening, referral, and long-term management
+     services within child health programmes.
+
+     RBSK 2.0 recognises this evolving disease burden and accordingly expands its screening scope to include NCD risk
+     identification, early detection, referral, and linkage to care as an integral programme component of the 4Ds framework. This
+     strategic inclusion strengthens the alignment of RBSK with the broader National Health Mission goals of comprehensive
+     primary healthcare and continuum of care. By embedding structured screening for these conditions within the existing RBSK
+     screening protocol through Mobile Health Teams, the programme ensures systematic identification of at-risk children, timely
+     counselling of caregivers, and referral to appropriate facilities for confirmatory diagnosis and management. Standardised
+     operational pathways, clearly defined referral mechanisms, convergence with NP-NCD services, and digital monitoring
+     through integrated portals further support implementation fidelity and accountability. This approach transforms RBSK into
+     a comprehensive and responsive platform addressing both communicable and non-communicable diseases in child and
+     adolescent health, while strengthening early intervention, equity in access, and long-term health outcomes.
+
+
+
+
+     3.2.1 DIABETES MELLITUS
+
+     Diabetes Mellitus is one of the leading non-communicable diseases being diagnosed in children, underscoring the need for
+     early screening & management. The ongoing epidemiological transition in India, where non-communicable diseases such as
+     diabetes are increasingly affecting children and adolescents along with traditional child health conditions. Diabetes Mellitus
+     has been included under the “Diseases” component of the 4Ds of RBSK to ensure early identification and timely intervention.
+
+     RBSK Mobile Health Teams (MHTs) will conduct symptom-based screening for all children up to 18 years using the 4Ts - Toilet,
+     Thirsty, Tired, and Thinner and risk-based screening for Type 2 Diabetes among adolescents, followed by on-the-spot Random
+     Blood Sugar (RBS) testing using glucometers for suspected cases. Children with raised RBS will be referred to District Hospital
+     NCD Clinics under NP-NCD for confirmatory diagnosis and classification as Type 1 or Type 2 Diabetes. These NCD Clinics
+     provide treatment initiation, insulin therapy, glucometers, strips, lancets, counselling, complication screening, and regular
+     follow-up, especially for Type 1 Diabetes which requires lifelong insulin therapy. Data flow under RBSK 2.0 is ensured through
+     registration and follow-up on the NCD portal with API-based integration with the RBSK portal for seamless bidirectional data
+     sharing and monitoring. Strong intersectoral convergence between RBSK and NP-NCD supports continuity of care from school-
+     based screening to lifelong management and eventual transition into adult NCD services.
+
+
+
+
+18
+3.3 PREVENTIVE AND PROMOTIVE CARE
+3.3.1 HEALTHY EATING
+Healthy eating is one of the most powerful and modifiable determinants of a child’s growth, development, and long-term
+health. A balanced and diverse diet providing the right quantities of macronutrients and micronutrients at every stage of
+childhood supports cognitive development, physical growth, immune function, and protection against both undernutrition and
+non-communicable diseases. Unhealthy dietary patterns characterised by high intake of processed foods, excessive sugar
+and salt, and empty calories not only contribute to micronutrient deficiencies but also drive the rising burden of obesity,
+hypertension, and metabolic disorders among children and adolescents. Recognising food as the foundation of preventive
+child health care, RBSK 2.0 integrates healthy eating promotion as a core counselling and behaviour change component within
+its screening and follow-up protocol. This is further reinforced through convergence with the Government of India’s Eat ‘Right
+India movement’, a national initiative promoting safe, healthy, and sustainable diets across all age groups. By embedding
+the principles of the Eat Right programme, engagement of peer educators and school health & wellness ambassadors in
+community outreach and caregiver counselling, the programme helps the children and families receive consistent dietary
+guidance for healthy living.
+
+3.3.2 PHYSICAL EXERCISE
+Regular physical activity is a foundation of healthy child development, playing a critical role in building physical strength,
+supporting cognitive function, maintaining healthy weight, and reducing the risk of non-communicable diseases from an early
+age. Children and adolescents who engage in adequate physical activity demonstrate better academic performance, improved
+mental well-being, and stronger cardiovascular and metabolic health outcomes. Conversely, sedentary behaviour driven by
+rising screen time, reduced outdoor play, and increasingly desk-bound school routines is a significant and growing risk factor for
+childhood obesity, hypertension, and early-onset metabolic disorders. RBSK 2.0 recognises physical inactivity as a modifiable
+determinant of child health and integrates structured promotion of physical activity as an integral component of its screening,
+counselling, and follow-up processes. This is further strengthened through convergence with the yoga and wellness initiatives
+delivered at Ayushman Arogya Mandirs, which serve as accessible, community-level platforms for promoting physical and
+mental well-being across all age groups. By linking RBSK’s child health screening with the wellness services available at
+Ayushman Arogya Mandirs, the programme ensures that children and caregivers receive consistent, practical guidance on
+age-appropriate physical activity embedding a culture of active living within the broader framework of preventive child health
+care.
+
+3.3.3 ISSUES CONCERNING DIGITAL EXPOSURE
+Digital technology has fundamentally transformed how children & adolescents learn, communicate, and engage
+with the world. While digitalization offers unprecedented opportunities for education and connection, excessive and
+unregulated screen time poses significant risks to child health and development. This chapter provides evidence-
+based guidance for health workers and program managers to identify, counsel, and manage problematic digital
+use among children and adolescents within the RBSK 2.0 framework.
+Building on global learnings, RBSK 2.0 integrates issues concerning digital exposure, with a focus on early
+identification, counselling, and community-level behaviour change. Training modules will incorporate digital well-
+being, enabling providers to deliver age-appropriate counselling on safe use of digital devices. Screening processes
+will include simple behavioural assessments related to digital usage patterns, sleep disturbances, and psychosocial
+concerns. This will facilitate timely identification of children and adolescents at risk of digital dependency and
+enable early intervention within the existing service delivery platform.
+Recent scientific evidences recommend no screen time for children under 2 years of age, as this critical period
+of brain development is best supported through direct sensory experiences, physical exploration, and caregiver
+interaction. For children aged 2 to 5 years, screen time should be limited to a maximum of one hour per day of high-
+quality, educational content, ideally with caregiver co-viewing to ensure content appropriateness and meaningful
+engagement.
+The effects of the same may have multiple level effect on growth & development of child. Broadly the same could
+impact the health of the child in following manner.
+
+
+
+
+                                                                                                                                     19
+     HEALTH EFFECTS OF EXCESSIVE SCREEN TIME
+     PHYSICAL HEALTH
+     CONSEQUENCES                       1
+           Excessive digital engagement is associated with a range of physical health concerns, including eye
+           strain, headaches, fatigue, and reduced physical activity. Prolonged exposure to screens, particularly
+           during late hours, disrupts sleep patterns and causes daytime fatigue. The blue light emitted by screens
+           suppresses melatonin production, delaying sleep onset and reducing sleep quality. Over a period of
+           time, sedentary behaviour linked to excessive screen use increases the risk of overweight and obesity
+           among children. Poor posture during device use can cause musculoskeletal problems, including neck
+           and back pain, commonly referred to as “text neck.”
+
+
+     MENTAL HEALTH AND
+     EMOTIONAL WELL-BEING               2
+           The mental health implications are particularly concerning. Growing evidence links excessive digital use
+           with increased levels of anxiety, depression, irritability, and low self-esteem. Continuous exposure to
+           social media environments may contribute to unhealthy comparison, fear of missing out, and emotional
+           distress. Emerging research suggests that prolonged engagement with digital platforms can alter neural
+           pathways related to reward and impulse control, increasing susceptibility to addictive behaviours.
+           Adolescents who spend excessive time on social media report higher rates of loneliness and social
+           isolation, paradoxically despite being more “connected” than earlier generations.
+
+
+     BEHAVIOURAL AND
+     COGNITIVE EFFECTS                  3
+           From a behavioural and cognitive perspective, digital addiction is associated with reduced attention span,
+           impaired concentration, impulsivity, and difficulties in learning and academic performance. Children
+           may develop dependence on digital stimulation, leading to reduced ability to engage in sustained
+           offline activities and diminished coping skills. The constant switching between apps, notifications, and
+           content fragments attention and reduces the capacity for deep, focused thinking. Teachers and parents
+           commonly report that children with excessive screen time struggle to complete homework, follow multi-
+           step instructions, and engage in prolonged reading or problem-solving tasks.
+
+
+     SOCIAL & DEVELOPMENTAL
+     OUTCOMES                           4
+           The social consequences are equally significant. Excessive screen time limits face-to-face interactions,
+           weakens family relationships, and may impair the development of communication and social skills.
+           Children who spend substantial time on screens have fewer opportunities to practice reading social cues,
+           resolving conflicts, and building empathy through direct human interaction. Digital use also increases
+           exposure to risks such as cyberbullying, online exploitation, and inappropriate content, further affecting
+           emotional well-being and safety. Adolescents may withdraw from family activities and peer relationships
+           in favour of solitary screen time, leading to social isolation and reduced support networks.
+
+
+
+
+20
+TEST CHECKS FOR ISSUES DUE TO DIGITAL EXPOSURE
+RBSK 2.0 integrates test checks for issues of concern due to digital exposure within existing child health screening
+activities conducted by Mobile Health Teams, community health officers, and counsellors.
+
+Quick Screening Tool
+For Adolescents (10-18 years):
+Ask the Adolescent:
+1. Do you spend more time on your phone/ internet than you planned to?
+2. Have you tried to cut down but found it difficult?
+3. Do you feel restless or upset when you cannot use your phone?
+4. Has your screen time affected your studies, sleep, or relationships?
+5. Do you use your phone to escape from problems or bad feelings?
+For Children (5-9 years):
+1. Does the child have tantrums when device is taken away?
+2. Does screen time interfere with meals, homework, or bedtime?
+3. Has the child lost interest in non-screen activities?
+4. Does the child sneak device use or lie about screen time?
+
+
+  Referral Pathway
+
+   When to Refer to Counsellor/ Psychologist
+   • Screen time severely impacts daily functioning (in school, home and society)
+   • Signs of depression, severe anxiety, or aggression when device is restricted
+   • Child cannot reduce use despite multiple family efforts
+   • Co-existing conditions: ADHD, specific learning disorders, autism spectrum disorder
+   • Online safety concerns: cyberbullying victim/perpetrator, exposure to harmful content, contact with
+     strangers
+
+
+
+
+  Referral Levels
+
+   • Primary/ Secondary Health Centre: Initial counselling by medical officer/ CHO
+   • District Hospital: Clinical psychologist/ counsellor for moderate cases
+   • Medical College/ Tertiary Centre: Psychiatrist for severe addiction or co-morbid mental health conditions
+
+
+
+
+                                                                                                                       21
+     Counselling: School and Community Interventions
+
+     RBSK 2.0 strengthens behaviour change communication through community outreach and school platforms.
+     Key messages will include moderated social media use, improved sleep hygiene, increased physical activity,
+     and strengthening of offline social interactions.
+     Engagement with teachers, peer educators, and families promotes awareness of digital risks and reinforces
+     positive behaviours.
+     School-Based Activities: During school health days, health workers should conduct awareness sessions on
+     healthy screen habits and on screen time guidelines. Health workers should encourage schools to implement
+     phone-free policies during school hours and promote outdoor activities, sports, and non-screen hobbies.
+     Teachers should be trained to identify at-risk students and refer them appropriately. Convergence with school
+     health and adolescent health initiatives supports sustained awareness and early action.
+     Community Outreach: Integration with school health program as in the existing guidelines.
+
+
+
+
+                                      Screening by Mobile Health Team
+22
+                IMPLEMENTATION
+                MECHANISMS
+
+Chapter 4
+4.1 Screening Approaches for Children & Adolescents
+4.2 District Early Intervention Centres (DEICs)
+4.3 Tertiary Care
+4.4 Screening, Referral and Management Pathways
+
+
+
+
+                                                      23
+     Invest in Health, Invest in Childhood
+
+
+
+
+                  Screening at School
+24
+4.1 SCREENING APPROACHES FOR CHILDREN &
+ADOLESCENTS
+The operational guidelines outline the following mechanism to reach all the target groups of children for health
+screening:
+
+
+ Target Group                  Platforms                    Implementation Mechanism
+
+                                                            Facility-based comprehensive newborn screening
+ For newborn
+                               Delivery Points              at public health facilities, by existing health
+ (0-6 weeks)
+                                                            workers
+
+ For children                                               Screening at Anganwadi centre by the dedicated
+                               Anganwadi Centres
+ 6 weeks to 6 years                                         Mobile Health Teams (MHTs)
+
+ For children                  Government &                 Screening at Government and Government-aided
+ 6 years to 18 years           Government aided School      schools by dedicated Mobile Health Teams
+
+
+
+FACILITY-BASED COMPREHENSIVE NEWBORN SCREENING
+
+                                           All newborns born in public health facilities are screened for birth
+                                           defects as part of routine newborn care. Screening is conducted
+   Facility-Based                          by gynaecologists, medical officers, staff nurses, and ANMs, all of
+      Newborn                              whom are trained and competent to identify, document and refer
+     Screening                             suspected cases to District Early Intervention Centres (DEICs) for
+                                           confirmation and management.
+
+
+
+
+                                           The delivery point nodal person to coordinate with the designated
+                                           Mobile Health Team (MHT) to facilitate continuity of care for all
+   Referral and
+                                           facility-identified newborns. The MHT to enable systematic follow-
+    Follow-Up                              up, timely linkage to DEICs, and continued community-level care
+                                           post-discharge.
+
+
+
+
+      Referral                             The necessary referrals should be made as per clinic
+     Timelines                             advice and protocols.
+
+
+
+
+                                                                                                                   25
+     Community-based Newborn Screening for Birth Defects (0-6 weeks)
+     Accredited Social Health Activists (ASHAs) during home visits for newborn care will use the opportunity to screen
+     the babies born at home and the institutions till 6 weeks of age. The HBNC program will complement the RBSK
+     program.
+
+
+     Screening of Children Aged 6 Weeks to 6 Years: Anganwadi Centres
+     All children aged 6 weeks to 6 years attending Anganwadi Centres are to be screened by dedicated Mobile Health
+     Teams (MHTs). Screening at Anganwadi Centres is conducted at a minimum twice annually to ensure timely
+     identification and referral of health conditions so as to enable timely capture of birth defects, delayed or lost
+     milestones and developmental delays.
+
+
+     Screening of Children Aged 6 to 18 Years: Government and
+     Government-Aided Schools
+     Children enrolled in Government and Government-aided schools are screened by Mobile Health Teams (MHTs)
+     at least once every academic year. The block level serves as the primary hub for planning, coordinating, and
+     monitoring school health screening activities to ensure systematic coverage, timely referral, and structured follow-
+     up of identified cases.
+
+
+
+
+26
+4.2 DISTRICT EARLY INTERVENTION CENTRES (DEICS)
+DEICs to function as the primary referral and service delivery hubs under RBSK 2.0, providing multidisciplinary
+therapeutic care to children from birth to 18 years. All children identified through community-level screening at
+Anganwadi Centres, schools, and health facilities are to be referred to DEICs for further evaluation, confirmation,
+and management. The guiding principle of every DEIC is to ensure that no child with a developmental delay,
+congenital condition, or chronic health need is lost to follow-up within the health system.
+
+
+
+
+                                                                                                                      27
+        Multidisciplinary Team
+
+
+     Each DEIC is to be staffed by a functional multidisciplinary team comprising
+     paediatricians, medical officers, psychologists, speech therapists, audiologists,
+     optometrists, physiotherapists, occupational therapists, dentists, and social workers.
+     This integrated team structure are to ensure comprehensive care for every child.
+
+
+
+
+                                                                 Equity and Continuity of Care
+
+
+                                       DEICs are to ensure that specialized services are available locally, reducing the
+                                       burden on families to travel to distant facilities. All services at DEICs are to be
+                                       provided free of cost to all eligible beneficiaries. Seamless continuity of care are to
+                                       be maintained from initial screening by Mobile Health Teams through treatment.
+
+
+
+
+     4.3 TERTIARY CARE
+
+        Role of District Early Intervention Centres
+
+        • Assessment of Children of 0-18 years at “District Early Intervention Centre”
+
+        • Provide referral services to identified children for confirmation of diagnosis and treatment
+
+        • Screen all newborns delivered at district hospital, SNCU, postnatal, and paediatric wards for hearing,
+          vision, congenital heart disease, and other birth defects before discharge
+
+        • Follow-up of high-risk newborns (preterm, low birth weight, birth defects, sick newborns)
+
+        • All referrals for developmental delay to be followed, and records to be maintained
+
+        • Linkage with tertiary care facilities
+
+
+
+     Children and students presumptively diagnosed to have a disease/ deficiency/ defect covered under RBSK and
+     who require confirmatory tests or further examination will be referred to the designated tertiary level public sector
+     health facilities through the DEICs.
+
+     The States/ UTs would conduct mapping to identify public health institutions for specialized treatment. Accredited
+     health institutions will be reimbursed for the specialised service provided as per approved norms for the cost of
+     tests or treatment packages as per extant regulations.
+
+
+
+28
+FRAMEWORK FOR TERTIARY CARE
+
+
+
+
+                                      COMPONENTS
+
+
+
+
+                                    Telemedicine
+                                     and Clinical                                 Patient
+          Financial                                                             Transport
+                                     Mentorship
+          Provisioning                                                         & Referral
+
+
+
+                                                                                The existing NHM
+                                                                                 patient transport
+                                                                                  network are to be
+                         Telemedicine services are to be integrated
+         Funds for                                                                 utilized to ensure timely
+       tertiary-level    into the referral system to enable real-time
+                                                                                    transfer of children
+     management are      specialist consultations for children in remote             requiring secondary or
+    provisioned under    and underserved areas. Hub-and-spoke are                     tertiary care. Each child
+   the National Health   envisaged wherein tertiary facilities serve as                is issued a three-part
+  Mission (NHM), in      hubs providing clinical mentorship, specialist                 referral card containing
+  accordance with        referrals, e-sanjeevani & Tele-manas while                      screening observations,
+  MoHFW guidelines       district and sub-district units function as spokes               treatment instructions,
+ and as per approvals    for decentralized delivery of specialized and                     and the address of
+ through the             allied health services. Institutional partnerships,               the designated referral
+ annual program          including MoUs with private hospitals and                         facility. The block level
+implementation plan.     specialist institutions as appropriate, are to be                 medical officers are
+                         established to further strengthen this network.                   to record preliminary
+                                                                                           clinical observations
+                                                                                           in the referral card to
+                                                                                           ensure continuity of
+                                                                                           care across all levels.
+                                                                                           Treatment details are to
+                                                                                          be shared routinely with
+                                                                                          the Mobile Health Team
+                                                                                         to enable structured
+                                                                                         follow-up and tracking.
+
+
+
+
+                                                                                                                       29
+     SPECIAL PROVISION FOR BIRTH-DEFECT MANAGEMENT
+
+
+
+                                      Screening of birth defects
+
+
+
+
+                                                                         Screening of
+             Newborn screening
+                                                                       children by MHT
+
+               Delivery point                                            AWC/ School
+
+
+
+
+                Line-listed data recorded                    Line-listed data recorded
+                   in RBSK Web Portal                           in RBSK Web Portal
+                      (CNS Module)                                 (MHT Module)
+
+
+
+
+                                  Child referred for final diagnosis                       Refer to NRC
+                          (DEIC/ DH/ MOU Hospitals/ Confirmatory Camp)                   (in case of SAM)
+
+
+
+
+                                     Line-listed record updated
+                                 in RBSK Web Portal (DEIC Module)
+
+
+
+
+                           Surgical procedure estimate from empanelled
+                          hospital (by DEIC Manager/ District Coordinator)
+
+
+
+
+                            Pre-authorization for recommended surgery
+                                   (RBSK/ PMJAY/ State Funds)
+
+
+
+
+                                       Surgery conducted at
+                                       empanelled hospital
+
+
+
+
+                                     Child returns to DEIC/ DH
+                                     for follow-up till recovery
+
+
+30
+4.4 SCREENING, REFERRAL AND MANAGEMENT
+PATHWAYS
+A structured and standardised care pathway is to guide the screening, referral, and management of all four
+conditions under RBSK 2.0 from community-level identification through facility-based diagnosis to appropriate
+management and follow-up. Each step in the pathway are enabled for seamless movement of children across
+levels of care, minimising delays and improving health outcomes.
+
+
+Screening Coverage and Reach
+                       Universal screening is ensured across all platforms; Anganwadi Centres, Government and
+                       Government-aided schools. Mobility support is provisioned for Mobile Health Teams as
+                       per NHM norms. Adequate time to be allocated by each Mobile Health Team to ensure
+                       thorough and quality screening of every child, avoiding rushed assessments that may result
+                       in missed or inaccurate identification. Special camps and mop-up rounds are conducted
+                       periodically to capture missed and drop-out cases, ensuring no child remains unscreened
+                       regardless of location or circumstance.
+
+
+Referral Pathway
+                       All children identified during screening will be referred to DEICs or appropriate facilities
+                       based on clinical need. Each child is issued a three-part referral card documenting
+                       screening observations and treatment instructions. The existing NHM patient transport
+                       network are leveraged to facilitate timely transfers for secondary and tertiary care.
+
+
+Management and Continuity of Care
+                       DEICs serve as the primary hub for multidisciplinary evaluation and early intervention. For
+                       conditions requiring advanced specialist care, a hub-and-spoke may be operationalized
+                       with tertiary facilities providing clinical mentorship, telemedicine support, and specialist
+                       referrals, and district and sub-district units delivering decentralized allied health services.
+                       Mobile Health Teams facilitates ensuring systematic follow-up for all referred children and
+                       continuity of care upon return to the community.
+
+
+Financial Provisioning
+                       To minimize out-of-pocket expenditure for families, model costing guidelines are aligned
+                       with PMJAY. All children diagnosed under RBSK 2.0 are entitled to avail surgical services
+                       for secondary and tertiary services as per approved NHM norms.
+
+
+Accountability and Follow-Up
+                       Coordinated responsibilities across all healthcare tiers are clearly defined and monitored
+                       through a digital dashboard at the National, State, District, and Block levels. Treatment
+                       details are shared routinely with Mobile Health Teams to ensure structured follow-up and
+                       prevent loss to care. This standardised pathway is strengthening the quality, continuity,
+                       and efficiency of service delivery and follow up ensuring every child identified with a health
+                       condition receives comprehensive, timely, and uninterrupted care.
+
+
+
+
+                                                                                                                         31
+                  CHILD SCREENING                                               REFERRAL AND
+                    (0-18 YEARS)                                                MANAGEMENT
+
+                         Defect & Developmental Delay
+                                                                                                   Medical College
+                         Screening
+
+
+                         • Vision Impairment
+                         • Hearing Impairment
+                         • Motor Delay
+                         • Cognitive Delay                        District Early
+                         • Language Delay                         Intervention Centre
+                         • Behavior Disorder                                                       • Congenital Heart
+                         • Learning Disorder                      • Motor Delay                      Diseases
+                         • Attention Deficit Hyperactivity        • Cognitive Delay                • Rheumatic Heart Disease
+                           Disorder                               • Language Delay                   only at school
+                         • Neuro-motor Impairment (CP)            • Behaviour Disorder
+                         • Developmental Dysplasia of the         • Learning Disorder
+                           Hip                                    • Attention Deficit
+     MOBILE              • Congenital Cataract                      Hyperactivity
+                                                                    Disorder
+     HEALTH
+                         • Congenital Heart Diseases
+                                                                  • Neuro-motor
+
+     TEAM
+                                                                    Impairment (CP)
+
+     Screening
+                         Disease Screening                   Community Health Centre               District Hospital
+     at AWC and
+     school                                                                                        • Developmental Dysplasia
+                         • Skin conditions (Scabies,
+                           Fungal infection and                                                      of the Hip
+                           Eczema)                                                                 • Congenital Cataract
+                         • Reactive Airway Disease                                                 • Vitamin A Deficiency
+                         • Dental Caries                                                             (Bitot Spot)
+                         • Tuberculosis                                                            • Vitamin D Deficiency
+                         • Leprosy                                                                   (Rickets)
+                         • Rheumatic Heart Disease                                                 • Vision Impairment
+                           only at school                                                          • Hearing Impairment
+                         • Diabetes Mellitus                                                       • Diabetes Mellitus
+
+
+                         Deficiency Screening
+
+                         • Vitamin A Deficiency        • Severe Acute Malnutrition,
+                           (Bitot Spot)                  SAM/ Stuning
+                         • Vitamin D Deficiency        • Goiter
+                           (Rickets)                   • Anemia
+
+
+
+
+             Child Screening              Screening                      Referral and                       Early
+             (0-18 years)                 Areas                          management                         identification,
+             Mobile Health Team           Developmental,                 Children are referred              better future
+             screens children at          Disease & Deficiency           to appropriate health              Timely screening
+             AWC and school               screening for early            facilities for care and            and management for
+                                          identification                 treatment                          a healthy tomorrow
+
+
+
+32
+                HUMAN RESOURCES
+                UNDER RBSK 2.0
+
+Chapter 5
+5.1 Mobile Health Teams (MHTs)
+5.2 District Early Intervention Centres (DEICs)
+
+
+
+
+                                                  33
+     Care Early, Grow Strong
+
+
+
+
+           Screening at Anganwadi Centre
+34
+5.1 MOBILE HEALTH TEAMS (MHTs)
+The number of Mobile Health Teams is determined by state-specific requirements, taking into account population norms, the
+number of children registered at Anganwadi Centres, school enrolment figures, and the presence of hard-to-reach areas. States
+and Union Territories have the flexibility to re-appropriate existing NHM human resources and augment team composition in
+accordance with local needs to improve screening coverage.
+
+
+
+ COMPOSITION OF MOBILE HEALTH TEAM
+                      MEMBERS                                                                           NUMBER
+
+                      Medical officers (MBBS/ BDS/ AYUSH) - With a
+                                                                                                              2
+                      Bachelor’s degree from an approved institution
+
+
+                      ANM/ MPW/ Staff Nurse/ BSc Nursing from
+                                                                                                              1
+                      an approved institution
+
+
+                      Pharmacist* with proficiency in computer for
+                                                                                                              1
+                      data management
+
+
+
+
+  SUPPORT TEAM FOR MHT
+  • Under RBSK 2.0, efficient and optimal utilisation of available health manpower is envisaged through a
+    flexible, need-based team configuration.
+
+  • While the core MHT composition remains intact, additional cadres including HWAs, peer educators,
+    adolescent health counsellors, ophthalmic assistants, RKSK/AFHC counsellors, mental health
+    counsellors, medical interns, and B.Sc. nursing students may be engaged as available under NHM
+    program/ government program as supporting units to reinforce the core team and strengthen child health
+    screening under the programme.
+
+  *In case a pharmacist is not available, other paramedics – lab technician or ophthalmic assistant with proficiency in
+  computer for data management may be considered.
+
+
+
+
+Mobile Health Teams screen all children up to 6 years of age registered with Anganwadi Centres and children aged
+6 to 18 years enrolled in Government and Government-aided schools. Mobility support is provided for movement of
+teams to Anganwadi Centres and schools, and each team is equipped with a standard toolkit containing essential
+screening equipment.
+
+
+                                                                                                                                35
+                                                 TOOL KIT FOR MOBILE HEALTH TEAMS
+
+                            6 weeks to 6 years                                              6 to 18 years
+
+
+                                  Equipment for Screening to Identify Developmental Delays and NCDs
+
+
+                                                                                    Vision charts, reference charts
+
+                                                                                    Glucometer with strips and lancets
+                              Bell, rattle, torch, one-inch
+                              cubes, small bottle with raisins,                     Hemoglobinometer with strips
+                              squeaky toys, coloured wool                           (to be provided by AMB program)
+
+                                                                                    BP apparatus with age-appropriate calf size
+
+                     Manual, structured tool and a card with age-appropriate developmental check list to record
+                                  milestones to identify developmental delays (6 weeks - 9 years)
+
+
+      Equipment for Anthropometry
+       Age appropriate:
+       • Weighing scale (mechanical newborn weighing scale, standing weighing scale)
+       • Height measuring – stadiometers/ infantometers
+       • Mid arm circumference tape/ bangle
+       • Non stretchable measuring tape for head circumference
+
+
+     5.2 DISTRICT EARLY INTERVENTION CENTRES (DEICs)
+     The composition at the District Early Intervention Centre (DEIC) remains the same and is detailed as below:
+
+      PROFESSIONALS                                                                                    NUMBER
+
+      Medical Professionals (Paediatrician-1, Medical Officer-1, Dental Doctor-1)                           3
+
+      Physiotherapist/ Occupational therapist                                                               1
+
+      Audiologist & Speech Therapist                                                                        1
+
+      Psychologist                                                                                          1
+
+      Optometrist                                                                                           1
+
+      Early Interventionist cum Special Educator cum Social Worker                                          1
+
+      Lab Technician*                                                                                       1
+
+      Dental Technician                                                                                     1
+      Manager                                                                                               1
+
+      Data Entry Operator                                                                                   1
+
+
+     *A sample collection centre may be established at the DEIC by utilising the services of the lab technician, wherever
+     available and deployed exclusively at the DEIC, even if a fully equipped laboratory is not yet in place.
+36
+               ROLES AND
+               RESPONSIBILITIES OF
+               HEALTH PROVIDERS
+               UNDER RBSK 2.0
+
+Chapter 6
+6.1 State Nodal Officers (SNOs)
+6.2 DEIC Managers/ District Coordinators
+6.3 Mobile Health Teams (MHTs)
+6.4 Block Program Officers (BPOs)
+6.5 School Health and Wellness Ambassadors (SHWAs)
+6.6 RKSK Counsellors
+6.7 ASHAs
+6.8 Community Health Officers
+6.9 ANM/ MPW/ Staff Nurses
+
+
+
+
+                                                     37
+     Empowering Healthy Beginnings
+
+
+
+
+               Mobile Health Team
+38
+Table below enlists key roles and responsibilities of different types of health care providers envisaged
+under the RBSK 2.0.
+
+
+  6.1 State RBSK Manager/ Nodal Officer
+
+  • Conduct state level orientation/ review meeting and dissemination of updated ‘Operational Guidelines’
+    to all the districts.
+  • Ensure appointment of district nodal officers for RBSK for all districts.
+  • Ensure translation of tools, training packages, printing of formats, training material into local language
+    and facilitate training of master trainers.
+  • Estimation of the total requirement of number of dedicated Mobile Health Teams in all the districts.
+  • Ensure operationalization of MHTs in all the districts.
+  • Mapping and memorandum of understanding with facilities and institutions (public and private) for
+    treatment of specific health conditions.
+  • Facilitate procurement and supply of equipment, logistics, HR for RBSK program.
+  • Ensure periodic inter-sectoral coordination meetings with ICDS and School & Mass Education
+    Department.
+  • Supportive supervision of RBSK activities in all the districts.
+  • Financial and administrative management at state level.
+  • Facilitate monthly review meetings at state level and ensure timely reporting and compliance.
+
+
+
+
+  6.2 District Early Intervention Centre Manager/ District Coordinator
+  or any State official deputed by State
+
+  • Estimation of the total requirement of number of dedicated Mobile Health Teams & recruitment of the
+    Mobile Health Team members.
+  • Monitoring the MHT teams: Ensuring vacancies are informed to the competent authority for completing
+    the recruitment
+  • Ensure operationalization of MHTs in all blocks.
+  • Establishment and operationalization of functional DEIC at District Hospital overall management for
+    optimum functionalization of DEIC.
+  • Ensure screening of all children, including newborn screening, management of identified children with
+    4Ds health conditions at DEIC.
+  • Facilitate referral of identified children for treatment at empanelled higher health institutions.
+  • Ensure periodic inter-sectoral coordination meetings with ICDS and School & Mass Education
+    Department.
+  • Supportive supervision of RBSK activities in the district.
+  • Facilitate monthly review meetings at district level and ensure timely reporting and compliance.
+  • Responsible for RBSK portal - DEIC module entry, closing the loop & follow up of all children post-
+    surgery and final diagnosis.
+
+
+
+
+                                                                                                                 39
+     6.3 Mobile Health Teams (MHTs)
+
+     • Screen all children up to 18 years for 4Ds biannually at each AWC and annually in Government and
+       Government-aided schools.
+     • Ensure smooth coordination with the block level Education and ICDS department to ensure active
+       participation during screening at AWC/ schools.
+     • Provide initial diagnosis and management at field level.
+     • Refer children with any Defects at birth, Deficiencies, Diseases, Developmental Delays, NCDs to
+       appropriate institutions/ DEICs and accompany them to the institution for necessary treatment.
+     • Follow-up with children with identified 4Ds health conditions.
+     • Provide health education and counselling.
+     • Ensuring proper recording and reporting and tracking of referred vehicle.
+     • Maintain log book, tour diary for movement of hired vehicles.
+     • Data entry of all the children in RBSK portal – MHT module and generation of RBSK Health Report Card.
+
+
+
+
+     6.4 Block Program Officers (BPOs)
+
+     • Support Mobile Health Team for preparing detailed micro plans in coordination with Mobile Health
+       Teams, ICDS, School and Mass Education Departments.
+     • Ensure visits of MHTs as per the micro plan and community mobilization by front line health workers.
+     • Provide support for referral of identified children with 4Ds to higher health institution and DEIC.
+     • Ensure periodic inter-sectoral coordination meetings with ICDS and School & Mass Education
+       Departments.
+     • Supportive supervision of RBSK activities in the block.
+     • Ensure timely reporting and facilitate block level monthly review.
+
+
+
+
+     6.5 School Health and Wellness Ambassadors (SHWAs)
+
+     • Support RBSK MHTs during school visit for health screening.
+     • Assist RBSK-MHTs in basic health screening like anthropometry, Height, Weight and BMI.
+     • Follow up and compliance for treatment for students identified with health condition.
+     • Aid in prior prelisting of students with any health concern based on day-to-day interaction and referred
+       to nearest public health facility in case of need.
+     • Ensure communication with parents during Parent Teacher Meeting (PTM) about scheduled MHT visit
+       for screening.
+     • Creation of ABHA ID for children in schools for seamless digital tracking and follow up.
+
+
+
+
+40
+6.6 RKSK Counsellors
+
+• RKSK counsellors accompany Mobile Health Teams (MHTs) during school visits to provide counselling
+  support for children identified with adolescent health issues.
+• Anaemia counselling and record keeping for management/ follow up.
+• Follow-up Care: Counsellors will ensure appropriate follow-up of these children at Adolescent Friendly
+  Health Clinics (AFHCs) or designated health centres.
+• Documentation: A line listing of all students counselled are prepared by the RKSK counsellors and
+  shared with the RBSK MHTs for entry into the RBSK Web Portal.
+• Creation of ABHA ID for children in schools for seamless digital tracking and follow up.
+
+
+
+
+6.7 ASHAs
+
+• Create awareness in the community regarding 4Ds: Defects at birth, Deficiencies, Diseases including
+  NCD in children, and Developmental Delays.
+• Identify and report children with any birth defect to Mobile Health Team, ensure notification under the
+  Home Based Newborn and Child Care (HBNCC) programme, and facilitate referral to the District Early
+  Intervention Centre (DEIC).
+• Follow up of children with birth defects identified under RBSK.
+
+
+
+
+6.8 Community Health Officers
+
+• Ensure referral of all 4D children to appropriate centres like CHC/ DEIC/ NRC.
+• Coordinate with RBSK Mobile Health team, ASHA, AWW, ANMs and facilitate the treatment and follow up
+  for children aged 0-18 years.
+• Facilitate RBSK mobile health teams for conducting special camps in high risk and hard-to-reach areas
+  (nomadic or left-out population) and screening.
+• Follow-up with the identified 4D cases in their area.
+• Facilitate the creation of ABHA IDs for children to enable seamless monitoring and tracking of children
+  as per official program.
+
+
+
+
+6.9 ANM/ MPW/ Staff Nurses
+
+• Screening of all newborns at the delivery point for birth defects.
+• Referral of all 4D children to appropriate centres like CHC/ DEIC/ NRC.
+• MPW/ ANM at the community to coordinate with AWW and RBSK MHT to screen children.
+• Facilitate RBSK mobile health teams for conducting special camps in high risk and hard-to-reach areas
+  (nomadic or left-out population) and screening.
+• Follow-up with the identified 4D cases in their area.
+
+
+
+
+                                                                                                            41
+42
+                       RBSK 2.0 CAPACITY
+                       BUILDING AND
+                       TRAINING FRAMEWORK
+
+     Chapter 7
+     7.1 Mobile Health Team Training
+     7.2 DEIC Training
+     7.3 Integrated Training for the Frontline Workers
+
+
+
+
+43
+Start Right, Grow Bright
+
+
+
+
+   Promotion of Early Childhood Development
+                                              44
+     OVERVIEW
+     Capacity building forms the cornerstone of RBSK 2.0 programme success. Capacity building is not a one-time event but a
+     continuous process of skill development, knowledge upgradation, and quality improvement. The RBSK 2.0 training framework
+     presented in this chapter provides a comprehensive, evidence-based approach to equipping all cadres of health workers with
+     the competencies needed to deliver high-quality child health services. Equipping personnel at all levels from national technical
+     agencies to block-level Mobile Health Teams (MHTs) and District Early Intervention Centre (DEIC) staff with current knowledge,
+     clinical skills, and programme understanding is essential to ensuring consistent quality, efficiency, and effectiveness across
+     all child health service delivery points.
+
+     This chapter presents a unified, evidence-based training framework that integrates three distinct but interconnected
+     training streams:
+     • Mobile Health Team (MHT) Training: 5-day foundational competency programme for block level screening teams
+     • DEIC Staff Training: 5-day advanced clinical skills programme for district-level early intervention specialists
+     • Frontline Worker Training: Integrated module for ASHAs, ANMs, CHOs, and Medical Officers supporting community-
+       level screening and referral
+
+     TRAINING GOVERNANCE AND ARCHITECTURE
+     INSTITUTIONAL FRAMEWORK
+     RBSK 2.0 adopts a cascading training model that ensures standardized knowledge and skill transfer from national to
+     state, district, and block levels. This architecture enables every cadre involved in screening and early intervention to
+     receive contextually relevant, standardized training aligned with programme objectives.
+
+
+
+
+                                          The Ministry of Health and Family Welfare (MoHFW), in partnership with technical
+                                            support agencies and Regional Collaborating Centres (RCCs), develops standardized
+                                             training modules, competency assessment tools, and training-of-trainers (ToT)
+                                               programmes.
+                  NATIONAL
+                   LEVEL
+
+                                                         State Health Missions undertake annual training load planning based
+                                                          on operational block-level teams. Corresponding budgetary provisions
+                                                            are incorporated in the State’s Annual Programme Implementation
+               STATE LEVEL                                    Plan (PIP) under the designated training head.
+
+
+
+
+                                                                       District Health Societies coordinate DEIC training
+                                                                        programmes in collaboration with State Child Health
+                                                                          Cells. DEICs serve as district-level training hubs
+            DISTRICT LEVEL                                                  for RBSK worker orientation and continuous skill
+                                                                              upgradation.
+
+
+
+
+                                                                                       Block Medical Officer can facilitate MHT
+              BLOCK LEVEL                                                                training.
+45
+7.1 MOBILE HEALTH TEAM (MHT) TRAINING PROGRAMME
+The MHT training programme equips block-level health teams with competencies to:
+
+
+                  COMPETENCY
+                  Conduct systematic screening for the 4Ds (Defects at birth, Deficiencies, Diseases, Developmental delays)
+                  in children from birth to 18 years
+
+                  Perform accurate anthropometric measurements and interpret growth parameters
+
+
+                  Apply standardized RBSK Screening Tool
+
+
+                  Identify red flags requiring immediate referral to DEIC or higher facilities
+
+                  Maintain accurate records and report data through the RBSK Management Information System (MIS) and
+                  in RBSK Web Portal
+
+                  Counsel families on screening findings, referral rationale, and follow-up requirements
+
+
+                  Coordinate with ASHAs, ANMs, and school health staff for community mobilization and tracking
+
+
+
+FRAMEWORK FOR MHT TRAINING
+The Mobile Health Team (MHT) Training represents a carefully structured five days journey of capacity building. It
+is designed not merely as a training exercise, but as a transformative initiative to strengthen the MHTs ability to
+identify, manage, and respond to child health conditions across the life cycle - from birth through adolescence.
+By equipping MHTs with sharper skills in screening, referral, and follow-up, the program is strengthening the
+foundation of child health services, safeguarding timely interventions and improved outcomes for every child.
+
+A. TRAINING ON CORE CONCEPTS
+
+At the heart of this initiative lies the focus on the “4Ds” - Defects at birth, Deficiencies, Diseases, and Developmental
+delays. These four pillars encapsulate the major health challenges faced by children and form the backbone of
+RBSK’s screening activities. The training ensures that participants not only gain conceptual clarity but also acquire
+practical, hands on skills to recognize, classify, and refer children covering the following aspects:
+• Defects at birth: Congenital conditions such as neural tube defects, down syndrome, cleft lip and palate, club
+  foot, congenital cataract, and congenital heart diseases are emphasized. Through pictorial tools and clinical
+  demonstrations, participants learn to recognize visible signs with precision.
+• Deficiencies: Nutritional disorders, including anemia, vitamin A deficiency, rickets, and goitre, are highlighted.
+  The sessions stress early detection through simple, field-friendly methods.
+• Diseases including Pediatric NCDs: Common childhood illnesses - skin infections, otitis media, rheumatic heart
+  disease, respiratory disorders, dental conditions, and convulsive disorders - are covered. Pediatric NCDs such
+  as obesity, hypertension, and diabetes mellitus are also included. Teams are oriented to provide basic advice
+  and ensure timely referral.
+• Developmental delays: A critical component, encompassing motor, cognitive, language, and social delays, as
+  well as conditions like autism, ADHD, learning disorders, hearing and vision impairment, along with emerging
+  digital issues. The training emphasizes the use of milestone charts, checklists, and job aids for early detection.
+
+
+
+                                                                                                                              46
+     B. TRAINING ON DIGITAL FRAMEWORK
+
+     The digital framework of RBSK 2.0 Web Portal forms an integral component of MHT training. Participants are oriented to
+     the digital platform that enables efficient digitization of screening data, ensuring accuracy, continuity of care, and real-time
+     monitoring.
+
+     C. QUALITY AND COVERAGE COMPONENTS
+
+     States and Union Territories are advised to ensure that all thematic components are comprehensively covered within the
+     five-day schedule. Continuous capacity building should remain a priority and ongoing activity, with regular refresher trainings
+     organized to help existing MHTs reinforce and update their skills. Newly recruited members must also receive comprehensive
+     orientation and skill training to ensure uniform standards across all teams.
+
+     D. SOFT SKILLS TRAINING COMPONENTS
+
+     In addition to technical knowledge, the training strongly emphasizes soft skills - particularly the importance of engaging with
+     children gently and empathetically. Mentors are expected to instill in participants the value of providing adequate time and
+     attention during screenings to ensure quality assessments and improved health outcomes.
+
+     E. PHASE WISE TRAINING
+
+     The program unfolds in a day wise progression, blending theory with practice to nurture confidence and competence.The
+     importance of translation of academic content with hands on training is necessary to ensure 360-degree completion in the
+     training program.
+
+
+
+
+     HANDS-ON              PRACTICAL SKILLS                CASE-BASED              FIELD PRACTICE               BETTER CHILD
+     LEARNING                 ON IMPACT                     LEARNING             UNDER SUPERVISION            HEALTH OUTCOMES
+
+
+
+
+     7.2 DEIC TRAINING
+     The DEIC training programme builds advanced clinical competencies for district early intervention specialists,
+     equipping multidisciplinary teams with practical skills to conduct detailed assessments, diagnose complex disorders,
+     and implement specialized therapies. Participants also master family counselling and system coordination.
+     The five-days RBSK-DEIC training program is not merely a timetable of lectures and case discussions - it is a
+     carefully curated journey designed to strengthen the capacity of health professionals to identify red flags in child
+     development and intervene early.
+     At its heart, the training embodies the spirit of teamwork. Pediatricians, therapists, psychologists, audiologists, and
+     optometrists come together, each contributing their specialized knowledge. Instead of functioning in isolation, they
+     learn to view the child holistically - where medical, developmental, behavioral, auditory, and visual needs converge.
+     This collaborative model ensures that no aspect of a child’s health is neglected, and interventions are harmonized
+     rather than fragmented. It fosters a culture of shared responsibility for child health, which is the cornerstone of
+     RBSK-DEIC.
+
+
+
+
+47
+1. FOUNDATIONS & DEVELOPMENTAL ASSESSMENTS
+Building detailed knowledge of child development and applying evidence-based diagnostic criteria.
+
+
+             Standardized Assessments                                   Cognitive Evaluation
+             Application of comprehensive                               Comprehensive special education-
+             developmental tools                                        focused assessment
+
+             Neurodevelopmental Disorders                               Outcome Tracking
+             Understanding CP, autism spectrum,                         Initial DEIC records maintenance via
+             ADHD                                                       RBSK MIS web portal
+
+
+
+
+2. MULTIDISCIPLINARY DIAGNOSIS & INTERVENTIONS
+Applying domain-specific therapy protocols for gross motor, fine motor, communication, and learning.
+
+
+                                                                   Communication & Speech
+             Gross Motor Interventions Physiotherapy
+                                                                   Assessment and intervention for
+             for motor disorders
+                                                                   speech delays
+
+             Fine Motor & ADL Skills                               Individualized Planning
+             Occupational Therapy and sensory                      Special education and coordination across
+             integration strategies                                medical and therapeutic domains
+
+
+
+
+3. LONG-TERM CARE
+Extending care to home-based settings, maintaining quality data.
+
+
+
+
+Family Counselling                           DEIC Record Management                    Referral Management
+Teaching realistic expectations              Tracking long term outcomes               To tertiary hospitals
+and home-based interventions                 and detailed reporting
+
+
+
+
+                                                                                                               48
+     7.3 INTEGRATED TRAINING FOR THE FRONTLINE WORKERS
+         Training Objectives
+         Frontline workers form the community-level backbone of RBSK 2.0, supporting screening, referral, and follow-
+         up activities. As part of integrated training module on NHM, this training part equips ASHAs, ANMs, CHOs, and
+         Medical Officers to:
+         1. Understand RBSK 2.0 objectives and their specific roles within the programme
+         2. Recognize common 4Ds conditions during routine contacts with children and families
+         3. Support MHTs during screening camps through community mobilization and logistics
+         4. Counsel families on the importance of screening, referral compliance, and follow-up
+         5. Track referred children and support adherence to intervention recommendations
+         6. Maintain community-level records and report data through existing health information systems
+
+         Training Venue
+         Block-level training centres/ CHCs/ as decided by State/ UT.
+
+         Training Methodology
+         Frontline worker training emphasizes participatory, experiential learning through interactive lectures,
+         Short, focused presentations with visual aids and real-world examples.
+         Group discussions: case scenarios, problem-solving exercises, and experience sharing
+         Role plays: Counselling scenarios, community mobilization simulations, referral conversations etc.
+
+
+         Training Quality Assurance and Monitoring
+         • Daily feedback: End-of-day participant feedback forms to identify and address issues in real-time
+         • Faculty observation: Peer review and mentoring among training faculty
+         • Competency checklists: Structured assessment of practical skills during hands-on sessions
+         • Attendance monitoring: Minimum 90% attendance required for certification
+         • Field-level competency assessment through supportive supervision visits
+         • Screening quality indicators (number of children screened, referral rates, follow-up compliance), data
+           quality audits, and beneficiary feedback
+
+     TRAINING BUDGET AND RESOURCE PLANNING
+
+       States must include the following budget heads for venue, logistics, training material, equipment and
+       supplies, TA/ DA for participants/ faculty in their trainings in their Annual Programme Implementation
+       Plan (PIP):
+       Programme managers at state and district levels must prioritize training quality over speed, develop
+       annual training calendar with timelines and targets ensuring that every participant achieves
+       demonstrated competency before independent practice. Post-training support mechanisms - mentoring,
+       refresher courses, peer learning networks, and supportive supervision - are critical to sustaining skills
+       and addressing implementation challenges.
+       By investing in robust capacity building, RBSK 2.0 ensures that every child screened, every referral made,
+       and every intervention delivered meets the highest standards of clinical excellence and programme
+       effectiveness. This commitment to quality ultimately translates into improved health outcomes for
+       India’s children and fulfillment of the programme’s vision of universal access to early detection and
+       intervention services.
+
+
+49
+50
+              DIGITAL FRAMEWORK
+              UNDER RBSK 2.0
+
+Chapter 8
+8.1 RBSK 2.0 Web Portal
+8.2 Digital Longitudinal RBSK Health Report Card
+
+
+
+
+                                                   51
+     Right Start, Bright Path
+
+
+
+
+        Vision Check-up at School by RBSK team
+52
+8.1 RBSK 2.0 WEB PORTAL
+Over the past decade, RBSK has reached millions of children across the country, establishing itself as one of the
+largest child health screening programmes in the world. Building on this strong foundation, RBSK 2.0 now advances
+the programme’s digital capabilities to further strengthen data flow, enhance real-time visibility into programme
+performance, and ensure that every child screened is systematically tracked through the full continuum of care
+from screening and referral to treatment and confirmed follow-up.
+
+
+MAJOR STRUCTURAL CHANGE
+RBSK 2.0 represents a transformative leap in child health surveillance, with the vision to leave no one behind. By
+integrating screening, diagnosis, referral, and case management into a unified continuum of care, the RBSK 2.0
+portal strengthens programme monitoring and supports evidence-based decision-making at all levels. From the
+moment a child is born until they reach 18 years of age, the health journey is seamlessly supported through an
+end-to-end digital ecosystem.
+
+
+
+
+ARCHITECTURE OF THE DIGITAL FRAMEWORK
+The digital framework of RBSK 2.0 is built on three integrated modules, each addressing a distinct stage of the
+child health continuum. Together, these modules create a seamless, end-to-end digital record that travels with the
+child from birth through adolescence. The architectural plan is given below:
+
+
+
+
+                                                                             U-WIN                                           State
+         UDISE+           Poshan Tracker           ABDM                                            RCH2.0                  Application
+                                                                         (AMB Dashboard)
+     15 Cr+ beneficiaries 8 Cr+ beneficiaries   ABHA & BAL ABHA Anemia Data pushed 2 Cr+ beneficiaries                     5+ States
+
+
+               MHT Module                                                                  CNS Module (Birth Defects)
+                                                                   API
+                                                                                           Screening of children at delivery point.
+                                                                                           Identification of children with 4 D’s
+                                                                                           Referral and Treatment
+
+
+
+
+                                                        RBSK 2.0
+                              Longitudinal                                            Dashboard
+                              Health Report                                           & Reports
+                              Card
+                                                           DEIC Module
+                                                 Comprehensive Management
+                                                 Diagnostic services
+                                                 Therapeutic Interventions
+                                                 Tertiary Care Referrals management
+                                                 Referral Loop Closure
+
+
+
+
+                                                                                                                                         53
+       1         Comprehensive Newborn Screening (CNS Module)
+
+     The first point of digital entry into the RBSK system is at birth. For newborns, the Comprehensive Newborn Screening
+     (CNS) module plays a critical role. By enabling early detection of congenital anomalies, it provides a safety net at
+     the very start of life, ensuring that high-risk cases are flagged and referred without delay. Every newborn screened
+     at a public health facility i.e. delivery points is registered on the digital platform. The Newborn Screening Module
+     Enables that the children born in a public facility exits without being digitally enrolled and flagged if a condition is
+     identified requiring further evaluation or follow-up.
+
+
+
+            Janani Portal                              Baby born
+         (Mother Registered)                   (Detection of Birth Defect)
+
+                                                                                                       SNCU
+
+                                                  Data to push through
+             CNS Module
+                                                     ‘API’ to RBSK
+
+
+
+
+       2         MHT Module: Longitudinal Digital RBSK Health Report Card
+
+     The Mobile Health Team module is the operational heart of the digital
+     framework. At the community level, Mobile Health Teams (MHTs)
+     serve as the first point of contact. They visit Anganwadi Centres and
+     schools, conducting screenings and recording detailed information
+     about each child directly into the RBSK-MHT module. This grassroots
+     outreach ensures that early signs of health conditions are captured
+     for timely interventions. The children screened at AWC, Government
+     or Government-aided school and are issued a digital RBSK ‘Health
+     Card’. It is a longitudinal electronic health record that is updated at
+     every screening interaction by RBSK teams across the child’s life,
+     from 6 weeks to 18 years of age.
+
+     The Health Report Card captures a comprehensive set of health
+     parameters at each visit, including:
+
+     • Anthropometric data: Height and weight, tracked over time to
+       monitor growth patterns and identify nutritional deficiencies
+     • Vision screening: Detection of refractive errors, squint, and other
+       ocular conditions
+     • Dental health: Assessment of dental caries, malocclusion, and
+       oral hygiene
+     • Haemoglobin (Hb): Screening for anaemia
+     • Body Mass Index (BMI): Early identification of undernutrition, overweight, and obesity, including lifestyle-related
+       risks
+     • Blood Sugar: Symptom based screening for early indicators of obesity, hypertension (HTN) & Diabetes Mellitus
+       (DM) reflecting RBSK 2.0’s expanded focus on emerging non-communicable conditions
+
+
+54
+This longitudinal record allows healthcare providers to track trends in a child’s health over time. For example, a child
+whose BMI is trending upward across successive screenings, or whose haemoglobin has remained persistently
+low, can be identified for targeted intervention. The Health Report Card is linked with unique ABHA ID enabling
+interoperability with other national health platforms where applicable.
+
+
+
+
+  3         DEIC Module
+
+
+The District Early Intervention Centre module digitally captures the full scope of secondary and tertiary care
+delivered through DEICs. Child identified of the screening with defects/ developmental delay are referred to the
+DEIC/ DH. DEIC/ DH manager would ensure entry of the children into DEIC module.
+
+THE DEIC MODULE RECORDS:
+
+• Range of services provided: Specialist consultations, diagnostic workups, surgical interventions, and assistive
+  device provision are all captured, creating a complete record of the care delivered to each child at the DEIC.
+
+• Infrastructure, equipment, and HR mapping: The DEIC module also functions as a facility management tool. It maps
+  the physical infrastructure, available equipment, and human resources at each DEIC. This enables programme
+  managers to update the status of HR/ functionality status of equipment in every 6 months and to identify
+  existing scope to address the service gaps effectively.
+
+The DEIC module is the critical closing mechanism of the digital loop. When a child is referred from a screening
+platform to a DEIC, the referral is recorded digitally. When the child arrives at the DEIC and receives care, the DEIC
+module updates the child’s record. If a child does not arrive at the DEIC within the expected timeframe, the system
+flags the case for follow-up. This helps to achieve the compliance till resolution.
+
+
+  DIGITAL MONITORING AND EVALUATION SYSTEM
+               Beyond data capture, the digital framework of RBSK 2.0 incorporates a comprehensive
+               Monitoring and Evaluation system designed to drive programme quality, accountability, and
+               continuous improvement.
+
+
+
+  APPROPRIATE DIGITAL MEASURES
+               Under RBSK 2.0, the system actively tracks every child through each stage of the care pathway
+               i.e. screening, referral pathway, DEIC visit, treatment, and follow-up — and flags open loops at
+               every level.
+
+               An automated SMS alert system is also being envisaged as a supportive mechanism.
+
+               The portal’s architecture is fully API-enabled, allowing secure and efficient data exchange with
+               national platforms such as UWIN (AMB Dashboard), RCH 2.0, UDISE+, AMB portal or platform,
+               UWIN portal and the Poshan Tracker. This interoperability ensures that child health data is not
+               siloed but instead contributes to a broader ecosystem. These will help in creating a holistic view of
+               child well-being, enabling informed, data-driven decisions.. RBSK 2.0 also provides dashboards
+               and analytics tools. District, state, and national authorities can track screening coverage, identify
+               disease trends, and monitor service utilization.
+
+
+
+
+                                                                                                                           55
+     EFFICIENCY OF DATA MANAGEMENT
+              The digital framework replaces fragmented, manual data flows with a unified, centralised data
+              management system. Data entered by MHT members in the field is available to block, district,
+              state, and national programme managers. Programme managers at every level have access
+              to dashboards that present key performance indicators children screened, referrals generated,
+              DEICs visited, treatments completed in an accessible, actionable format.
+
+              The system also enables longitudinal data analysis at the individual child level, allowing
+              tracking of health outcomes over time rather than just counting service delivery events. This is a
+              fundamental shift in how the programme measures its own performance from counting outputs
+              to tracking outcomes.
+
+
+     CLUSTER-BASED ANALYSIS FOR PROGRAMME INTELLIGENCE
+              One of the most powerful features of the RBSK 2.0 digital system is its capacity for cluster-based
+              analysis the ability to examine health data not just at the individual level, but across geographic
+              and demographic clusters. This capability serves two critical programme management functions:
+
+              • Geographical distribution of diseases and service utilisation: The system maps the distribution
+                of specific health conditions anaemia, vision defects, congenital anomalies, developmental
+                delays across geographies, enabling programme managers to identify where the burden
+                of specific conditions is highest. Equally important, it maps service utilisation patterns,
+                identifying areas where services are being over-utilised relative to the population (which
+                may indicate concentration of services in accessible areas) and areas where utilisation is
+                low relative to need (which may indicate access barriers, geographical challenges, or gaps in
+                community mobilisation).
+
+              • Identification of gaps and referral mapping: Cluster-based analysis also enables systematic
+                identification of programme gaps - geographies with low screening coverage, high referral
+                dropout rates, or poor DEIC utilisation. Referral mapping overlays referral patterns on
+                geographic data to reveal whether children are being referred to appropriate and accessible
+                facilities, and whether referral pathways are functioning as designed. Where gaps are
+                identified, programme managers can direct targeted corrective action, deploying additional
+                MHTs to underserved clusters, strengthening DEIC capacity in high-burden districts, or
+                intensifying community mobilisation in areas with high dropout.
+
+
+     INTEROPERABILITY AND INTEGRATION
+              The digital framework of RBSK 2.0 is designed with interoperability as a foundational principle. The
+              programme’s digital systems are aligned with national digital framework such as the Ayushman
+              Bharat Digital Mission (ABDM), U-WIN and JANANI (RCH 2.0) portal. This interoperability ensures
+              that RBSK data contributes to and draws from the broader digital health ecosystem avoiding
+              duplication of data entry, enabling continuity of care when a child transitions between health
+              platforms, and strengthening the national child health data infrastructure.
+
+
+     THE CLOSED LOOP: A COMMITMENT TO EVERY CHILD
+              The defining principle of the RBSK 2.0 digital framework is that no child is lost to follow-up.
+              Every child who enters the programme whether as a newborn screened at a facility, a child
+              assessed by an MHT at an Anganwadi Centre, or an adolescent screened at a Government
+              school is tracked through a digitally enforced care pathway until their health episode is resolved.
+              The combination of longitudinal health records, automated caregiver communication, real-time
+              monitoring dashboards, and cluster-based programme intelligence creates a system that is not
+              merely a data repository but an active management tool one that flags, alerts, and drives action
+              at every level of the programme.
+
+
+56
+57
+58
+             ENSURING TERTIARY
+             CARE LINKAGES
+             AND INSTITUTIONAL
+             COLLABORATION
+
+Chapter 9
+9.1 Strengthening collaborations
+9.2 Core Functions of the Centre of Excellence
+9.3 List of Collaborative Centres
+
+
+
+
+                                                 59
+       Comprehensive Child Health:
+     From Early Detection to Complete
+              Development
+
+
+
+
+             Newborn Screening at Delivery Point
+60
+9.1 STRENGTHENING COLLABORATIONS
+The large majority of these conditions are identified under RBSK are responsive to early, evidence-based
+intervention, particularly when addressed in the first years of life. Contemporary evidence affirms that caregiver-led,
+play-based, home-environment intervention within an enriched developmental setting produces the best outcomes
+for children with developmental delays and disabilities. Aligning DEIC practice with this evolving evidence base
+requires sustained institutional support for a continuum of care.
+District Early Intervention Centres are the clinical backbone of RBSK the institutional point where children
+identified through community and facility-based screening receive specialist assessment, therapeutic intervention,
+rehabilitative support, and onward referral for definitive care. The quality of outcomes for children entering the
+RBSK pathway is therefore directly linked to the clinical competence, technicality, and operational effectiveness of
+DEIC teams.
+RBSK 2.0 responds to this need by establishing dedicated Centres of Excellence at premier national medical
+institutions, including AIIMS and designated Medical Colleges, to serve as apex technical, training, and mentoring
+hubs for the DEIC network across states.
+
+
+
+              THE HUB AND SPOKE                                          STRUCTURE OF THE CENTRE OF
+                    MODEL                                                       EXCELLENCE
+
+   The institutional framework under RBSK                            Each Centre of Excellence is established
+   2.0 operates on a structured hub and                              at an institution with demonstrated
+   spoke model. Each Centre of Excellence                            multidisciplinary expertise in child health.
+   at a premier medical institution function                         The core departments contributing to
+   as the hub, providing technical leadership,                       the Centre include Paediatrics, Physical
+   specialist mentoring, standardised training,                      Medicine      and    Rehabilitation,   ENT,
+   tele-consultation, and programme oversight.                       Ophthalmology, Psychiatry and Clinical
+   The DEICs at the district level function as                       Psychology, Physiotherapy, Occupational
+   spokes receiving continuous clinical and                          Therapy, Speech Therapy, and Community
+   managerial support from the hub while                             Medicine. A dedicated programme team
+   delivering frontline early intervention                           comprising a Nodal Officer, Programme
+   services to children in their catchment areas.                    Coordinator, Therapists, Psychologist, Data
+                                                                     Manager, and administration support the
+   This model between institutions; where the                        sustained operational functioning of the
+   hub brings global evidence and specialist                         Centre.
+   expertise to the district level, and the district
+   level generates field data, real-world clinical                   Within the centre, a model DEIC is established
+   experience, and programme intelligence                            in accordance with national DEIC guidelines,
+   that informs the hub’s training and research                      serving dual purposes: as a fully functional
+   functions. Together, the hub and its spokes                       one-stop service centre for children with
+   form an integrated institutional system                           special needs in the surrounding region, and
+   oriented towards one shared goal: better                          as a hands-on training and demonstration
+   health outcomes for every child who enters                        site for DEIC professionals from across the
+   the RBSK pathway.                                                 state. Trainees observe and practise clinical
+                                                                     assessment, therapeutic intervention, family
+                                                                     counselling, and documentation in a real,
+                                                                     quality service delivery environment.
+
+
+
+
+                                                                                                                          61
+     9.2 CORE FUNCTIONS OF THE CENTRE OF EXCELLENCE
+
+     TRAINING AND
+     CAPACITY BUILDING                            1      STANDARDISATION OF CLINICAL
+                                                         PROTOCOLS & LEARNING MATERIALS                 4
+      The Centre delivers structured, cascade            The Centre develops, updates, and disseminates
+      training to DEIC staff and RBSK Mobile             standardised clinical guidelines and Standard
+      Health Team members across foundational,           Operating Procedures for DEIC functioning across
+      specialised, and refresher levels. Training        the state. Existing training manuals are upgraded
+      covers RBSK-DEIC protocols, developmental          to reflect current evidence, and online learning
+      screening, growth and neurodevelopmental           modules are developed for self-paced learning
+      assessment, early stimulation, therapy             ensuring accessibility for DEIC staff across all
+      principles, counselling, referral pathways,        geographies and at all stages of their professional
+      and digital documentation. Specialised             development.
+      modules address conditions including Autism
+      Spectrum Disorder, Cerebral Palsy, ADHD,
+                                                         MONITORING, SUPERVISION, AND
+                                                                                                        5
+      specific learning disorders, and hearing
+      and vision impairments. A blended delivery         PROGRAMME EVALUATION
+      format combining on-site, virtual, and tele-
+      mentoring modes ensures accessibility for
+                                                         The Centre implements a structured performance
+      professionals across all districts.
+                                                         monitoring system for the DEIC network under its
+                                                         oversight. Assessment tools including knowledge
+                                                         tests, case scenario evaluations, online case
+     MENTORING AND ON-SITE
+     TECHNICAL SUPPORT                            2      presentations, and caregiver feedback mechanisms
+                                                         are deployed to measure the quality and outcomes
+                                                         of DEIC services. Programme evaluation follows a
+      Annual on-site mentoring visits by a               systematic framework assessing context, inputs,
+      multidisciplinary faculty team from the            processes, and outcomes for generating actionable
+      Centre of Excellence are to be conducted           evidence for continuous programme improvement.
+      at each DEIC under its network. These
+      structured visits enable direct observation
+      of DEIC clinical functioning, hands-on             REFERRAL LINKAGES
+      guidance to staff, identification of site-
+      specific technical and operational gaps, and       The Centre implements a structured performance
+      immediate corrective support.                      monitoring system for the DEIC network under its
+                                                         oversight. Assessment tools including knowledge
+                                                         tests, case scenario evaluations, online case
+     TELE-DEIC: DIGITAL MENTORING
+     AND TELE-CONSULTATION                        3      presentations, and caregiver feedback mechanisms
+                                                         are deployed to measure the quality and outcomes
+                                                         of DEIC services. Programme evaluation follows a
+      A Tele-DEIC platform is to be enabled across       systematic framework assessing context, inputs,
+      all DEICs in the state through a structured        processes, and outcomes for generating actionable
+      digital interface, facilitating need-based tele-   evidence for continuous programme improvement.
+      consultation for complex and diagnostically
+      challenging cases, monthly virtual case
+      discussions, and regular dissemination
+      of updated management guidelines. This
+      model ensures that DEIC teams in remote
+      and underserved districts have continuous
+      access to specialist clinical guidance,
+      effectively extending tertiary-level expertise
+      to the district level.
+
+62
+9.3 LIST OF COLLABORATIVE CENTRES
+S.No.   Institute Medical College/ Hospital            States/ UTs
+1       PGIMER, Chandigarh                             Jammu and Kashmir, Punjab, Haryana, Chandigarh,
+                                                       Himachal Pradesh
+2       IPGMER, Kolkata                                West Bengal and all North East States
+3       CDC, Trivandrum                                Kerala
+4       AYJNIHH, Mumbai                                All States/ UTs
+5       AIISH, Mysore                                  Karnataka
+6       MAMC, New Delhi                                Delhi
+7       CMC, Vellore                                   Tamil Nadu, Andaman and Nicobar
+8       ICH, Chennai                                   Tamil Nadu
+9       APOLLO, Chennai                                Tamil Nadu
+10      Shankar Netralaya, Chennai                     Tamil Nadu
+11      LVPEI, Hyderabad                               Andhra Pradesh
+12      NIMHANS, Bangalore                             Andhra Pradesh, Odisha
+13      AIIMS, Guwahati                                Assam
+14      JIPMER, Puducherry                             Lakshadweep
+15      IGMC, Shimla                                   Himachal Pradesh
+16      RIMS, Lamphelpat                               Manipur
+17      JNIMS, Porompat                                Manipur
+18      RIMS, Ranchi                                   Jharkhand
+19      GMCH-32 & 16, Chandigarh                       Chandigarh
+20      IIPH, Hyderabad                                Andhra Pradesh
+21      AIIMS, Bhopal                                  Madhya Pradesh
+22      Gandhi Medical College, Bhopal                 Madhya Pradesh
+23      SMS Hospital, Jaipur                           Rajasthan
+24      AIIMS, Jodhpur                                 Rajasthan
+25      LVPEI, Bhubaneswar                             Odisha
+26      AIIMS, Bhubaneswar                             Odisha
+27      SVNIRTAR, Olatpur, Cuttack                     Odisha
+28      AIIMS, Nagpur                                  Maharashtra
+29      AIIMS, Patna                                   Bihar
+30      IGIMS, Patna                                   Bihar
+31      U N Mehta Hospital, Surat                      Gujarat, Dadar Nagar Haveli & Daman Diu
+32      U N Mehta Institute of Cardiology & Research   Gujarat
+        Centre, Ahmedabad
+33      Satya Sai Hospital, Kasindra                   Gujarat
+34      M & J Institute of Ophthalmology, Ahmedabad    Gujarat
+35      Spine Institute                                Gujarat
+36      Swami Vivekanand Netra Mandir, Super           Gujarat
+        Specialty Eye Hospital, Surat
+37      Audiology College, GMERS, Sola                 Gujarat
+38      Cochlear Limited, Mumbai                       Gujarat
+
+
+
+
+                                                                                                         63
+64
+               MONITORING, REPORTING
+               & REVIEW MECHANISM
+               UNDER RBSK 2.0
+
+Chapter 10
+10.1 Reporting Mechanism under RBSK
+10.2 Key Performance Indicators (KPIs)
+
+
+
+
+                                         65
+     RBSK: From Birth to 18,
+        Every Step Cared
+
+
+
+
+          Screening for Developmental Delays
+66
+Robust monitoring and reporting systems form the backbone of programme, operational efficiency, and
+effectiveness. Under RBSK 2.0, a standardised and integrated reporting framework is developed for systematic
+documentation, regular review of the program.
+The RBSK 2.0 web portal functions as an integrated, modular digital platform enabling comprehensive longitudinal
+health tracking, early identification, timely referral, and follow-up for children from birth to 18 years. It supports
+real-time data capture and programme monitoring across community, facility, district, and state levels, while
+ensuring interoperability with key national platforms including UDISE and the POSHAN Tracker for cross-sectoral
+child tracking.
+
+
+10.1 REPORTING MECHANISM UNDER RBSK
+Designated health service providers are assigned standardised reporting formats with monthly periodicity
+to systematically capture data on screening, referrals, treatment, and follow-up. The District RBSK Manager
+consolidates and validates data from all cadres through the RBSK portal, ensuring completeness, consistency,
+and timely submission. Regular monitoring visits by block, district, and state teams verify field implementation
+and support corrective action, while periodic review meetings and qua rterly inter-sectoral convergence reviews
+strengthen programme oversight and coordination.
+
+
+S.No. Health Service Providers             Reporting Format                              Frequency of Reporting
+
+1       Providers at Delivery Point        Form 1                                        Monthly
+
+2       ASHA                               Form 2 - HBNC                                 Monthly
+
+3       MHT                                Form 3                                        Monthly
+
+4       District RBSK Manager              Form 4                                        Monthly
+
+5       District RBSK Manager              Form 5                                        Monthly
+
+6       District RBSK Manager              Secondary tertiary care of children format    Monthly
+
+7       District RBSK Manager              DEIC checklist                                Monthly
+
+
+
+
+10.2 KEY PERFORMANCE INDICATORS (KPIS)
+A structured and comprehensive KPI framework ensures systematic tracking of programme performance across
+all implementation levels, enabling accountability and informed decision-making. The KPI framework tracks critical
+dimensions, including the availability and functionality of Mobile Health Teams and District Early Intervention
+Centres (DEICs), coverage and quality of newborn and child screening services, implementation of targeted
+interventions in high-risk and priority areas, referral patterns and service uptake, and the proportion of children
+receiving appropriate management and completed follow-up.
+States and Union Territories are encouraged to incorporate context-specific KPIs aligned with local epidemiological
+profiles, geographic challenges, and health system priorities, ensuring that monitoring mechanisms remain
+adaptive, responsive, and locally relevant.
+Regular reporting and systematic review of these indicators support evidence-based decision-making, enable timely
+corrective actions, and ensure continuous alignment of programme implementation with its strategic objectives
+and intended outcomes.
+
+
+
+
+                                                                                                                         67
+     A: Suggested Key Performance Indicators (KPIs)
+
+     S.No. KPIs                                                                                       Type of Indicator
+
+     1       Percentage of children screened and managed by RBSK MHTs                                 Output
+
+     2       Number of beneficiaries recieved Secondary/ Tertiary Management against ROP approval Output
+             (for surgical intervention specified under RBSK)
+
+
+
+     B: Monitoring Indicator from RBSK Web Portal 2.0
+
+       1      Number of RBSK longitudinal health cards generated                                       Process
+
+       2      Number of children identified with 4Ds                                                   Output
+
+       3      Number of children treated for Congenital Heart Disease (CHD)                            Output
+
+       4      Number of children treated for Cleft Lip and/ or Palate                                  Output
+
+       5      Number of children treated for Clubfoot                                                  Output
+
+       6      Number of children provided Cochlear Implants and/or Hearing Aids following diagnosis    Output
+              of hearing impairment
+
+       7      Number of children screened and provided with spectacles for refractive errors           Output
+
+
+
+     REVIEW MECHANISM
+
+     A strengthened review mechanism is integral to ensuring accountability, programme quality, and continuous
+     improvement under RBSK 2.0. Review is institutionalised at all levels national, state, district, and block through a
+     structured, data-driven approach that enables timely identification of performance trends and facilitates informed
+     decision-making at each level of programme management.
+
+
+     STATE REVIEW MISSION (SRM)
+     At the state level, RBSK review is formalised within the State Review Mission (SRM) under the National Health
+     Mission framework. The SRM provides a dedicated platform for periodic appraisal of programme performance,
+     convergence outcomes, and service delivery quality across districts. This institutionalised review process ensures
+     that RBSK receives consistent oversight within the broader NHM governance architecture, with findings feeding
+     directly into programme planning and resource reallocation decisions.
+
+
+     DIGITAL DASHBOARD, REPORTS & REVIEW
+     Underpinning the review mechanism is a digital dashboard and reporting system, operational at the state, district,
+     and block levels. The dashboard presents key programme indicators children screened, referrals generated, DEIC
+     utilisation, and follow-up completion in an accessible, up-to-date format, enabling programme managers at every
+     level to monitor performance continuously rather than periodically.
+
+
+
+
+68
+                      CONVERGENCE &
+                      COLLABORATION UNDER
+                      RBSK 2.0
+
+     Chapter 11
+     11.1 Intra-ministerial Convergence
+     11.2 Inter-ministerial Convergence
+
+
+
+
+69
+End-to-End Child Health Care
+
+
+
+
+          Screening at Schools
+                                 70
+     Child health is a shared outcome that emerges from the coordinated functioning of multiple platforms, departments,
+     and delivery systems working in the same direction under MoHFW. RBSK 2.0 recognises this reality and places
+     convergence and collaboration at the centre of its operational design. Rather than building parallel structures, the
+     programme strengthens child health service delivery by pooling efforts within and across existing programmes
+     maximising reach, avoiding duplication, and ensuring that every child benefits from the full range of services
+     available to them.
+
+     Convergence under RBSK 2.0 operates at two levels: within the Ministry of Health and Family Welfare through
+     intra-ministerial programme integration, and across ministries through structured inter-ministerial collaboration.
+
+
+     11.1 INTRA-MINISTERIAL CONVERGENCE
+     Several national health programmes operating under the Ministry of Health and Family Welfare address specific
+     dimensions of child health. These programmes have their own delivery mechanisms, trained manpower, and
+     community-level reach. RBSK 2.0 actively converges with these programmes to ensure that screening, referral,
+     and follow-up services are reinforced by and contribute to the objectives of each allied programme. Key areas of
+     intra-ministerial convergence include:
+
+
+       National Programme for Control of Blindness and Visual Impairment (NPCB & VI)
+
+       Vision screening is an integral component of RBSK’s screening protocol. Convergence with NPCB & VI
+       strengthens the identification and management of refractive errors, squint, and other visual impairments
+       in children. Children identified for refractive errors are distributed with spectacles. Visual impairments are
+       referred for required surgeries and followed up.
+
+
+
+       Deafness Control Programme
+
+       Hearing screening, particularly in newborns and young children, is a critical early intervention priority under
+       RBSK 2.0. Through convergence with the National Programme for Prevention and Control of Deafness, children
+       identified with hearing impairment are provided hearing aids, and those requiring cochlear implantation are
+       supported accordingly. Children needing surgical intervention are referred to ENT specialists at tertiary care
+       facilities, ensuring a complete continuum of care.
+
+
+
+       National Programme for Non-Communicable Diseases (NCD)
+
+       With RBSK 2.0 expanding its scope to include lifestyle disorders and metabolic conditions such as Type 1
+       and Type 2 Diabetes Mellitus, hypertension, and obesity, convergence with the National Programme for Non-
+       Communicable Diseases becomes particularly relevant for children and adolescents. Robust referral linkages
+       and integrated management pathways enable that children identified with NCD risks receive timely care
+       through the existing public health system in a coordinated and seamless manner.
+
+
+
+       Oral Health
+
+       Dental health screening is a core component of the RBSK MHT screening protocol. Convergence with national
+       oral health initiatives ensures that children identified with dental caries, malocclusion, and oral hygiene are
+       referred to dentist at PHC & CHC and managed through an integrated care pathway, with dental surgeons now
+       formally included in the expanded core MHT composition under RBSK 2.0.
+
+71
+  Ayushman Bharat
+
+  Ayushman Arogya Mandirs serve as the primary care backbone at the sub-centre and health and wellness
+  centre level. RBSK 2.0 integrates with this platform to strengthen follow-up and community-level care for
+  children identified during screening. Community health officers posted at Ayushman Arogya Mandirs are
+  envisaged as supporting units within the MHT structure.
+
+
+
+  Mental Health
+
+  Recognising the growing burden of mental health conditions among children and adolescents, RBSK 2.0
+  incorporates mental health screening as part of its expanded scope. Convergence with the District Mental
+  Health Programme and availability of mental health counsellors as supporting MHT members ensures that
+  children with behavioural, emotional, or developmental concerns are identified early and linked to appropriate
+  support services.
+
+
+
+11.2 INTER-MINISTERIAL CONVERGENCE
+Child health outcomes are shaped as much by education and nutrition as by healthcare. RBSK 2.0 formalises
+inter-ministerial collaboration with two key ministries whose platforms are central to the programme’s outreach
+and impact.
+
+
+  Ministry of Education
+
+  Government schools are the primary outreach platform for RBSK screening of children aged 6 to 18 years.
+  The convergence with the Ministry of Education, particularly through the PM-POSHAN scheme, strengthens
+  the integration of health screening within the school environment. PM-POSHAN’s school-based infrastructure,
+  mid-day meal programme, and enrolment data provide a practical foundation for systematic health screening,
+  and health outcomes are assessed together within the same institutional setting with the help of RBSK MHT
+  team.
+
+
+
+  Ministry of Women and Child Development
+
+  Anganwadi Centres are the primary platform for RBSK screening of children from 6 weeks to 6 years of
+  age. The convergence with the RBSK, Ministry of WCD through POSHAN 2.0 ensures that data would be
+  seamlessly shared by API integration to enable unique beneficiary identification, remove duplication and
+  to facilitate referral linkages. Children attending Anganwadi Centres for supplementary nutrition, growth
+  monitoring, and early childhood education are simultaneously covered under RBSK’s screening protocol.
+  This integrated delivery model reduces the burden on caregivers, improves coverage, and ensures a holistic
+  approach to early childhood development across health, nutrition, and education domains.
+
+
+
+OPERATIONALISING CONVERGENCE
+At the district level, DEICs serve as the nodal point for convergent referral and follow-up, receiving children from
+across all screening platforms and coordinating with allied programme units for specialised care. At the block
+and community level, MHTs function as the convergence vehicle bringing together health, nutrition and education
+services through a single, coordinated field visit.
+
+                                                                                                                       72
+ANNEXURES
+
+
+
+
+            73
+74
+     ANNEXURE 1
+
+     PROMOTING HEALTHY DIGITAL PRACTICES
+     AMONG CHILDREN AND ADOLESCENTS
+                       POSTURE AND SAFE DEVICE USE
+                       • Avoid staying in the same posture for long periods
+                       • Maintain correct sitting posture while using devices
+                       • Poor ergonomic practices may lead to long-term health issues
+
+
+                                                                         TAKE REGULAR BREAKS
+                                                  • Take frequent short breaks during screen use
+                    • During breaks: stand up, walk around, stretch, and practice deep breathing
+
+
+                       PHYSICAL ACTIVITY AND ROUTINE
+                       • Engage in regular physical activity, including yoga and exercise
+                       • Encourage participation in outdoor and play-based activities
+                       • Maintain a balanced daily routine including sleep, study, screen time, and social interaction
+
+
+                                                       EYE CARE AND FATIGUE MANAGEMENT
+                                              • Avoid continuous screen exposure without breaks
+              • Limit screen use before sleep; avoid screens at least 40 minutes before bedtime
+
+
+
+                       EMOTIONAL WELL-BEING
+                       • Parents and teachers should regularly monitor children’s emotional health
+                       • Watch for signs of anxiety, irritability, or depression
+
+
+
+                                                            BALANCED USE OF DIGITAL MEDIA
+      • Combine digital learning with offline activities such as reading, games, creative work, and
+                                                                                       experiments
+                 • Limit non-academic screen use, including unnecessary browsing and scrolling
+
+
+                       SUPERVISION AND SAFE ENVIRONMENT
+                       • Keep devices in common areas; avoid unsupervised use in bedrooms
+                       • Establish family rules such as screen-free zones, time limits, and internet safety
+                         practices
+
+
+
+                                                       DIGITAL SAFETY AND PARENTING ROLE
+                                    • Teach children safe online behaviour (responsible sharing)
+                     • Monitor screen time and content, and stay engaged during online learning
+
+
+75
+ANNEXURE 2
+
+
+
+
+    Keep meals media                            Watch and talk about                              Using screens in bed adversly
+          free                                    media together                                 affects Vision, Sleep Quality and
+                                                                                                  increases Screen Dependency
+
+
+
+
+       Poor Sleep                               Continuous screen use                                        Mood Swings
+    (Blue light delays                          without breaks- causes                                 (Anxiety, irritability, poor
+    sleep hormones)                                   Severe Eye                                           attention span)
+
+
+
+
+        Social Skills
+                                                                                                               Eye Strain
+     (Reduced face-to-                         Less physical activity
+                                                                                                         (Dry eyes, headaches,
+  face interactions with                      (Prone to weight gain)
+                                                                                                              blurry vision)
+    friends and family)
+
+
+                                                                                                    Help stay SCREEN-WISE!
+
+
+
+
+    Set simple screen                          Use parental controls &
+  time rules - and follow                     blue light filters to protect
+         through                                      young eyes
+
+
+
+                                                      Try the 20-20-20 Rule
+                            Every 20 minutes, look 20 feet away for 20 seconds - give those superhero eyes a break!
+
+
+
+
+                                                                                                                                      76
+ANNEXURE 3
+
+COMPENDIUM OF EXISTING RBSK PROGRAM
+GUIDELINES
+SET 1
+
+
+
+
+                                      77
+     SET 2
+
+
+
+
+78
+SET 3
+
+
+
+
+        79
+     SET 4
+
+
+
+
+80
+ANNEXURE 4
+
+COMMUNICATION MATERIALS: FOR DEMAND
+GENERATION AND AWARENESS
+RBSK POSTERS
+
+
+
+
+BIRTH DEFECT POSTERS
+
+
+
+
+                                      81
+82
+83
+     PEDIATRIC NCD
+
+
+
+
+84
+ANNEXURE 5
+
+EDUCATIVE INFORMATION FOR CONCEPT
+LEARNINGS ON HEALTH AND EFFECT OF
+LIFESTYLE AND HABIT ON THE SAME
+
+
+
+
+                                    85
+     WORLD
+
+
+
+86
+SLEEP TIME
+
+
+
+
+             87
+88
+SCREEN TIME
+
+
+
+
+              89
+90
+BRAIN
+
+
+
+
+        91
+92
+TEETH
+
+
+
+
+        93
+94
+HEART
+
+
+
+
+        95
+96
+LUNGS
+
+
+
+
+        97
+98
+LIVER
+
+
+
+
+        99
+100
+STOMACH
+
+
+
+
+          101
+102
+KIDNEYS
+
+
+
+
+          103
+      EYES
+
+
+
+
+104
+ANNEXURE 6
+
+RBSK PROGRAM PHOTOGRAPHS - SCREENING
+DEIC SERVICES, CAPACITY BUILDING AND
+COMMUNITY OUTREACH
+MHT SCREENING
+
+
+
+
+                                       105
+      DEIC
+
+
+
+
+106
+TRAINING
+MHT TRAINING
+
+
+
+
+               107
+      DEIC TRAINING
+
+
+
+
+108
+WEB PORTAL TRAINING
+
+
+
+
+                      109
+      COMMUNITY OUTREACH ACTIVITY
+      COMMUNITY ENGAGEMENT AND HEALTH PROMOTION ACTIVITIES
+
+
+
+
+110
+   LIST OF CONTRIBUTORS
+
+   Ministry of Health and Family Welfare (MoHFW)
+   • Smt. Punya Salila Srivastava, Secretary (H&FW)
+   • Ms. Aradhana Patnaik, Additional Secretary & Mission Director (NHM)
+   • Ms. Meera Srivastava, Joint Secretary (RCH)
+   • Dr. Shobhna Gupta, Deputy Commissioner & I/C (Child Health & RBSK)
+
+
+  Technical
+Chapter      Expert Group
+        1: INTRODUCTION
+   • Prof. (Dr.) Madhulika Kabra, D/o Pediatric Genetics, Formerly at AIIMS, Delhi
+Chapter
+  • Prof.2: AIM,
+         (Dr.)    OBJECTIVES
+               Neerja              AND BENEFICIARIES
+                      Gupta, D/o Pediatric Genetics, AIIMS, Delhi
+   • Dr. Pradeep Sharma, D/o Ophthalmology, Formerly at AIIMS, Delhi
+Chapter 3: HEALTH CONDITIONS IDENTIFIED FOR SCREENING UNDER
+  • Dr. Savita Sapra, D/o Pediatrics, Formerly at AIIMS, Delhi
+RBSK 2.0
+   • Dr. Srinivasavaradan SG, D/o Pediatric Nephrologist, Safdarjung Hospital, Delhi
+Chapter
+  • Prof.4: IMPLEMENTATION
+         (Dr.) Suchandra Mukherjee,MECHANISMS
+                                    HOD Neonatology, IPGMER, Kolkata
+   • Prof. (Dr.) Sujoy Ghosh, D/o Endocrinology, SSKM Hospital, Kolkata
+Chapter
+  • Prof.5: HUMAN
+         (Dr.) Yatan PalRESOURCES       UNDER RBSK
+                         Singh Balhara, Department       2.0 AIIMS, Delhi
+                                                   of Psychiatry,
+
+Chapter 6: ROLES AND RESPONSIBILITIES OF HEALTH PROVIDERS UNDER
+  Secretariat
+RBSK 2.0
+   • Dr. Deepti Khanna, CH Division, MoHFW
+Chapter 7: RBSK
+  • Ms. Indhu S, CH2.0  CAPACITY
+                   Division, MoHFW BUILDING AND TRAINING FRAMEWORK
+   • Mr. Saurabh Agrawal, CH Division, MoHFW
+Chapter 8: DIGITAL FRAMEWORK UNDER RBSK 2.0
+  Development
+Chapter            Partners
+         9: ENSURING         TERTIARY CARE LINKAGES AND INSTITUTIONAL
+COLLABORATION
+  • Dr. Ashfaq Bhat, Director, NIPI CURE
+   • Dr. Vivek V. Singh, Health Specialist, UNICEF India
+Chapter  10: MONITORING,
+  • Mr. Ranveer B Singh, Director REPORTING      & REVIEW MECHANISM UNDER
+                                  (NCD), WJCF India
+RBSK 2.0
+  Editorial
+Chapter 11: CONVERGENCE & COLLABORATION UNDER RBSK 2.0
+   • Dr. Achyutananda Das Mohapatra
+ANNEXURES
+  • Dr. Ashish Srivastava
+   • Dr. Saurabh Bhargava
+
+
+   Design Team
+   • Dr. Rajat Khanna
+   • Ms. Cheshta Bajaj
+   • Ms. Astha Jain
+
+
+
+
+                                                                                       111
+112
+DEVELOPMENTAL                                      DEFECTS AT
+DELAYS                                                 BIRTH
+
+
+
+
+                     SURVIVE
+4Ds
+
+
+
+
+                                                        4Ds
+                    TO THRIVE
+
+
+
+
+DISEASES                                         DEFICIENCIES
+                  Child Health Division
+           Ministry of Health & Family Welfare
+                  Government of India                           113
+

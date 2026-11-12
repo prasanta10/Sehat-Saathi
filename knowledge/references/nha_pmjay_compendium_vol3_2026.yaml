@@ -1,0 +1,23 @@
+id: nha_pmjay_compendium_vol3_2026
+title: AB PM-JAY Compendium Vol-3 2026 (Claims Adjudication Manual 2026; Health Benefit Package user guidelines 2026)
+publisher: National Health Authority
+url: https://nha.gov.in/strapi/uploads/Compendium_of_Guidelines_Vol_3_8dc7580c37.pdf
+version_or_date: 2026; effective 17 April 2026
+retrieved_on: '2026-11-12'
+jurisdiction: national
+kind: scheme
+sha256: 255e197d41d86c1d3525ffa13279b4747bc1272cd79bf549e1e8daf0971a21a7
+local_copy: knowledge/references/files/nha_pmjay_compendium_vol3_2026.txt
+excerpts:
+- locator: p24, scheme benefits
+  text: entitled to cashless coverage for secondary, tertiary, and day-care procedures, as applicable, through the
+- locator: p24, family floater cover
+  text: The benefits of INR 5,00,000 per annum are on a family floater basis which means that same can be used by
+- locator: p24, pre-existing diseases
+  text: or age of members. In addition, pre-existing diseases are covered from the very first day. The cover under the
+- locator: p24, covered items
+  text: 3.   Pre-hospitalisation up to 3 days … 10. Post-hospitalization follow-up care up to 15 days
+- locator: 'p75, Annexure 5: Exclusions'
+  text: 'Annexure 5: Exclusions to the Policy/Scheme … 1.   Condition that does not require hospitalization and can be treated under Out Patient Care except those'
+- locator: p62, individual diagnostics and out-patient care
+  text: viz. individual diagnostics for evaluation, out-patient care, drug rehabilitation, cosmetic or

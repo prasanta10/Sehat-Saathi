@@ -1,0 +1,5 @@
+extend = "../backend/pyproject.toml"
+
+[lint]
+# Report tables are long lines; the case generator needs a seeded, non-crypto RNG.
+extend-ignore = ["E501", "S311"]

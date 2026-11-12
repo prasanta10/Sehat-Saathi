@@ -1,0 +1,11 @@
+version: 0.0.1
+facts:
+  age_years: {type: number, unit: years, min: 0, max: 120, group: person, label: {en: "Age", hi: "उम्र"}}
+  fx_universal_a: {type: tristate, group: danger_sign, label: {en: "Fixture universal sign A", hi: "परीक्षण संकेत A"}}
+  fx_universal_b: {type: tristate, group: danger_sign, label: {en: "Fixture universal sign B", hi: "परीक्षण संकेत B"}}
+  fx_symptom: {type: tristate, group: symptom, label: {en: "Fixture symptom", hi: "परीक्षण लक्षण"}}
+  fx_severe: {type: tristate, group: danger_sign, label: {en: "Fixture severe", hi: "परीक्षण गंभीर"}}
+  fx_marker_high: {type: tristate, group: symptom, label: {en: "Fixture high marker", hi: "परीक्षण उच्च"}}
+  fx_duration_days: {type: number, unit: days, min: 0, max: 3650, group: symptom, label: {en: "Fixture duration", hi: "परीक्षण अवधि"}}
+  fx_optional: {type: tristate, group: history, label: {en: "Fixture optional", hi: "परीक्षण वैकल्पिक"}}
+  fx_kind: {type: enum, group: history, values: [alpha, beta], value_labels: {alpha: {en: "Alpha", hi: "अल्फ़ा"}, beta: {en: "Beta", hi: "बीटा"}}, label: {en: "Fixture kind", hi: "परीक्षण प्रकार"}}

@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+/* Design tokens. High contrast for outdoor use; colour is never the only signal. */
+@theme {
+  --font-sans: "Noto Sans Devanagari", "Noto Sans", system-ui, sans-serif;
+  --color-ink: #111827;
+  --color-paper: #ffffff;
+  --color-canvas: #f3f5f4; /* page background: white cards stand out on it */
+  --color-yes: #0f5132;
+  --color-yes-bg: #dcefe4;
+  --color-no-bg: #eceef0;
+  --color-brand: #0f5132;
+  --color-brand-soft: #e6f2ec;
+  --color-emergency: #b00020;
+  --color-high: #c2410c;
+  --color-medium: #92400e;
+  --color-medium-bg: #fef3c7;
+  --color-low: #166534;
+  --color-incomplete: #374151;
+  --color-incomplete-bg: #e5e7eb;
+}
+
+html {
+  font-size: 18px; /* minimum body size 18 px */
+}
+
+body {
+  margin: 0;
+  background: var(--color-canvas);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  line-height: 1.6; /* Devanagari needs extra line height */
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-brand);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}

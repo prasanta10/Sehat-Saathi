@@ -1,0 +1,133 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sehat-saathi.local/schemas/fact_registry.schema.json",
+  "title": "Fact registry",
+  "type": "object",
+  "required": [
+    "version",
+    "facts"
+  ],
+  "properties": {
+    "version": {
+      "$ref": "common.schema.json#/$defs/semver"
+    },
+    "facts": {
+      "type": "object",
+      "minProperties": 1,
+      "propertyNames": {
+        "$ref": "common.schema.json#/$defs/factKey"
+      },
+      "additionalProperties": {
+        "$ref": "#/$defs/factSpec"
+      }
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "factSpec": {
+      "type": "object",
+      "required": [
+        "type",
+        "label",
+        "group"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "tristate",
+            "number",
+            "enum"
+          ]
+        },
+        "label": {
+          "$ref": "common.schema.json#/$defs/i18nText"
+        },
+        "group": {
+          "enum": [
+            "person",
+            "symptom",
+            "danger_sign",
+            "red_flag",
+            "history",
+            "household"
+          ]
+        },
+        "unit": {
+          "enum": [
+            "years",
+            "months",
+            "days",
+            "weeks",
+            "celsius",
+            "count"
+          ]
+        },
+        "min": {
+          "type": "number"
+        },
+        "max": {
+          "type": "number"
+        },
+        "integer": {
+          "type": "boolean"
+        },
+        "values": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1
+        },
+        "value_labels": {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "common.schema.json#/$defs/i18nText"
+          }
+        },
+        "note": {
+          "type": "string"
+        },
+        "evidence_must_include": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "description": "AI suggestions for this fact are kept only if their evidence contains one of these (regex, case-insensitive)."
+        }
+      },
+      "additionalProperties": false,
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "enum"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "values",
+              "value_labels"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "const": "number"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "unit"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

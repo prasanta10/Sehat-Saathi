@@ -1,0 +1,193 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sehat-saathi.local/schemas/scheme.schema.json",
+  "title": "Scheme record",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "jurisdiction",
+    "states_excluded",
+    "care_types",
+    "not_for",
+    "eligibility_signals",
+    "may_cover",
+    "does_not_cover",
+    "documents",
+    "where_to_confirm",
+    "amounts",
+    "sources",
+    "review"
+  ],
+  "properties": {
+    "id": {
+      "$ref": "common.schema.json#/$defs/id"
+    },
+    "name": {
+      "$ref": "common.schema.json#/$defs/i18nText"
+    },
+    "jurisdiction": {
+      "type": "string",
+      "pattern": "^(national|[A-Z]{2})$"
+    },
+    "states_excluded": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Z]{2}$"
+      }
+    },
+    "care_types": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "inpatient",
+          "outpatient",
+          "diagnostics",
+          "emergency_transport",
+          "maternity"
+        ]
+      }
+    },
+    "not_for": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "inpatient",
+          "outpatient",
+          "diagnostics",
+          "emergency_transport",
+          "maternity"
+        ]
+      }
+    },
+    "applies_to": {
+      "$ref": "common.schema.json#/$defs/condition"
+    },
+    "priority": {
+      "enum": [
+        "free_service",
+        "transport",
+        "hospital_cover",
+        "cash_benefit",
+        "helpline"
+      ]
+    },
+    "eligibility_signals": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "fact"
+        ],
+        "properties": {
+          "fact": {
+            "$ref": "common.schema.json#/$defs/factKey"
+          },
+          "equals": {
+            "$ref": "common.schema.json#/$defs/scalar"
+          },
+          "in": {
+            "type": "array",
+            "items": {
+              "$ref": "common.schema.json#/$defs/scalar"
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "may_cover": {
+      "$ref": "common.schema.json#/$defs/i18nList"
+    },
+    "does_not_cover": {
+      "$ref": "common.schema.json#/$defs/i18nList"
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/id"
+      }
+    },
+    "where_to_confirm": {
+      "$ref": "common.schema.json#/$defs/i18nText"
+    },
+    "amounts": {
+      "description": "Only amounts quoted from a cited official source, with a date.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "text",
+          "source",
+          "as_of"
+        ],
+        "properties": {
+          "text": {
+            "$ref": "common.schema.json#/$defs/i18nText"
+          },
+          "source": {
+            "$ref": "common.schema.json#/$defs/sourceRef"
+          },
+          "as_of": {
+            "$ref": "common.schema.json#/$defs/date"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "common.schema.json#/$defs/sourceRef"
+      }
+    },
+    "review": {
+      "type": "object",
+      "required": [
+        "status",
+        "verified_on"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "draft",
+            "verified"
+          ]
+        },
+        "verified_on": {
+          "oneOf": [
+            {
+              "$ref": "common.schema.json#/$defs/date"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "requires_tags": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/id"
+      },
+      "description": "Shown only for pathways with one of these tags."
+    },
+    "to_confirm": {
+      "$ref": "common.schema.json#/$defs/i18nList",
+      "description": "Always needs confirming before it can help; listed on the card."
+    },
+    "not_applicable_note": {
+      "$ref": "common.schema.json#/$defs/i18nText",
+      "description": "Shown as not_applicable when the visit's care is in not_for, to prevent false hope."
+    },
+    "helpline": {
+      "type": "string",
+      "pattern": "^[0-9 -]+$"
+    }
+  },
+  "additionalProperties": false
+}

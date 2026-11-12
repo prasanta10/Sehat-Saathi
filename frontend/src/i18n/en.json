@@ -1,0 +1,345 @@
+{
+  "app": {
+    "name": "Sehat Saathi",
+    "tagline": "Helps you decide how urgently to seek care, and where"
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "hi": "हिन्दी"
+  },
+  "health": {
+    "title": "Server status",
+    "checking": "Checking the server…",
+    "ok": "Server is reachable (version {{version}})",
+    "down": "Server cannot be reached. You can still use the danger-sign check."
+  },
+  "common": {
+    "next": "Next",
+    "back": "Back",
+    "home": "Home",
+    "save": "Save",
+    "cancel": "Cancel",
+    "loading": "Loading…",
+    "error": "Something went wrong. Your answers are saved; please try again.",
+    "retry": "Try again",
+    "yes": "Yes",
+    "no": "No",
+    "unknown": "Don't know",
+    "not_known": "Not known",
+    "edit": "Change"
+  },
+  "danger": {
+    "button": "Danger signs",
+    "title": "Is any of these present now?",
+    "hint": "Tap a sign to see what to do immediately.",
+    "close": "Close",
+    "group": {
+      "general": "Anyone",
+      "pregnancy": "Pregnancy and after delivery",
+      "newborn": "Newborn",
+      "child": "Child (2 months to 5 years)"
+    }
+  },
+  "emergency": {
+    "title": "Emergency",
+    "lead": "Get help now. Do not wait.",
+    "call_108": "Call 108 (ambulance)",
+    "call_112": "Call 112 (emergency)",
+    "tell_title": "Tell the operator",
+    "tell_what": "What you saw (the danger sign)",
+    "tell_who": "The person's age, and if pregnant",
+    "tell_where": "The village and a landmark",
+    "no_wait": "Do not wait for documents, money or scheme paperwork.",
+    "signs_title": "Danger sign seen",
+    "number_note": "108 and 102 (ambulance) and 112 (emergency) are from the National Ambulance Service guidelines, MoHFW 2026.",
+    "ack": "I have asked for help",
+    "ack_done": "Noted. Stay with the person until help arrives.",
+    "record_failed": "Not saved to the server. The instructions above still apply."
+  },
+  "home": {
+    "start": "Start visit",
+    "in_progress": "Recent visits",
+    "none": "No visits yet.",
+    "no_result": "In progress"
+  },
+  "status": {
+    "draft": "Started",
+    "captured": "Account typed",
+    "extracted": "Facts suggested",
+    "clarifying": "Asking questions",
+    "confirmed": "Facts confirmed",
+    "triaged": "Result ready",
+    "plan_ready": "Plan ready",
+    "handed_off": "Handed off",
+    "closed": "Closed",
+    "emergency": "Emergency",
+    "follow_up_due": "Follow-up due"
+  },
+  "person": {
+    "title": "Who is this visit for?",
+    "pick": "Choose a person",
+    "add": "Add a new person",
+    "name": "Name",
+    "age_years": "Age (years)",
+    "age_months": "Age in months (children under 5)",
+    "sex": "Sex",
+    "sex_female": "Female",
+    "sex_male": "Male",
+    "sex_other": "Other",
+    "village": "Village",
+    "pregnant": "Pregnant now?",
+    "start": "Start visit for this person",
+    "tab_new": "New person",
+    "tab_existing": "Registered ({{count}})",
+    "search": "Search by name",
+    "years": "{{count}} yrs",
+    "none_found": "No one with this name."
+  },
+  "capture": {
+    "title": "What is the problem?",
+    "type_label": "Type what the family says (optional)",
+    "pathway": "Main concern",
+    "continue": "Continue to questions",
+    "placeholder": "For example: cough for two weeks, sweats at night, no fever",
+    "concern_fixed": "This version covers: {{name}}",
+    "record_hint": "Tap, then let the family speak",
+    "or_type": "Or type what the family says"
+  },
+  "questions": {
+    "title": "Questions",
+    "remaining": "{{count}} questions left",
+    "number_label": "Enter a number",
+    "unit": {
+      "days": "days",
+      "years": "years",
+      "months": "months",
+      "weeks": "weeks",
+      "celsius": "°C"
+    },
+    "choose_pathway": "Choose the main concern first",
+    "quick": "Tap the closest",
+    "exact": "Or set it exactly",
+    "less": "Less",
+    "more": "More",
+    "total_days": "= {{count}} days in all",
+    "month_note": "1 month is counted as 30 days",
+    "warning_sign": "Warning sign",
+    "other_way": "Answer in your own words or by voice",
+    "progress": "{{count}} questions left"
+  },
+  "confirm": {
+    "title": "Check the facts",
+    "lead": "Read each fact to the family. Tap to change.",
+    "suggested": "not yet checked",
+    "checked": "I have checked these with the family",
+    "submit": "Confirm and see the result",
+    "present": "Present",
+    "absent": "Not present",
+    "not_known": "Not known",
+    "person": "Person"
+  },
+  "urgency": {
+    "EMERGENCY": "Emergency",
+    "HIGH": "Urgent — see a clinician today",
+    "MEDIUM": "See a doctor soon",
+    "LOW": "Care at home, watch for warning signs",
+    "INCOMPLETE": "More information needed"
+  },
+  "alert": {
+    "title": "Result",
+    "why": "Why?",
+    "rule": "Rule",
+    "source": "Source",
+    "checked_on": "checked {{date}}",
+    "open_source": "Open the official document",
+    "missing": "Still not known:",
+    "missing_advice": "Try to find out. If you cannot, refer for assessment.",
+    "minimum": "Already at least: {{level}}",
+    "reason": {
+      "no_rule_matched": "No referral rule matched. If you are worried, refer for assessment.",
+      "no_pathway": "Choose the main concern to get a result.",
+      "pathway_not_applicable": "These questions are not meant for this person (for example, their age). Refer for assessment.",
+      "missing_facts": "Some important facts are not known yet."
+    },
+    "to_plan": "See the plan",
+    "to_emergency": "What to do now"
+  },
+  "draft_banner": "Demonstration pathway — not clinically validated",
+  "plan": {
+    "title": "Referral plan",
+    "where": "Where to go",
+    "when": "By when",
+    "bring": "What to carry",
+    "facility_note": "Choose the usual local facility of this level. Facility lists are not loaded yet.",
+    "not_diagnosis": "This is not a diagnosis. A doctor will examine the person.",
+    "no_referral": "No referral plan: more information is needed first.",
+    "precautions": "Come back at once if:",
+    "done": "Back to home",
+    "show_note": "Show the note for the doctor"
+  },
+  "facility": {
+    "SC_HWC": "Sub-centre / Ayushman Arogya Mandir",
+    "PHC": "Primary Health Centre (with a doctor)",
+    "CHC": "Community Health Centre or district hospital",
+    "SDH": "Sub-district hospital",
+    "DH": "District hospital",
+    "MEDICAL_COLLEGE": "Medical college hospital"
+  },
+  "window": {
+    "immediately": "Now",
+    "today": "Today",
+    "within_24_hours": "Within 24 hours",
+    "next_working_day": "Next working day",
+    "within_3_days": "Within 3 days",
+    "within_7_days": "Within 7 days"
+  },
+  "bring": {
+    "id_document": "Any identity document, if easily available",
+    "previous_reports": "Old reports and prescriptions",
+    "current_medicines": "Medicines being taken now"
+  },
+  "extract": {
+    "working": "Reading what the family said…",
+    "by_hand": "Do it by hand",
+    "degraded": "The app could not suggest facts this time. Continue by answering the questions.",
+    "title": "What the app understood",
+    "lead": "These are suggestions. Remove anything that is wrong; you will check everything again before the result.",
+    "suggested": "suggested",
+    "from_words": "From: “{{words}}”",
+    "remove": "Remove",
+    "none": "Nothing was understood from the account. Continue to the questions.",
+    "concerns": "Other worries noted (for the support step):",
+    "approximate": "approximate — please check",
+    "continue": "Continue to questions",
+    "heard": "What was said",
+    "heard_from": "From the words:",
+    "found_one": "{{count}} thing understood",
+    "found_other": "{{count}} things understood",
+    "none_scope": "Nothing in this account matched the questions for this concern. That is fine: the questions will cover everything."
+  },
+  "free_answer": {
+    "label": "Or type the answer in your own words",
+    "check": "Check",
+    "understood": "Understood as: {{value}}",
+    "use": "Use this answer",
+    "not_understood": "Could not understand. Please tap an answer instead."
+  },
+  "speech": {
+    "consent_q": "Does the family agree to recording their voice for this visit?",
+    "consent_why": "The recording is turned into text and then deleted. Saying no is fine: you can type instead.",
+    "consent_yes": "Yes, record",
+    "consent_no": "No, I will type",
+    "mic_note": "The phone will ask for microphone permission.",
+    "record": "Record",
+    "stop": "Stop",
+    "recording": "Recording… {{seconds}} s",
+    "level": "Sound level",
+    "too_short": "Very short recording. Record again if something was missed.",
+    "too_quiet": "Very quiet. Hold the phone closer and record again if needed.",
+    "transcribing": "Turning speech into text…",
+    "transcript_label": "What was said (you can correct it)",
+    "asr_down": "Speech could not be turned into text now. Please type instead.",
+    "no_mic": "The microphone is not available. Please type instead.",
+    "speak_answer": "Speak the answer"
+  },
+  "outputs": {
+    "family_title": "Tell the family",
+    "handoff_title": "Note for the doctor",
+    "play": "Read aloud",
+    "stop": "Stop reading",
+    "no_voice": "This phone has no Hindi voice. Please read the text aloud.",
+    "share": "Share",
+    "copied": "Copied. You can paste it into a message.",
+    "print": "Print or save as PDF",
+    "edit": "Change the text",
+    "save": "Save changes",
+    "edited": "changed by you",
+    "generating": "Preparing the notes…",
+    "print_back": "Back to the plan"
+  },
+  "emergency_audio": {
+    "play": "Play the instructions aloud"
+  },
+  "login": {
+    "title": "Log in",
+    "phone": "Mobile number (10 digits)",
+    "pin": "PIN",
+    "submit": "Log in",
+    "invalid": "Mobile number or PIN is wrong.",
+    "locked": "Too many attempts. Try again in 15 minutes.",
+    "danger_note": "The danger-sign check works without logging in.",
+    "logout": "Log out"
+  },
+  "support": {
+    "title": "Support that may help",
+    "open": "Support information",
+    "lead": "Information only. The family may be able to get help from these. Nothing here is promised.",
+    "status": {
+      "possibly_relevant": "May help",
+      "needs_confirmation": "Needs checking",
+      "not_applicable": "Does not apply here"
+    },
+    "may_cover": "May help with",
+    "does_not_cover": "Does not cover",
+    "to_confirm": "Find out first",
+    "unknown": "Not yet known",
+    "documents": "Documents to carry (if easily available)",
+    "where": "Where to confirm",
+    "call": "Call {{number}}",
+    "amount": "Amount stated by the source",
+    "as_of": "as of {{date}}",
+    "source": "As per {{publisher}}, checked {{date}}",
+    "more": "Tell me more",
+    "more_none": "This needs to be confirmed at the facility.",
+    "footer": "Eligibility is decided by the scheme authorities. Do not delay care to arrange documents.",
+    "concerns": "Worries the family mentioned",
+    "pregnancy_hint": "Pregnancy is not recorded for this person. Record it on the person details to see pregnancy-related support.",
+    "ayushman_q": "Does the family have an Ayushman card?",
+    "none": "No scheme information applies to this visit."
+  },
+  "document": {
+    "ayushman_card": "Ayushman card",
+    "aadhaar_card": "Aadhaar card",
+    "ration_card": "Ration card",
+    "mcp_card": "Mother and Child Protection (MCP) card",
+    "bank_account_details": "Bank or post-office account details"
+  },
+  "about": {
+    "title": "Sources and status",
+    "open": "Sources and status",
+    "lead": "Every rule and scheme statement in this app is taken from these official documents.",
+    "draft": "Draft: not clinically reviewed",
+    "reviewed": "Clinically reviewed",
+    "danger_signs": "Danger signs",
+    "pathway": "Pathway",
+    "checked": "checked {{date}}",
+    "references": "Official sources"
+  },
+  "emergency_src": {
+    "numbers": "Ambulance numbers"
+  },
+  "steps": {
+    "label": "Visit progress",
+    "concern": "Concern",
+    "questions": "Questions",
+    "check": "Check",
+    "result": "Result",
+    "plan": "Plan"
+  },
+  "duration": {
+    "day_one": "{{count}} day",
+    "day_other": "{{count}} days",
+    "week_one": "{{count}} week",
+    "week_other": "{{count}} weeks",
+    "month_one": "{{count}} month",
+    "month_other": "{{count}} months"
+  },
+  "urgency_short": {
+    "EMERGENCY": "Emergency",
+    "HIGH": "Today",
+    "MEDIUM": "Soon",
+    "LOW": "Home care",
+    "INCOMPLETE": "Needs info"
+  }
+}

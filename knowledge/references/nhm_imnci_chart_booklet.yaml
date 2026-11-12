@@ -1,0 +1,14 @@
+id: nhm_imnci_chart_booklet
+title: "F-IMNCI Chart Booklet (Facility Based Integrated Management of Neonatal and Childhood Illness)"
+publisher: "Ministry of Health and Family Welfare, Government of India (with WHO and UNICEF)"
+url: "https://nhm.gov.in/images/pdf/programmes/child-health/guidelines/imnci_chart_booklet.pdf"
+version_or_date: "No date printed; PDF created 2012-10-19"
+retrieved_on: "2026-11-11"
+jurisdiction: national
+kind: clinical_guidance
+sha256: "4440f20890447bfe9904812c2fefeecbff75ff5ac9fc0143801d7e455815177d"
+local_copy: "knowledge/references/files/nhm_imnci_chart_booklet.txt"
+notes: "Older document; its treatment content is outdated and must not be used. Cited only to corroborate the general danger signs, which match SSBSK 2026."
+excerpts:
+  - locator: "p. 12 (pdf 14), Assess and classify the sick child 2 months up to 5 years: Check for general danger signs"
+    text: "CHECK FOR GENERAL DANGER SIGNS … See if the child is lethargic or unconscious. … Is the child able to drink or breastfeed? … Does the child vomit everything? … Has the child had convulsions? … A child with any general danger sign needs URGENT attention; complete the assessment and … any pre-referral treatment immediately so referral is not delayed."

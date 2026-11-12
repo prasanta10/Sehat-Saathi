@@ -1,0 +1,11 @@
+id: fixture_ref
+title: "Test fixture reference (not a real document)"
+publisher: "Test suite"
+url: "https://example.invalid/fixture"
+version_or_date: "fixture"
+retrieved_on: "2026-01-01"
+jurisdiction: national
+kind: clinical_guidance
+excerpts:
+  - locator: "fixture"
+    text: "Fixture text used only by engine tests."

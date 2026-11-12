@@ -1,0 +1,18 @@
+id: ntep_training_modules_1to4
+title: "Training Modules (1-4) for Programme Managers & Medical Officers"
+publisher: "National TB Elimination Programme, Central TB Division, MoHFW"
+url: "https://tbcindia.mohfw.gov.in/wp-content/uploads/2023/05/NTEPTrainingModules1to4.pdf"
+version_or_date: "July 2020 (suggested citation; marked 'Live Document')"
+retrieved_on: "2026-11-11"
+jurisdiction: national
+kind: clinical_guidance
+sha256: "42b04325ca4f5980b9716e874bca6dadc662a747936bb2e106d683f8b24b32a6"
+local_copy: "knowledge/references/files/ntep_training_modules_1to4.txt"
+notes: "Where it says smear microscopy at a DMC first, the 2026 TB Mukt Bharat Abhiyaan document (upfront NAAT) is newer; only the presumptive-TB definition is used from here."
+excerpts:
+  - locator: "Module 2, p. 23 (pdf 39), Definitions: Presumptive Pulmonary TB"
+    text: "Presumptive Pulmonary TB refers to a person with any of the symptoms and signs suggestive of TB, including: cough for 2 weeks or more, fever for 2 weeks or more, significant weight loss, haemoptysis, any abnormality in chest radiograph."
+  - locator: "Module 2, p. 23 (pdf 39), Definitions: also to be investigated as presumptive PTB"
+    text: "The following are also to be investigated as presumptive PTB … a. Contacts of Microbiologically confirmed TB patients having cough of any duration"
+  - locator: "Module 2, p. 24 (pdf 40), Importance of properly identifying Presumptive TB cases"
+    text: "every case of presumptive pulmonary TB should be referred for sputum examination"

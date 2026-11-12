@@ -1,0 +1,39 @@
+# DRAFT — every statement transcribed from the cited official source (see sources). Hindi is a draft translation.
+id: ambulance_108_102
+name:
+  en: 'Free ambulance: 108 / 102 / 112'
+  hi: 'मुफ़्त एम्बुलेंस: 108 / 102 / 112'
+jurisdiction: national
+states_excluded: []
+care_types:
+- emergency_transport
+- maternity
+not_for: []
+priority: transport
+eligibility_signals: []
+may_cover:
+  en:
+  - Ambulance in a medical emergency, free of cost, by dialling 108, 102 or 112
+  - 102 is used mainly to transport pregnant women and newborns
+  hi:
+  - 'चिकित्सा आपातकाल में मुफ़्त एम्बुलेंस: 108, 102 या 112 डायल करें'
+  - 102 मुख्य रूप से गर्भवती महिलाओं और नवजातों को ले जाने के लिए है
+does_not_cover:
+  en: []
+  hi: []
+documents: []
+where_to_confirm:
+  en: Call 108, 102 or 112
+  hi: 108, 102 या 112 पर कॉल करें
+helpline: '108'
+amounts: []
+sources:
+- ref: nhm_nas_guidelines_2026
+  locator: p20, numbers to call
+- ref: nhm_nas_guidelines_2026
+  locator: p20, 108 and 102
+- ref: nhm_nas_guidelines_2026
+  locator: p124, free of cost (model agreement definitions)
+review:
+  status: draft
+  verified_on: '2026-11-12'

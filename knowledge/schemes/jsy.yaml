@@ -1,0 +1,44 @@
+# DRAFT — every statement transcribed from the cited official source (see sources). Hindi is a draft translation.
+id: jsy
+name:
+  en: Janani Suraksha Yojana (JSY)
+  hi: जननी सुरक्षा योजना (JSY)
+jurisdiction: national
+states_excluded: []
+care_types:
+- maternity
+not_for: []
+applies_to:
+  pregnant: 'yes'
+priority: cash_benefit
+eligibility_signals: []
+may_cover:
+  en:
+  - Cash assistance for delivering in a government health centre (in Uttar Pradesh and other low-performing states, for all pregnant women delivering there)
+  hi:
+  - सरकारी स्वास्थ्य केंद्र में प्रसव कराने पर नकद सहायता (उत्तर प्रदेश और अन्य कम प्रदर्शन वाले राज्यों में, वहाँ प्रसव कराने वाली सभी गर्भवती महिलाओं के लिए)
+does_not_cover:
+  en: []
+  hi: []
+to_confirm:
+  en:
+  - 'Rules and amounts differ by state: confirm with the ASHA or ANM'
+  - 'The delivery must be in a government health centre (private: only accredited, for BPL/SC/ST women)'
+  hi:
+  - 'नियम और राशि राज्य के अनुसार अलग हैं: आशा या एएनएम से पूछें'
+  - 'प्रसव सरकारी केंद्र में होना चाहिए (निजी: केवल मान्यता प्राप्त, BPL/SC/ST महिलाओं के लिए)'
+documents:
+- mcp_card
+- bank_account_details
+where_to_confirm:
+  en: ASHA, ANM or the government health facility
+  hi: आशा, एएनएम या सरकारी स्वास्थ्य केंद्र
+amounts: []
+sources:
+- ref: nhm_jsy_page
+  locator: 'Important Features of JSY: LPS states'
+- ref: nhm_jsy_page
+  locator: 'Eligibility for Cash Assistance: LPS'
+review:
+  status: draft
+  verified_on: '2026-11-12'

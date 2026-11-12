@@ -1,0 +1,13 @@
+id: mha_erss_section_page
+title: Nirbhaya / ERSS Section — Emergency Response Support System
+publisher: Ministry of Home Affairs
+url: https://www.mha.gov.in/nirbhayaerss-section
+version_or_date: Web page, last updated 10.11.2026
+retrieved_on: '2026-11-12'
+jurisdiction: national
+kind: helpline
+sha256: b26e30b616242d34622d0cee28f39ce1a1e5eac777fd9525fd1567cdde28358f
+local_copy: knowledge/references/files/mha_erss_section_page.txt
+excerpts:
+- locator: ERSS 112
+  text: as a nationwide, unified emergency response system with a single emergency number ‘112’, for reporting and addressing all kinds of emergencies from across the country.

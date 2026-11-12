@@ -1,0 +1,17 @@
+id: nhsrc_emergency_flw_common
+title: "Emergency Care for FLW — Management and Prevention of Common Emergency Conditions"
+publisher: "National Health Systems Resource Centre (NHSRC), MoHFW"
+url: "https://www.nhsrcindia.org/sites/default/files/2022-11/Emergency%20Care%20for%20FLW-%20Management%20and%20Prevention%20of%20Common%20Emergency%20Conditions.pdf"
+version_or_date: "Training slides; PDF created 2022-10-26"
+retrieved_on: "2026-11-11"
+jurisdiction: national
+kind: clinical_guidance
+sha256: "5cae2a6d3eed9881c9e2445d99524663be16f8e81bd75fc1be103fcaf7d0783c"
+local_copy: "knowledge/references/files/nhsrc_emergency_flw_common.txt"
+excerpts:
+  - locator: "slide 5 (pdf 5), What to do in case of emergency"
+    text: "WHAT TO DO IN CASE OF EMERGENCY? … Immediately call the ambulance (102)"
+  - locator: "slide 9 (pdf 9), Haemorrhage/bleeding control"
+    text: "Profuse or uncontrolled bleeding should be given … maximum priority."
+  - locator: "slide 13 (pdf 13), Disability (AVPU)"
+    text: "U: Unresponsive/unconscious: The victim does not respond spontaneously and … does not respond to verbal or painful stimuli."

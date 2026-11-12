@@ -1,0 +1,17 @@
+id: pib_tb_backgrounder_2026_03
+title: India Speeding Towards TB Elimination (PIB backgrounder)
+publisher: Press Information Bureau (MoHFW)
+url: https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/mar/doc2026324833001.pdf
+version_or_date: March 24, 2026
+retrieved_on: '2026-11-12'
+jurisdiction: national
+kind: scheme
+sha256: 48f8d2ba95cba962e237c2fc2b9736fcc253573f3319fa48c917cf750e153efe
+local_copy: knowledge/references/files/pib_tb_backgrounder_2026_03.txt
+excerpts:
+- locator: pdf p4, free services
+  text: The National TB Elimination Programme provides free screening and treatment services
+- locator: pdf p4, helpline
+  text: '•   Call the toll-free Ni-kshay Sampark TB& Hepatitis helpline: 1800-11-6666 for'
+- locator: pdf p6, Ni-kshay Poshan Yojana
+  text: 1,000 per month to each notified tuberculosis patient. Since its launch in April 2018,

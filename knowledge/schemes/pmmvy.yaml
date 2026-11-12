@@ -1,0 +1,57 @@
+# DRAFT — every statement transcribed from the cited official source (see sources). Hindi is a draft translation.
+id: pmmvy
+name:
+  en: Pradhan Mantri Matru Vandana Yojana (PMMVY)
+  hi: प्रधानमंत्री मातृ वंदना योजना (PMMVY)
+jurisdiction: national
+states_excluded:
+- TG
+- OD
+care_types:
+- maternity
+not_for: []
+applies_to:
+  pregnant: 'yes'
+priority: cash_benefit
+eligibility_signals: []
+may_cover:
+  en:
+  - Cash incentive paid to the mother's bank or post office account
+  hi:
+  - माँ के बैंक या डाकघर खाते में नकद प्रोत्साहन
+does_not_cover:
+  en: []
+  hi: []
+to_confirm:
+  en:
+  - Eligibility depends on category (for example SC/ST, BPL or NFSA ration card, PM-JAY beneficiary, MGNREGA job card, family income below the limit)
+  hi:
+  - पात्रता श्रेणी पर निर्भर है (जैसे SC/ST, BPL या NFSA राशन कार्ड, PM-JAY लाभार्थी, मनरेगा जॉब कार्ड, आय सीमा से कम)
+documents:
+- aadhaar_card
+- bank_account_details
+- mcp_card
+where_to_confirm:
+  en: Anganwadi worker or ASHA; PMMVY helpline 1515
+  hi: आंगनवाड़ी कार्यकर्ता या आशा; PMMVY हेल्पलाइन 1515
+helpline: '1515'
+amounts:
+- text:
+    en: ₹5,000 for the first child (Direct Benefit Transfer)
+    hi: पहले बच्चे के लिए ₹5,000 (सीधे खाते में)
+  source:
+    ref: pib_maternal_care_schemes_2026_08
+    locator: PMMVY
+  as_of: '2026-08-07'
+sources:
+- ref: pmmvy_faq
+  locator: Q3 eligibility
+- ref: pmmvy_faq
+  locator: Q13 states not implementing
+- ref: pmmvy_faq
+  locator: Q21 documents
+- ref: pmmvy_contact
+  locator: Helpline
+review:
+  status: draft
+  verified_on: '2026-11-12'

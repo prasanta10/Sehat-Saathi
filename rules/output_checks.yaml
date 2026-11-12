@@ -1,0 +1,19 @@
+# Output safety checks (no diagnosis or treatment advice; no promised money). Not clinical content: a filter.
+# A rewritten output may contain a term below only if the template it came from already did
+# (the template is built only from confirmed facts, the cited rule and the plan).
+version: 0.1.0
+disease_terms:
+  en: [tuberculosis, "\\btb\\b", pneumonia, malaria, dengue, typhoid, covid, cancer, asthma, diabetes,
+       "heart attack", stroke, jaundice, anaemia, anemia, sepsis, meningitis, cholera, hepatitis,
+       "\\bhiv\\b", "\\baids\\b", bronchitis, "diagnos"]
+  hi: [टीबी, तपेदिक, क्षय, निमोनिया, मलेरिया, डेंगू, टाइफाइड, कोविड, कैंसर, दमा, मधुमेह, शुगर,
+       "दिल का दौरा", लकवा, पीलिया, "खून की कमी", पीलिया, हेपेटाइटिस, एचआईवी, निदान]
+medicine_terms:
+  en: [paracetamol, crocin, ibuprofen, aspirin, amoxicillin, azithromycin, antibiotic, "cough syrup",
+       "\\bsyrup\\b", tablet, "\\btab\\b", capsule, injection, "\\bdose\\b", "\\bors\\b", steroid, inhaler,
+       "\\b\\d+(\\.\\d+)?\\s?(mg|mcg|ml|g)\\b", "twice a day", "three times a day"]
+  hi: [दवा दें, दवाई दें, दवा लें, दवाई लें, गोली, सिरप, इंजेक्शन, एंटीबायोटिक, खुराक, "दिन में दो बार",
+       "दिन में तीन बार", "मि.ली.", "मि.ग्रा"]
+money_terms:
+  en: ["₹", "\\brs\\.?\\s?\\d", "rupees?", "\\binr\\b", "lakh", "crore", "free of cost", "will be paid", "approved", "eligible"]
+  hi: ["₹", "रुपये", "रुपए", "लाख", "करोड़", "मुफ़्त मिलेगा", "पैसा मिलेगा", "स्वीकृत", "पात्र"]

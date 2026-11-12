@@ -1,0 +1,1876 @@
+   टीबी मु        भारत अिभयान
+
+TB MUKT BHARAT Abhiyaan
+
+
+
+
+            Central TB Division
+    Ministry of Health & Family Welfare
+           Government of India
+Table of Contents
+Table of Contents                                              2
+1. Introduction and Background                                 3
+2. Objectives                                                  5
+
+3. Campaign strategy & activities                              5
+4. Tribal Areas Specific Strategies                           14
+5. Urban Areas Specific Strategies                            17
+7. Operational Strategies                                     20
+8. Communication and IEC                                      25
+9. Janbhagidari                                               28
+10. Role and Responsibility of Stakeholders                   43
+11. Monitoring and Reporting                                  54
+   Annexure I: Ayushman Arogya Shivir                         56
+
+   Annexure II: Logistics Required – Ayushman Arogya Shivir   57
+   Annexure III: Algorithm                                    58
+   Annexure IV : High Risk Villages and Wards - State-wise    59
+   Annexure V: Microplanning Formats                          60
+   1. Introduction and Background
+
+A healthy nation is the foundation of a strong, prosperous nation, and the efforts towards TB
+elimination are integral to achieving a "Swasth Bharat, Viksit Bharat". The goal of the TB Mukt
+Bharat Abhiyaan (National TB Elimination Programme - NTEP) is to rapidly decrease the
+incidence and mortality of Tuberculosis (TB) to achieve the Sustainable Development Goals
+(SDG) targets for ending TB in India.
+
+To accelerate the progress towards TB elimination, the Government launched a 100 Days TB
+Mukt Bharat Abhiyaan on 7th December 2024 in 347 high priority districts across 33 States/UTs.
+Based on the success achieved, the TB Mukt Bharat Abhiyaan was expanded to all districts of
+the country after March 2025.
+
+In order to achieve early diagnosis of TB, under the TB Mukt Bharat Abhiyaan, vulnerability
+mapping and systematic screening of high-risk populations for TB were undertaken at the village
+level and congregate settings. AI enabled hand-held X-rays were used for early detection of TB
+cases including asymptomatic, along with upfront NAAT for diagnosis of TB, followed by complete
+treatment supported with nutrition & differentiated TB care for ensuring successful treatment
+outcomes. To strengthen the nutrition interventions, the emoluments under Ni-kshay Poshan
+Yojana was doubled to Rs 1000/month/patient, while the Ni-kshay Mitra initiative was expanded
+to cover household contacts of TB patients also and MY Bharat volunteers were involved as Ni-
+kshay Mitra to provide psychosocial support to TB patients. This was supplemented by scaling up
+of TB preventive treatment for household contacts and eligible vulnerable populations.
+
+Jan Bhagidari as the central strategy also led to active involvement of over 35,000 elected
+representatives (MPs/MLAs/MLCs/PRIs/ULBs), over 73,000 activities through PRIs, > 1 lakh
+activities with Youth, Schools & Colleges, >58,000 activities through 23-line ministries and
+community support through more than 5 lakh Ni-kshay Mitras including 2 lakh MY Bharat
+volunteers, exhibiting a ‘Whole-of-Society and ‘Whole-of-Government’ approach to TB
+elimination.
+
+Progress made under TB Mukt Bharat Abhiyaan (07th December 2024 to 30th December 2025):
+
+   ●   22.42 Cr vulnerable population identified with 12.46 crore line listed in Ni-kshay
+   ●   4.75 Cr X-rays by more than 6000 fixed facility & 510 hand-held X-rays
+   ●   1.56 Cr NAAT tests through more than 9,300 NAAT machines
+   ●   27.28 lakh new TB cases identified of which, 9.48 lakh were asymptomatic TB cases
+   ●   23.99 lakh treated successfully
+   ●   7.91 lakh TB patients assessed for Differentiated TB Care
+   ●   5.17 lakh new Ni-kshay Mitras registered and 25.59 lakh poshan kits distributed.
+   ●   More than 2 lakh MY Bharat Volunteers registered as Ni-kshay Mitra for providing psycho-
+       social support to TB patients.
+
+
+As a result of all-round targeted and collaborative efforts, over 46,118 Gram Panchayats have
+been awarded TB-free certification for the year 2024.
+
+The TB Mukt Bharat Abhiyaan now is being re-inforced with another 100 Days Abhiyaan more
+targeted and focused based on the learnings, addressing the challenges with
+
+   ●   Introduction of more than 2,000 AI enabled hand-held X-rays with indigenously developed
+       AI tool (DEEPCXR) for automated reading of X-ray images,
+   ●   High throughput NAAT machines,
+   ●   1.58 lakh high risk villages / wards identified using AI based assessment of 30+ indicators
+       and
+   ●   Comprehensive microplanning with the available tools
+   ●   Creating better linkages to strengthen social support for TB Patients
+
+Non-communicable diseases such as diabetes, undernutrition, anemia, cancer and other chronic
+conditions significantly increase the risk of progression to active TB disease and adversely affect
+treatment outcomes. Accordingly, systematic screening and management of NCDs is an integral
+risk reduction strategy under the TB Mukt Bharat Abhiyaan
+
+This 100 Days Campaign is a continuation of the TB Mukt Bharat Abhiyaan, which aims to
+institutionalize screening, testing, treatment, and prevention strategies across the country to
+rapidly decline TB incidence & mortality.
+   2. Objectives
+
+The primary objectives of the TB Mukt Bharat Abhiyaan are:
+
+   ●   Find all Missing Cases through proactive screening by X-ray and upfront NAAT testing
+       of vulnerable populations and individuals in TB vulnerable villages & wards and
+       congregate settings preceded by intensive IEC campaigns.
+   ●   To prevent & reduce TB deaths by implementing a personalized care of TB patients with
+       a differentiated TB care approach supported by nutrition interventions, management of
+       comorbidities, follow-up monitoring & TB Death Audits.
+   ●   To   prevent     new    TB   cases    by
+       screening and providing TB preventive
+       treatment (TPT) to household contacts,
+       People Living with HIV (PLHIV), and
+       other eligible high risk groups after
+       ruling out active TB.
+   ●   Janbhagidari through a ‘Whole-of-
+       Society and ‘Whole-of-Government’
+       approach for TB Mukt Bharat efforts,
+       raise community awareness, reduce
+       stigma & discrimination to improve
+       health seeking behaviour.
+   ●   Identify   and   manage      key     non-
+       communicable disease comorbidities
+       including diabetes, hypertension, anaemia, undernutrition and cancer among vulnerable
+       populations and TB patients, in order to enable early TB detection and improve TB
+       treatment outcomes
+
+
+   3. Campaign strategy & activities
+
+The TB Mukt Bharat Abhiyaan will focus on TB vulnerable high risk villages & wards and
+vulnerable populations. The campaign will be implemented through a mixed approach of outreach
+health camps (Ayushman Arogya Shivir) and facility-based intensified service delivery providing
+services for TB & non-communicable diseases (NCDs) like testing for Hypertension, Diabetes,
+BMI assessment and anaemia, considering the vulnerability of these clinically vulnerable groups
+for breaking down to TB disease and / or adversely impacting TB treatment outcomes.
+
+The Chief Medical Officer under the leadership of Deputy Commissioner / District Magistrate will
+be the nodal officer at the District level and at the State level, the Mission Director (NHM) under
+the leadership of Additional Chief Secretary / Principal Secretary / Commissioner Health would
+be the nodal officer for implementing the TB Mukt Bharat Abhiyaan.
+
+   1. Target Population / Geography
+           a. All districts across the country
+                   i.   TB Vulnerable Villages and Wards - Screening all individuals (above 14
+                        years of age), irrespective of vulnerability, in the 1.58 lakh TB vulnerable
+                        villages and wards identified by an Vulnerability Mapping for TB (VMTB) AI
+                        tool based on 30+ region specific indicators like high TB incidence & TB
+                        related pre-disposing factors, anaemia, tobacco use, population density,
+                        child malnutrition, occupation, use of clean cooking fuel etc.
+
+                        Children under 14 years, may be offered chest x-rays only in specific
+                        situations including
+
+                              ●   Children with known exposure to TB disease in the last 2 years
+                              ●   Children having severe undernutrition
+                              ●   Children Living with HIV or immunosuppressed due to other
+                                  reasons
+                              ●   Children living in congregate settings (residential schools,
+                                  rehabilitation centres etc)
+                              ●   Children in other high risk population groups like drug abuse.
+
+                        An important consideration while using X-ray in young children is that the
+                        X Ray exposure window should be restricted to the thorax only and should
+                        not be large to include neck or lower abdomen to avoid radiation to thyroid
+                        or internal genitalia in growing children. Repeated radiation exposures of
+                        the same child over a period for frequent screening should not be done due
+                        to radiation risk involved.
+             ii. Other Villages and Wards - screening vulnerable individuals and any
+                  individual with signs / symptoms suggestive of presumptive TB
+      b. Vulnerable Population - Vulnerable population includes individuals over 60 years
+          of age, individuals with malnutrition (BMI <18.5), diabetics, People Living with HIV
+          (PLHIV), smokers, alcoholics, persons with past history of TB disease and
+          household contacts of TB patients.
+             i.   Vulnerable individuals who have been line-listed earlier but not yet
+                  screened through X-ray or their last X-ray was done >12 months before
+             ii. New vulnerable individuals identified in the community who have not been
+                  screened for TB earlier
+      c. Congregate Settings - Screening of all individuals living / working in congregate
+          settings like prisons, old age homes, orphanages, destitute homes, asylums,
+          residential hostels, homeless shelters, industrial clusters, mines, brick kilns, etc.
+      d. Urban areas - focus on urban specific vulnerable population / areas like jhuggi /
+          jhopdi / slums, migrants, construction worker sites, homeless, beggars, street
+          children, railway yards, coolies, informal workers in unorganized sectors, gig
+          workers, rickshaw pullers, transport hubs, auto/taxi drivers, sabzi mandi, dairy
+          farmers, abattoir workers, animal handlers, and households with close livestock
+          contact & other context specific local vulnerable population
+      e. NCD, Under-nutrition & Anemia - Those with diabetes, undernutrition, anemia,
+          cancer, and immunosuppressive conditions represent biologically high-risk groups
+          for TB incidence and poor treatment outcomes among the listed vulnerable groups,
+          while hypertension screening serves as an important programmatic entry point.
+          Screening of population visiting Ayushman Arogya Shivir for diabetes,
+          hypertension, undernutrition and anaemia is included in this Abhiyaan, as they
+          have a greater risk of developing TB disease or adversely impacting TB treatment
+          outcomes
+2. Facility-Based Intensified Services:
+      a. Routine service delivery will be intensified at fixed health facilities including
+          Ayushman Arogya Mandirs (AAMs), Community Health Centres (CHCs), District
+          Hospitals (DHs) and Medical Colleges following the approach for comprehensive
+          primary healthcare services.
+b. Intensified Screening at general OPDs: Ensure at least 5% to 10% of chest
+     symptomatics in general adult OPD attendees at AAMs/CHCs/DHs/Medical
+     Colleges
+c. Intensified Screening at Specialised OPDs: Ensure mandatory screening for TB
+     in 100% of attendees at specialised OPDs for people under care for HIV, diabetes,
+     hypertension, cancer, dialysis, other NCD clinics, undernutrition and anaemia etc.
+     Medical Officers-in-charge of health facilities shall ensure routine and mandatory
+     TB screening of all patients attending these OPDs, with appropriate recording and
+     reporting
+d. Cough corners in high load OPD settings: Designate a cough corner near the
+     registration counter in high-load OPDs. Direct all patients with cough to this area
+     for mask provision, quick registration, and fast-track tagging. Fast-track patients
+     should be prioritized for consultation, lab tests, and medicine dispensation.
+e. Screening at Indoor Facilities: Ensure mandatory screening of vulnerable
+     population for TB in 100% of attendees admitted at the health facilities. Ensure X-
+     ray screening for all indoor patients admitted in the hospitals & NAAT testing if X-
+     ray is abnormal or patient is symptomatic.
+f.   Screening using X-Ray:
+        i.   Coordination between OPD and X-Ray unit to ensure all vulnerable
+             individuals get examined by X-Ray within the facility and reports are
+             conveyed back to the clinician.
+        ii. All routine chest X-ray conducted in the hospitals should also be line-listed
+             and reported in Ni-kshay
+        iii. Wherever     functional   X-Ray     facilities   are   not   available,   mobility
+             arrangements should be made for the vulnerable individuals to undergo X-
+             Ray in nearest linked facilities.
+g. Screening using 10-Symptoms (10-S)
+        i.   Symptomatic screening expanded to 10-symptoms (10-S). These are:
+             Cough >2 weeks (Any duration for vulnerable population), Fever, Night
+             sweats, Hemoptysis, Chest pain, Shortness of breath, Weight loss, Loss of
+             appetite, Fatigue, Lymph node swelling and any other extra pulmonary
+             signs
+h. Sample Collection and Transport: Health workers (ASHA/CV) ensure proper
+     sputum sample collection and transportation to the nearest NAAT facility.
+           i.   Indoor care: For admission of TB patients who require indoor care, beds should
+                be assigned in CHCs, DHs and Medical Colleges.
+
+   3. Ayushman Arogya Shivir (Mobile Unit-Led Outreach Activity):
+           a. Ni-kshay Vahan (Mobile Medical Units (MMUs) with handheld X-Rays with AI,
+                comorbidity testing, NAAT testing, specimen collection arrangements, tele-
+                consultation through e-sanjeevani and IEC), will be deployed.
+           b. Existing 2,750 MMUs registered under the MMU portal, will be utilized for this
+                campaign.
+           c. Route map to be prepared for all 1.58 lakh high risk villages & wards identified
+                though AI (as per Annexure-1) - target to cover at least 100 X-rays per Shivir &
+                offer X-ray to all individuals (beyond vulnerable population) in the high risk village
+                & wards
+           d. After the high risk villages & wards have been covered, the route map should cover
+                the remaining villages & wards in the district and provide X-ray services to the
+                vulnerable population who have not got an X-ray before or have got their last X-
+                ray more than 12 months back
+           e. Provision for sample collection for NAAT testing for symptomatic cases and those
+                with abnormal X-Ray
+           f.   Ayushman Arogya Shivir should be conducted at the Targeted Intervention Sites /
+                Population like FSW, MSM, IDU, Truckers, Migrants interventions, nutrition care
+                centres, cancer care centre and palliative care centres etc.
+           g. Medical Officer, CHO, ANM / Nurse, LTs, radiographers, MPWs from the nearest
+                health facility should be available on roster duty during the Ayushman Arogya
+                Shivir for providing services.
+           h. Specialist Services through tele-consultation should be made available during the
+                Shivir for those requiring specialist consultation. Appropriate specialists should be
+                ensured at the tele-medicine hubs
+           i.   At each Ayushman Arogya Shivir, screening for blood pressure, random blood
+                glucose, haemoglobin estimation and BMI assessment shall be undertaken as part
+                of the minimum service package
+
+The activities across all districts in the country will focus on accelerated implementation of key
+strategies under TB Mukt Bharat Abhiyaan:
+1. Find all Missing Cases
+      a. Screening of Vulnerable Population - Identification of vulnerable population and
+         screening using the X-ray, even if asymptomatic and 10-Symptom screening.
+             i.   Screen vulnerable individuals through X-ray
+             ii. Screening of all individuals living / working in congregate settings
+             iii. Urban areas - focus on urban specific vulnerable population & settings
+             iv. Screening of people under care for HIV, diabetes, hypertension, cancer,
+                  undernutrition, anaemia etc.
+             v. Screening using 10-Symptoms (10-S)
+      b. High Risk Villages & Wards - Screening all individuals in 1.58 lakh high risk
+         villages & wards using hand-held X-rays following a pre-defined route map for
+         Ayushman Arogya Shivir The state-wise list is placed as Annexure-5 and is
+         available in the Ni-kshay portal dashboard.
+      c. Diagnostic Services:
+             i.   Use X-Ray - fixed facility and AI-enabled hand-held devices via Mobile
+                  Medical Units under NHM, for screening and ruling out active TB before
+                  starting TPT.
+             ii. Sputum Microscopy to be used only for follow-up tests.
+             iii. 100% Upfront NAAT for presumptive TB (X-ray abnormal and / or
+                  symptomatic).
+             iv. Use other radiological tests, histo-pathology & other appropriate tests as
+                  required for extra-pulmonary TB diagnosis.
+             v. Drug resistance testing for all diagnosed TB patients for first line and
+                  second line drugs, as per existing guidelines.
+             vi. Testing for anaemia, diabetes, hypertension & BMI assessment as per
+                  NCD/NHM guidelines.
+      d. Involvement of Health facilities other than Public Health System
+             i.   Health Department should sensitize all non NHM health facilities like
+                  AIIMS, Institute of National Importance, Central Government Hospitals,
+                  CGHS facilities, Line Ministries & PSUs on TB Mukt Bharat Abhiyaan
+             ii. All AIIMS, Institute of National Importance, Central Government Hospitals,
+                  CGHS facilities to screen OPD/IPD attendees for TB & NCD
+             iii. All health facilities of line ministries like ESIC, Railways, Defence, Para
+                  military forces to screen all employed (formal / informal) and OPD/IPD
+                  attendees for TB & NCD
+             iv. All health facilities in PSUs like Coal & Mines, Shipping & Ports, etc to
+                  screen all employed (formal / informal) and OPD/IPD attendees for TB &
+                  NCD
+             v. All line ministries / PSUs to organize Ayushman Arogya Shivir in hospitals,
+                  residential colonies, work place, adopted community, etc
+             vi. Health department should ensure linkages for health facilities of line
+                  ministries / PSUs to free drugs including drug resistant TB & free
+                  diagnostics like NAAT & CDST labs and sample collection & transportation
+                  arrangements. Also linkages for nutrition interventions, Differentiated Care
+                  Approach & TPT drugs
+             vii. Provide all IEC materials related to TB Mukt Bharat Abhiyaan with videos
+                  to be run in common areas.
+      e. Private sector collaboration:
+             i.   Ensure 100% notification of TB cases identified by private facilities
+             ii. Sensitize all private health care providers, hospitals, NGO/Trust health
+                  facilities,   chemists/pharmacies   on     Abhiyaan   strategies   including
+                  Differentiated TB care & TB preventive treatment
+             iii. Screening through X-ray & testing of all vulnerable population attending the
+                  OPD / IPD & reporting in Ni-kshay portal
+             iv. Linkages for free drugs including drug resistant TB & free diagnostics like
+                  NAAT & CDST labs and sample collection & transportation arrangements
+             v. Linkages for nutrition interventions & Differentiated Care Approach & TPT
+                  drugs
+             vi. Provide all IEC materials related to TB Mukt Bharat Abhiyaan
+             vii. Wherever PPSA is available, they will support the private sector activities
+
+2. Treatment and Differentiated Care: Ensure prompt and appropriate treatment of
+   diagnosed patients.
+      a. Treatment of drug sensitive & drug resistant TB cases as per existing guidelines
+          including BPaLM for those eligible.
+      b. 100% assessment for Differentiated TB Care of all TB patients to identify high risk
+           TB cases (based on disease severity, nutrition, general condition & co-morbidities)
+           for intensified care
+      c. Use AI tool ‘Prediction of Adverse Outcome’ identified line list of TB patients for
+           prioritized care, monitoring & follow-up.
+      d. Ensure indoor beds availability in all districts for needy high risk TB patients
+      e. Interventions to address under-nutrition among TB patients:
+               i.   100% BMI assessment of all TB patients and providing
+               ii. 100% Energy-dense nutritional supplementation (EDNS) for patients with
+                    BMI < 18.5 for the first 2 months of treatment
+               iii. Within 15 days - disbursement of Ni-kshay Poshan Yojana - DBT
+               iv. Assign Ni-kshay Mitra to all consented TB patient & their families
+               v. Psychosocial support by MY BHARAT volunteers & TB Champions
+      f.   Management of comorbidities among TB patients:
+               i.   Screening for HIV, diabetes, hypertension, undernutrition & anemia.
+               ii. Referral and management of those with HIV, diabetes, hypertension,
+                    undernutrition & anemia.
+               iii. Review treatment status of HIV, diabetes, hypertension, undernutrition &
+                    anemia
+               iv. Management of identified non-communicable disease comorbidities shall
+                    continue throughout the TB treatment period, with periodic review during
+                    scheduled TB follow-up visits to reduce complications and improve
+                    treatment outcomes
+
+3. Personalized Touch & Care for TB patients:
+      a. SMS messages to TB patients from Ni-kshay portal - reminding them to take
+           medicines, for follow-up, bank details for DBT, nutrition, adherence, etc.
+      b. “TB Mukt Bharat” Mobile Application newly developed with an interactive chatbot
+           “Khushi aapki E- Sangini” to be downloaded by every TB patient by the peripheral
+           health staff. This App is able to answer all queries for TB patients regarding
+           treatment, side effects and importance of nutrition & treatment adherence. This
+           chatbot will also serve general population to answer any queries related to TB
+           signs, symptoms, diagnosis & treatment facilities, myths & misconceptions, etc
+       c. Digital adherence tool - 99DOTS-lite to be used for all TB patients as the ‘first
+            choice’, wherein patients have to give a missed call to a dedicated toll-free number
+            which is recorded in Ni-kshay for treatment adherence.
+       d. State & District level call centre to be established in any of the existing call centres,
+            which will call TB patients to find out about treatment adherence, side effects,
+            receipt of nutrition benefits, availability of drugs, psychosocial support, etc
+       e. My-Bharat volunteers as Ni-kshay Mitra to offer psychosocial support to patients
+            ensuring treatment adherence & follow-up and also to create community
+            awareness on TB.
+       f.   ASHA workers should conduct weekly visits to TB patients, while CHOs visit once
+            a fortnight.
+       g. TB champions hand-hold patients for treatment completion, generating awareness
+            & reducing stigma.
+       h. Self Help groups(SHGs) & Civil society organizations support the health system to
+            facilitate distribution & last mile delivery of food baskets to patient families.
+
+4. Ni-kshay Mitra Initiative:
+       a. Mobilize individuals and organizations (including elected representatives,
+            corporates, industries, civil society organizations) as Ni-kshay Mitras to provide
+            nutritional support (food baskets) to TB patients and their household contacts and
+            psychosocial support to TB patients.
+       b. Organize training sessions for MY Bharat volunteers, register them as Ni-kshay
+            Mitra and link them to consenting TB patients for psycho-social support and
+            implement community awareness activities.
+       c. Organize training sessions for Panchayati Raj Institution representatives and
+            orient them on their role in TB Mukt Bharat Abhiyaan, become & mobilize Ni-kshay
+            Mitra and roadmap for TB Mukt Bharat Panchayat
+       d. 100% linkage of TB patients with Ni-kshay Mitras for psycho social support
+       e. Identification of at least 2 Ni-kshay Mitras in each Gram panchayat involving MY
+            Bharat volunteers and PRI
+       f.   Focus on involving self help groups (SHGs), community volunteers, civil society
+            organisations for distribution of family food baskets
+       g. TB Mukt Bharat App introduction & scale up for Ni-kshay Mitra initiative
+            implementation
+   5. TB Preventive Treatment (TPT):
+           a. All household contacts (HHC) and close contacts should be enrolled for every
+                diagnosed TB patient in Ni-kshay Portal..
+           b. Initiate TPT (3HP regimen or 1HP for PLHIV) for eligible household contacts and
+                close contacts of active TB Cases after ruling out active TB (through symptoms
+                and chest X-ray).
+           c. For other vulnerable groups ensure X-ray is offered and active TB is ruled out
+                before offering TPT. Use Cy-TB wherever feasible, but do not deny TPT, if Cy-TB
+                is not available / feasible for implementation.
+           d. Patients on dialysis, pre-transplant and on Anti ANF treatments should all be
+                screened for ruling out TB and TBI before initiating them on TPT.
+           e. This opportunity is to be used to mop up all left out PLHIVs and initiate them on
+                available shorter regimen of TPT.
+           f.   Ensure line-listing & data entry in Ni-kshay Portal for all individuals initiated on TPT
+           g. Ensure people with HIV, diabetes, cancer, undernutrition, anemia assessed for TB
+                preventive treatment irrespective of history of contact and provided TPT, if eligible
+
+   4. Tribal Areas Specific Strategies
+
+Tribal communities are considered vulnerable due to the higher prevalence of TB among tribal
+populations. In spite of relaxed provisions under NHM including the establishment of TB Units,
+additional incentives for travel support, etc there still continues to be challenges related to
+accessing diagnostic services & ensuring continuum of TB care, due to factors such as
+undernutrition; poor housing; indoor air pollution; tobacco, alcohol and other substance abuse;
+geographical barriers, ignorance about various health services / schemes etc. Frequent migration,
+low health-seeking behavior and stigma which leads to missed or late diagnoses, incomplete
+treatment, and ongoing community transmission.
+
+To address these challenges and accelerate TB elimination efforts in the tribal population, it is
+critical to provide context specific strategies in TB Mukt Bharat Abhiyaan involving the tribal
+leaderships and indigenous community influencers.
+
+   1. Tribal community engagement
+           a. List out tribal local leaders, traditional healers, indigenous influencers, faith based
+                leaders, TB survivors and school teachers for engagement
+            b. Orientation of these tribal community influencers for optimizing community
+                 mobilization, creating awareness for expansion of TB services.
+            c. Train tribal youth clubs, My Bharat Volunteers/NSS/NCC volunteers, and school
+                 health ambassadors to spread TB messages within their communities.
+            d. Eklavya Model Residential Schools (EMRS) students identified as Student TB
+                 Ambassadors should lead hostel cough etiquette, ventilation, stigma reduction,
+                 and sibling / household / roommates contact tracing.
+            e. Regular dialogues to strengthen trust between tribal communities and the
+                 government health system.
+            f.   Coordination with Tribal Welfare Department to leverage their existing community
+                 development or welfare schemes to increase reach of TB services
+            g. Prepare micro‑plans for hamlets including PVTG hamlets/forest hamlets, Van
+                 Dhan Vikas Kendras (VDVK) clusters, EMRS catchments, JANMAN MMU/MPC
+                 locations and ensure linkage plans for X-ray screening, NAAT testing, anemia,
+                 diabetes, hypertension, cancer and BMI assessments through Ayushman Arogya
+                 Shivir and AAMs.
+            h. Include TB Mukt Bharat Abhiyaan discussions in the PESA1 Gram Sabha agenda
+                 and inform the community about (i) vulnerability line‑listing, (ii) Ayushman Arogya
+                 Shivir schedules/locations, (iii) local volunteers, and (iv) certify fund use for food
+                 baskets, transport vouchers through Gram Sabha
+
+    2. Community-Based Case Detection and Screening
+            a. Screen all tribal populations for targeted interventions
+                   i.    Conduct Ayushman Arogya Shivir in tribal markets, haats, and melas for
+                         mass screening.
+                   ii.   Engage Community Forest Resource (CFR) committees to co‑host
+                         screening in forest hamlets and mobilize gatherers.
+                  iii.   Schedule pre‑market collection days at Van Dhan Vikas Kendras for TB
+                         symptom/X‑ray screening.
+                  iv.    Organize TB awareness and screening camps at EMRS
+
+
+1
+ PESA refers to the Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA
+Act), a landmark Indian law empowering tribal communities (Adivasis) in designated 'Scheduled Areas' by
+extending decentralized governance, giving their traditional Gram Sabhas (village assemblies) control
+over land, resources (forests, water, minerals), culture, and self-governance, aligning with their customs
+and preventing exploitation.
+            b. Integrate TB & NCD screening into existing tribal community outreach
+                programmes of the Health and Tribal Department.
+            c. Train traditional healers on protocol to use 10‑S tool, X-Ray and NAAT, distribute
+                referral cards
+
+    3. Treatment Adherence and Support
+            a. Ensure prompt referral and linkage of diagnosed individuals from community to
+                health facilities for timely treatment initiation, follow-up, monitoring & linkage to
+                nutrition interventions
+            b. Establish decentralised treatment support centres.
+            c. Link TB patients to livelihood programs under PM-JANMAN and other tribal
+                development initiatives.
+            d. Use newly built Multipurpose Centres2 for fixed‑day TB follow‑ups, nutrition kit
+                distribution, etc.
+
+    4. Preventive Therapy and Infection Control
+            a. Support initiation and completion of TB Preventive Therapy (TPT) for eligible
+                beneficiaries
+            b. Integrate TPT delivery into routine community health services, including NCD,
+                anaemia and cancer programme.
+            c. Educate families on TPT benefits and side effects using local language and
+                pictorial guides.
+            d. Promote cough etiquette, ventilation in traditional huts, and discourage spitting in
+                public places through culturally relevant campaigns. Distribute AIC kits (masks,
+                sanitizers) during community events.
+            e. PESA Gram Sabha norms to discourage spitting, with community enforcement
+                (market committees/Gram Sabha)
+
+    5. Culturally Adapted IEC
+            a. Use local dialects and traditional art forms (folk songs, puppet shows, street
+                plays) for TB awareness during festivals and community gatherings.
+            b. Conduct market‑day miking and puppet theatre
+
+
+2
+ Under PM JANMAN scheme, Multi-Purpose Centres (MPCs) are built to offer a single location for
+various essential services, including health (Anganwadi, Mobile Units), nutrition, skill development, and
+social support for Particularly Vulnerable Tribal Groups (PVTGs), aiming to provide holistic development
+and bridge service gaps in remote tribal habitations
+           c. Host Gram Sabha, EMRS club and Youth club pledge events for stigma
+                reduction
+           d. Engage Tribal Research Institutes (TRIs) to adapt materials to local
+                language/symbols and document stories of TB survivors for stigma reduction
+           e. Use TRI‑curated content in local scripts;
+           f.   Respect sacred groves and festivals for message timing
+
+
+
+
+   5. Urban Areas Specific Strategies
+
+Urban areas / Cities with their densely populated areas present unique epidemiological and socio-
+economic challenges that facilitate the spread of TB and hinder timely diagnosis and treatment.
+Overcrowding, poor ventilation, malnutrition, high mobility, poverty, malnutrition, and poor health
+seeking behaviour further aggravates the risk of TB among the residents of densely populated
+urban areas. Informal health care providers including traditional healers, faith healers and retail
+sellers are commonly the first point of contact for urban residents, even the urban poor, despite
+the high out-of-pocket costs.
+
+
+Urban population constitutes 37% of India’s population. Delhi, being a primarily urban setting,
+recorded the highest prevalence at 534 per 100,000. States with mixed urban-rural populations
+also showed elevated prevalence, suggesting urban hotspots within those states. While the
+programme benefits are universally available across States and UTs, additional provisions are
+being provided in urban areas.
+   ●   City TB Centre: Many Cities have a dedicated City TB Centre with dedicated City TB
+       Officer and district level coordinators assigned for the city.
+   ●   TB Health Visitors (TB HV): TB HVs are provided only in cities - 1 at every 1 lakh
+       population to engage private sector and community volunteers.
+   ●   Patient Provider Support Agencies (PPSA) - TB programme has deployed more than 300
+       districts largely urban supported with PPSA to engage private health care providers for
+       enabling notification of TB cases, extending free drugs & diagnostics under NHM and
+       providing public health actions like contact tracing, co-morbidity testing (HIV & Diabetes)
+       and TB preventive treatment to eligible household contacts.
+To address these challenges and accelerate TB elimination efforts in the urban population, it is
+critical to provide context specific strategies under TB Mukt Bharat Abhiyaan involving the urban
+local bodies.
+    1. Community Engagement
+           a. Integrate TB awareness and screening into ward meetings
+           b. Involve My Bharat Volunteers/NSS/NCC volunteers and college students for TB
+                awareness drives in urban schools and colleges.
+           c. Use Town Vending Committees to organize TB IEC and screening camps in
+                markets.
+           d. Engage Mahila Arogya Samittees to mobilize households, line‑list chest
+                symptomatics, escort for X‑ray/NAAT, and run TB awareness and stigma reduction
+                activities
+           e. Include TB Mukt Bharat Abhiyaan issues on Ward Committee agendas like
+                screening coverage, NAAT positivity, % private notifications, NPY coverage etc.
+                and publish ward scorecards in ULB websites.
+           f.   Leverage Swachh Survekshan components for TB Mukt Bharat Abhiyaan. Existing
+                networks of elected representatives, sanitation champions, volunteers identified
+                under the Swacch Survekshan Survey can support TB awareness, mobilization,
+                and field access.
+           g. Involve with Swachh Tulip youth engagement structures for TB awareness and
+                school-age case identification.
+    2. Community-Based Case Detection and Screening
+           a. Updated slum lists, population data, geoboundaries, and pre-identified sampling
+                sites can be used for prioritizing TB screening without fresh mapping
+           b. Construction sites, markets, transport depots, homeless shelters, rental clusters
+                (ARHC3), industrial hubs, urban resettlement colonies, migrant worker clusters,
+                prisons, railway yards, and gig-economy workers such as house maids, rickshaw
+                pullers, auto-rickshaw and cab drivers, and other public transport drivers as priority
+                screening population.
+           c. Digitized worker rosters and mandated health check-ups enable seamless TB
+                screening of this high-risk occupational group
+
+
+3
+ ARHCs (Affordable Rental Housing Complexes) in urban areas are a sub-scheme of India's Pradhan
+Mantri Awas Yojana-Urban (PMAY-U), designed by the Ministry of Housing & Urban Affairs (MoHUA) to
+provide affordable, dignified housing for urban migrants and the poor near their workplaces.
+      d. Integrate TB screening into ongoing sanitation worker health check-ups under the
+           Swachh Survekshan Survey
+      e. Conduct community TB screening using handheld X-ray machines at U-AAM and
+           wards office; and 10-S symptoms.
+      f.   Deploy Ni-kshay Vahan with portable X-ray and NAAT machines for high-density
+           wards and congested slums.
+      g. Empanel private labs to test all specimens on NAAT, if public sector labs are
+           overworked and turn around time is not maintained.
+      h. Use courier services, bike riders, or municipal vans for rapid sputum transport from
+           UPHCs and camps to NAAT hubs.
+      i.   Screen 100% of patients in HIV, NCD, dialysis, cancer and tobacco cessation
+           clinics in city hospitals.
+3. Private sector engagement
+      a. Engage municipal health officers to ensure private providers mandatorily notify TB
+           cases in Ni-kshay.
+      b. Partner with private hospital networks, private clinics, and chemists for
+           presumptive TB identification, NAAT testing and extend free TB diagnostics &
+           drugs available under NHM.
+      c. Display IEC at pharmacies and build capacity of the pharmacists to maintain
+           schedule H1 register as required under Drugs & Cosmetics Act and refer
+           individuals with cough buying cough syrups for TB screening to the nearest health
+           facility.
+4. Treatment, Adherence, and Support
+      a. Ensure prompt referral and linkage of diagnosed individuals from community to
+           health facilities for timely treatment initiation.
+      b. Establish decentralised treatment support centres through health facilities under
+           NUHM like UCHC / UPHC / U-AAM with flexible timing of operations
+      c. Provide psychosocial support for individuals undergoing TB treatment to reduce
+           pre-treatment loss to follow-up and improve outcomes.
+      d. Track patients throughout the treatment cascade at both community and facility
+           levels.
+      e. Utilize quick commerce / instant delivery platforms for home delivery of nutrition kit
+           delivery to TB patients / family, wherever feasible
+      f.   Urban Primary Health Centres, U-AAMs and designated NCD clinics shall be
+           responsible for continuity of care and follow-up of NCDs diagnosed during TB
+           screening activities in urban settings.
+5. Preventive Therapy and Infection Control
+      a. Support initiation and completion of TB Preventive Therapy (TPT) for eligible
+           contacts, especially children under fifteen and contact of DR-TB.
+      b. Integrate TPT delivery into routine community health services, including NCD,
+           anaemia & cancer programme.
+      c. Promote cough etiquette, ventilation in Bus, Railway and Metro Stations, and
+           discourage spitting in public places through impactful IEC materials.
+      d. Promote mask use and cough hygiene in buses and metro stations. Provide low-
+           cost masks at ticket counters and vending kiosks.
+6. Urban specific IEC
+      a. Resident Welfare Associations / Co-operative Housing Societies to host IEC
+           sessions in gated communities and rental housing.
+      b. Use bus panels, metro stations, and digital screens for TB awareness. IEC
+           campaigns on cough hygiene and mask use via public address (PA) systems and
+           digital screens.
+      c. Engage city influencers and municipal social media handles for TB campaigns.
+      d. Street plays, nukkad nataks, and loudspeaker announcements in slums and
+           markets
+      e. Utilize Smart City Mission assets for TB IEC across smart poles, digital kiosks,
+           public Wi‑Fi sign‑ons and display ward scorecards for TB Mukt Bharat Abhiyaan
+           on city dashboards
+      f.   Quarterly citizen validation interviews provide a platform to incorporate TB-related
+           questions
+
+7. Operational Strategies
+
+1. Operational and Resource Coordination (Pre-launch and Camp Day)
+      a. IEC: Ensure display of appropriate IEC materials (wall paintings, posters, digital
+           messages) to mobilize vulnerable populations, promote awareness, especially
+           emphasizing symptoms, promote health seeking, the availability of free
+           diagnostics, treatment and government schemes, awareness on health conditions
+          with high risk of TB like HIV, diabetes, hypertension, smoking, undernutrition,
+          anemia.
+      b. Urban Strategy: In urban areas, run special hours OPDs in the evening to cater
+          to slum dwellers, migrant workers, industrial workers, daily wagers, etc.
+      c. Infrastructure and Logistics: Assess workload for X-Ray/NAAT facilities, testing
+          for anemia, diabetes, hypertension & undernutrition. Mobilize additional staff,
+          ensure continuous supply of drugs and consumables, and arrange for specimen
+          transport mechanisms (e.g., runners, courier service) from AAMs to NAAT labs
+          and referral laboratories for advanced investigations & management.
+      d. Private sector engagement: Engage the private sector clinics (incl. AYUSH),
+          hospitals, laboratories and chemists to ensure notification of all TB cases, establish
+          referral linkages for free TB diagnostics / TB drugs through government facilities,
+          and display IEC materials on government schemes. Collaborate with professional
+          associations / bodies (IMA, IAP, AIOCD, etc.) to use peer influence through appeal
+          letters, meetings and CMEs to ensure all TB patients get notified. Visit to all private
+          health facilities at least once during campaign and multiple times to high
+          priority/volume providers.
+      e. NCDs: Collect information on patients with diabetes, hypertension & other NCDs
+          and report in the NCD portal. Conduct training sessions for private sector clinics
+          (incl. AYUSH), hospitals, laboratories and chemists to self report NCDs in the NCD
+          portal. Individuals identified with diabetes, hypertension or other NCDs during the
+          campaign shall be linked to Ayushman Arogya Mandirs for further management
+          and recorded in the NCD portal.
+
+2. Mobile Medical Unit led Outreach: Ayushman Arogya Shivir / Health Camps: The
+   mobile unit-led outreach is crucial for achieving saturation and reaching marginalized
+   populations. These mobile units are utilized for IEC, organizing camps, and enabling the
+   mobility of health personnel in peripheral areas.
+      a. Services to be provided: Through these MMUs following services would be
+          provided
+              ●   Provide education on TB signs / symptoms, early diagnosis, importance of
+                  treatment adherence, TB prevention & encouraging TB screening in people
+                  under care for HIV, Diabetes, Hypertension, Under-nourishment &
+                  Anaemia
+      ●   On-site testing and diagnostic services (X-rays, sputum tests, Blood Sugar,
+          Hb, BP, BMI assessment, etc.).
+      ●   Refer or transport confirmed cases to healthcare facilities.
+      ●   Educational Sessions: Provide information on TB symptoms, transmission,
+          prevention, treatment and on NCD prevention, management & vulnerability
+          for TB
+b. Ni-kshay Vahan and On-site Capabilities
+      ●   Equipment and Materials: The vans should be equipped with X-ray
+          machines with AI (including handheld X-rays) for on-spot chest X-ray
+          screening, sputum collection materials, Truenat machines, glucometer,
+          hemoglobinometer, BP instrument, BMI Chart as well as any other
+          necessary tests based on the local context (details are provided in
+          annexure). The Ni-kshay Vahan should be branded with campaign-specific
+          IEC materials for display and distribution.
+      ●   Staff: Ni-kshay Vahans should be staffed with trained medical personnel,
+          which include a Medical Officer, Lab technicians, radiographers, and
+          support staff.
+      ●   Service Provision: The MMUs provide comprehensive services including
+          screening for TB, early identification and diagnosis, educational sessions,
+          and on-site TB diagnostic services (X-rays, NAAT tests). They also
+          facilitate testing for Hb, blood sugar and other locally required tests.
+c. Targeted Outreach and Service Flow
+      ●   Prioritization: MMUs should prioritize geographies farthest from the
+          available fixed facilities, villages & wards identified high-risk. This targets
+          vulnerable populations in remote areas, slums, prisons, orphanages, and
+          other congregate settings.
+      ●   Screening: Community-level screening should be conducted through
+          symptoms enquiry by a health worker (using the expanded symptom
+          complex or 10-S complex tool) and mandatory chest X-ray screening, even
+          for asymptomatic individuals within vulnerable populations. Screening for
+          health conditions with high risk of TB will also be conducted. This will
+          include screening for diabetes, hypertension, undernutrition & anemia. In
+          high risk villages & wards Chest X-ray should be mandatorily offered to all
+          population (except children under 14 years), irrespective of their
+          vulnerability for TB. For children under 14 years, eligibility as mentioned
+          above in the document should be considered.
+      ●   Testing and Logistics:
+             ○   MMUs can either conduct on-site X-ray using hand-held machines
+                 or transport individuals to the nearest X-ray facility via free referral
+                 transport under NHM, if handheld X-ray units are unavailable.
+             ○   For all presumptive TB cases identified (based on symptoms or X-
+                 ray abnormal findings), upfront NAAT testing to be performed on-
+                 site via the Truenat machines or specimen to be collected and
+                 transported to the nearest NAAT site.
+             ○   Testing for diabetes, cancer, anemia and examination for blood
+                 pressure and BMI assessment for undernutrition should be
+                 conducted onsite. HIV testing should be conducted only after pre-
+                 test counseling and only in health facilities & TI NGO sites.
+             ○   Sample collection and transportation arrangements for sputum
+                 samples must be efficiently managed from the mobile unit sites to
+                 the designated NAAT facility, utilizing logistics like runners,
+                 couriers, or community volunteers, especially when only sample
+                 collection occurs on-site.
+             ○   Specimen collection and transportation will be done for testing
+                 which require additional testing at referral facilities like HIV,
+                 diabetes, undernutrition & anemia.
+             ○   SOPs as per guidelines should be ensured for bio-medical waste
+                 management & sample packaging for transportation
+             ○   Confirmed cases should be referred or transported to appropriate
+                 fixed healthcare facilities for continuity of care.
+             ○   TB patients should be linked to nutritional & psychosocial support
+                 with Ni-kshay Mitras and ensure the provision of NPY benefits.
+             ○   Initiate contact tracing for household contacts and screen them for
+                 active TB (using X-ray) before initiating TPT regimen.
+d. Operational Planning for Mobile Units
+      ●   ASHA to linelist all vulnerable populations, CHO to verify and then the
+          same needs to be compiled at PHC, CHC & District level. The format for
+    linelisting is placed as Annexure-5 . The compiled aggregate numbers of
+    vulnerable populations should be entered in Form-1 of Ni-kshay portal.
+●   Micro-planning: Detailed operational planning and micro-plans must be
+    prepared up to the village level. This planning requires coordinating
+    logistics, Human Resources (HR), and the exact routing of the mobile
+    testing units with the community screening campaign in priority geography.
+    The format for microplanning & route map for Ni-kshay Vahan / MMU is as
+    below.
+●   Route planning: Prepare a date-wise schedule for Ni-kshay Vahan visits to
+    each high risk village & ward location based on the list of high risk villages
+    & wards and presence of congregate settings. For the scheduled date &
+    along with exact location of the camp, assign the Vahan along with its staff
+    and ensure local staff are designated to coordinate activities. Each Vahan
+    should target ~100 X-rays daily for vulnerable populations.
+
+
+Date      Village or     Exact     On-vehicle    ANM or      ASHA      Vehicle
+             Location   name of    staff name      CHO       Name      Number
+                         place        with        Name
+                                  designation
+
+
+
+
+●   Human Resource: Adequate human resources, including laboratory
+    technicians, radiographers, should be calculated based on the anticipated
+    workload and mobilized accordingly. If not available, these HR should be
+    hired for a fixed term contract basis.
+●   Ensure availability of required commodities for screening & testing for TB,
+    Diabetes, Hypertension & Anemia during the camps
+●   MMU Vehicle: Existing 2,750 MMU vehicles under NHM should be used as
+    Ni-kshay Vahans. If adequate vehicles are not available or could not be
+    mobilized within the system, hiring of vehicles should be considered.
+●   Community Mobilization: Mobile outreach relies heavily on frontline
+    workers (ASHA/CV) who perform door-to-door mobilization and line-list
+                       vulnerable populations in advance of the Ni-kshay Vahan's arrival. Involve
+                       MY Bharat volunteers & TB Champions for community mobilization
+                       activities. Local Pradhan / Sarpanch & community leaders, opinion makers
+                       in the villages should be pre-identified and sensitized for organizing
+                       Ayushman Arogya Shivir and the support required. All AAMs, JAS, MAS,
+                       School Ambassadors will be mobilized to ensure maximum participation of
+                       the community during the campaign.
+
+   8. Communication and IEC
+
+The campaign requires a tailored, comprehensive Information, Education, and Communication
+(IEC) strategy focused on early detection, reducing stigma, and promoting healthy behaviors to
+mobilize vulnerable key population for screening i.e. elderly (>60 years age), malnourished (BMI
+<18.5), diabetics, people living with HIV, smokers, alcoholic, household contacts of TB cases and
+Individuals with history of TB disease in the past.
+
+Objectives
+
+   ●   Raise awareness about TB, its symptoms, causes, and how it spreads with emphasis on
+       importance of early detection, treatment and reduction of stigma associated
+   ●   Focused communication for pre-emptive TB screening to residents of highly vulnerable
+       settings like Orphanages, Migrant labourers, Construction site, Mining area, Residential
+       Schools, Slums, Tea gardens etc. and areas with high number of TB cases or deaths
+   ●   Promote acceptance of TB preventive treatment amongst Household Contacts of TB case,
+       >60 years age, Malnourished, Diabetics, People living with HIV, Smokers, Alcoholic,
+       Individuals with history of TB.
+   ●   Educate about importance of completion of treatment, role of nutrition in managing TB
+   ●   Raise awareness about health conditions with high risk for TB like HIV, diabetes,
+       hypertension, smoking, undernutrition, anemia.
+
+Target Audience and Key Messages
+
+   a. Primary Audience:
+           ●   Residents of high risk villages,
+           ●   vulnerable population in rural, urban & tribal areas and
+        ●   individuals in congregate settings like prisons, old age homes, orphanages,
+            destitute homes, asylums, residential hostels, homeless shelters, industrial
+            clusters, mines, brick kilns, etc.
+        ●   Urban areas - focus on urban specific vulnerable population like jhuggi / jhopdi /
+            slums, migrants, construction worker sites, homeless, beggars, street children,
+            railway yards, coolies, informal workers in unorganized sectors, gig workers,
+            rickshaw pullers, transport hubs, auto/taxi drivers, sabzi mandi, abattoirs & other
+            context specific local vulnerable population
+  b. Secondary Audience: Healthcare providers, local community leaders, teachers, and
+     students who can act as advocates.
+  c. Key Messages:
+        ●   TB is curable: Reinforce the idea that TB is treatable with timely diagnosis and
+            adherence to medication.
+        ●   Recognize the common symptoms cough, fever, chest pain, blood in sputum,
+            night sweats, loss of appetite, weight loss, weakness or fatigue. Organ specific
+            extrapulmonary TB signs or symptoms may be observed like swelling in the neck,
+            joint pain or backache, headache or confusion, blood in urine, abdominal pain or
+            constipation.
+        ●   Avoid transmission: Cough etiquette (covering mouth), proper ventilation, and
+            avoiding close contact with infected individuals.
+        ●   Seek early treatment: Free diagnosis and treatment are available at government
+            health centers.
+        ●   Need of appropriate care and management of chronic health conditions like
+            HIV, diabetes, cancer, undernutrition and anemia.
+
+Communication Campaign Strategies
+
+
+  a) Mass Media
+        ●   Radio Broadcasts: Use local radio stations to air jingles, interviews, and success
+            stories of TB survivors to educate and reduce stigma.
+        ●   Miking / Loudspeaker Announcements: In markets or other gathering places,
+            mobile vans / rickshaw with loudspeakers can announce important messages on
+            TB.
+  b) Interpersonal Communication
+      ●   MY Bharat Volunteers & Village Health Workers: Train local MY Bharat
+          volunteers and health workers to deliver door-to-door messages about TB
+          prevention and treatment options. They can also assist with referrals to healthcare
+          facilities.
+      ●   Peer Educators: Identify TB survivors or respected local figures to talk about their
+          experiences in schools, churches, or local gatherings.
+c) Traditional and Cultural Channels
+      ●   Street Plays and Puppet Shows: Use folk media such as street theater or
+          puppetry to convey TB-related messages in a fun and engaging way.
+      ●   Local Festivals: Integrate TB messaging into local festivals or community events
+          where people naturally gather.
+d) Print and Visual Media
+      ●   Posters and Leaflets: Create simple, visually compelling materials with key
+          messages in local languages. Distribute these at schools, healthcare centers,
+          markets, and other public areas.
+      ●   Wall Paintings: Educational paintings in central locations depicting TB symptoms,
+          transmission, and treatment availability.
+e) Community Mobilization Campaigns
+      ●   School-based education programmes: Organize educational sessions and
+          quizzes about TB for students, who can spread the messages to their families.
+      ●   TB awareness clubs: Create student clubs focused on health education and
+          mobilize students as health advocates in their communities.
+      ●   Engage My Bharat Volunteers, Panchayati Raj Institutions (PRIs), Urban Local
+          Bodies (ULBs), and Self-Help Groups (SHGs) to raise awareness and support
+          mobilizing vulnerable population and screening activities.
+f) Engagement with Local Stakeholders
+      ●   Involve local leaders: Work with village leaders, religious heads, and traditional
+          healers to spread accurate information about TB.
+      ●   Gram Sabha/Ward Committee meetings to sensitize members and conduct TB
+          messaging through local opinion/religious leaders.
+      ●   Healthcare providers: Provide additional training to local doctors, nurses, and
+          pharmacists about proper TB diagnosis and management protocols.
+g) Ni-kshay Vahan
+            ●   Ni-kshay Vahans (campaign specific branded Mobile Medical Units) should
+                be used for the campaign. About 2,750 Mobile medical Units (available
+                under NHM) to be utilized for IEC, organizing camps and mobility of health
+                personnel in the peripheral areas.
+
+
+
+    9. Jan Bhagidari
+
+The success of the "TB Mukt Bharat Abhiyaan" relies fundamentally on Jan Bhagidari (community
+participation), ensuring that the community actively participates in awareness, prevention,
+detection, and support for treatment.
+
+The objectives of Jan Bhagidari focus on raising awareness about TB symptoms, encouraging
+early detection among vulnerable populations, reducing stigma, promoting preventive measures
+like cough hygiene and adequate ventilation, and ensuring that TB patients complete their
+treatment with sufficient nutrition.
+
+Specific Jan Bhagidari activities categorized by stakeholder group, designed to be implemented
+during the campaign as under:
+
+    1. Panchayati Raj Institutions (PRIs) & Urban Local Bodies (ULBs):
+            a. Mobilize Resources and Planning: Mobilize local resources and/or allocate
+                budgets within the Gram Panchayat Development Plan (GPDP) or urban plans for
+                sustainable activities like patient referral transport and sputum sample
+                transportation
+            b. Awareness and Stigma Reduction: Hold Gram Sabha / Ward Committee meetings
+                to sensitize members on TB and encourage community participation. Display
+                appropriate Information, Education, and Communication (IEC) materials, such as
+                wall paintings and posters, in prominent places like the Common Service Centre
+                (CSC).
+            c. Community Support: Mobilize community members to become Ni-kshay Mitras
+    2. Local Community Structures (VHSNC, JAS, MAS, AWWs, SHGs)
+            a. TB Education Sessions: Conduct special sessions on TB awareness and TB care
+                services in all Village Health, Sanitation, and Nutrition Committee (VHSNC), Jan
+                Arogya Samiti (JAS), and Mahila Arogya Samiti (MAS) meetings
+      b. Screening and Nutrition Support: Train and engage Self-Help Groups (SHGs) for
+           community screening and follow-up activities. Link SHGs with Ni-kshay Mitras to
+           distribute nutrition kits, offer counseling, and provide livelihood support for PwTBs
+      c. AWW Mobilization: Anganwadi Workers (AWW) conduct special sessions at
+           Anganwadi centers on TB symptoms, nutrition counseling, and TB prevention
+           messaging for pregnant women, lactating mothers, children, and adolescents
+3. TB Vijeta / TB Champions
+      a. Anti-Stigma Campaigns: Conduct at least one anti-stigma awareness campaign
+           within each block during the Abhiyaan, led by the NTEP and TB champions
+      b. Peer Support and Mobilization: Assist Community Health Officers (CHOs) and
+           Accredited Social Health Activists (ASHAs) in vulnerability mapping and mobilizing
+           the community for screening under the Ayushman Arogya Mandirs (AAM)
+4. Elected Representatives (MPs, MLAs, MLCs, PRI & ULB members)
+      a. Visibility and Endorsement: Participate in Ayushman Arogya Shivir (screening
+           camps) and flag off Ni-kshay Vahans (Mobile Medical Units) within their
+           constituencies
+      b. Pledge and Advocacy: Take the Ni-kshay Shapath (pledge) along with community
+           members to reduce stigma. Address public gatherings to de-stigmatize TB and
+           encourage early care-seeking
+      c. Resource Mobilization: Mobilize additional resources from funds (MP-LAD / MLA)
+           for critical health system support (e.g., X-Ray and NAAT machines or patient
+           mobilization vehicles)
+      d. Recognition: Felicitate Ni-kshay Mitras and TB Vijetas for their contributions in the
+           fight against TB
+      e. Conduct district-level reviews every two months with District Magistrate/Collectors
+           and Health department
+      f.   Visit District Hospital, Community Health Centres, Primary Health Centres,
+           Ayushman Arogya Mandir to review services provided to TB patients to understand
+           challenges and provide solutions
+      g. Mobilise vulnerable population for screening and participate in Ni-kshay Shivir
+      h. Mobilise private sector for ensuring 100% notification of all TB cases
+      i.   Lead Jan Bhagidari in the respective constituency for TB Mukt Bharat
+      j.   Mobilize Panchayats to mobilize vulnerable population for screening & raise
+           awareness in the community for reducing stigma, promoting Swachhta & use of
+           masks while coughing/ sneezing
+      k. Mobilize local funds to address any gaps in the health systems
+      l.   Mobilize civil society organisations to provide Poshan kits to TB patients & their
+           families
+      m. Felicitate Ni-kshay Mitra and TB Champions / TB Vijeta for their contribution in fight
+           against TB
+      n. Ensure TB messaging in all public meetings/forums to raise awareness on TB,
+           mobilize vulnerable population and improve uptake of services
+      o. Provide bytes in local press / radio / TV to educate public on TB issues
+5. Community Influencers & Religious Leaders
+      a. Mass Messaging: Provide TB messaging in religious gatherings and community
+           events. Use local press, radio, electronic media, and cable TV for IEC
+           dissemination
+      b. Social Media Engagement: Social media influencers provide TB messaging in their
+           channels and mobilize people to register as Ni-kshay Mitras
+6. Youth Involvement\
+      a. Creative Awareness: Organize art and cultural activities like essay, poster, or
+           elocution competitions in schools and colleges
+      b. Volunteering and Training: Train My Bharat, National Service Scheme (NSS) and
+           National Cadet Corps (NCC) volunteers on TB, engaging them for outreach
+           activities and community mobilization during screening. Register them as Ni-kshay
+           Mitras
+7. Industries and Trade Associations
+      a. Workplace Screening: Organize Ayushman Arogya Shivir screening camps for all
+           workers employed by industries, corporate houses, Public Sector Undertakings
+           (PSUs), and mining clusters in consultation with the Health Department
+      b. Logistics/Financial Support: Market associations and trade unions help in
+           awareness creation by displaying IEC materials. Banks can be approached to
+           open zero-balance accounts for NPY benefits transfer
+8. NGOs and CSOs
+      a. Logistical Support: Provide mobility support for patient referral for X-Ray, specimen
+           transportation, and support community screening and mobilization efforts
+          b. Feedback and Pledge: Provide supportive supervision or monitoring assistance
+             with feedback to the NTEP. Take Ni-kshay Shapath along with the community.
+
+
+
+
+    9. Outreach through Ministries (Whole-of-Government)
+
+Sr.No Departments              Key Expectation to support 100 days Intensified Campaign
+
+
+1       Department        of      ●   Engagement of MY Bharat Volunteers and concerned
+        Youth Affairs                 institutions of Dept. of Youth Affairs in 100 days campaign.
+                                  ●   Awareness generation of all staff on TB.
+                                  ●   Display of IEC materials in all major offices & institutions.
+                                  ●   Taking Ni-kshay Shapath (pledge) in all organisations.
+                                  ●   Awareness generation through inclusion of TB-related
+                                      messages in major events and youth programmes
+                                  ●   Awareness generation messages on social media of the
+                                      department.
+                                  ●   Register Ni-kshay Mitra from various organizations and staff
+                                      of the Dept. of Youth Affairs, NYKS etc.
+2       Ministry of AYUSH         ●   Engagement of all institutions and organisations of AYUSH in
+                                      the 100 days campaign.
+                                  ●   Display of IEC materials in all offices and institutions.
+                                  ●   Awareness generation of all staff on TB.
+                                  ●   Organize Ayushman Arogya Shivir (screening camps) by
+                                      AYUSH institutions to be organised in consultation with State
+                                      nodal Health Department
+                                  ●   Dissemination of anti-TB messages on social media of the
+                                      Ministry.
+                                  ●   Taking Ni-kshay Shapath (pledge)
+                          ●   Communicate to all state functionaries on TB campaigns
+                              seeking their support.
+                          ●   Register    new   Ni-kshay   Mitra   in   all   institutions   and
+                              organisations and the Ministry of AYUSH.
+
+
+
+
+3   Ministry         of   ●   Engagement of Panchayati Raj Institutions, Gram Sabha,
+    Panchayati Raj            Gram Pradhan, and elected representatives in campaign.
+                          ●   Awareness of all staff on TB.
+                          ●   Involvement of Panchayati Raj Institutions in Ayushman
+                              Arogya Shivir (Screening Camps) in consultation with State
+                              nodal health department.
+                          ●   Mobilize local resources and budget in Gram Panchayat
+                              Development Plan (GPDP) for campaign activities viz. patient
+                              referral transport, sputum transportation, etc.
+                          ●   Taking      Ni-kshay     Shapath     (pledge)      along       with
+                              members/residents of the panchayats.
+                          ●   Dissemination of awareness messages on social media of the
+                              Ministry.
+                          ●   Register Ni-kshay Mitra in all offices and Panchayati Raj
+                              Institutions.
+4   Ministry of Railways   ●   Engagement of all offices, organisations, PSUs, and
+                               manufacturing units of the Ministry of Railways in campaign.
+                           ●   Screening camps (Ayushman Arogya Shivir) at all stations in
+                               consultation with the State nodal health department.
+                           ●   Display of IEC materials in all offices & railway stations.
+                           ●   Awareness generation of all staff on TB.
+                           ●   Taking Ni-kshay Shapath (pledge) in all organisations &
+                               institutions.
+                           ●   Display of messages on TB in trains, print messages on
+                               railways tickets or e-tickets.
+                           ●   Awareness generation through existing public announcement
+                               systems for the general public.
+                           ●   Dissemination of awareness messages on social media of the
+                               Ministry/attached offices/institutions.
+                           ●   Register Ni-kshay Mitra from various organizations and
+                               institutions.
+5   Ministry of Home       ●   Facilitate engagement of all prison Inmates in campaign.
+    Affairs                ●   Display    of   IEC   materials   in   all   prisons/offices   and
+                               organisations
+                           ●   Awareness generation of all staff of the prisons on TB.
+                           ●   Screening camps (Ayushman Arogya Shivir) for all Inmates to
+                               be organised
+                           ●   Taking Ni-kshay Shapath (pledge) in all Prisons.
+                           ●   Dissemination of awareness messages on social media of the
+                               Ministry/Department.
+6   Ministry of Labour &   ●   Engagement of all attached & subordinate offices (DGFSALI,
+    Employment                 DGMS) Statutory Organisations (ESIC, EPFO), Autonomous
+                               Bodies (DTNBWED, VVGNLI) in campaign.
+                           ●   Display of IEC materials in all offices.
+                           ●   Organise Ayushman Arogya Shivir through ESIC Hospitals in
+                               consultation with the State nodal health department.
+                           ●   Taking Ni-kshay Shapath (pledge) in all organisations.
+                           ●   Mobilize and     engage     various       industries,    trade        union
+                               organisations,   business        associations,    and     other        key
+                               stakeholders for TB awareness.
+                           ●   Awareness messages on social media of the Ministry.
+                           ●   Communicate to all state functionaries on TB campaign
+                               seeking their support.
+                           ●   Register Ni-kshay Mitra from various organizations and
+                               institutions of Labour & Employment.
+7   Department        of   ●   Engagement of various organisations and institutions like
+    School Education &         Kendriya Vidyalaya Sangathan (KVS), Jawahar Navodaya
+    Literacy                   Vidyalaya Samiti (NVS), National Institute of Open Schooling
+                               (NIOS), National Council of Educational Research and
+                               Training (NCERT), National Council for Teacher Education
+                               (NCTE), etc in campaign.
+                           ●   Organize art & cultural activities like essays, posters, and
+                               elocution competitions in schools to bring awareness on TB.
+                           ●   Sensitization of students of 8th-12 standard in schools.
+                           ●   Create youth ambassadors and facilitate taking Ni-kshay
+                               Shapath     (pledge)   in   schools/attached         offices     of     the
+                               department.
+                           ●   Dissemination of awareness messages on social media of the
+                               department.
+                           ●   Register    Ni-kshay     Mitra     from    various      organizations,
+                               institutions and staff of the Dept. of School Education &
+                               Literacy.
+8    Department        of   ●   Anti-TB messaging on the postal cards and delivery
+     Posts                      packaging.
+                            ●   Display of IEC material at all post offices.
+                            ●   Awareness generation of all staff on TB.
+                            ●   Taking Ni-kshay Shapath (pledge) in all organisations
+                            ●   Dissemination of awareness messages on social media of the
+                                Department/attached offices.
+                            ●   Register Ni-kshay Mitra from various organisations and staff
+                                of the Dept. of Posts/attached offices
+9    Department        of   ●   Anti-TB messaging through mobile ringtones and push
+     Telecommunication          messaging on TB.
+                            ●   Display of IEC material at all offices.
+                            ●   Awareness generation of all staff on TB.
+                            ●   Taking Ni-kshay Shapath (pledge) in all organisations
+                            ●   Dissemination of awareness messages on social media of the
+                                Department/attached offices.
+                            ●   Register Ni-kshay Mitra from various organizations and staff
+                                of the Dept. of Telecommunication/attached offices.
+10   Ministry of Culture    ●   Engagement of all organisations, attached & subordinate
+                                offices, autonomous bodies in 100 days campaign.
+                            ●   Display of IEC materials in all offices.
+                            ●   Awareness generation of all staff on TB.
+                            ●   Taking Ni-kshay Shapath (pledge) in all organisations/offices.
+                            ●   Promote TB awareness through art & cultural festivals.
+                            ●   Engage artists, and performers as cultural ambassadors to
+                                create TB awareness
+                            ●   Dissemination of awareness messages on social media of the
+                                Ministry.
+                            ●   Register Ni-kshay Mitra from various organizations and
+                                institutions
+11   Ministry of Housing      ●   Engagement of all organizations, attached & subordinate
+     & Urban Affairs              offices, statutory & autonomous bodies, and PSUs in
+                                  campaign.
+                              ●   Display of IEC materials in all offices.
+                              ●   Engage      Urban    Local Bodies      (Municipal Corporations,
+                                  Municipalities), and mobilize local resources & budgets for TB
+                                  awareness.
+                              ●   Awareness generation of all staff on TB.
+                              ●   Taking Ni-kshay Shapath (pledge) in all offices and
+                                  organizations.
+                              ●   Dissemination of awareness messages on social media of the
+                                  Ministry.
+                              ●   Register Ni-kshay Mitra in all offices and institutions of the
+                                  Ministry of Housing & Urban Affairs
+12   Ministry            of   ●   Engagement of all organisations, attached & autonomous
+     Corporate Affairs            bodies, professional bodies in campaign.
+                              ●   Display of IEC materials in all offices.
+                              ●   Awareness generation of all staff on TB.
+                              ●   Taking Ni-kshay Shapath (pledge) in all organisations.
+                              ●   Dissemination of awareness messages on social media of the
+                                  Ministry.
+                              ●   Register Ni-kshay Mitra from various organisations/PSUs and
+                                  other institutions
+13   Ministry of Heavy        ●   Engagement of all Central Public Sector Enterprises (CPSEs),
+     Industries                   associate & subordinate offices, and Autonomous institutions
+                                  (like ARAI, FCRI, CMTI, GARC, ICAT, NATRAX etc.) in the
+                                  campaign.
+                              ●   Display of IEC materials in the offices of all CPSEs, workshops
+                                  and other major strategic locations.
+                              ●   Awareness of all staff on TB.
+                              ●   Ayushman Arogya Shivir (screening camps) in all CPSEs &
+                                  institutions to be conducted in consultation with State nodal
+                                  Health Department
+                            ●   Taking Ni-kshay Shapath (pledge) in all CPSEs & institutions.
+                            ●   Dissemination of awareness messages on social media of the
+                                Ministry/Department/PSUs/attached institutions .
+                            ●   Register Ni-kshay Mitras from the CPSEs and staff of the
+                                Ministry of Heavy Industries
+
+
+
+
+14   Ministry of Micro,     ●   Engagement        of   all   offices,   institutions,   and   attached
+     Small and Medium           organizations in the campaign.
+     Enterprises            ●   Display of IEC materials in all offices.
+                            ●   Awareness generation of all staff on TB.
+                            ●   Taking Ni-kshay Shapath (pledge) in all organisations / offices
+                                / institutions.
+                            ●   Ayushman Arogya Shivir (screening camps) in MSME and
+                                industrial hubs to be organised in consultation with State nodal
+                                health department
+                            ●   Dissemination of awareness messages on social media of the
+                                Ministry.
+                            ●   Register Ni-kshay Mitra from various organisations and
+                                institutions of MSME
+15   Ministry   of Tribal   ●   Engagement of all offices, institutions, and major initiatives like
+     Affairs                    Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyaan
+                                (PMJANMAN), Dharti Aaba Janjatiya Gram Utkarsh Abhiyaan
+                                in campaign.
+                            ●   Awareness generation of all staff on TB.
+                            ●   Communicate to all state functionaries on TB campaigns
+                                seeking their support.
+                            ●   Taking Ni-kshay Shapath (pledge) in all institutions / offices.
+                            ●   Mobilize and engage all Tribal Research Institutes (TRI),
+                                NGOs, community-based organisations for TB awareness.
+                             ●   Dissemination of awareness messages on social media of the
+                                 Ministry.
+                             ●   Register    Ni-kshay     Mitra   from   various    organisations,
+                                 institutions of Tribal Welfare, and Ministry of Tribal Affairs
+
+
+
+
+16   Ministry    of   Road   ●   Engagement of all offices, organizations, autonomous bodies,
+     Transport           &       and public sector undertakings in campaign.
+     Highways                ●   Display of IEC materials in all offices and strategic locations
+     (National Highways          on highways, digital displays, posters, and signage at toll
+     Authority of India/         plazas, and rest areas
+     Regional Offices)       ●   Awareness generation of all staff on TB.
+                             ●   Screening camps (Ayushman Arogya Shivir) for workers
+                                 engaged in the transport sector, transport hubs, and highway
+                                 construction to be organised in consultation with the State
+                                 nodal health department.
+                             ●   Taking Ni-kshay Shapath (pledge) in all offices and
+                                 organisations.
+                             ●   Dissemination of awareness messages on social media of the
+                                 Ministry.
+                             ●   Register Ni-kshay Mitra in all offices and institutions of the
+                                 Ministry of Road Transport & Highways
+17   Ministry of Coal         ●   Engagement      of   Coal    India   Limited       (CIL)   &   other
+                                  subsidiaries/attached offices/institutions [(BCCL, CCL, ECL,
+     (PSUs- Coal India            MCL, NCL, SECL, WCL & CMPDI) and NLCIL and SCCL] in
+     Limited             &        the campaign.
+     Subsidiaries       and   ●   Display of IEC materials in the offices of all PSUs, mining
+     Coal Companies)              areas and other major strategic locations under the purview of
+                                  PSUs.
+                              ●   Awareness generation of all staff on TB.
+                              ●   Screening of workers engaged in all coal mining areas to be
+                                  conducted in consultation with the State nodal Health
+                                  Department.
+                              ●   Organization of Ayushman Arogya Shivir (screening camps) in
+                                  industries and PSUs.
+                              ●   Taking Ni-kshay Shapath (pledge) in all offices, industries and
+                                  PSUs.
+                              ●   Dissemination of awareness messages on social media of the
+                                  Ministry/Department/PSUs/attached institutions.
+                              ●   Register Ni-kshay Mitras in all industries and PSUs and staff
+                                  of the Ministry of Coal
+18   Ministry of Mines        ●   Engagement of all PSUs (NALCO, HCL, MECL), Autonomous
+                                  Bodies (JNARDDC NIRM), Attached & Subordinate Office
+                                  (IBM, GSI) etc. in the campaign
+                              ●   Display of IEC materials in the offices of all PSUs, mining
+                                  areas and other major strategic locations.
+                              ●   Awareness of all staff on TB.
+                              ●   Ayushman Arogya Shivir (screening camps) in industries and
+                                  PSUs to be organised in consultation with the State nodal
+                                  Health Department.
+                              ●   Screening of staff & workers engaged in the mining sector to
+                                  be conducted in consultation with the Health Department.
+                              ●   Taking Ni-kshay Shapath (pledge) in all industries.
+                              ●   Awareness messages on social media of the department.
+                              ●   Register Ni-kshay Mitras from the Mines PSUs & other
+                                  institutions, and staff of the Ministry of Mines
+19   Ministry of Women          ●   Facilitate engagement of all Divisions, Missions & Schemes
+     &                  Child       (like Mission Saksham Anganwadi & Poshan 2.0, Mission
+     Development                    Sakti, Mission Vatsalaya), and Associated Organisations
+                                    (CARA, NIPCCD, NCPCR, NCW) in campaign.
+                                ●   Display of IEC materials in all offices/attached institutions.
+                                ●   Awareness generation of all staff on TB.
+                                ●   Taking Ni-kshay Shapath (pledge) in all organisations / offices.
+                                ●   Institutions & schemes like Anganwadi Centre, ICDS, SABLA,
+                                    Ujjawala, Swadhar Greh, etc to be involved in Screening
+                                    camps (Ayushman Arogya Shivir) conducted by health
+                                    department concerned
+                                ●   Dissemination of awareness messages on social media of the
+                                    Ministry.
+                                ●   Register Ni-kshay Mitra from various organizations and
+                                    institutions.
+20   Ministry      of   Rural   ●   Facilitate engagement of all Divisions and schemes (like
+     Development                    MGNREGA, NRLM, PMAY-G) in campaign.
+                                ●   Display of IEC materials in all offices.
+                                ●   Awareness generation of all staff on TB.
+                                ●   Taking Ni-kshay Shapath (pledge) in all organisations / offices.
+                                ●   Dissemination of awareness messages on social media of the
+                                    Ministry.
+                                ●   Register Ni-kshay Mitra from various organizations and
+                                    institutions.
+21   Ministry              of   ●   Facilitate engagement of PSUs of the department of Fertilizers
+     Chemicals             &        viz. FAGMIL, BVFCL, FCIL, PDIL, HFCL, RCF, NFL, FACT &
+     Fertilizers                    MFL and attached and subordinate offices in the campaign.
+                                ●   Display of IEC materials in all offices/attached institutions.
+                                ●   Awareness generation of all staff on TB.
+                                ●   Screening of staff & workers engaged in all PSUs/attached
+                                    institutions to be conducted in consultation with the Health
+                                    Department.
+                                ●   Taking Ni-kshay Shapath (pledge) in all organisations / offices.
+                          ●   Dissemination of awareness messages on social media of the
+                              Ministry.
+                          ●   Register Ni-kshay Mitra from various organizations and
+                              institutions.
+
+
+
+
+22   Ministry        of   ●   Facilitate engagement of cooperative organizations, National
+     Cooperation              / State / District / Block / Regional level cooperative federation,
+                              Cooperative banking Institutions and subordinate offices in the
+                              campaign.
+                          ●   Display of IEC materials in all offices/attached institutions.
+                          ●   Awareness generation of all staff on TB.
+                          ●   Screening of staff & workers through Ayushman Arogya Shivir
+                              (screening camps) engaged in all PSUs/attached institutions
+                              to be conducted in consultation with the Health Department.
+                          ●   Taking Ni-kshay Shapath (pledge) in all organisations / offices.
+                          ●   Dissemination of awareness messages on social media of the
+                              Ministry.
+                          ●   Register Ni-kshay Mitra from various organizations and
+                              institutions.
+23   Ministry of Social
+                          ●   Engagement of all organisations/ institutions attached (Old
+     Justice         &
+                              Age Home, Shelter Homes, juvenile homes etc.) &
+     Empowerment
+                              autonomous bodies, professional bodies in the TB Mukt
+                              Bharat Abhiyaan.
+                          ●   Display of IEC materials in all offices/attached institutions.
+                          ●   Awareness generation of all staff on TB.
+                          ●   Dissemination of awareness messages on social media.
+                          ●   Register Ni-kshay Mitra from various organizations and
+                              institutions.
+24
+     Department        of   ●   Engagement of concerned Divisions, institutions, and Central
+     Public        Sector       Public Sector Enterprises (CPSEs) in the TB Mukt Bharat
+     Enterprises                Abhiyaan.
+                            ●   Display of IEC materials in the offices and major strategic
+                                locations under the purview of CPSEs.
+                            ●   Awareness generation of all staff on TB.
+                            ●   Screening of workers engaged in all CPSEs to be conducted
+                                in consultation with the State nodal Health Department.
+                            ●   Dissemination of awareness messages on social media of
+                                the Ministry/Department/CPSEs/attached institutions.
+                            ●   Register Ni-kshay Mitras in all industries, CPSEs, and staff of
+                                the Department of Public Enterprises
+10.       Role and Responsibility of Stakeholders
+
+1. Accredited Social Health Activist (ASHA) / Community Volunteer
+      ●   Identify and map high burden areas (Orphanages, Migrant labours, Construction
+          site, Mining area, Residential Schools, Slums, Tea gardens etc. and / or areas with
+          high number of TB cases or deaths)
+      ●   Line list vulnerable population like >60 years age, Malnourished (BMI <18.5),
+          Diabetics, People living with HIV, Smokers, Alcoholic, Household Contacts of TB
+          case in the last 2 years, Individuals with history of TB in the last 5 years and any
+          other vulnerable population basis local area as decided by the district
+      ●   Line list all population in high risk villages & wards
+      ●   Mobilization of individuals identified during screening activities for X ray to MMU at
+          camp site or to public or private X-Ray facility
+      ●   Sputum collection and transportation from individuals identified either by symptom
+          or by X-Ray
+      ●   For those identified as TB during the campaign, ensure initiation of treatment by
+          MO & monitor treatment adherence, side effects, complications, or co-morbidities.
+      ●   Act as treatment supporter for these newly diagnosed Person with TB, as and
+          when directed by the MO/CHO/STS
+      ●   Seeding of Bank/post office account for Ni-kshay poshan yojana in Ni-kshay
+      ●   Contact tracing & home visit of these diagnosed Person with TB and mobilise
+          household contact to MO/CHO for screening
+      ●   For those individuals initiated on TB preventive treatment (TPT) by the MO/CHO
+          ensure dispensation of drug and monitor treatment adherence
+      ●   During the campaign focussed awareness activities (educate communities about
+          TB, its symptoms, causes, and how it spreads, emphasise the importance of early
+          detection and treatment, IEC material distribution, Motivating people for attending
+          the campaign,) in the villages, schools, Gram panchayat, Gram Sabha and any
+          other public places.
+      ●   Nutritional and Social Support: Linking these Person with TB with Ni-kshay Mitra
+          and ensure delivery of food basket in coordination with MO / CHO / STS every
+          month
+      ●   Facilitate referral and linkage of individuals identified with diabetes, hypertension,
+          during the campaign to Ayushman Arogya Mandirs for further evaluation and
+          continuity of care
+
+2. Community Health Officer (CHO)
+
+      ●   Coordinate with ASHA/CV for Identify and map high burden areas (Orphanages,
+          Migrant labours, Construction site, Mining area, Residential Schools, Slums, Tea
+          gardens etc. and / or areas with high number of TB cases or deaths)
+      ●   Verify and confirm linelist of vulnerable population like >60 years age,
+          Malnourished (BMI <18.5), Diabetics, People living with HIV, Smokers, Alcoholic,
+          Household Contacts of TB case, Individuals with history of TB in the last 5 years
+          and any other vulnerable population basis local area as decided by the district
+      ●   Verify the line list of all population (general + vulnerable) in high risk villages and
+          wards
+      ●   Ensure Mobilisation through ASHA/CV of this line listed population for TB
+          screening activities during campaign at Ayushman Aarogya Mandir (AAM) or
+          Ayushman Arogya Shivir camp site as identified by the district
+      ●   Screening of these individuals at AAM or camp site for Pulmonary (cough, fever,
+          chest pain, blood in sputum, night sweats, loss of appetite, weight loss, weakness
+          or fatigue) & Extra pulmonary TB (expanded spectrum of symptoms should be
+          enquired and people should be examined for extrapulmonary TB like swelling in
+          the neck.
+      ●   Organ specific extrapulmonary TB signs or symptoms should be observed like joint
+          pain or backache, headache or confusion, blood in urine, persistent abdominal
+          pain etc.
+      ●   Ensure enrollment in Ni-kshay portal and mobilisation of individuals identified
+          during screening activities for X ray (public/private) & collect sputum sample &
+          transportation to nearest testing centre
+      ●   For those identified as TB during the campaign, ensure initiation of treatment by
+          MO (use E-Sanjeevni) & monitor treatment adherence, side effects, complications,
+          or co-morbidities
+      ●   Data Entry of Bank/post office account for Ni-kshay poshan yojana in Ni-kshay
+          portal
+      ●   Ensure contact tracing & home visit of these diagnosed Person with TB by
+          ASHA/CV and screen household contact for ruling out active TB including chest
+          X-ray (Public/Private)
+      ●   Ensure initiation of TPT by MO (use E-Sanjeevni) and monitor treatment
+          adherence through ASHA/CV.
+      ●   Support ASHA/CV in focussed awareness activities (educate communities about
+          TB, its symptoms, causes, and how it spreads, emphasise the importance of early
+          detection and treatment, IEC material distribution, Motivating people for attending
+          the campaign,) in the villages, schools, Gram panchayat, Gram Sabha and any
+          other public places.
+      ●   Nutritional and Social Support: Consent of these Person with TB for nutritional
+          support and link with Ni-kshay Mitra and ensure delivery of food basket every
+          month
+      ●   Ensure continuity of care for identified NCDs through Ayushman Arogya Mandir
+          services, including follow-up of diabetes, hypertension and anaemia during the TB
+          treatment period, wherever applicable.
+      ●   Ensure entry of screening and referral details of diabetes, hypertension screened
+          during the campaign in the NCD portal,
+
+3. TB Health Visitors (in Urban areas)
+
+
+      ●   Identify and facilitate engagement of ASHA (wherever ASHA is not sufficiently
+          available, community volunteers (CVs)) in urban areas for campaign activities.
+      ●   Train and work with ASHA and CVs to identify and map high burden areas
+          (Orphanages, Migrant labours, Construction site, Mining area, Residential
+          Schools, Slums, Tea gardens etc. and / or areas with high number of TB cases or
+          deaths)
+      ●   Support ASHA and CVs in preparation of linelist vulnerable population like >60
+          years age, Malnourished (BMI <18.5), Diabetics, People living with HIV, Smokers,
+          Alcoholic, Household Contacts of TB case, Individuals with history of TB in the last
+          5 years and any other vulnerable population basis local area as decided by the
+          district
+      ●   Identify camp sites in urban areas. Camp sites can be AAM, local dispensaries like
+          mohalla clinics, aapl dawakhana etc. or school (during non teaching time), or ward
+          office or any other community setting
+      ●   Coordinate with ASHA and CVs for mobilisation of people to camp sites, to X-Ray
+          sites and for specimen transportation.
+      ●   Coordinate with health facilities for initiation of treatment by MO, comorbidity
+          screening, differentiated TB care assessments and DST.
+      ●   Arrange treatment supporters for the patients and coordinate follow up of patients
+      ●   Seeding of Bank/post office account for Ni-kshay poshan yojana in Ni-kshay
+      ●   Contact tracing & home visit of these diagnosed Person with TB and mobilize
+          household contact to MO/CHO for screening
+      ●   For those individuals initiated on TB preventive treatment (TPT) by the MO/CHO
+          ensure treatment supporter and coordinate for dispensation of drug and treatment
+          compliance
+      ●   During the campaign focused awareness activities (educate communities about
+          TB, its symptoms, causes, and how it spreads, emphasize the importance of early
+          detection and treatment, IEC material distribution, Motivating people for attending
+          the campaign,) in the wards, schools, Nagar Panchayat, mahila arogya samitis and
+          any other public places.
+      ●   Nutritional and Social Support: Linking these Person with TB with Ni-kshay Mitra
+          and ensure delivery of food basket in coordination with MO / CHO / STS every
+          month
+      ●   Coordinate with Urban Primary Health Centres and designated NCD clinics to
+          ensure follow-up and continuity of care for NCDs identified among TB patients and
+          vulnerable populations.
+
+4. Medical Officer
+
+      ●   Ensure mapping of high burden areas (Orphanages, Migrant labours, Construction
+          site, Mining area, Residential Schools, Slums, Tea gardens etc. and / or areas with
+          high number of TB cases or deaths) and listing of vulnerable population like >60
+          years age, Malnourished (BMI <18.5), Diabetics, People living with HIV, Smokers,
+          Alcoholic, Household Contacts of TB case, Individuals with history of TB in the last
+          5 years and any other vulnerable population basis local area as decided by the
+          district, prepared by CHOs and ASHA and compile for the PHC area
+       ●   Identify TB screening (camp) sites at Ayushman Aarogya Mandir (AAM) or any
+           other community convenient camp site
+       ●   Guide CHOs for development of AAM wise microplans and compile to prepare
+           PHC level microplan (Who, Where, When and What required)
+       ●   Arrange for mobilization of people to the campsite for screening, X-Ray and NAAT
+           (including specimen transportation)
+       ●   Ensure that the X-Ray units, the extra batteries and laptops are charged at the end
+           of the day to be ready for the next day.
+       ●   Training of all CHOs and ASHAs on screening, protocol of the camp, and
+           recording/reporting requirements
+       ●   Train all CHOs and identified health facility staff on recording and reporting in Ni-
+           kshay
+       ●   Train all health facilities on the protocols, arrangements made for the campaigns
+           and roles assigned to each of them
+       ●   Maintain a high referral and screening rate at the health facility OPD
+       ●   For those identified as TB during the campaign, initiate treatment, comorbidity
+           testing, differentiated TB care assessment, contact investigation, nutrition support
+           initiated.
+       ●   Ensure contact tracing & home visit of these diagnosed Person with TB by
+           ASHA/CV and screen household contact for ruling out active TB including chest
+           X-ray (Public/Private) and ensure initiation of TPT
+       ●   Prepare PHC area wise awareness plan including engagement of the
+           communities.
+       ●   Communicate all village/ward heads on the schedules of camp well in advance
+           and mobilise their support
+       ●   Visit and engage all campsites on daily basis to understand operations and early
+           identification of issues to address promptly
+       ●   Monitor and report daily activities of the PHC area.
+       ●   Ensure appropriate clinical management and referral of NCD & other
+           comorbidities. Ensure accuracy and completeness of TB–NCD comorbidity
+           information recorded in the Ni-kshay and NCD portals at the facility level.
+
+5.   Senior Treatment Supervisor
+
+       ●   Coordination campaign activities within the TB unit, supervised
+●   Training of CHO, ASHA & volunteers involved in the campaign. Identify and
+    facilitate engagement of additional community volunteers, as per the requirement
+    (in area where there is no ASHA)
+●   Coordinate with other programmes and/or departments to get available data and
+    support mapping process
+●   Coordinate with all CHOs and MOs within the TB units for village wise mapping
+    and list of vulnerable population
+●   Coordinate with all MOs and facilitate development of a microplan [Who
+    (personnel), When (timelines), Where (sites / facilities) and What (consumables /
+    materials)] for the campaign and compile at TB unit level
+●   Coordinate with STLS and TB-HV, and maintain list of campsites, X-Ray and
+    NAAT facilities (with their networked villages & wards)
+●   Visit all health facilities in the TB units, assess for health facility level activity
+    requirements and communicate with the in-charge of health facilities on
+    expectations during the campaign.
+●   Train staff at the health facilities on the protocol of the campaign. Identify and train
+    staff for proper recording of activities and reporting in Ni-kshay at the health facility.
+●   Coordinate for logistics i.e. availability of anti-TB drugs, TB preventive treatment,
+    flow chart of the campaign, coverage area map, referral sites, clinical protocol for
+    diagnosis of TB, DR-TB, TPT and differentiated TB care.
+●   Coordinate with ASHA/Community volunteers for post-diagnosis work of Person
+    with TB i.e. DST, TB comorbidity testing, treatment initiation, differentiated TB care
+    assessment, NPY requirements.
+●   Arrange of treatment supporters for all patients initiated on treatment
+●   Ensure contact investigation are carried out for all diagnosed Person with TB by
+    CHO/ASHA, coordinate for TB rule out, TPT initiation and completion of TPT
+●   Arrange differentiated TB care assessment at all health facilities and make
+    necessary equipment available to these facilities. Train relevant para medical staff
+    in the TB unit on differentiated TB care protocol and facilitate training of medical
+    officers through BMO/DTO.
+●   Identify potential Ni-kshay Mitra in the area and engage/facilitate engagement of
+    Ni-kshay Mitra for nutrition support to TB patients and their family members.
+●   Coordinate with treatment supporters and patients for bank account and consent
+    to ensure NPY and Ni-kshay Mitra benefits are provided to patients.
+      ●   Monitor campaign indicators at TB unit level. Cascade of ACF, Treatment, TPT,
+          Differentiated TB care should be reviewed regularly and provide facility wise
+          feedback through BMO and PHC MOs
+      ●   Visit or engage with all health facilities daily to understand operations and early
+          identification of issues to address them promptly
+      ●   Reporting of all campaign indicators from TB unit level.
+
+6. Senior TB Laboratory Supervisor
+      ●   Arrange for specimen collection and transport services from village to NAAT and
+          C&DST laboratories.
+      ●   At the place of specimen collection, arrange specimen containers, and packaging
+          materials are available.
+      ●   Train all those who are going to collect specimens on process of good quality
+          sputum sample and packaging of specimen with biosafety precautions
+      ●   Engage and communicate with specimen transport agencies and/or personnel and
+          inform the campaign schedules (date and locations) to make sure specimens are
+          picked up and transported without any delays.
+      ●   Create a map (listing) each village and site of camps with NAAT sites
+      ●   Ensure availability of consumables, additional LTs and training based on the
+          assessment to cover additional load of specimens.
+      ●   Increase in capacity of NAAT to match with the requirement. Arrange additional
+          shifts for optimum use of existing machines.
+      ●   If any additional machine (incl. Mobile van) has been brought to the selected
+          district or engaged private laboratory, then visit site, assess and make sure
+          consumables and LTs are in place for optimal functioning at these additional labs.
+      ●   Identify sites for non-sputum specimen collections (to test paediatric TB and
+          extrapulmonary TB). Based on the estimated workload, create additional sites at
+          sub-district level. Map villages/sites with these centres.
+      ●   At all non-sputum specimen collection sites, ensure availability of equipment and
+          consumables required for induced sputum, gastric lavage, biopsy, fluid drainage,
+          etc. Identify staff and train (or retrain) for specimen collection.
+      ●   Monitor laboratory related indicators i.e. % specimen tested on NAAT; % specimen
+          positive for TB; % positive specimen tested for rifampicin resistance, INH
+          resistance and FQ resistance; quality of specimen; turn around time; numbers of
+          specimen tested per machine etc.
+      ●   Engage with laboratories on a daily basis to understand the operations and early
+          identification of issues for addressing them.
+      ●   Map villages and camp sites with the X-Ray examination facilities.
+      ●   Visit each X-Ray facility, assess and ensure consumables and human resources
+          are available.
+      ●   Expand X-Ray examinations to match the requirements during the campaign by
+          increasing the shifts, human resources or identifying private facilities for
+          engagement.
+      ●   Monitor and supervise X-Ray related indicators i.e % of screened people examined
+          by X-Ray, % of people with abnormal X-Ray, % diagnosed with NAAT or by X-Ray
+          alone.
+      ●   Review screening and linkage of TB patients with diabetes, hypertension during
+          routine supervisory visits and programme reviews.
+      ●   Review completeness of TB and NCD data entry from facilities and camps, and
+          coordinate with CHOs and facilities to address gaps in Ni-kshay and NCD portal
+          reporting
+
+7. Block Medical Officer and Block Programme Manager
+      ●   Overall responsibility of operationalization and output of 100 days campaign at
+          block level
+      ●   Coordinate with all medical officers, STS, STLS, TB-HV, block community
+          mobilizer, block programme manager and supervisors and compile block level
+          microplan of campaign
+      ●   Communicate to all health facilities in the block on the protocol and plan of the
+          campaign
+      ●   Prepare training calendar and operationalize training of all medical, para medical
+          staff and community volunteers on the campaign activities
+      ●   Engage on block development officer and administrator right at the beginning of
+          preparation, report and take support to arrange logistics for the camp
+      ●   Supervise campaign with daily reporting and compilation
+      ●   Complete training/ orientation of all staff involved/deputed for the campaign
+       ●   To facilitate change management with respect to use of ICT & Ni-kshay tools for
+           concerned data entry, validation & its use for public health action
+       ●   Review implementation of NCD screening and linkage under the TB Mukt Bharat
+           Abhiyan at block level, including referral and continuity of care for diabetes,
+           hypertension among TB patients and vulnerable populations
+
+8. District Programme Coordinator, District PPM (public private mix) Coordinator and
+   DR-TB/TB comorbidity coordinators
+       ●   To work in close coordination with DTO for the roll out of the campaign in the district
+           which   includes    planning,   budgeting,    procurement,     drugs   and    logistics
+           management, and preparation of reports.
+       ●   To assist the DTO in organizing training, meetings, reviews and sensitization of
+           communities at the district level.
+       ●   To assist District TB Officer in district level human resources management for the
+           campaign activities.
+       ●   To facilitate change management with respect to use of ICT & Ni-kshay tools for
+           concerned data entry, validation & its use for public health action.
+       ●   Assist to DTO to manage the public grievance redressal mechanism in the District
+           TB Office.
+       ●   Support compilation and reporting of NCD screening and referral data generated
+           during the campaign and facilitate coordination between NTEP and NP-NCD
+           teams at block level.”
+       ●   Any other task assigned by DTO to roll out this campaign.
+
+
+9. District TB Officer
+       ●   DTO will be responsible for planning the TB screening activities in the district
+           during the campaign and to ensure the supply of drugs and logistics for the
+           campaign activities
+       ●   District TB officers will assist the Chief medical officer for overall coordination and
+           reporting and also for organizing all district level meetings for implementation of
+           campaign activities.
+       ●   Responsible for the public grievance redressal mechanism in the District TB Office.
+
+10. District   Programme      Officer   (DPO)    for    HIV,   Cancer,    Diabetes,     Anaemia,
+   Undernutrition
+       ●   DPO will be responsible for jointly planning with the DTO for activities on
+           screening, testing and treatment for HIV, Cancer, Diabetes, Hypertension,
+           Anaemia and Undernutrition in the district during the campaign and to ensure the
+           supply of drugs and logistics for the campaign activities
+       ●   DPO will coordinate to make logistics for outreach services
+       ●   DPO will be arranging for reporting of respective services.
+       ●   DPO will facilitate linkages and inform referral facilities for care and management
+           of referred beneficiaries
+
+11. Chief Medical Officer
+       ●   Chief Medical Officer will be the nodal officer and responsible for overall
+           coordination and supervision of this campaign activities for the whole district and
+           sharing of reports to concerned district collector/ district magistrate and with State
+           officials.
+
+12. District Collector / District Magistrate
+       ●   District Collector / District Magistrate will be overseeing the nodal officer for the
+           concerned district and responsible for overall administrative supervision for the
+           whole district.
+
+13. State TB Officer
+       ●   State TB Officer will be responsible for overall coordination and supervision of this
+           campaign activities for the whole state and sharing of reports to concerned
+           Secretary (Health) / MD (NHM) and with Central TB Division
+       ●   Issue guidance to all district and management units to engage for the campaign
+           operation
+       ●   Galvanize support of administration for taking the activity as a whole-of-
+           government approach
+       ●   Funds availability for the additional consumables, human resources, agency
+           engagement, printing, vehicles/transportation
+       ●   Guide the district health team on high visibility of awareness and social
+           mobilization campaign
+       ●   Hold meetings with the state level officials of the key departments, industries,
+           private sector, community representatives and influencers to take their support for
+           the campaign
+       ●   Review activities of the campaign and address any gaps in the operation
+
+14. State Programme Officer (SPO) for HIV, Cancer, Diabetes, Anaemia, Undernutrition
+       ●   State Programme Officer will be responsible for joint coordination and supervision
+           of the campaign activities and sharing of reports to Secretary (Health) / MD (NHM)
+           and with concerned departments in MoHFW
+       ●   Issue guidance to all district and management units to engage for the campaign
+           operation
+       ●   Guide the district health team on high visibility of awareness and social
+           mobilization campaign for HIV, Cancer, Diabetes, Hypertension, Anemia,
+           Undernutrition
+       ●   Review activities of the campaign and address any gaps in the operation
+
+
+15. Principal Secretary (Health) / Mission Director (NHM)
+       ●   Act as nodal officer for the state/UT concerned for overall administrative
+           supervision for the whole state/UT.
+       ●   Guide and orient all district level administration units on the operationalization of
+           campaign
+       ●   Mobilize other relevant departments like Panchayati Raj, tribal, urban affairs, rural
+           development, education etc. for the campaign activities
+       ●   Issue guidance to departments which cover congregate settings, residential
+           institutions, industries, private sector and other vulnerable settings to ensure
+           saturation of coverage
+       ●   Review campaign activities on a regular basis to ensure quality of activities and
+           desirable output
+
+
+16. Heads of tertiary institutions, ESI, Defence and CGHS
+       ●   Sensitize & provide guidance / instructions to all departments / divisions on the
+           campaign
+       ●   Display of IEC materials in the institute, health facilities, offices and other major
+           strategic locations.
+       ●   Awareness of all staff on TB & organize symposiums, health talks, staff
+           competitions, etc on TB
+        ●   Ayushman Arogya Shivir (screening camps) in institute, health facilities, offices to
+            be organized in consultation with the State nodal Health Department.
+        ●   Screening of staff & workers to be conducted in consultation with the Health
+            Department.
+        ●   Taking Ni-kshay Shapath (pledge) in all institutional & community settings.
+        ●   Awareness messages on social media of the department.
+        ●   Encourage Ni-kshay Mitras from the institute / organization & other sub-units, and
+            staff to come forward & adopt consenting TB patients to provide nutritional &
+            psychosocial support.
+
+
+11.         Monitoring and Reporting
+
+    Monitoring and reporting of the campaign activities must be continuous and data-driven,
+    primarily utilizing the Ni-kshay portal.
+
+●   Reporting and Data Flow: During the campaign, the team will maintain records locally,
+    ensure data entry in Ni-kshay and report aggregated numbers of activities with visuals as
+    follows:
+        ○   Hard copies at health facilities: Line-list of vulnerable population to be
+            maintained at the AAM.
+        ○   Ni-kshay: Daily entry of individuals reached, screened by X-Ray, screened by
+            symptoms, tested with NAAT, tested with Cy-TB, other tests (both positive and
+            negative results) and treatment services provided in the Ni-kshay.
+        ○   NCD & other health activities: Daily entry of all individuals screened, tested,
+            diagnosed & treatment services provided in NCD portal & other relevant portals.
+        ○   Ni-kshay Forms: Reporting of camp progress including Jan Bhagidari and
+            Awareness activities (meetings/events conducted, photos/videos, villages visited,
+            beneficiaries covered/reached) should be shared with district, state and centres on
+            a daily basis in the Google forms & Ni-kshay forms
+●   Key Indicators (KPIs): Monitoring focuses on achieving targets
+        ○   Number and % vulnerable populations reached and enrolled in Ni-kshay
+        ○   Number and % screening of vulnerable populations by X-ray
+        ○   Number and % testing of presumptive cases by NAAT,
+        ○   Number and % assessment of patients for high risk of death (differentiated care),
+        ○   Number and % linkage to NPY and Ni-kshay Mitra.
+       ○   Number and % TPT initiated among eligible
+       ○   Number and % of individuals screened for diabetes, diagnosed positive & initiated
+           on treatment
+       ○   Number and % of individuals screened for hypertension, diagnosed positive &
+           initiated on treatment
+       ○   Number and % of individuals screened for anemia, diagnosed positive & initiated
+           on treatment
+
+●   Review: Regular review meetings (weekly at district level, fortnightly at state level) should
+    be held, informed by Ni-kshay data, to address gaps in operation and service quality.
+Annexure I: Ayushman Arogya Shivir
+
+S.N. Services                      Activities
+
+ 1   Tuberculosis                    ●   TB screening with X-Ray
+                                     ●   Specimen collection and transport
+                                     ●   Awareness and Counselling
+                                     ● Ni-kshay Mitra Registration
+ 2   Non-communicable diseases       ●   Measurement of BP
+     (NCDs)                          ●   Testing of Blood Sugar
+                                     ●   Referral for individuals identified with abnormal values
+                                     ●   Wellness - Awareness, Counselling and
+                                         Activity- for healthy lifestyle
+ 3   Anaemia Mukt Bharat and         ●   Hb testing
+     Nutrition                       ● BMI measurement
+                                     ● Nutrition counselling
+                                     ● Referral service for severe anaemia and undernutrition
+ 4   HIV services (only at TI        ●   Pre-test counselling
+     settings, not in community)     ●   Testing
+                                     ● Post-test counselling and referral
+                                     ● Follow up with those on ART care for TPT eligibility
+Annexure II: Logistics Required – Ayushman Arogya Shivir
+
+
+Shivir                        Key Logistics/ Materials Needed (Indicative)
+Registration Desk             Stationery Items, IT System
+Tuberculosis                  Handheld X-Ray Machine with detector (Fully charged)
+                              Sputum collection cups, sputum transport boxes, referral forms,
+                              masks/gloves, IEC posters on TB symptoms
+                              Enrollment of Ni-kshay Mitra Volunteers - Register and engage
+                              volunteers to support TB patients with nutrition kits, counselling, and
+                              livelihood linkages through pledge ceremonies and community
+                              mobilization at health camps.
+Non-communicable              BP apparatus, stethoscope, glucometer, glucose strips, basic OPD
+diseases (NCDs) &             register/forms, referral slips
+Wellness
+Anemia and                    Hb test kits (rapid diagnostic kits where available), weighing
+Undernutrition Screening machine, stadiometer, record/registers, counselling leaflets in local
+                              language, iron tablets, BMI Chart
+HIV testing (only at TI       Rapid test kits, counselling leaflets in local language
+settings, not in community)
+Annexure III: Algorithm
+Annexure IV : High Risk Villages and Wards - State-wise
+           States and UT           No. of High Risk Villages and Wards
+
+           Uttar Pradesh                         26,722
+          Madhya Pradesh                         13,728
+              Odisha                             13,271
+             Rajasthan                           11,184
+            Maharashtra                          11,091
+                Bihar                            11,055
+            West Bengal                           9,406
+             Jharkhand                           8,041
+             Karnataka                           7,393
+               Assam                             5,849
+         Himachal Pradesh                        5,176
+            Chhattisgarh                         4,975
+              Gujarat                             4,687
+          Andhra Pradesh                         4,421
+            Uttarakhand                          4,216
+            Tamil Nadu                            3,643
+               Punjab                             3,206
+             Telangana                           2,492
+              Haryana                             1,698
+             Meghalaya                            1,625
+         Jammu & Kashmir                         1,518
+         Arunachal Pradesh                       1,057
+              Manipur                              390
+               Kerala                              385
+             Nagaland                              344
+              Tripura                              228
+              Mizoram                              185
+               Sikkim                              118
+                Goa                                103
+                Delhi                               38
+                Total                           1,58,266
+Annexure V: Microplanning Formats
+Link to the microplanning formats-
+https://docs.google.com/spreadsheets/d/11NPUBvU2m79mnTyM2qM3OyqALYRWUs6PTgQ2L
+FouplA/edit?usp=sharing
+
+
+Sl   Format no            Name               Level      Who will   Description
+                                                        fill in
+
+1    Population           Vulnerability      ASHA       ASHA       Mapping of vulnerability and
+     screening format     mapping and        level                 Screening
+                          screening
+
+2    Campaign, HSC        100 days          AAM         CHO        mapping of ASHA catchment
+     MP-1                 campaign planning (SHC)
+                          at Aayushman
+                          Aarogya Mandir
+                          (AAM)/ Health
+                          Sub-center
+
+3    Campaign, PHC        100 days          PHC/        MO-PHC     CHO wise mapping of
+     MP-2                 campaign planning UPHC                   residential, congregate setting,
+                          at PHC                                   work place settings
+
+4    Campaign, Block      100 days          Block       BMO        PHC/ U-PHC wise mapping of
+     MP-3                 campaign planning                        residential, congregate setting,
+                          at block                                 work place
+                                                                   settings,requirement of MMUs,
+                                                                   X-ray facilities, NAAT facilities
+
+5    Campaign, District   100 days          District    DTO        Mapping of vulnerability and
+     MP-4                 campaign planning                        reach of services
+                          at district
+
+6    Campaign, State      100 days          State       STO        Mapping of vulnerability and
+     MP-5                 campaign planning                        reach of services
+                          at State
+
+7    Campaign, Mobile     Mobile Medical     District   DTO        Mapping of vulnerability and
+     team format, MP-6    Unit Format                              reach of services
+     TB Mukt Bharat
+                          IEC Microplan                            District Level Communication
+ 8   Abhiyaan, IEC                           District     DTO
+                          Format                                                Plan
+     Microplan Format
+

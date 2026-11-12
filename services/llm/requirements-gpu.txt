@@ -1,0 +1,4 @@
+# GPU host only. Verified 2026-11-12 (RTX 3090, driver 580 / CUDA 13). Pulls torch 2.14 (cu130).
+#   uv venv --python 3.12 .venv && uv pip install --python .venv/bin/python -r requirements-gpu.txt
+vllm==0.33.0
+ninja==1.13.0  # vLLM JIT-compiles some kernels at start-up

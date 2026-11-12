@@ -1,0 +1,16 @@
+id: nhsrc_emergency_flw_ncd
+title: "Emergency Care for FLW — Emergency Conditions arising out of NCDs"
+publisher: "National Health Systems Resource Centre (NHSRC), MoHFW"
+url: "https://www.nhsrcindia.org/sites/default/files/2022-11/Emergency%20Care%20for%20FLW-Emergency%20Conditions%20arising%20out%20of%20NCDs.pdf"
+version_or_date: "Training slides; PDF created 2022-10-26"
+retrieved_on: "2026-11-11"
+jurisdiction: national
+kind: clinical_guidance
+sha256: "cdd2b6a55d4d8d10d0d77e0569c6d5163a40375e474722d444546de7de675c2f"
+local_copy: "knowledge/references/files/nhsrc_emergency_flw_ncd.txt"
+notes: "Training material for frontline workers (ANM/MPW). Domain nhsrcindia.org is NHSRC's official site."
+excerpts:
+  - locator: "slide 3 (pdf 3), Recognising life threatening situations - NCDs"
+    text: "RECOGNISING LIFE THREATENING … 1. Sudden weakness in arms or legs (usually affects one side of the body) … 2. Sudden drooping or weakness in one side of the face … 3. Sudden loss of balance, headache, dizziness, or loss of consciousness … 4. Sudden blurring of vision … 5. Sudden difficulty in speech/inability to speak … 6. Sudden pain in the chest"
+  - locator: "slide 4 (pdf 4), Management protocol - general measures"
+    text: "Call the Ambulance (102)"

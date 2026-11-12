@@ -1,0 +1,17 @@
+id: nhm_jsy_page
+title: Janani Suraksha Yojana
+publisher: National Health Mission, MoHFW
+url: https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=841&lid=309
+version_or_date: Undated web page (site footer date is site-wide)
+retrieved_on: '2026-11-12'
+jurisdiction: national
+kind: scheme
+sha256: 01120413b4ac5ee00a9e1ace0a6eff0cb0f165dea1b7739446a714a9af880774
+local_copy: knowledge/references/files/nhm_jsy_page.txt
+excerpts:
+- locator: 'Important Features of JSY: LPS states'
+  text: The scheme focuses on poor pregnant woman with a special dispensation for states that have low institutional delivery rates, namely, the states of Uttar Pradesh
+- locator: 'Eligibility for Cash Assistance: LPS'
+  text: '| All pregnant women delivering in government health centres, such as Sub Centers (SCs)/Primary Health Centers (PHCs)/Community Health Centers (CHCs)/First Referral Units (FRUs)/general wards of
+    district or state hospitals'
+notes: Undated, so no JSY rupee amounts are shown (invariant 6 needs a dated source).

@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sehat-saathi.local/schemas/pathway.schema.json",
+  "title": "Pathway",
+  "type": "object",
+  "required": ["id", "version", "title", "applies_when", "review", "sources", "questions", "danger_signs", "rules", "referral", "low_care"],
+  "properties": {
+    "id": {"$ref": "common.schema.json#/$defs/id"},
+    "version": {"$ref": "common.schema.json#/$defs/semver"},
+    "title": {"$ref": "common.schema.json#/$defs/i18nText"},
+    "applies_when": {"$ref": "common.schema.json#/$defs/condition"},
+    "review": {"$ref": "common.schema.json#/$defs/review"},
+    "sources": {"type": "array", "minItems": 1, "items": {"$ref": "common.schema.json#/$defs/id"}},
+    "questions": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/question"}},
+    "danger_signs": {"type": "array", "items": {"$ref": "#/$defs/dangerSign"}},
+    "rules": {"type": "array", "items": {"$ref": "#/$defs/rule"}},
+    "referral": {
+      "type": "object",
+      "required": ["bring"],
+      "properties": {"bring": {"type": "array", "items": {"$ref": "common.schema.json#/$defs/id"}}},
+      "additionalProperties": false
+    },
+    "low_care": {
+      "description": "null means the pathway has no approved home-care rule, so LOW is impossible.",
+      "oneOf": [{"type": "null"}, {"$ref": "#/$defs/lowCare"}]
+    },
+    "tags": {"type": "array", "items": {"$ref": "common.schema.json#/$defs/id"}}
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "question": {
+      "type": "object",
+      "required": ["fact", "required", "ask"],
+      "properties": {
+        "fact": {"$ref": "common.schema.json#/$defs/factKey"},
+        "required": {"type": "boolean"},
+        "ask": {"$ref": "common.schema.json#/$defs/i18nText"},
+        "options": {"type": "array", "items": {"type": "string"}},
+        "input": {"enum": ["tristate", "duration", "number", "enum"]},
+        "ask_when": {"$ref": "common.schema.json#/$defs/condition"}
+      },
+      "additionalProperties": false
+    },
+    "dangerSign": {
+      "type": "object",
+      "required": ["id", "when", "label", "source"],
+      "properties": {
+        "id": {"$ref": "common.schema.json#/$defs/id"},
+        "when": {"$ref": "common.schema.json#/$defs/condition"},
+        "label": {"$ref": "common.schema.json#/$defs/i18nText"},
+        "source": {"$ref": "common.schema.json#/$defs/sourceRef"}
+      },
+      "additionalProperties": false
+    },
+    "rule": {
+      "type": "object",
+      "required": ["id", "level", "when", "rationale", "source", "facility_level", "target_window"],
+      "properties": {
+        "id": {"$ref": "common.schema.json#/$defs/id"},
+        "level": {"enum": ["HIGH", "MEDIUM"]},
+        "when": {"$ref": "common.schema.json#/$defs/condition"},
+        "rationale": {"$ref": "common.schema.json#/$defs/i18nText"},
+        "source": {"$ref": "common.schema.json#/$defs/sourceRef"},
+        "facility_level": {"$ref": "common.schema.json#/$defs/facilityLevel"},
+        "target_window": {"$ref": "common.schema.json#/$defs/targetWindow"}
+      },
+      "additionalProperties": false
+    },
+    "lowCare": {
+      "type": "object",
+      "required": ["id", "when", "rationale", "return_precautions", "source"],
+      "properties": {
+        "id": {"$ref": "common.schema.json#/$defs/id"},
+        "when": {"$ref": "common.schema.json#/$defs/condition"},
+        "rationale": {"$ref": "common.schema.json#/$defs/i18nText"},
+        "return_precautions": {"$ref": "common.schema.json#/$defs/i18nList"},
+        "source": {"$ref": "common.schema.json#/$defs/sourceRef"}
+      },
+      "additionalProperties": false
+    }
+  }
+}

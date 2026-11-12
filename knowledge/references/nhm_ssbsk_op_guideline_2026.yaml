@@ -1,0 +1,20 @@
+id: nhm_ssbsk_op_guideline_2026
+title: "Samagra Shishu Bal Swasthya Karyakram (SSBSK) Operational Guidelines 2026"
+publisher: "Ministry of Health and Family Welfare / National Health Mission"
+url: "https://nhm.gov.in/New-Update-2025-26/Guidelines/SSBSK/SSBSK_Operational%20Guidline_Final_06-08-2026.pdf"
+version_or_date: "Operational Guidelines 2026 (file dated Final 06-08-2026; PDF created 2026-08-18)"
+retrieved_on: "2026-11-11"
+jurisdiction: national
+kind: clinical_guidance
+sha256: "efe7a76ae4004f334ec33c58408ca1afb4bf2c68147f15c6eb578dd876ec11a4"
+local_copy: "knowledge/references/files/nhm_ssbsk_op_guideline_2026.txt"
+notes: "Consolidates HBNC (2014) and HBYC (2018). Tables are two-column; excerpts join cell fragments with '…'."
+excerpts:
+  - locator: "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn"
+    text: "Table 3.3: Criteria for Danger Signs in newborn … Movement only when stimulated … or no movement at all … Severe chest indrawing … Yellow discolouration in … Not able to feed … palm and feet … Blood in stool … Convulsion … Axillary temperature 37.5º C … Difficulty in breathing … or above (feels hot to touch) … Fast breathing (more than 60 … Axillary temperature less than … breaths per minute) … 36º C (feels cold to touch)"
+  - locator: "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child"
+    text: "Table 3.5: Criteria for Danger Signs in Young Child … Not able to feed/drink … Fever (more than 37.5º C or … 99.5º F) more than 7 days and … no doctor consultation taken … Vomits everything often … Diarrhoea more than 14 days … Lethargy/ unconsciousness … Convulsions/convulsing now … Blood in stools … Difficulty in breathing … Fast breathing (2 months to 12 … months: more than 50 breaths … per minute; 12 months to 5 years: … Severe chest in-drawing … more than 40 breath per minute)"
+  - locator: "p. 23 (pdf 49), text after Table 3.4"
+    text: "presence of danger signs necessitates prompt clinical assessment, pre referral stabilization, and immediate referral"
+  - locator: "p. 28 (pdf 54), Figure 3.5: Maternal Danger Signs"
+    text: "Figure 3.5: Maternal Danger Signs … Excessive … Convulsions … Bleeding … Fever … Severe … abdominal pain … Difficulty in … breathing"

@@ -1,0 +1,160 @@
+pathway: null
+# Every universal danger sign alone, with nothing else known and no pathway, gives EMERGENCY.
+cases:
+  - id: universal_general_unconscious
+    facts: {ds_unconscious: "yes"}
+    expect: {urgency: EMERGENCY, fired: [general.unconscious]}
+    covers: [{rule: general.unconscious, kind: firing}]
+  - id: universal_general_profuse_bleeding
+    facts: {ds_profuse_bleeding: "yes"}
+    expect: {urgency: EMERGENCY, fired: [general.profuse_bleeding]}
+    covers: [{rule: general.profuse_bleeding, kind: firing}]
+  - id: universal_general_sudden_limb_weakness
+    facts: {ds_sudden_limb_weakness: "yes"}
+    expect: {urgency: EMERGENCY, fired: [general.sudden_limb_weakness]}
+    covers: [{rule: general.sudden_limb_weakness, kind: firing}]
+  - id: universal_general_sudden_face_drooping
+    facts: {ds_sudden_face_drooping: "yes"}
+    expect: {urgency: EMERGENCY, fired: [general.sudden_face_drooping]}
+    covers: [{rule: general.sudden_face_drooping, kind: firing}]
+  - id: universal_general_sudden_speech_difficulty
+    facts: {ds_sudden_speech_difficulty: "yes"}
+    expect: {urgency: EMERGENCY, fired: [general.sudden_speech_difficulty]}
+    covers: [{rule: general.sudden_speech_difficulty, kind: firing}]
+  - id: universal_general_sudden_vision_blurring
+    facts: {ds_sudden_vision_blurring: "yes"}
+    expect: {urgency: EMERGENCY, fired: [general.sudden_vision_blurring]}
+    covers: [{rule: general.sudden_vision_blurring, kind: firing}]
+  - id: universal_general_sudden_balance_headache_dizziness
+    facts: {ds_sudden_balance_headache_dizziness: "yes"}
+    expect: {urgency: EMERGENCY, fired: [general.sudden_balance_headache_dizziness]}
+    covers: [{rule: general.sudden_balance_headache_dizziness, kind: firing}]
+  - id: universal_general_sudden_chest_pain
+    facts: {ds_sudden_chest_pain: "yes"}
+    expect: {urgency: EMERGENCY, fired: [general.sudden_chest_pain]}
+    covers: [{rule: general.sudden_chest_pain, kind: firing}]
+  - id: universal_pregnancy_bleeding
+    facts: {ds_preg_bleeding: "yes"}
+    expect: {urgency: EMERGENCY, fired: [pregnancy.bleeding]}
+    covers: [{rule: pregnancy.bleeding, kind: firing}]
+  - id: universal_pregnancy_delivery_excessive_bleeding
+    facts: {ds_delivery_excessive_bleeding: "yes"}
+    expect: {urgency: EMERGENCY, fired: [pregnancy.delivery_excessive_bleeding]}
+    covers: [{rule: pregnancy.delivery_excessive_bleeding, kind: firing}]
+  - id: universal_pregnancy_high_fever
+    facts: {ds_preg_high_fever: "yes"}
+    expect: {urgency: EMERGENCY, fired: [pregnancy.high_fever]}
+    covers: [{rule: pregnancy.high_fever, kind: firing}]
+  - id: universal_pregnancy_fits_headache_vision_swelling
+    facts: {ds_preg_fits_headache_vision_swelling: "yes"}
+    expect: {urgency: EMERGENCY, fired: [pregnancy.fits_headache_vision_swelling]}
+    covers: [{rule: pregnancy.fits_headache_vision_swelling, kind: firing}]
+  - id: universal_pregnancy_labour_over_12_hours
+    facts: {ds_labour_over_12_hours: "yes"}
+    expect: {urgency: EMERGENCY, fired: [pregnancy.labour_over_12_hours]}
+    covers: [{rule: pregnancy.labour_over_12_hours, kind: firing}]
+  - id: universal_pregnancy_waters_broke_without_labour
+    facts: {ds_waters_broke_without_labour: "yes"}
+    expect: {urgency: EMERGENCY, fired: [pregnancy.waters_broke_without_labour]}
+    covers: [{rule: pregnancy.waters_broke_without_labour, kind: firing}]
+  - id: universal_pregnancy_postnatal_convulsions
+    facts: {ds_postnatal_convulsions: "yes"}
+    expect: {urgency: EMERGENCY, fired: [pregnancy.postnatal_convulsions]}
+    covers: [{rule: pregnancy.postnatal_convulsions, kind: firing}]
+  - id: universal_pregnancy_postnatal_breathing_difficulty
+    facts: {ds_postnatal_breathing_difficulty: "yes"}
+    expect: {urgency: EMERGENCY, fired: [pregnancy.postnatal_breathing_difficulty]}
+    covers: [{rule: pregnancy.postnatal_breathing_difficulty, kind: firing}]
+  - id: universal_pregnancy_postnatal_severe_abdominal_pain
+    facts: {ds_postnatal_severe_abdominal_pain: "yes"}
+    expect: {urgency: EMERGENCY, fired: [pregnancy.postnatal_severe_abdominal_pain]}
+    covers: [{rule: pregnancy.postnatal_severe_abdominal_pain, kind: firing}]
+  - id: universal_newborn_reduced_movement
+    facts: {ds_nb_reduced_movement: "yes"}
+    expect: {urgency: EMERGENCY, fired: [newborn.reduced_movement]}
+    covers: [{rule: newborn.reduced_movement, kind: firing}]
+  - id: universal_newborn_not_able_to_feed
+    facts: {ds_nb_not_able_to_feed: "yes"}
+    expect: {urgency: EMERGENCY, fired: [newborn.not_able_to_feed]}
+    covers: [{rule: newborn.not_able_to_feed, kind: firing}]
+  - id: universal_newborn_convulsion
+    facts: {ds_nb_convulsion: "yes"}
+    expect: {urgency: EMERGENCY, fired: [newborn.convulsion]}
+    covers: [{rule: newborn.convulsion, kind: firing}]
+  - id: universal_newborn_breathing_difficulty
+    facts: {ds_nb_breathing_difficulty: "yes"}
+    expect: {urgency: EMERGENCY, fired: [newborn.breathing_difficulty]}
+    covers: [{rule: newborn.breathing_difficulty, kind: firing}]
+  - id: universal_newborn_fast_breathing
+    facts: {ds_nb_fast_breathing: "yes"}
+    expect: {urgency: EMERGENCY, fired: [newborn.fast_breathing]}
+    covers: [{rule: newborn.fast_breathing, kind: firing}]
+  - id: universal_newborn_severe_chest_indrawing
+    facts: {ds_nb_severe_chest_indrawing: "yes"}
+    expect: {urgency: EMERGENCY, fired: [newborn.severe_chest_indrawing]}
+    covers: [{rule: newborn.severe_chest_indrawing, kind: firing}]
+  - id: universal_newborn_yellow_palms_soles
+    facts: {ds_nb_yellow_palms_soles: "yes"}
+    expect: {urgency: EMERGENCY, fired: [newborn.yellow_palms_soles]}
+    covers: [{rule: newborn.yellow_palms_soles, kind: firing}]
+  - id: universal_newborn_blood_in_stool
+    facts: {ds_nb_blood_in_stool: "yes"}
+    expect: {urgency: EMERGENCY, fired: [newborn.blood_in_stool]}
+    covers: [{rule: newborn.blood_in_stool, kind: firing}]
+  - id: universal_newborn_feels_hot
+    facts: {ds_nb_feels_hot: "yes"}
+    expect: {urgency: EMERGENCY, fired: [newborn.feels_hot]}
+    covers: [{rule: newborn.feels_hot, kind: firing}]
+  - id: universal_newborn_feels_cold
+    facts: {ds_nb_feels_cold: "yes"}
+    expect: {urgency: EMERGENCY, fired: [newborn.feels_cold]}
+    covers: [{rule: newborn.feels_cold, kind: firing}]
+  - id: universal_child_not_able_to_drink_or_feed
+    facts: {ds_child_not_able_to_drink_or_feed: "yes"}
+    expect: {urgency: EMERGENCY, fired: [child.not_able_to_drink_or_feed]}
+    covers: [{rule: child.not_able_to_drink_or_feed, kind: firing}]
+  - id: universal_child_vomits_everything
+    facts: {ds_child_vomits_everything: "yes"}
+    expect: {urgency: EMERGENCY, fired: [child.vomits_everything]}
+    covers: [{rule: child.vomits_everything, kind: firing}]
+  - id: universal_child_lethargic_or_unconscious
+    facts: {ds_child_lethargic_or_unconscious: "yes"}
+    expect: {urgency: EMERGENCY, fired: [child.lethargic_or_unconscious]}
+    covers: [{rule: child.lethargic_or_unconscious, kind: firing}]
+  - id: universal_child_convulsions
+    facts: {ds_child_convulsions: "yes"}
+    expect: {urgency: EMERGENCY, fired: [child.convulsions]}
+    covers: [{rule: child.convulsions, kind: firing}]
+  - id: universal_child_breathing_difficulty
+    facts: {ds_child_breathing_difficulty: "yes"}
+    expect: {urgency: EMERGENCY, fired: [child.breathing_difficulty]}
+    covers: [{rule: child.breathing_difficulty, kind: firing}]
+  - id: universal_child_severe_chest_indrawing
+    facts: {ds_child_severe_chest_indrawing: "yes"}
+    expect: {urgency: EMERGENCY, fired: [child.severe_chest_indrawing]}
+    covers: [{rule: child.severe_chest_indrawing, kind: firing}]
+  - id: universal_child_fast_breathing
+    facts: {ds_child_fast_breathing: "yes"}
+    expect: {urgency: EMERGENCY, fired: [child.fast_breathing]}
+    covers: [{rule: child.fast_breathing, kind: firing}]
+  - id: universal_child_fever_over_7_days_no_doctor
+    facts: {ds_child_fever_over_7_days_no_doctor: "yes"}
+    expect: {urgency: EMERGENCY, fired: [child.fever_over_7_days_no_doctor]}
+    covers: [{rule: child.fever_over_7_days_no_doctor, kind: firing}]
+  - id: universal_child_diarrhoea_over_14_days
+    facts: {ds_child_diarrhoea_over_14_days: "yes"}
+    expect: {urgency: EMERGENCY, fired: [child.diarrhoea_over_14_days]}
+    covers: [{rule: child.diarrhoea_over_14_days, kind: firing}]
+  - id: universal_child_blood_in_stools
+    facts: {ds_child_blood_in_stools: "yes"}
+    expect: {urgency: EMERGENCY, fired: [child.blood_in_stools]}
+    covers: [{rule: child.blood_in_stools, kind: firing}]
+  - id: universal_none_known
+    facts: {}
+    expect: {urgency: INCOMPLETE, reason: no_pathway}
+  - id: universal_all_no_is_not_low
+    facts: {ds_unconscious: "no", ds_profuse_bleeding: "no", ds_sudden_limb_weakness: "no", ds_sudden_face_drooping: "no", ds_sudden_speech_difficulty: "no", ds_sudden_vision_blurring: "no", ds_sudden_balance_headache_dizziness: "no", ds_sudden_chest_pain: "no", ds_preg_bleeding: "no", ds_delivery_excessive_bleeding: "no", ds_preg_high_fever: "no", ds_preg_fits_headache_vision_swelling: "no", ds_labour_over_12_hours: "no", ds_waters_broke_without_labour: "no", ds_postnatal_convulsions: "no", ds_postnatal_breathing_difficulty: "no", ds_postnatal_severe_abdominal_pain: "no", ds_nb_reduced_movement: "no", ds_nb_not_able_to_feed: "no", ds_nb_convulsion: "no", ds_nb_breathing_difficulty: "no", ds_nb_fast_breathing: "no", ds_nb_severe_chest_indrawing: "no", ds_nb_yellow_palms_soles: "no", ds_nb_blood_in_stool: "no", ds_nb_feels_hot: "no", ds_nb_feels_cold: "no", ds_child_not_able_to_drink_or_feed: "no", ds_child_vomits_everything: "no", ds_child_lethargic_or_unconscious: "no", ds_child_convulsions: "no", ds_child_breathing_difficulty: "no", ds_child_severe_chest_indrawing: "no", ds_child_fast_breathing: "no", ds_child_fever_over_7_days_no_doctor: "no", ds_child_diarrhoea_over_14_days: "no", ds_child_blood_in_stools: "no"}
+    expect: {urgency: INCOMPLETE, reason: no_pathway}
+  - id: universal_two_signs_both_reported
+    facts: {ds_preg_bleeding: "yes", ds_unconscious: "yes"}
+    expect: {urgency: EMERGENCY, fired: [pregnancy.bleeding, general.unconscious]}

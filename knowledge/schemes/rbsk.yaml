@@ -1,0 +1,39 @@
+# DRAFT — every statement transcribed from the cited official source (see sources). Hindi is a draft translation.
+id: rbsk
+name:
+  en: Rashtriya Bal Swasthya Karyakram (RBSK)
+  hi: राष्ट्रीय बाल स्वास्थ्य कार्यक्रम (RBSK)
+jurisdiction: national
+states_excluded: []
+care_types:
+- outpatient
+- diagnostics
+- inpatient
+not_for: []
+applies_to:
+  age_years:
+    lte: 18
+priority: free_service
+eligibility_signals: []
+may_cover:
+  en:
+  - Screening and free treatment for defects at birth, deficiencies, diseases and developmental delays, for children 0–18 years
+  hi:
+  - 0–18 वर्ष के बच्चों के लिए जन्म दोष, कमियाँ, बीमारियाँ और विकास में देरी की जाँच और मुफ़्त इलाज
+does_not_cover:
+  en: []
+  hi: []
+documents:
+- mcp_card
+where_to_confirm:
+  en: Ask the ASHA, ANM or the government health facility
+  hi: आशा, एएनएम या सरकारी स्वास्थ्य केंद्र से पूछें
+amounts: []
+sources:
+- ref: nhm_rbsk2_guidelines_2026
+  locator: p3 (pdf 20), 4Ds and free treatment
+- ref: nhm_rbsk2_guidelines_2026
+  locator: p14 (pdf 31), age group
+review:
+  status: draft
+  verified_on: '2026-11-12'

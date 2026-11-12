@@ -1,0 +1,14 @@
+id: nhm_mcp_card_hindi
+title: "मातृ एवं शिशु सुरक्षा कार्ड (Mother and Child Protection Card, Hindi)"
+publisher: "Ministry of Health and Family Welfare and Ministry of Women and Child Development"
+url: "https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/MCP_Card_Hindi_version.pdf"
+version_or_date: "No date printed; PDF created 2018-02-05"
+retrieved_on: "2026-11-11"
+jurisdiction: national
+kind: clinical_guidance
+sha256: "c23a2dcc5e0456fe8d1c77ca3e1ef61fb875ef9f37ef1d91588d3f5b8bde2ae7"
+local_copy: null
+notes: "Image-only PDF: no extractable text. Excerpts were transcribed by reading the rendered page image (pdf page 4) on 2026-11-11 and need a second reader's check. Used for Hindi wording of the pregnancy danger signs."
+excerpts:
+  - locator: "pdf page 4, pregnancy danger signs (Hindi)"
+    text: "यदि आपको अथवा आपके परिवार में किसी अन्य व्यक्ति को खतरे के ये लक्षण दिखाई दें तो गर्भवती महिला को तुरन्त अस्पताल ले जायें … गर्भावस्था के दौरान रक्तस्राव, प्रसव के दौरान अथवा प्रसव के पश्चात् अत्यधिक रक्तस्राव … गर्भावस्था अथवा प्रसव के एक महीने के भीतर तेज बुखार … दौरे पड़ना, धुंधला दिखाई देना, सिरदर्द, उल्टी, पूरे शरीर में सूजन … 12 घण्टे से अधिक समय तक प्रसव पीड़ा … प्रसव पीड़ा के बिना ही पानी की थैली फट जाना"

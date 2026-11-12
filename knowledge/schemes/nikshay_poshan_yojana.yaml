@@ -1,0 +1,51 @@
+# DRAFT — every statement transcribed from the cited official source (see sources). Hindi is a draft translation.
+id: nikshay_poshan_yojana
+name:
+  en: Ni-kshay Poshan Yojana (nutrition support)
+  hi: नि-क्षय पोषण योजना (पोषण सहायता)
+jurisdiction: national
+states_excluded: []
+care_types:
+- outpatient
+- diagnostics
+not_for: []
+requires_tags:
+- tb_related
+priority: cash_benefit
+eligibility_signals: []
+may_cover:
+  en:
+  - Monthly nutrition support paid to notified TB patients for the whole treatment
+  hi:
+  - नोटिफ़ाइड टीबी मरीज़ों को पूरे इलाज के दौरान हर महीने पोषण सहायता
+does_not_cover:
+  en:
+  - Anyone not diagnosed and notified as a TB patient
+  hi:
+  - जिन्हें टीबी मरीज़ के रूप में जाँचा और नोटिफ़ाई नहीं किया गया
+to_confirm:
+  en:
+  - Only if TB is diagnosed and notified
+  hi:
+  - केवल तभी जब टीबी की पुष्टि होकर नोटिफ़ाई हो
+documents:
+- bank_account_details
+where_to_confirm:
+  en: The TB treatment centre after diagnosis
+  hi: जाँच के बाद टीबी इलाज केंद्र पर
+amounts:
+- text:
+    en: ₹1,000 per month during treatment (from 1 November 2024)
+    hi: इलाज के दौरान हर महीने ₹1,000 (1 नवंबर 2024 से)
+  source:
+    ref: pib_tb_mukt_bharat_steps_2025_12
+    locator: Ni-kshay Poshan Yojana amount
+  as_of: '2024-11-01'
+sources:
+- ref: pib_tb_mukt_bharat_steps_2025_12
+  locator: Ni-kshay Poshan Yojana amount
+- ref: pib_tb_backgrounder_2026_03
+  locator: pdf p6, Ni-kshay Poshan Yojana
+review:
+  status: draft
+  verified_on: '2026-11-12'

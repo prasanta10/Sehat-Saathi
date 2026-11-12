@@ -1,0 +1,15 @@
+version: 0.0.1
+review: {status: draft, reviewer: null, reviewed_on: null}
+signs:
+  - id: fx.universal_a
+    fact: fx_universal_a
+    group: general
+    label: {en: "Fixture universal sign A", hi: "परीक्षण संकेत A"}
+    pictogram: fixture
+    sources: [{ref: fixture_ref, locator: "fixture"}]
+  - id: fx.universal_b
+    fact: fx_universal_b
+    group: general
+    label: {en: "Fixture universal sign B", hi: "परीक्षण संकेत B"}
+    pictogram: fixture
+    sources: [{ref: fixture_ref, locator: "fixture"}]

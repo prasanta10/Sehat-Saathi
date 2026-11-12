@@ -1,0 +1,61 @@
+id: fx_with_low
+version: 0.0.1
+title: {en: "Fixture pathway with low care", hi: "परीक्षण पथ"}
+applies_when: {age_years: {gte: 15}, fx_symptom: "yes"}
+review: {status: draft, reviewer: null, reviewed_on: null}
+sources: [fixture_ref]
+questions:
+  - fact: fx_severe
+    required: true
+    ask: {en: "Fixture severe?", hi: "परीक्षण गंभीर?"}
+    options: ["yes", "no", "unknown"]
+  - fact: fx_marker_high
+    required: true
+    ask: {en: "Fixture marker?", hi: "परीक्षण चिह्न?"}
+    options: ["yes", "no", "unknown"]
+  - fact: fx_duration_days
+    required: true
+    ask: {en: "Fixture duration?", hi: "परीक्षण अवधि?"}
+    input: duration
+  - fact: fx_optional
+    required: false
+    ask: {en: "Fixture optional?", hi: "परीक्षण वैकल्पिक?"}
+  - fact: fx_kind
+    required: false
+    ask: {en: "Fixture kind?", hi: "परीक्षण प्रकार?"}
+    input: enum
+danger_signs:
+  - id: fx.severe
+    when: {fx_severe: "yes"}
+    label: {en: "Fixture severe", hi: "परीक्षण गंभीर"}
+    source: {ref: fixture_ref, locator: "fixture"}
+rules:
+  - id: fx.high
+    level: HIGH
+    when: {fx_marker_high: "yes"}
+    rationale: {en: "Fixture high", hi: "परीक्षण उच्च"}
+    source: {ref: fixture_ref, locator: "fixture"}
+    facility_level: CHC
+    target_window: today
+  - id: fx.high_optional
+    level: HIGH
+    when: {all: [{fx_optional: "yes"}, {fx_kind: beta}]}
+    rationale: {en: "Fixture high optional", hi: "परीक्षण उच्च वैकल्पिक"}
+    source: {ref: fixture_ref, locator: "fixture"}
+    facility_level: CHC
+    target_window: today
+  - id: fx.medium
+    level: MEDIUM
+    when: {fx_duration_days: {gte: 10}}
+    rationale: {en: "Fixture medium", hi: "परीक्षण मध्यम"}
+    source: {ref: fixture_ref, locator: "fixture"}
+    facility_level: PHC
+    target_window: within_3_days
+referral:
+  bring: [id_document]
+low_care:
+  id: fx.low
+  when: {fx_duration_days: {lt: 3}}
+  rationale: {en: "Fixture low", hi: "परीक्षण कम"}
+  return_precautions: {en: ["Fixture precaution"], hi: ["परीक्षण सावधानी"]}
+  source: {ref: fixture_ref, locator: "fixture"}

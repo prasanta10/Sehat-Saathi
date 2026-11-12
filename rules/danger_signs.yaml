@@ -1,0 +1,307 @@
+# Universal danger signs: any one confirmed `yes` gives EMERGENCY, on every pathway and with
+# no pathway. Transcribed from the cited official documents; labels follow the source wording.
+# DRAFT: not clinically reviewed. Signs with no official source found are left out.
+# English labels follow the source text; Hindi labels are draft translations except the
+# pregnancy signs, which are copied from the official Hindi MCP card.
+version: 0.1.0
+review: {status: draft, reviewer: null, reviewed_on: null}
+signs:
+  - id: general.unconscious
+    fact: ds_unconscious
+    group: general
+    label: {en: "Unconscious or not responding to voice or touch", hi: "बेहोश, या आवाज़ देने या छूने पर कोई जवाब नहीं"}
+    pictogram: unconscious
+    sources:
+      - {ref: nhsrc_emergency_flw_common, locator: "slide 13 (pdf 13), Disability (AVPU)"}
+      - {ref: nhsrc_emergency_flw_ncd, locator: "slide 3 (pdf 3), Recognising life threatening situations - NCDs"}
+      - {ref: nhsrc_emergency_flw_common, locator: "slide 5 (pdf 5), What to do in case of emergency"}
+  - id: general.profuse_bleeding
+    fact: ds_profuse_bleeding
+    group: general
+    label: {en: "Heavy bleeding that cannot be stopped", hi: "बहुत ज़्यादा खून बहना जो रुक नहीं रहा"}
+    pictogram: bleeding
+    sources:
+      - {ref: nhsrc_emergency_flw_common, locator: "slide 9 (pdf 9), Haemorrhage/bleeding control"}
+      - {ref: nhsrc_emergency_flw_common, locator: "slide 5 (pdf 5), What to do in case of emergency"}
+  - id: general.sudden_limb_weakness
+    fact: ds_sudden_limb_weakness
+    group: general
+    label: {en: "Sudden weakness in an arm or leg (usually one side of the body)", hi: "अचानक हाथ या पैर में कमज़ोरी (अक्सर शरीर के एक तरफ़)"}
+    pictogram: limb_weakness
+    sources:
+      - {ref: nhsrc_emergency_flw_ncd, locator: "slide 3 (pdf 3), Recognising life threatening situations - NCDs"}
+      - {ref: nhsrc_emergency_flw_ncd, locator: "slide 4 (pdf 4), Management protocol - general measures"}
+  - id: general.sudden_face_drooping
+    fact: ds_sudden_face_drooping
+    group: general
+    label: {en: "Sudden drooping or weakness of one side of the face", hi: "चेहरे का एक तरफ़ अचानक लटकना या कमज़ोर होना"}
+    pictogram: face_drooping
+    sources:
+      - {ref: nhsrc_emergency_flw_ncd, locator: "slide 3 (pdf 3), Recognising life threatening situations - NCDs"}
+      - {ref: nhsrc_emergency_flw_ncd, locator: "slide 4 (pdf 4), Management protocol - general measures"}
+  - id: general.sudden_speech_difficulty
+    fact: ds_sudden_speech_difficulty
+    group: general
+    label: {en: "Sudden difficulty in speaking, or cannot speak", hi: "अचानक बोलने में कठिनाई, या बोल न पाना"}
+    pictogram: speech
+    sources:
+      - {ref: nhsrc_emergency_flw_ncd, locator: "slide 3 (pdf 3), Recognising life threatening situations - NCDs"}
+      - {ref: nhsrc_emergency_flw_ncd, locator: "slide 4 (pdf 4), Management protocol - general measures"}
+  - id: general.sudden_vision_blurring
+    fact: ds_sudden_vision_blurring
+    group: general
+    label: {en: "Sudden blurring of vision", hi: "अचानक धुंधला दिखाई देना"}
+    pictogram: vision
+    sources:
+      - {ref: nhsrc_emergency_flw_ncd, locator: "slide 3 (pdf 3), Recognising life threatening situations - NCDs"}
+      - {ref: nhsrc_emergency_flw_ncd, locator: "slide 4 (pdf 4), Management protocol - general measures"}
+  - id: general.sudden_balance_headache_dizziness
+    fact: ds_sudden_balance_headache_dizziness
+    group: general
+    label: {en: "Sudden loss of balance, headache or dizziness", hi: "अचानक संतुलन खोना, सिरदर्द या चक्कर आना"}
+    pictogram: dizziness
+    sources:
+      - {ref: nhsrc_emergency_flw_ncd, locator: "slide 3 (pdf 3), Recognising life threatening situations - NCDs"}
+      - {ref: nhsrc_emergency_flw_ncd, locator: "slide 4 (pdf 4), Management protocol - general measures"}
+  - id: general.sudden_chest_pain
+    fact: ds_sudden_chest_pain
+    group: general
+    label: {en: "Sudden pain in the chest", hi: "अचानक सीने में दर्द"}
+    pictogram: chest_pain
+    sources:
+      - {ref: nhsrc_emergency_flw_ncd, locator: "slide 3 (pdf 3), Recognising life threatening situations - NCDs"}
+      - {ref: nhsrc_emergency_flw_ncd, locator: "slide 4 (pdf 4), Management protocol - general measures"}
+  - id: pregnancy.bleeding
+    fact: ds_preg_bleeding
+    group: pregnancy
+    label: {en: "Bleeding during pregnancy", hi: "गर्भावस्था के दौरान रक्तस्राव"}
+    pictogram: preg_bleeding
+    sources:
+      - {ref: nhm_mcp_card_english, locator: "pdf page 4, pregnancy danger signs"}
+      - {ref: nhm_mcp_card_hindi, locator: "pdf page 4, pregnancy danger signs (Hindi)"}
+  - id: pregnancy.delivery_excessive_bleeding
+    fact: ds_delivery_excessive_bleeding
+    group: pregnancy
+    label: {en: "Excessive bleeding during or after delivery", hi: "प्रसव के दौरान अथवा प्रसव के पश्चात् अत्यधिक रक्तस्राव"}
+    pictogram: preg_bleeding
+    sources:
+      - {ref: nhm_mcp_card_english, locator: "pdf page 4, pregnancy danger signs"}
+      - {ref: nhm_mcp_card_hindi, locator: "pdf page 4, pregnancy danger signs (Hindi)"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 28 (pdf 54), Figure 3.5: Maternal Danger Signs"}
+  - id: pregnancy.high_fever
+    fact: ds_preg_high_fever
+    group: pregnancy
+    label: {en: "High fever during pregnancy or within one month of delivery", hi: "गर्भावस्था अथवा प्रसव के एक महीने के भीतर तेज बुखार"}
+    pictogram: fever
+    sources:
+      - {ref: nhm_mcp_card_english, locator: "pdf page 4, pregnancy danger signs"}
+      - {ref: nhm_mcp_card_hindi, locator: "pdf page 4, pregnancy danger signs (Hindi)"}
+  - id: pregnancy.fits_headache_vision_swelling
+    fact: ds_preg_fits_headache_vision_swelling
+    group: pregnancy
+    label: {en: "In pregnancy: fits, blurring of vision, headache, or swelling all over the body", hi: "दौरे पड़ना, धुंधला दिखाई देना, सिरदर्द, उल्टी, पूरे शरीर में सूजन"}
+    pictogram: fits
+    sources:
+      - {ref: nhm_mcp_card_english, locator: "pdf page 4, pregnancy danger signs"}
+      - {ref: nhm_mcp_card_hindi, locator: "pdf page 4, pregnancy danger signs (Hindi)"}
+  - id: pregnancy.labour_over_12_hours
+    fact: ds_labour_over_12_hours
+    group: pregnancy
+    label: {en: "Labour pain for more than 12 hours", hi: "12 घण्टे से अधिक समय तक प्रसव पीड़ा"}
+    pictogram: labour
+    sources:
+      - {ref: nhm_mcp_card_english, locator: "pdf page 4, pregnancy danger signs"}
+      - {ref: nhm_mcp_card_hindi, locator: "pdf page 4, pregnancy danger signs (Hindi)"}
+  - id: pregnancy.waters_broke_without_labour
+    fact: ds_waters_broke_without_labour
+    group: pregnancy
+    label: {en: "Bursting of water bag without labour pains", hi: "प्रसव पीड़ा के बिना ही पानी की थैली फट जाना"}
+    pictogram: waters
+    sources:
+      - {ref: nhm_mcp_card_english, locator: "pdf page 4, pregnancy danger signs"}
+      - {ref: nhm_mcp_card_hindi, locator: "pdf page 4, pregnancy danger signs (Hindi)"}
+  - id: pregnancy.postnatal_convulsions
+    fact: ds_postnatal_convulsions
+    group: pregnancy
+    label: {en: "After delivery: convulsions (fits)", hi: "प्रसव के बाद दौरे (झटके) पड़ना"}
+    pictogram: fits
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 28 (pdf 54), Figure 3.5: Maternal Danger Signs"}
+  - id: pregnancy.postnatal_breathing_difficulty
+    fact: ds_postnatal_breathing_difficulty
+    group: pregnancy
+    label: {en: "After delivery: difficulty in breathing", hi: "प्रसव के बाद सांस लेने में कठिनाई"}
+    pictogram: breathing
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 28 (pdf 54), Figure 3.5: Maternal Danger Signs"}
+  - id: pregnancy.postnatal_severe_abdominal_pain
+    fact: ds_postnatal_severe_abdominal_pain
+    group: pregnancy
+    label: {en: "After delivery: severe abdominal pain", hi: "प्रसव के बाद पेट में तेज़ दर्द"}
+    pictogram: abdominal_pain
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 28 (pdf 54), Figure 3.5: Maternal Danger Signs"}
+  - id: newborn.reduced_movement
+    fact: ds_nb_reduced_movement
+    group: newborn
+    label: {en: "Newborn moves only when stimulated, or does not move at all", hi: "नवजात केवल छूने/हिलाने पर हिलता है, या बिल्कुल नहीं हिलता"}
+    pictogram: nb_movement
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: newborn.not_able_to_feed
+    fact: ds_nb_not_able_to_feed
+    group: newborn
+    label: {en: "Newborn is not able to feed", hi: "नवजात दूध नहीं पी पा रहा"}
+    pictogram: nb_feeding
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: newborn.convulsion
+    fact: ds_nb_convulsion
+    group: newborn
+    label: {en: "Newborn has convulsions (fits)", hi: "नवजात को दौरे (झटके) आ रहे हैं"}
+    pictogram: fits
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: newborn.breathing_difficulty
+    fact: ds_nb_breathing_difficulty
+    group: newborn
+    label: {en: "Newborn has difficulty in breathing", hi: "नवजात को सांस लेने में कठिनाई"}
+    pictogram: breathing
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: newborn.fast_breathing
+    fact: ds_nb_fast_breathing
+    group: newborn
+    label: {en: "Newborn breathes more than 60 times in one minute (counted)", hi: "नवजात एक मिनट में 60 से ज़्यादा बार सांस लेता है (गिनकर)"}
+    pictogram: breathing_count
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: newborn.severe_chest_indrawing
+    fact: ds_nb_severe_chest_indrawing
+    group: newborn
+    label: {en: "Newborn has severe chest indrawing", hi: "नवजात की छाती सांस लेते समय ज़ोर से अंदर धंसती है"}
+    pictogram: chest_indrawing
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: newborn.yellow_palms_soles
+    fact: ds_nb_yellow_palms_soles
+    group: newborn
+    label: {en: "Newborn has yellow palms and soles", hi: "नवजात की हथेलियाँ और तलवे पीले हैं"}
+    pictogram: yellow
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: newborn.blood_in_stool
+    fact: ds_nb_blood_in_stool
+    group: newborn
+    label: {en: "Newborn has blood in stool", hi: "नवजात के मल में खून"}
+    pictogram: stool_blood
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: newborn.feels_hot
+    fact: ds_nb_feels_hot
+    group: newborn
+    label: {en: "Newborn feels hot to touch (armpit temperature 37.5 °C or above)", hi: "नवजात छूने पर गर्म है (बगल का तापमान 37.5 °C या ज़्यादा)"}
+    pictogram: hot
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: newborn.feels_cold
+    fact: ds_nb_feels_cold
+    group: newborn
+    label: {en: "Newborn feels cold to touch (armpit temperature below 36 °C)", hi: "नवजात छूने पर ठंडा है (बगल का तापमान 36 °C से कम)"}
+    pictogram: cold
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: child.not_able_to_drink_or_feed
+    fact: ds_child_not_able_to_drink_or_feed
+    group: child
+    label: {en: "Child is not able to drink, breastfeed or feed", hi: "बच्चा कुछ पी, स्तनपान या खा नहीं पा रहा"}
+    pictogram: feeding
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child"}
+      - {ref: nhm_imnci_chart_booklet, locator: "p. 12 (pdf 14), Assess and classify the sick child 2 months up to 5 years: Check for general danger signs"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: child.vomits_everything
+    fact: ds_child_vomits_everything
+    group: child
+    label: {en: "Child vomits everything", hi: "बच्चा जो भी खाए-पिए, सब उल्टी कर देता है"}
+    pictogram: vomit
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child"}
+      - {ref: nhm_imnci_chart_booklet, locator: "p. 12 (pdf 14), Assess and classify the sick child 2 months up to 5 years: Check for general danger signs"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: child.lethargic_or_unconscious
+    fact: ds_child_lethargic_or_unconscious
+    group: child
+    label: {en: "Child is lethargic (very drowsy) or unconscious", hi: "बच्चा बहुत सुस्त है या बेहोश है"}
+    pictogram: lethargic
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child"}
+      - {ref: nhm_imnci_chart_booklet, locator: "p. 12 (pdf 14), Assess and classify the sick child 2 months up to 5 years: Check for general danger signs"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: child.convulsions
+    fact: ds_child_convulsions
+    group: child
+    label: {en: "Child has convulsions now or has had them in this illness", hi: "बच्चे को अभी दौरे पड़ रहे हैं या इस बीमारी में पड़े हैं"}
+    pictogram: fits
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child"}
+      - {ref: nhm_imnci_chart_booklet, locator: "p. 12 (pdf 14), Assess and classify the sick child 2 months up to 5 years: Check for general danger signs"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: child.breathing_difficulty
+    fact: ds_child_breathing_difficulty
+    group: child
+    label: {en: "Child has difficulty in breathing", hi: "बच्चे को सांस लेने में कठिनाई"}
+    pictogram: breathing
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: child.severe_chest_indrawing
+    fact: ds_child_severe_chest_indrawing
+    group: child
+    label: {en: "Child has severe chest in-drawing", hi: "बच्चे की छाती सांस लेते समय ज़ोर से अंदर धंसती है"}
+    pictogram: chest_indrawing
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: child.fast_breathing
+    fact: ds_child_fast_breathing
+    group: child
+    label: {en: "Child breathes fast (counted for one minute): more than 50 if 2–12 months old, more than 40 if 1–5 years old", hi: "बच्चा तेज़ सांस लेता है (एक मिनट गिनकर): 2–12 महीने में 50 से ज़्यादा, 1–5 साल में 40 से ज़्यादा"}
+    pictogram: breathing_count
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: child.fever_over_7_days_no_doctor
+    fact: ds_child_fever_over_7_days_no_doctor
+    group: child
+    label: {en: "Child has had fever for more than 7 days and has not seen a doctor", hi: "बच्चे को 7 दिन से ज़्यादा से बुखार है और डॉक्टर को नहीं दिखाया"}
+    pictogram: fever
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: child.diarrhoea_over_14_days
+    fact: ds_child_diarrhoea_over_14_days
+    group: child
+    label: {en: "Child has had diarrhoea for more than 14 days", hi: "बच्चे को 14 दिन से ज़्यादा से दस्त है"}
+    pictogram: diarrhoea
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}
+  - id: child.blood_in_stools
+    fact: ds_child_blood_in_stools
+    group: child
+    label: {en: "Child has blood in stools", hi: "बच्चे के मल में खून"}
+    pictogram: stool_blood
+    sources:
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child"}
+      - {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 23 (pdf 49), text after Table 3.4"}

@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.hypothesis/
+*.egg-info/
+# Node
+node_modules/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+# Local data — never commit databases, audio or secrets
+*.db
+*.db-journal
+*.sqlite
+backend/data/
+backend/data/audio/
+.env
+*.local
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Volunteer recordings never go into git
+evals/audio/*
+!evals/audio/README.md
+
+# Logs and local run artefacts
+*.log
+backend/demo-logs/
+frontend/coverage/
+coverage/
+.coverage
+htmlcov/
+*.tsbuildinfo

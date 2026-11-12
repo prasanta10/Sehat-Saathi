@@ -1,0 +1,2870 @@
+{
+ "danger_signs": {
+  "review": {
+   "content_hash": null,
+   "reviewed_on": null,
+   "reviewer": null,
+   "status": "draft"
+  },
+  "signs": [
+   {
+    "fact": "ds_unconscious",
+    "group": "general",
+    "id": "general.unconscious",
+    "label": {
+     "en": "Unconscious or not responding to voice or touch",
+     "hi": "बेहोश, या आवाज़ देने या छूने पर कोई जवाब नहीं"
+    },
+    "pictogram": "unconscious",
+    "sources": [
+     {
+      "locator": "slide 13 (pdf 13), Disability (AVPU)",
+      "ref": "nhsrc_emergency_flw_common"
+     },
+     {
+      "locator": "slide 3 (pdf 3), Recognising life threatening situations - NCDs",
+      "ref": "nhsrc_emergency_flw_ncd"
+     },
+     {
+      "locator": "slide 5 (pdf 5), What to do in case of emergency",
+      "ref": "nhsrc_emergency_flw_common"
+     }
+    ]
+   },
+   {
+    "fact": "ds_profuse_bleeding",
+    "group": "general",
+    "id": "general.profuse_bleeding",
+    "label": {
+     "en": "Heavy bleeding that cannot be stopped",
+     "hi": "बहुत ज़्यादा खून बहना जो रुक नहीं रहा"
+    },
+    "pictogram": "bleeding",
+    "sources": [
+     {
+      "locator": "slide 9 (pdf 9), Haemorrhage/bleeding control",
+      "ref": "nhsrc_emergency_flw_common"
+     },
+     {
+      "locator": "slide 5 (pdf 5), What to do in case of emergency",
+      "ref": "nhsrc_emergency_flw_common"
+     }
+    ]
+   },
+   {
+    "fact": "ds_sudden_limb_weakness",
+    "group": "general",
+    "id": "general.sudden_limb_weakness",
+    "label": {
+     "en": "Sudden weakness in an arm or leg (usually one side of the body)",
+     "hi": "अचानक हाथ या पैर में कमज़ोरी (अक्सर शरीर के एक तरफ़)"
+    },
+    "pictogram": "limb_weakness",
+    "sources": [
+     {
+      "locator": "slide 3 (pdf 3), Recognising life threatening situations - NCDs",
+      "ref": "nhsrc_emergency_flw_ncd"
+     },
+     {
+      "locator": "slide 4 (pdf 4), Management protocol - general measures",
+      "ref": "nhsrc_emergency_flw_ncd"
+     }
+    ]
+   },
+   {
+    "fact": "ds_sudden_face_drooping",
+    "group": "general",
+    "id": "general.sudden_face_drooping",
+    "label": {
+     "en": "Sudden drooping or weakness of one side of the face",
+     "hi": "चेहरे का एक तरफ़ अचानक लटकना या कमज़ोर होना"
+    },
+    "pictogram": "face_drooping",
+    "sources": [
+     {
+      "locator": "slide 3 (pdf 3), Recognising life threatening situations - NCDs",
+      "ref": "nhsrc_emergency_flw_ncd"
+     },
+     {
+      "locator": "slide 4 (pdf 4), Management protocol - general measures",
+      "ref": "nhsrc_emergency_flw_ncd"
+     }
+    ]
+   },
+   {
+    "fact": "ds_sudden_speech_difficulty",
+    "group": "general",
+    "id": "general.sudden_speech_difficulty",
+    "label": {
+     "en": "Sudden difficulty in speaking, or cannot speak",
+     "hi": "अचानक बोलने में कठिनाई, या बोल न पाना"
+    },
+    "pictogram": "speech",
+    "sources": [
+     {
+      "locator": "slide 3 (pdf 3), Recognising life threatening situations - NCDs",
+      "ref": "nhsrc_emergency_flw_ncd"
+     },
+     {
+      "locator": "slide 4 (pdf 4), Management protocol - general measures",
+      "ref": "nhsrc_emergency_flw_ncd"
+     }
+    ]
+   },
+   {
+    "fact": "ds_sudden_vision_blurring",
+    "group": "general",
+    "id": "general.sudden_vision_blurring",
+    "label": {
+     "en": "Sudden blurring of vision",
+     "hi": "अचानक धुंधला दिखाई देना"
+    },
+    "pictogram": "vision",
+    "sources": [
+     {
+      "locator": "slide 3 (pdf 3), Recognising life threatening situations - NCDs",
+      "ref": "nhsrc_emergency_flw_ncd"
+     },
+     {
+      "locator": "slide 4 (pdf 4), Management protocol - general measures",
+      "ref": "nhsrc_emergency_flw_ncd"
+     }
+    ]
+   },
+   {
+    "fact": "ds_sudden_balance_headache_dizziness",
+    "group": "general",
+    "id": "general.sudden_balance_headache_dizziness",
+    "label": {
+     "en": "Sudden loss of balance, headache or dizziness",
+     "hi": "अचानक संतुलन खोना, सिरदर्द या चक्कर आना"
+    },
+    "pictogram": "dizziness",
+    "sources": [
+     {
+      "locator": "slide 3 (pdf 3), Recognising life threatening situations - NCDs",
+      "ref": "nhsrc_emergency_flw_ncd"
+     },
+     {
+      "locator": "slide 4 (pdf 4), Management protocol - general measures",
+      "ref": "nhsrc_emergency_flw_ncd"
+     }
+    ]
+   },
+   {
+    "fact": "ds_sudden_chest_pain",
+    "group": "general",
+    "id": "general.sudden_chest_pain",
+    "label": {
+     "en": "Sudden pain in the chest",
+     "hi": "अचानक सीने में दर्द"
+    },
+    "pictogram": "chest_pain",
+    "sources": [
+     {
+      "locator": "slide 3 (pdf 3), Recognising life threatening situations - NCDs",
+      "ref": "nhsrc_emergency_flw_ncd"
+     },
+     {
+      "locator": "slide 4 (pdf 4), Management protocol - general measures",
+      "ref": "nhsrc_emergency_flw_ncd"
+     }
+    ]
+   },
+   {
+    "fact": "ds_preg_bleeding",
+    "group": "pregnancy",
+    "id": "pregnancy.bleeding",
+    "label": {
+     "en": "Bleeding during pregnancy",
+     "hi": "गर्भावस्था के दौरान रक्तस्राव"
+    },
+    "pictogram": "preg_bleeding",
+    "sources": [
+     {
+      "locator": "pdf page 4, pregnancy danger signs",
+      "ref": "nhm_mcp_card_english"
+     },
+     {
+      "locator": "pdf page 4, pregnancy danger signs (Hindi)",
+      "ref": "nhm_mcp_card_hindi"
+     }
+    ]
+   },
+   {
+    "fact": "ds_delivery_excessive_bleeding",
+    "group": "pregnancy",
+    "id": "pregnancy.delivery_excessive_bleeding",
+    "label": {
+     "en": "Excessive bleeding during or after delivery",
+     "hi": "प्रसव के दौरान अथवा प्रसव के पश्चात् अत्यधिक रक्तस्राव"
+    },
+    "pictogram": "preg_bleeding",
+    "sources": [
+     {
+      "locator": "pdf page 4, pregnancy danger signs",
+      "ref": "nhm_mcp_card_english"
+     },
+     {
+      "locator": "pdf page 4, pregnancy danger signs (Hindi)",
+      "ref": "nhm_mcp_card_hindi"
+     },
+     {
+      "locator": "p. 28 (pdf 54), Figure 3.5: Maternal Danger Signs",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_preg_high_fever",
+    "group": "pregnancy",
+    "id": "pregnancy.high_fever",
+    "label": {
+     "en": "High fever during pregnancy or within one month of delivery",
+     "hi": "गर्भावस्था अथवा प्रसव के एक महीने के भीतर तेज बुखार"
+    },
+    "pictogram": "fever",
+    "sources": [
+     {
+      "locator": "pdf page 4, pregnancy danger signs",
+      "ref": "nhm_mcp_card_english"
+     },
+     {
+      "locator": "pdf page 4, pregnancy danger signs (Hindi)",
+      "ref": "nhm_mcp_card_hindi"
+     }
+    ]
+   },
+   {
+    "fact": "ds_preg_fits_headache_vision_swelling",
+    "group": "pregnancy",
+    "id": "pregnancy.fits_headache_vision_swelling",
+    "label": {
+     "en": "In pregnancy: fits, blurring of vision, headache, or swelling all over the body",
+     "hi": "दौरे पड़ना, धुंधला दिखाई देना, सिरदर्द, उल्टी, पूरे शरीर में सूजन"
+    },
+    "pictogram": "fits",
+    "sources": [
+     {
+      "locator": "pdf page 4, pregnancy danger signs",
+      "ref": "nhm_mcp_card_english"
+     },
+     {
+      "locator": "pdf page 4, pregnancy danger signs (Hindi)",
+      "ref": "nhm_mcp_card_hindi"
+     }
+    ]
+   },
+   {
+    "fact": "ds_labour_over_12_hours",
+    "group": "pregnancy",
+    "id": "pregnancy.labour_over_12_hours",
+    "label": {
+     "en": "Labour pain for more than 12 hours",
+     "hi": "12 घण्टे से अधिक समय तक प्रसव पीड़ा"
+    },
+    "pictogram": "labour",
+    "sources": [
+     {
+      "locator": "pdf page 4, pregnancy danger signs",
+      "ref": "nhm_mcp_card_english"
+     },
+     {
+      "locator": "pdf page 4, pregnancy danger signs (Hindi)",
+      "ref": "nhm_mcp_card_hindi"
+     }
+    ]
+   },
+   {
+    "fact": "ds_waters_broke_without_labour",
+    "group": "pregnancy",
+    "id": "pregnancy.waters_broke_without_labour",
+    "label": {
+     "en": "Bursting of water bag without labour pains",
+     "hi": "प्रसव पीड़ा के बिना ही पानी की थैली फट जाना"
+    },
+    "pictogram": "waters",
+    "sources": [
+     {
+      "locator": "pdf page 4, pregnancy danger signs",
+      "ref": "nhm_mcp_card_english"
+     },
+     {
+      "locator": "pdf page 4, pregnancy danger signs (Hindi)",
+      "ref": "nhm_mcp_card_hindi"
+     }
+    ]
+   },
+   {
+    "fact": "ds_postnatal_convulsions",
+    "group": "pregnancy",
+    "id": "pregnancy.postnatal_convulsions",
+    "label": {
+     "en": "After delivery: convulsions (fits)",
+     "hi": "प्रसव के बाद दौरे (झटके) पड़ना"
+    },
+    "pictogram": "fits",
+    "sources": [
+     {
+      "locator": "p. 28 (pdf 54), Figure 3.5: Maternal Danger Signs",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_postnatal_breathing_difficulty",
+    "group": "pregnancy",
+    "id": "pregnancy.postnatal_breathing_difficulty",
+    "label": {
+     "en": "After delivery: difficulty in breathing",
+     "hi": "प्रसव के बाद सांस लेने में कठिनाई"
+    },
+    "pictogram": "breathing",
+    "sources": [
+     {
+      "locator": "p. 28 (pdf 54), Figure 3.5: Maternal Danger Signs",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_postnatal_severe_abdominal_pain",
+    "group": "pregnancy",
+    "id": "pregnancy.postnatal_severe_abdominal_pain",
+    "label": {
+     "en": "After delivery: severe abdominal pain",
+     "hi": "प्रसव के बाद पेट में तेज़ दर्द"
+    },
+    "pictogram": "abdominal_pain",
+    "sources": [
+     {
+      "locator": "p. 28 (pdf 54), Figure 3.5: Maternal Danger Signs",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_nb_reduced_movement",
+    "group": "newborn",
+    "id": "newborn.reduced_movement",
+    "label": {
+     "en": "Newborn moves only when stimulated, or does not move at all",
+     "hi": "नवजात केवल छूने/हिलाने पर हिलता है, या बिल्कुल नहीं हिलता"
+    },
+    "pictogram": "nb_movement",
+    "sources": [
+     {
+      "locator": "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_nb_not_able_to_feed",
+    "group": "newborn",
+    "id": "newborn.not_able_to_feed",
+    "label": {
+     "en": "Newborn is not able to feed",
+     "hi": "नवजात दूध नहीं पी पा रहा"
+    },
+    "pictogram": "nb_feeding",
+    "sources": [
+     {
+      "locator": "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_nb_convulsion",
+    "group": "newborn",
+    "id": "newborn.convulsion",
+    "label": {
+     "en": "Newborn has convulsions (fits)",
+     "hi": "नवजात को दौरे (झटके) आ रहे हैं"
+    },
+    "pictogram": "fits",
+    "sources": [
+     {
+      "locator": "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_nb_breathing_difficulty",
+    "group": "newborn",
+    "id": "newborn.breathing_difficulty",
+    "label": {
+     "en": "Newborn has difficulty in breathing",
+     "hi": "नवजात को सांस लेने में कठिनाई"
+    },
+    "pictogram": "breathing",
+    "sources": [
+     {
+      "locator": "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_nb_fast_breathing",
+    "group": "newborn",
+    "id": "newborn.fast_breathing",
+    "label": {
+     "en": "Newborn breathes more than 60 times in one minute (counted)",
+     "hi": "नवजात एक मिनट में 60 से ज़्यादा बार सांस लेता है (गिनकर)"
+    },
+    "pictogram": "breathing_count",
+    "sources": [
+     {
+      "locator": "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_nb_severe_chest_indrawing",
+    "group": "newborn",
+    "id": "newborn.severe_chest_indrawing",
+    "label": {
+     "en": "Newborn has severe chest indrawing",
+     "hi": "नवजात की छाती सांस लेते समय ज़ोर से अंदर धंसती है"
+    },
+    "pictogram": "chest_indrawing",
+    "sources": [
+     {
+      "locator": "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_nb_yellow_palms_soles",
+    "group": "newborn",
+    "id": "newborn.yellow_palms_soles",
+    "label": {
+     "en": "Newborn has yellow palms and soles",
+     "hi": "नवजात की हथेलियाँ और तलवे पीले हैं"
+    },
+    "pictogram": "yellow",
+    "sources": [
+     {
+      "locator": "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_nb_blood_in_stool",
+    "group": "newborn",
+    "id": "newborn.blood_in_stool",
+    "label": {
+     "en": "Newborn has blood in stool",
+     "hi": "नवजात के मल में खून"
+    },
+    "pictogram": "stool_blood",
+    "sources": [
+     {
+      "locator": "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_nb_feels_hot",
+    "group": "newborn",
+    "id": "newborn.feels_hot",
+    "label": {
+     "en": "Newborn feels hot to touch (armpit temperature 37.5 °C or above)",
+     "hi": "नवजात छूने पर गर्म है (बगल का तापमान 37.5 °C या ज़्यादा)"
+    },
+    "pictogram": "hot",
+    "sources": [
+     {
+      "locator": "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_nb_feels_cold",
+    "group": "newborn",
+    "id": "newborn.feels_cold",
+    "label": {
+     "en": "Newborn feels cold to touch (armpit temperature below 36 °C)",
+     "hi": "नवजात छूने पर ठंडा है (बगल का तापमान 36 °C से कम)"
+    },
+    "pictogram": "cold",
+    "sources": [
+     {
+      "locator": "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_child_not_able_to_drink_or_feed",
+    "group": "child",
+    "id": "child.not_able_to_drink_or_feed",
+    "label": {
+     "en": "Child is not able to drink, breastfeed or feed",
+     "hi": "बच्चा कुछ पी, स्तनपान या खा नहीं पा रहा"
+    },
+    "pictogram": "feeding",
+    "sources": [
+     {
+      "locator": "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 12 (pdf 14), Assess and classify the sick child 2 months up to 5 years: Check for general danger signs",
+      "ref": "nhm_imnci_chart_booklet"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_child_vomits_everything",
+    "group": "child",
+    "id": "child.vomits_everything",
+    "label": {
+     "en": "Child vomits everything",
+     "hi": "बच्चा जो भी खाए-पिए, सब उल्टी कर देता है"
+    },
+    "pictogram": "vomit",
+    "sources": [
+     {
+      "locator": "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 12 (pdf 14), Assess and classify the sick child 2 months up to 5 years: Check for general danger signs",
+      "ref": "nhm_imnci_chart_booklet"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_child_lethargic_or_unconscious",
+    "group": "child",
+    "id": "child.lethargic_or_unconscious",
+    "label": {
+     "en": "Child is lethargic (very drowsy) or unconscious",
+     "hi": "बच्चा बहुत सुस्त है या बेहोश है"
+    },
+    "pictogram": "lethargic",
+    "sources": [
+     {
+      "locator": "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 12 (pdf 14), Assess and classify the sick child 2 months up to 5 years: Check for general danger signs",
+      "ref": "nhm_imnci_chart_booklet"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_child_convulsions",
+    "group": "child",
+    "id": "child.convulsions",
+    "label": {
+     "en": "Child has convulsions now or has had them in this illness",
+     "hi": "बच्चे को अभी दौरे पड़ रहे हैं या इस बीमारी में पड़े हैं"
+    },
+    "pictogram": "fits",
+    "sources": [
+     {
+      "locator": "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 12 (pdf 14), Assess and classify the sick child 2 months up to 5 years: Check for general danger signs",
+      "ref": "nhm_imnci_chart_booklet"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_child_breathing_difficulty",
+    "group": "child",
+    "id": "child.breathing_difficulty",
+    "label": {
+     "en": "Child has difficulty in breathing",
+     "hi": "बच्चे को सांस लेने में कठिनाई"
+    },
+    "pictogram": "breathing",
+    "sources": [
+     {
+      "locator": "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_child_severe_chest_indrawing",
+    "group": "child",
+    "id": "child.severe_chest_indrawing",
+    "label": {
+     "en": "Child has severe chest in-drawing",
+     "hi": "बच्चे की छाती सांस लेते समय ज़ोर से अंदर धंसती है"
+    },
+    "pictogram": "chest_indrawing",
+    "sources": [
+     {
+      "locator": "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_child_fast_breathing",
+    "group": "child",
+    "id": "child.fast_breathing",
+    "label": {
+     "en": "Child breathes fast (counted for one minute): more than 50 if 2–12 months old, more than 40 if 1–5 years old",
+     "hi": "बच्चा तेज़ सांस लेता है (एक मिनट गिनकर): 2–12 महीने में 50 से ज़्यादा, 1–5 साल में 40 से ज़्यादा"
+    },
+    "pictogram": "breathing_count",
+    "sources": [
+     {
+      "locator": "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_child_fever_over_7_days_no_doctor",
+    "group": "child",
+    "id": "child.fever_over_7_days_no_doctor",
+    "label": {
+     "en": "Child has had fever for more than 7 days and has not seen a doctor",
+     "hi": "बच्चे को 7 दिन से ज़्यादा से बुखार है और डॉक्टर को नहीं दिखाया"
+    },
+    "pictogram": "fever",
+    "sources": [
+     {
+      "locator": "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_child_diarrhoea_over_14_days",
+    "group": "child",
+    "id": "child.diarrhoea_over_14_days",
+    "label": {
+     "en": "Child has had diarrhoea for more than 14 days",
+     "hi": "बच्चे को 14 दिन से ज़्यादा से दस्त है"
+    },
+    "pictogram": "diarrhoea",
+    "sources": [
+     {
+      "locator": "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   },
+   {
+    "fact": "ds_child_blood_in_stools",
+    "group": "child",
+    "id": "child.blood_in_stools",
+    "label": {
+     "en": "Child has blood in stools",
+     "hi": "बच्चे के मल में खून"
+    },
+    "pictogram": "stool_blood",
+    "sources": [
+     {
+      "locator": "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     {
+      "locator": "p. 23 (pdf 49), text after Table 3.4",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     }
+    ]
+   }
+  ],
+  "version": "0.1.0"
+ },
+ "facts": {
+  "age_months": {
+   "evidence_must_include": [],
+   "group": "person",
+   "integer": true,
+   "key": "age_months",
+   "label": {
+    "en": "Age (months, for children under 5)",
+    "hi": "उम्र (महीने, 5 साल से छोटे बच्चे के लिए)"
+   },
+   "max": 59.0,
+   "min": 0.0,
+   "note": "Total age in months, used only for children under five years.",
+   "type": "number",
+   "unit": "months",
+   "value_labels": {},
+   "values": []
+  },
+  "age_years": {
+   "evidence_must_include": [],
+   "group": "person",
+   "integer": true,
+   "key": "age_years",
+   "label": {
+    "en": "Age (years)",
+    "hi": "उम्र (साल)"
+   },
+   "max": 120.0,
+   "min": 0.0,
+   "note": null,
+   "type": "number",
+   "unit": "years",
+   "value_labels": {},
+   "values": []
+  },
+  "ayushman_card_held": {
+   "evidence_must_include": [],
+   "group": "household",
+   "integer": false,
+   "key": "ayushman_card_held",
+   "label": {
+    "en": "Has an Ayushman card",
+    "hi": "आयुष्मान कार्ड है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "blood_in_sputum": {
+   "evidence_must_include": [
+    "khoon",
+    "khun",
+    "खून",
+    "रक्त",
+    "blood",
+    "ब्लड",
+    "bleed",
+    "ब्लीड"
+   ],
+   "group": "symptom",
+   "integer": false,
+   "key": "blood_in_sputum",
+   "label": {
+    "en": "Blood in sputum (any amount)",
+    "hi": "बलगम में खून (थोड़ा भी)"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "cough_duration_days": {
+   "evidence_must_include": [
+    "khans",
+    "khaans",
+    "खांस",
+    "खाँस",
+    "cough",
+    "खास",
+    "कफ"
+   ],
+   "group": "symptom",
+   "integer": true,
+   "key": "cough_duration_days",
+   "label": {
+    "en": "Days of cough",
+    "hi": "खांसी कितने दिन से"
+   },
+   "max": 3650.0,
+   "min": 0.0,
+   "note": null,
+   "type": "number",
+   "unit": "days",
+   "value_labels": {},
+   "values": []
+  },
+  "cough_present": {
+   "evidence_must_include": [
+    "khans",
+    "khaans",
+    "खांस",
+    "खाँस",
+    "cough",
+    "खास",
+    "कफ"
+   ],
+   "group": "symptom",
+   "integer": false,
+   "key": "cough_present",
+   "label": {
+    "en": "Has a cough",
+    "hi": "खांसी है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_child_blood_in_stools": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_child_blood_in_stools",
+   "label": {
+    "en": "Child has blood in stools",
+    "hi": "बच्चे के मल में खून"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_child_breathing_difficulty": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_child_breathing_difficulty",
+   "label": {
+    "en": "Child has difficulty in breathing",
+    "hi": "बच्चे को सांस लेने में कठिनाई"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_child_convulsions": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_child_convulsions",
+   "label": {
+    "en": "Child has convulsions now or has had them in this illness",
+    "hi": "बच्चे को अभी दौरे पड़ रहे हैं या इस बीमारी में पड़े हैं"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_child_diarrhoea_over_14_days": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_child_diarrhoea_over_14_days",
+   "label": {
+    "en": "Child has had diarrhoea for more than 14 days",
+    "hi": "बच्चे को 14 दिन से ज़्यादा से दस्त है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_child_fast_breathing": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_child_fast_breathing",
+   "label": {
+    "en": "Child breathes fast (counted for one minute): more than 50 if 2–12 months old, more than 40 if 1–5 years old",
+    "hi": "बच्चा तेज़ सांस लेता है (एक मिनट गिनकर): 2–12 महीने में 50 से ज़्यादा, 1–5 साल में 40 से ज़्यादा"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_child_fever_over_7_days_no_doctor": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_child_fever_over_7_days_no_doctor",
+   "label": {
+    "en": "Child has had fever for more than 7 days and has not seen a doctor",
+    "hi": "बच्चे को 7 दिन से ज़्यादा से बुखार है और डॉक्टर को नहीं दिखाया"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_child_lethargic_or_unconscious": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_child_lethargic_or_unconscious",
+   "label": {
+    "en": "Child is lethargic (very drowsy) or unconscious",
+    "hi": "बच्चा बहुत सुस्त है या बेहोश है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_child_not_able_to_drink_or_feed": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_child_not_able_to_drink_or_feed",
+   "label": {
+    "en": "Child is not able to drink, breastfeed or feed",
+    "hi": "बच्चा कुछ पी, स्तनपान या खा नहीं पा रहा"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_child_severe_chest_indrawing": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_child_severe_chest_indrawing",
+   "label": {
+    "en": "Child has severe chest in-drawing",
+    "hi": "बच्चे की छाती सांस लेते समय ज़ोर से अंदर धंसती है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_child_vomits_everything": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_child_vomits_everything",
+   "label": {
+    "en": "Child vomits everything",
+    "hi": "बच्चा जो भी खाए-पिए, सब उल्टी कर देता है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_delivery_excessive_bleeding": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_delivery_excessive_bleeding",
+   "label": {
+    "en": "Excessive bleeding during or after delivery",
+    "hi": "प्रसव के दौरान अथवा प्रसव के पश्चात् अत्यधिक रक्तस्राव"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_labour_over_12_hours": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_labour_over_12_hours",
+   "label": {
+    "en": "Labour pain for more than 12 hours",
+    "hi": "12 घण्टे से अधिक समय तक प्रसव पीड़ा"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_nb_blood_in_stool": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_nb_blood_in_stool",
+   "label": {
+    "en": "Newborn has blood in stool",
+    "hi": "नवजात के मल में खून"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_nb_breathing_difficulty": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_nb_breathing_difficulty",
+   "label": {
+    "en": "Newborn has difficulty in breathing",
+    "hi": "नवजात को सांस लेने में कठिनाई"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_nb_convulsion": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_nb_convulsion",
+   "label": {
+    "en": "Newborn has convulsions (fits)",
+    "hi": "नवजात को दौरे (झटके) आ रहे हैं"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_nb_fast_breathing": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_nb_fast_breathing",
+   "label": {
+    "en": "Newborn breathes more than 60 times in one minute (counted)",
+    "hi": "नवजात एक मिनट में 60 से ज़्यादा बार सांस लेता है (गिनकर)"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_nb_feels_cold": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_nb_feels_cold",
+   "label": {
+    "en": "Newborn feels cold to touch (armpit temperature below 36 °C)",
+    "hi": "नवजात छूने पर ठंडा है (बगल का तापमान 36 °C से कम)"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_nb_feels_hot": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_nb_feels_hot",
+   "label": {
+    "en": "Newborn feels hot to touch (armpit temperature 37.5 °C or above)",
+    "hi": "नवजात छूने पर गर्म है (बगल का तापमान 37.5 °C या ज़्यादा)"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_nb_not_able_to_feed": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_nb_not_able_to_feed",
+   "label": {
+    "en": "Newborn is not able to feed",
+    "hi": "नवजात दूध नहीं पी पा रहा"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_nb_reduced_movement": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_nb_reduced_movement",
+   "label": {
+    "en": "Newborn moves only when stimulated, or does not move at all",
+    "hi": "नवजात केवल छूने/हिलाने पर हिलता है, या बिल्कुल नहीं हिलता"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_nb_severe_chest_indrawing": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_nb_severe_chest_indrawing",
+   "label": {
+    "en": "Newborn has severe chest indrawing",
+    "hi": "नवजात की छाती सांस लेते समय ज़ोर से अंदर धंसती है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_nb_yellow_palms_soles": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_nb_yellow_palms_soles",
+   "label": {
+    "en": "Newborn has yellow palms and soles",
+    "hi": "नवजात की हथेलियाँ और तलवे पीले हैं"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_postnatal_breathing_difficulty": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_postnatal_breathing_difficulty",
+   "label": {
+    "en": "After delivery: difficulty in breathing",
+    "hi": "प्रसव के बाद सांस लेने में कठिनाई"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_postnatal_convulsions": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_postnatal_convulsions",
+   "label": {
+    "en": "After delivery: convulsions (fits)",
+    "hi": "प्रसव के बाद दौरे (झटके) पड़ना"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_postnatal_severe_abdominal_pain": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_postnatal_severe_abdominal_pain",
+   "label": {
+    "en": "After delivery: severe abdominal pain",
+    "hi": "प्रसव के बाद पेट में तेज़ दर्द"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_preg_bleeding": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_preg_bleeding",
+   "label": {
+    "en": "Bleeding during pregnancy",
+    "hi": "गर्भावस्था के दौरान रक्तस्राव"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_preg_fits_headache_vision_swelling": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_preg_fits_headache_vision_swelling",
+   "label": {
+    "en": "In pregnancy: fits, blurring of vision, headache, or swelling all over the body",
+    "hi": "दौरे पड़ना, धुंधला दिखाई देना, सिरदर्द, उल्टी, पूरे शरीर में सूजन"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_preg_high_fever": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_preg_high_fever",
+   "label": {
+    "en": "High fever during pregnancy or within one month of delivery",
+    "hi": "गर्भावस्था अथवा प्रसव के एक महीने के भीतर तेज बुखार"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_profuse_bleeding": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_profuse_bleeding",
+   "label": {
+    "en": "Heavy bleeding that cannot be stopped",
+    "hi": "बहुत ज़्यादा खून बहना जो रुक नहीं रहा"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_sudden_balance_headache_dizziness": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_sudden_balance_headache_dizziness",
+   "label": {
+    "en": "Sudden loss of balance, headache or dizziness",
+    "hi": "अचानक संतुलन खोना, सिरदर्द या चक्कर आना"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_sudden_chest_pain": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_sudden_chest_pain",
+   "label": {
+    "en": "Sudden pain in the chest",
+    "hi": "अचानक सीने में दर्द"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_sudden_face_drooping": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_sudden_face_drooping",
+   "label": {
+    "en": "Sudden drooping or weakness of one side of the face",
+    "hi": "चेहरे का एक तरफ़ अचानक लटकना या कमज़ोर होना"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_sudden_limb_weakness": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_sudden_limb_weakness",
+   "label": {
+    "en": "Sudden weakness in an arm or leg (usually one side of the body)",
+    "hi": "अचानक हाथ या पैर में कमज़ोरी (अक्सर शरीर के एक तरफ़)"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_sudden_speech_difficulty": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_sudden_speech_difficulty",
+   "label": {
+    "en": "Sudden difficulty in speaking, or cannot speak",
+    "hi": "अचानक बोलने में कठिनाई, या बोल न पाना"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_sudden_vision_blurring": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_sudden_vision_blurring",
+   "label": {
+    "en": "Sudden blurring of vision",
+    "hi": "अचानक धुंधला दिखाई देना"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_unconscious": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_unconscious",
+   "label": {
+    "en": "Unconscious or not responding to voice or touch",
+    "hi": "बेहोश, या आवाज़ देने या छूने पर कोई जवाब नहीं"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "ds_waters_broke_without_labour": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_waters_broke_without_labour",
+   "label": {
+    "en": "Bursting of water bag without labour pains",
+    "hi": "प्रसव पीड़ा के बिना ही पानी की थैली फट जाना"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "fever_duration_days": {
+   "evidence_must_include": [
+    "bukh",
+    "बुखा",
+    "fever",
+    "taap",
+    "ताप",
+    "फीवर",
+    "temperature",
+    "टेम्प"
+   ],
+   "group": "symptom",
+   "integer": true,
+   "key": "fever_duration_days",
+   "label": {
+    "en": "Days of fever",
+    "hi": "बुखार कितने दिन से"
+   },
+   "max": 3650.0,
+   "min": 0.0,
+   "note": null,
+   "type": "number",
+   "unit": "days",
+   "value_labels": {},
+   "values": []
+  },
+  "fever_present": {
+   "evidence_must_include": [
+    "bukh",
+    "बुखा",
+    "fever",
+    "taap",
+    "ताप",
+    "फीवर",
+    "temperature",
+    "टेम्प"
+   ],
+   "group": "symptom",
+   "integer": false,
+   "key": "fever_present",
+   "label": {
+    "en": "Has fever",
+    "hi": "बुखार है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "night_sweats": {
+   "evidence_must_include": [
+    "pasin",
+    "पसीन",
+    "sweat",
+    "स्वेट"
+   ],
+   "group": "symptom",
+   "integer": false,
+   "key": "night_sweats",
+   "label": {
+    "en": "Sweating at night",
+    "hi": "रात को पसीना आता है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "past_tb": {
+   "evidence_must_include": [
+    "\\btb\\b",
+    "\\bt b\\b",
+    "टीबी",
+    "टी बी",
+    "तपेदिक",
+    "क्षय",
+    "tuberculosis",
+    "ट्यूबर"
+   ],
+   "group": "history",
+   "integer": false,
+   "key": "past_tb",
+   "label": {
+    "en": "Has had TB before",
+    "hi": "पहले टीबी हो चुकी है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "pregnant": {
+   "evidence_must_include": [],
+   "group": "person",
+   "integer": false,
+   "key": "pregnant",
+   "label": {
+    "en": "Currently pregnant",
+    "hi": "अभी गर्भवती"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "rf_altered_consciousness_convulsions_weakness": {
+   "evidence_must_include": [
+    "behosh",
+    "बेहोश",
+    "होश",
+    "dora",
+    "daura",
+    "दौर",
+    "jhatk",
+    "झटक",
+    "kamzor",
+    "कमज़ोर",
+    "कमजोर",
+    "confus",
+    "fit",
+    "unconscious",
+    "weak",
+    "दौरा",
+    "दौरे",
+    "कन्फ्यू",
+    "अनकॉन्श",
+    "वीक"
+   ],
+   "group": "red_flag",
+   "integer": false,
+   "key": "rf_altered_consciousness_convulsions_weakness",
+   "label": {
+    "en": "Confused or drowsy, fits (convulsions), or weakness of a limb",
+    "hi": "उलझन या बेसुधी, दौरे (झटके), या हाथ-पैर में कमज़ोरी"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "rf_breathless": {
+   "evidence_must_include": [
+    "saans",
+    "sans",
+    "सांस",
+    "साँस",
+    "breath",
+    "dam ",
+    "दम ",
+    "सास",
+    "ब्रीद",
+    "ब्रेथ"
+   ],
+   "group": "red_flag",
+   "integer": false,
+   "key": "rf_breathless",
+   "label": {
+    "en": "Breathless at rest, cannot finish a sentence without a pause, unable to eat, or breathless after walking 10–15 feet or going to the toilet",
+    "hi": "आराम में भी सांस फूलना, बिना रुके एक वाक्य पूरा न कर पाना, खा न पाना, या 10–15 फ़ुट चलने या शौच जाने पर सांस फूलना"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "rf_confined_to_bed": {
+   "evidence_must_include": [
+    "bistar",
+    "बिस्तर",
+    "uth nahi",
+    "उठ नहीं",
+    "bed",
+    "बेड"
+   ],
+   "group": "red_flag",
+   "integer": false,
+   "key": "rf_confined_to_bed",
+   "label": {
+    "en": "Confined to bed (cannot get up)",
+    "hi": "बिस्तर से उठ नहीं पा रहे"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "rf_coughing_blood_cup": {
+   "evidence_must_include": [
+    "cup",
+    "कप",
+    "katori",
+    "कटोरी",
+    "glass",
+    "गिलास"
+   ],
+   "group": "red_flag",
+   "integer": false,
+   "key": "rf_coughing_blood_cup",
+   "label": {
+    "en": "Coughing out blood, one cup or more",
+    "hi": "खांसी में एक कप या ज़्यादा खून"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "rf_recurrent_vomiting_diarrhoea": {
+   "evidence_must_include": [
+    "ulti",
+    "उल्टी",
+    "उलटी",
+    "dast",
+    "दस्त",
+    "vomit",
+    "वोमिट",
+    "वॉमिट",
+    "loose motion",
+    "लूज",
+    "मोशन",
+    "diarr",
+    "डायर",
+    "डाइर"
+   ],
+   "group": "red_flag",
+   "integer": false,
+   "key": "rf_recurrent_vomiting_diarrhoea",
+   "label": {
+    "en": "Repeated vomiting or diarrhoea",
+    "hi": "बार-बार उल्टी या दस्त"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "rf_severe_chest_or_abdominal_pain": {
+   "evidence_must_include": [
+    "dard",
+    "दर्द",
+    "pain",
+    "पेन"
+   ],
+   "group": "red_flag",
+   "integer": false,
+   "key": "rf_severe_chest_or_abdominal_pain",
+   "label": {
+    "en": "Severe chest pain or abdominal pain",
+    "hi": "सीने या पेट में तेज़ दर्द"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "sex": {
+   "evidence_must_include": [],
+   "group": "person",
+   "integer": false,
+   "key": "sex",
+   "label": {
+    "en": "Sex",
+    "hi": "लिंग"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "enum",
+   "unit": null,
+   "value_labels": {
+    "female": {
+     "en": "Female",
+     "hi": "महिला"
+    },
+    "male": {
+     "en": "Male",
+     "hi": "पुरुष"
+    },
+    "other": {
+     "en": "Other",
+     "hi": "अन्य"
+    }
+   },
+   "values": [
+    "female",
+    "male",
+    "other"
+   ]
+  },
+  "significant_weight_loss": {
+   "evidence_must_include": [
+    "wajan",
+    "vajan",
+    "wazan",
+    "वज़न",
+    "वजन",
+    "weight",
+    "dubla",
+    "दुबल",
+    "patla",
+    "पतल",
+    "वेट"
+   ],
+   "group": "symptom",
+   "integer": false,
+   "key": "significant_weight_loss",
+   "label": {
+    "en": "Noticeable weight loss",
+    "hi": "वज़न साफ़ तौर पर घटा है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "tb_household_contact": {
+   "evidence_must_include": [
+    "\\btb\\b",
+    "\\bt b\\b",
+    "टीबी",
+    "टी बी",
+    "तपेदिक",
+    "क्षय",
+    "tuberculosis",
+    "ट्यूबर"
+   ],
+   "group": "history",
+   "integer": false,
+   "key": "tb_household_contact",
+   "label": {
+    "en": "Someone in the household has TB",
+    "hi": "घर में किसी को टीबी है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  }
+ },
+ "pathways": {
+  "adult_cough": {
+   "applies_when": {
+    "age_years": {
+     "gte": 18
+    },
+    "cough_present": "yes"
+   },
+   "danger_signs": [],
+   "id": "adult_cough",
+   "low_care": null,
+   "questions": [
+    {
+     "ask": {
+      "en": "Is the person breathless at rest, unable to finish a sentence without a pause, unable to eat, or breathless after walking 10–15 feet or going to the toilet?",
+      "hi": "क्या आराम में भी सांस फूलती है, बिना रुके एक वाक्य पूरा नहीं कर पाते, खा नहीं पाते, या 10–15 फ़ुट चलने या शौच जाने पर सांस फूलती है?"
+     },
+     "ask_when": null,
+     "fact": "rf_breathless",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Is the person confused or drowsy, having fits, or weak in an arm or leg?",
+      "hi": "क्या व्यक्ति उलझन में या बेसुध है, दौरे पड़ रहे हैं, या किसी हाथ-पैर में कमज़ोरी है?"
+     },
+     "ask_when": null,
+     "fact": "rf_altered_consciousness_convulsions_weakness",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Is the person coughing out blood — one cup or more?",
+      "hi": "क्या खांसी में खून आ रहा है — एक कप या ज़्यादा?"
+     },
+     "ask_when": null,
+     "fact": "rf_coughing_blood_cup",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Is there severe chest pain or abdominal pain?",
+      "hi": "क्या सीने या पेट में तेज़ दर्द है?"
+     },
+     "ask_when": null,
+     "fact": "rf_severe_chest_or_abdominal_pain",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Is the person confined to bed, unable to get up?",
+      "hi": "क्या व्यक्ति बिस्तर से उठ नहीं पा रहा?"
+     },
+     "ask_when": null,
+     "fact": "rf_confined_to_bed",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Is there repeated vomiting or diarrhoea?",
+      "hi": "क्या बार-बार उल्टी या दस्त हो रहे हैं?"
+     },
+     "ask_when": null,
+     "fact": "rf_recurrent_vomiting_diarrhoea",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "For how many days has the cough been present?",
+      "hi": "खांसी कितने दिन से है?"
+     },
+     "ask_when": null,
+     "fact": "cough_duration_days",
+     "input": "duration",
+     "options": [],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Is there any blood in the sputum, even a little?",
+      "hi": "क्या बलगम में थोड़ा भी खून आता है?"
+     },
+     "ask_when": null,
+     "fact": "blood_in_sputum",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Does the person have fever?",
+      "hi": "क्या बुखार है?"
+     },
+     "ask_when": null,
+     "fact": "fever_present",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "For how many days has the fever been present?",
+      "hi": "बुखार कितने दिन से है?"
+     },
+     "ask_when": {
+      "fever_present": "yes"
+     },
+     "fact": "fever_duration_days",
+     "input": "duration",
+     "options": [],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Has the person noticeably lost weight?",
+      "hi": "क्या वज़न साफ़ तौर पर घटा है?"
+     },
+     "ask_when": null,
+     "fact": "significant_weight_loss",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Does the person sweat at night?",
+      "hi": "क्या रात को पसीना आता है?"
+     },
+     "ask_when": null,
+     "fact": "night_sweats",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Does anyone in the household have TB?",
+      "hi": "क्या घर में किसी को टीबी है?"
+     },
+     "ask_when": null,
+     "fact": "tb_household_contact",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Has the person had TB before?",
+      "hi": "क्या पहले कभी टीबी हुई है?"
+     },
+     "ask_when": null,
+     "fact": "past_tb",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    }
+   ],
+   "referral": {
+    "bring": [
+     "id_document",
+     "previous_reports"
+    ]
+   },
+   "review": {
+    "content_hash": null,
+    "reviewed_on": null,
+    "reviewer": null,
+    "status": "draft"
+   },
+   "rules": [
+    {
+     "facility_level": "CHC",
+     "id": "cough.red_flag_breathless",
+     "level": "HIGH",
+     "rationale": {
+      "en": "Breathlessness at rest or on slight effort is a red-flag sign: refer immediately to a higher facility.",
+      "hi": "आराम में या थोड़ी मेहनत पर सांस फूलना ख़तरे का संकेत है: तुरंत बड़े अस्पताल भेजें।"
+     },
+     "source": {
+      "locator": "p. 11 (pdf 23), 2.3.1 Systematic Triaging: red-flag criteria",
+      "ref": "ntep_differentiated_tb_care_2025"
+     },
+     "target_window": "today",
+     "when": {
+      "rf_breathless": "yes"
+     }
+    },
+    {
+     "facility_level": "CHC",
+     "id": "cough.red_flag_consciousness_convulsions_weakness",
+     "level": "HIGH",
+     "rationale": {
+      "en": "Altered consciousness, fits or limb weakness is a red-flag sign: refer immediately to a higher facility.",
+      "hi": "बेसुधी, दौरे या हाथ-पैर में कमज़ोरी ख़तरे का संकेत है: तुरंत बड़े अस्पताल भेजें।"
+     },
+     "source": {
+      "locator": "p. 11 (pdf 23), 2.3.1 Systematic Triaging: red-flag criteria",
+      "ref": "ntep_differentiated_tb_care_2025"
+     },
+     "target_window": "today",
+     "when": {
+      "rf_altered_consciousness_convulsions_weakness": "yes"
+     }
+    },
+    {
+     "facility_level": "CHC",
+     "id": "cough.red_flag_coughing_blood_cup",
+     "level": "HIGH",
+     "rationale": {
+      "en": "Coughing out a cup of blood or more is a red-flag sign: refer immediately to a higher facility.",
+      "hi": "खांसी में एक कप या ज़्यादा खून ख़तरे का संकेत है: तुरंत बड़े अस्पताल भेजें।"
+     },
+     "source": {
+      "locator": "p. 11 (pdf 23), 2.3.1 Systematic Triaging: red-flag criteria",
+      "ref": "ntep_differentiated_tb_care_2025"
+     },
+     "target_window": "today",
+     "when": {
+      "rf_coughing_blood_cup": "yes"
+     }
+    },
+    {
+     "facility_level": "CHC",
+     "id": "cough.red_flag_severe_pain",
+     "level": "HIGH",
+     "rationale": {
+      "en": "Severe chest or abdominal pain is a red-flag sign: refer immediately to a higher facility.",
+      "hi": "सीने या पेट में तेज़ दर्द ख़तरे का संकेत है: तुरंत बड़े अस्पताल भेजें।"
+     },
+     "source": {
+      "locator": "p. 11 (pdf 23), 2.3.1 Systematic Triaging: red-flag criteria",
+      "ref": "ntep_differentiated_tb_care_2025"
+     },
+     "target_window": "today",
+     "when": {
+      "rf_severe_chest_or_abdominal_pain": "yes"
+     }
+    },
+    {
+     "facility_level": "CHC",
+     "id": "cough.red_flag_confined_to_bed",
+     "level": "HIGH",
+     "rationale": {
+      "en": "Being confined to bed is a red-flag sign: refer immediately to a higher facility.",
+      "hi": "बिस्तर से न उठ पाना ख़तरे का संकेत है: तुरंत बड़े अस्पताल भेजें।"
+     },
+     "source": {
+      "locator": "p. 11 (pdf 23), 2.3.1 Systematic Triaging: red-flag criteria",
+      "ref": "ntep_differentiated_tb_care_2025"
+     },
+     "target_window": "today",
+     "when": {
+      "rf_confined_to_bed": "yes"
+     }
+    },
+    {
+     "facility_level": "CHC",
+     "id": "cough.red_flag_recurrent_vomiting_diarrhoea",
+     "level": "HIGH",
+     "rationale": {
+      "en": "Repeated vomiting or diarrhoea is a red-flag sign: refer immediately to a higher facility.",
+      "hi": "बार-बार उल्टी या दस्त ख़तरे का संकेत है: तुरंत बड़े अस्पताल भेजें।"
+     },
+     "source": {
+      "locator": "p. 11 (pdf 23), 2.3.1 Systematic Triaging: red-flag criteria",
+      "ref": "ntep_differentiated_tb_care_2025"
+     },
+     "target_window": "today",
+     "when": {
+      "rf_recurrent_vomiting_diarrhoea": "yes"
+     }
+    },
+    {
+     "facility_level": "PHC",
+     "id": "cough.two_weeks_or_more",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "Cough for 2 weeks or more needs a TB test: refer to a facility with a doctor for sputum examination.",
+      "hi": "2 हफ़्ते या ज़्यादा की खांसी में टीबी जांच ज़रूरी है: बलगम जांच के लिए डॉक्टर वाले केंद्र भेजें।"
+     },
+     "source": {
+      "locator": "Module 2, p. 23 (pdf 39), Definitions: Presumptive Pulmonary TB",
+      "ref": "ntep_training_modules_1to4"
+     },
+     "target_window": "within_24_hours",
+     "when": {
+      "cough_duration_days": {
+       "gte": 14
+      }
+     }
+    },
+    {
+     "facility_level": "PHC",
+     "id": "cough.blood_in_sputum",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "Blood in sputum needs a TB test: refer to a facility with a doctor for sputum examination.",
+      "hi": "बलगम में खून होने पर टीबी जांच ज़रूरी है: बलगम जांच के लिए डॉक्टर वाले केंद्र भेजें।"
+     },
+     "source": {
+      "locator": "Module 2, p. 23 (pdf 39), Definitions: Presumptive Pulmonary TB",
+      "ref": "ntep_training_modules_1to4"
+     },
+     "target_window": "within_24_hours",
+     "when": {
+      "blood_in_sputum": "yes"
+     }
+    },
+    {
+     "facility_level": "PHC",
+     "id": "cough.fever_two_weeks_or_more",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "Fever for 2 weeks or more needs a TB test: refer to a facility with a doctor.",
+      "hi": "2 हफ़्ते या ज़्यादा के बुखार में टीबी जांच ज़रूरी है: डॉक्टर वाले केंद्र भेजें।"
+     },
+     "source": {
+      "locator": "Module 2, p. 23 (pdf 39), Definitions: Presumptive Pulmonary TB",
+      "ref": "ntep_training_modules_1to4"
+     },
+     "target_window": "within_24_hours",
+     "when": {
+      "fever_duration_days": {
+       "gte": 14
+      },
+      "fever_present": "yes"
+     }
+    },
+    {
+     "facility_level": "PHC",
+     "id": "cough.weight_loss",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "Cough with noticeable weight loss needs a TB test: refer to a facility with a doctor.",
+      "hi": "खांसी के साथ वज़न घटने पर टीबी जांच ज़रूरी है: डॉक्टर वाले केंद्र भेजें।"
+     },
+     "source": {
+      "locator": "Module 2, p. 23 (pdf 39), Definitions: Presumptive Pulmonary TB",
+      "ref": "ntep_training_modules_1to4"
+     },
+     "target_window": "within_24_hours",
+     "when": {
+      "significant_weight_loss": "yes"
+     }
+    },
+    {
+     "facility_level": "PHC",
+     "id": "cough.night_sweats",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "Cough with night sweats needs a TB test: refer to a facility with a doctor.",
+      "hi": "खांसी के साथ रात को पसीना आने पर टीबी जांच ज़रूरी है: डॉक्टर वाले केंद्र भेजें।"
+     },
+     "source": {
+      "locator": "Annexure 2 (pdf 68), CBAC Part B1 and action note",
+      "ref": "aam_asha_ncd_module"
+     },
+     "target_window": "within_24_hours",
+     "when": {
+      "night_sweats": "yes"
+     }
+    },
+    {
+     "facility_level": "PHC",
+     "id": "cough.any_duration_over_60",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "For people over 60, cough of any duration needs a TB test: refer to a facility with a doctor.",
+      "hi": "60 साल से ज़्यादा उम्र में किसी भी अवधि की खांसी में टीबी जांच ज़रूरी है: डॉक्टर वाले केंद्र भेजें।"
+     },
+     "source": {
+      "locator": "pdf 7, Community-based services: b. Vulnerable Population",
+      "ref": "ntep_tb_mukt_bharat_abhiyan_2026"
+     },
+     "target_window": "within_24_hours",
+     "when": {
+      "age_years": {
+       "gt": 60
+      }
+     }
+    },
+    {
+     "facility_level": "PHC",
+     "id": "cough.any_duration_household_contact",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "When someone at home has TB, cough of any duration needs a TB test: refer to a facility with a doctor.",
+      "hi": "घर में किसी को टीबी हो तो किसी भी अवधि की खांसी में टीबी जांच ज़रूरी है: डॉक्टर वाले केंद्र भेजें।"
+     },
+     "source": {
+      "locator": "Module 2, p. 23 (pdf 39), Definitions: also to be investigated as presumptive PTB",
+      "ref": "ntep_training_modules_1to4"
+     },
+     "target_window": "within_24_hours",
+     "when": {
+      "tb_household_contact": "yes"
+     }
+    },
+    {
+     "facility_level": "PHC",
+     "id": "cough.any_duration_past_tb",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "After past TB, cough of any duration needs a TB test: refer to a facility with a doctor.",
+      "hi": "पहले टीबी हो चुकी हो तो किसी भी अवधि की खांसी में टीबी जांच ज़रूरी है: डॉक्टर वाले केंद्र भेजें।"
+     },
+     "source": {
+      "locator": "pdf 7, Community-based services: b. Vulnerable Population",
+      "ref": "ntep_tb_mukt_bharat_abhiyan_2026"
+     },
+     "target_window": "within_24_hours",
+     "when": {
+      "past_tb": "yes"
+     }
+    }
+   ],
+   "sources": [
+    "ntep_differentiated_tb_care_2025",
+    "ntep_training_modules_1to4",
+    "ntep_tb_mukt_bharat_abhiyan_2026",
+    "aam_asha_ncd_module"
+   ],
+   "tags": [
+    "tb_related"
+   ],
+   "title": {
+    "en": "Cough in an adult",
+    "hi": "वयस्क में खांसी"
+   },
+   "version": "0.1.0"
+  }
+ },
+ "references": {
+  "aam_asha_ncd_module": {
+   "excerpts": [
+    {
+     "locator": "Annexure 2 (pdf 68), CBAC Part B1 and action note",
+     "text": "Coughing more than 2 weeks* … Blood in sputum* … Fever for > 2 weeks* … Loss of weight* … Night Sweats* … History of TB * … In case of individual answers Yes to any one of the above-mentioned symptoms, refer the patient immediately to … the nearest facility where a Medical Officer is available … *If the response is Yes- action suggested: Sputum sample collection and transport to nearest TB testing center"
+    }
+   ],
+   "id": "aam_asha_ncd_module",
+   "publisher": "National Health Mission, MoHFW",
+   "retrieved_on": "2026-11-11",
+   "title": "Module for ASHA on Non-Communicable Diseases (includes the Community Based Assessment Checklist, CBAC)",
+   "url": "https://aam.mohfw.gov.in/download/document/263f3ca26df87dc44b7687c1b9cf0c15.pdf",
+   "version_or_date": "No date printed; PDF modified 2019-09-27"
+  },
+  "mha_erss_section_page": {
+   "excerpts": [
+    {
+     "locator": "ERSS 112",
+     "text": "as a nationwide, unified emergency response system with a single emergency number ‘112’, for reporting and addressing all kinds of emergencies from across the country."
+    }
+   ],
+   "id": "mha_erss_section_page",
+   "publisher": "Ministry of Home Affairs",
+   "retrieved_on": "2026-11-12",
+   "title": "Nirbhaya / ERSS Section — Emergency Response Support System",
+   "url": "https://www.mha.gov.in/nirbhayaerss-section",
+   "version_or_date": "Web page, last updated 10.11.2026"
+  },
+  "nha_pmjay_compendium_vol1_2026": {
+   "excerpts": [
+    {
+     "locator": "pdf p10, effective date",
+     "text": "This document is effective from 17 April 2026 and is intended for official use"
+    },
+    {
+     "locator": "pdf p16-17, Guidelines for Pradhan Mantri Arogya Mitra (PMAM): roles",
+     "text": "I.    Search eligible beneficiaries either using Aadhaar card or Ration card … The PMAM shall clearly communicate to beneficiaries that OPD services are not covered under PM-"
+    },
+    {
+     "locator": "pdf p22, PMAM help desk",
+     "text": "VIII. The PMAM shall be available at the help desk at all times during assigned duty hours."
+    },
+    {
+     "locator": "pdf p34, 2.3.3 New Families (70 years and above)",
+     "text": "2.3.3 New Families - For senior citizens aged 70 years and above who belong to families not currently covered"
+    }
+   ],
+   "id": "nha_pmjay_compendium_vol1_2026",
+   "publisher": "National Health Authority",
+   "retrieved_on": "2026-11-12",
+   "title": "AB PM-JAY Compendium of Guidelines Vol-I 2026",
+   "url": "https://nha.gov.in/strapi/uploads/Compendium_of_Guidelines_Vol_1_54e729f77a.pdf",
+   "version_or_date": "2026; guidelines effective from 17 April 2026"
+  },
+  "nha_pmjay_compendium_vol3_2026": {
+   "excerpts": [
+    {
+     "locator": "p24, scheme benefits",
+     "text": "entitled to cashless coverage for secondary, tertiary, and day-care procedures, as applicable, through the"
+    },
+    {
+     "locator": "p24, family floater cover",
+     "text": "The benefits of INR 5,00,000 per annum are on a family floater basis which means that same can be used by"
+    },
+    {
+     "locator": "p24, pre-existing diseases",
+     "text": "or age of members. In addition, pre-existing diseases are covered from the very first day. The cover under the"
+    },
+    {
+     "locator": "p24, covered items",
+     "text": "3.   Pre-hospitalisation up to 3 days … 10. Post-hospitalization follow-up care up to 15 days"
+    },
+    {
+     "locator": "p75, Annexure 5: Exclusions",
+     "text": "Annexure 5: Exclusions to the Policy/Scheme … 1.   Condition that does not require hospitalization and can be treated under Out Patient Care except those"
+    },
+    {
+     "locator": "p62, individual diagnostics and out-patient care",
+     "text": "viz. individual diagnostics for evaluation, out-patient care, drug rehabilitation, cosmetic or"
+    }
+   ],
+   "id": "nha_pmjay_compendium_vol3_2026",
+   "publisher": "National Health Authority",
+   "retrieved_on": "2026-11-12",
+   "title": "AB PM-JAY Compendium Vol-3 2026 (Claims Adjudication Manual 2026; Health Benefit Package user guidelines 2026)",
+   "url": "https://nha.gov.in/strapi/uploads/Compendium_of_Guidelines_Vol_3_8dc7580c37.pdf",
+   "version_or_date": "2026; effective 17 April 2026"
+  },
+  "nhm_imnci_chart_booklet": {
+   "excerpts": [
+    {
+     "locator": "p. 12 (pdf 14), Assess and classify the sick child 2 months up to 5 years: Check for general danger signs",
+     "text": "CHECK FOR GENERAL DANGER SIGNS … See if the child is lethargic or unconscious. … Is the child able to drink or breastfeed? … Does the child vomit everything? … Has the child had convulsions? … A child with any general danger sign needs URGENT attention; complete the assessment and … any pre-referral treatment immediately so referral is not delayed."
+    }
+   ],
+   "id": "nhm_imnci_chart_booklet",
+   "publisher": "Ministry of Health and Family Welfare, Government of India (with WHO and UNICEF)",
+   "retrieved_on": "2026-11-11",
+   "title": "F-IMNCI Chart Booklet (Facility Based Integrated Management of Neonatal and Childhood Illness)",
+   "url": "https://nhm.gov.in/images/pdf/programmes/child-health/guidelines/imnci_chart_booklet.pdf",
+   "version_or_date": "No date printed; PDF created 2012-10-19"
+  },
+  "nhm_jssk_page": {
+   "excerpts": [
+    {
+     "locator": "Free Entitlements for pregnant women",
+     "text": "The following are the Free Entitlements for pregnant women: … Free and cashless delivery … Free C-Section … Free drugs and consumables … Free diagnostics … Free diet during stay in the health institutions … Free provision of blood … Exemption from user charges … Free transport from home to health institutions … Free transport between facilities in case of referral … Free drop back from Institutions to home after 48hrs stay"
+    }
+   ],
+   "id": "nhm_jssk_page",
+   "publisher": "National Health Mission, MoHFW",
+   "retrieved_on": "2026-11-12",
+   "title": "Janani Shishu Suraksha Karyakram (JSSK)",
+   "url": "https://nhm.gov.in/index4.php?lang=1&level=0&linkid=150&lid=171",
+   "version_or_date": "Undated web page; JSSK launched 1 June 2011"
+  },
+  "nhm_jsy_page": {
+   "excerpts": [
+    {
+     "locator": "Important Features of JSY: LPS states",
+     "text": "The scheme focuses on poor pregnant woman with a special dispensation for states that have low institutional delivery rates, namely, the states of Uttar Pradesh"
+    },
+    {
+     "locator": "Eligibility for Cash Assistance: LPS",
+     "text": "| All pregnant women delivering in government health centres, such as Sub Centers (SCs)/Primary Health Centers (PHCs)/Community Health Centers (CHCs)/First Referral Units (FRUs)/general wards of district or state hospitals"
+    }
+   ],
+   "id": "nhm_jsy_page",
+   "publisher": "National Health Mission, MoHFW",
+   "retrieved_on": "2026-11-12",
+   "title": "Janani Suraksha Yojana",
+   "url": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=841&lid=309",
+   "version_or_date": "Undated web page (site footer date is site-wide)"
+  },
+  "nhm_maternal_health_page": {
+   "excerpts": [
+    {
+     "locator": "Flagship Programmes: SUMAN",
+     "text": "Under SUMAN, all the existing schemes for maternal and neonatal health have been brought under one umbrella"
+    }
+   ],
+   "id": "nhm_maternal_health_page",
+   "publisher": "National Health Mission, MoHFW",
+   "retrieved_on": "2026-11-12",
+   "title": "Maternal Health",
+   "url": "https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=822&lid=218",
+   "version_or_date": "Undated web page"
+  },
+  "nhm_mcp_card_english": {
+   "excerpts": [
+    {
+     "locator": "pdf page 4, pregnancy danger signs",
+     "text": "If you or anyone in your family sees any … of these danger signs, take the pregnant … woman to the hospital immediately … • Bleeding during pregnancy … • Excessive bleeding during … delivery or after delivery … Headache, blurring of vision, … High fever during pregnancy … fits and swelling all over the … or within one month of delivery … body … Labour pain for more than … Bursting of water bag without … 12 hours … labour pains"
+    }
+   ],
+   "id": "nhm_mcp_card_english",
+   "publisher": "Ministry of Health and Family Welfare and Ministry of Women and Child Development",
+   "retrieved_on": "2026-11-11",
+   "title": "Mother and Child Protection Card (English)",
+   "url": "https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/MCP_Card_English_version.pdf",
+   "version_or_date": "No date printed; PDF created 2018-02-05. A revised card dated 28-05-2018 exists on hbnc-hbyc.mohfw.gov.in but could not be retrieved (server timeout)."
+  },
+  "nhm_mcp_card_hindi": {
+   "excerpts": [
+    {
+     "locator": "pdf page 4, pregnancy danger signs (Hindi)",
+     "text": "यदि आपको अथवा आपके परिवार में किसी अन्य व्यक्ति को खतरे के ये लक्षण दिखाई दें तो गर्भवती महिला को तुरन्त अस्पताल ले जायें … गर्भावस्था के दौरान रक्तस्राव, प्रसव के दौरान अथवा प्रसव के पश्चात् अत्यधिक रक्तस्राव … गर्भावस्था अथवा प्रसव के एक महीने के भीतर तेज बुखार … दौरे पड़ना, धुंधला दिखाई देना, सिरदर्द, उल्टी, पूरे शरीर में सूजन … 12 घण्टे से अधिक समय तक प्रसव पीड़ा … प्रसव पीड़ा के बिना ही पानी की थैली फट जाना"
+    }
+   ],
+   "id": "nhm_mcp_card_hindi",
+   "publisher": "Ministry of Health and Family Welfare and Ministry of Women and Child Development",
+   "retrieved_on": "2026-11-11",
+   "title": "मातृ एवं शिशु सुरक्षा कार्ड (Mother and Child Protection Card, Hindi)",
+   "url": "https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/MCP_Card_Hindi_version.pdf",
+   "version_or_date": "No date printed; PDF created 2018-02-05"
+  },
+  "nhm_nas_guidelines_2026": {
+   "excerpts": [
+    {
+     "locator": "p20, 108 and 102",
+     "text": "(NHM). Dial 108 emerged as an emergency response service, whilew Dial 102 was … used primarily for patient transport, especially for pregnant women, newborns"
+    },
+    {
+     "locator": "p20, numbers to call",
+     "text": "States and Union Territories can access ambulance service by calling 108, 102, or 112."
+    },
+    {
+     "locator": "p124, free of cost (model agreement definitions)",
+     "text": "available free of cost to any one in a situation of medical emergency by dialing … a toll free telephone number “102/108/112”."
+    }
+   ],
+   "id": "nhm_nas_guidelines_2026",
+   "publisher": "National Health Mission, MoHFW",
+   "retrieved_on": "2026-11-12",
+   "title": "Operational Guidelines for National Ambulance Service (NAS) 2026",
+   "url": "https://nhm.gov.in/New-Update-2025-26/NAS-Guidline/NAS-guidline-June-2026.pdf",
+   "version_or_date": "June 2026 (PDF dated 3 Aug 2026)"
+  },
+  "nhm_rbsk2_guidelines_2026": {
+   "excerpts": [
+    {
+     "locator": "p3 (pdf 20), 4Ds and free treatment",
+     "text": "collectively known as the 4Ds: Defects at birth, Deficiencies, Diseases, and Developmental delays. This"
+    },
+    {
+     "locator": "p14 (pdf 31), age group",
+     "text": "The program aims to provide health coverage to children and adolescents in the 0–18 years age group, including"
+    }
+   ],
+   "id": "nhm_rbsk2_guidelines_2026",
+   "publisher": "Child Health Division, MoHFW",
+   "retrieved_on": "2026-11-12",
+   "title": "RBSK 2.0 Operational Guidelines 2026",
+   "url": "https://nhm.gov.in/images/pdf/programmes/RBSK/RBSK%202.0_Operational_Guidelines_2026_English.pdf",
+   "version_or_date": "2026 (PDF dated 8 May 2026)"
+  },
+  "nhm_ssbsk_op_guideline_2026": {
+   "excerpts": [
+    {
+     "locator": "p. 22 (pdf 48), Table 3.3: Criteria for Danger Signs in newborn",
+     "text": "Table 3.3: Criteria for Danger Signs in newborn … Movement only when stimulated … or no movement at all … Severe chest indrawing … Yellow discolouration in … Not able to feed … palm and feet … Blood in stool … Convulsion … Axillary temperature 37.5º C … Difficulty in breathing … or above (feels hot to touch) … Fast breathing (more than 60 … Axillary temperature less than … breaths per minute) … 36º C (feels cold to touch)"
+    },
+    {
+     "locator": "p. 23 (pdf 49), Table 3.5: Criteria for Danger Signs in Young Child",
+     "text": "Table 3.5: Criteria for Danger Signs in Young Child … Not able to feed/drink … Fever (more than 37.5º C or … 99.5º F) more than 7 days and … no doctor consultation taken … Vomits everything often … Diarrhoea more than 14 days … Lethargy/ unconsciousness … Convulsions/convulsing now … Blood in stools … Difficulty in breathing … Fast breathing (2 months to 12 … months: more than 50 breaths … per minute; 12 months to 5 years: … Severe chest in-drawing … more than 40 breath per minute)"
+    },
+    {
+     "locator": "p. 23 (pdf 49), text after Table 3.4",
+     "text": "presence of danger signs necessitates prompt clinical assessment, pre referral stabilization, and immediate referral"
+    },
+    {
+     "locator": "p. 28 (pdf 54), Figure 3.5: Maternal Danger Signs",
+     "text": "Figure 3.5: Maternal Danger Signs … Excessive … Convulsions … Bleeding … Fever … Severe … abdominal pain … Difficulty in … breathing"
+    }
+   ],
+   "id": "nhm_ssbsk_op_guideline_2026",
+   "publisher": "Ministry of Health and Family Welfare / National Health Mission",
+   "retrieved_on": "2026-11-11",
+   "title": "Samagra Shishu Bal Swasthya Karyakram (SSBSK) Operational Guidelines 2026",
+   "url": "https://nhm.gov.in/New-Update-2025-26/Guidelines/SSBSK/SSBSK_Operational%20Guidline_Final_06-08-2026.pdf",
+   "version_or_date": "Operational Guidelines 2026 (file dated Final 06-08-2026; PDF created 2026-08-18)"
+  },
+  "nhsrc_emergency_flw_common": {
+   "excerpts": [
+    {
+     "locator": "slide 5 (pdf 5), What to do in case of emergency",
+     "text": "WHAT TO DO IN CASE OF EMERGENCY? … Immediately call the ambulance (102)"
+    },
+    {
+     "locator": "slide 9 (pdf 9), Haemorrhage/bleeding control",
+     "text": "Profuse or uncontrolled bleeding should be given … maximum priority."
+    },
+    {
+     "locator": "slide 13 (pdf 13), Disability (AVPU)",
+     "text": "U: Unresponsive/unconscious: The victim does not respond spontaneously and … does not respond to verbal or painful stimuli."
+    }
+   ],
+   "id": "nhsrc_emergency_flw_common",
+   "publisher": "National Health Systems Resource Centre (NHSRC), MoHFW",
+   "retrieved_on": "2026-11-11",
+   "title": "Emergency Care for FLW — Management and Prevention of Common Emergency Conditions",
+   "url": "https://www.nhsrcindia.org/sites/default/files/2022-11/Emergency%20Care%20for%20FLW-%20Management%20and%20Prevention%20of%20Common%20Emergency%20Conditions.pdf",
+   "version_or_date": "Training slides; PDF created 2022-10-26"
+  },
+  "nhsrc_emergency_flw_ncd": {
+   "excerpts": [
+    {
+     "locator": "slide 3 (pdf 3), Recognising life threatening situations - NCDs",
+     "text": "RECOGNISING LIFE THREATENING … 1. Sudden weakness in arms or legs (usually affects one side of the body) … 2. Sudden drooping or weakness in one side of the face … 3. Sudden loss of balance, headache, dizziness, or loss of consciousness … 4. Sudden blurring of vision … 5. Sudden difficulty in speech/inability to speak … 6. Sudden pain in the chest"
+    },
+    {
+     "locator": "slide 4 (pdf 4), Management protocol - general measures",
+     "text": "Call the Ambulance (102)"
+    }
+   ],
+   "id": "nhsrc_emergency_flw_ncd",
+   "publisher": "National Health Systems Resource Centre (NHSRC), MoHFW",
+   "retrieved_on": "2026-11-11",
+   "title": "Emergency Care for FLW — Emergency Conditions arising out of NCDs",
+   "url": "https://www.nhsrcindia.org/sites/default/files/2022-11/Emergency%20Care%20for%20FLW-Emergency%20Conditions%20arising%20out%20of%20NCDs.pdf",
+   "version_or_date": "Training slides; PDF created 2022-10-26"
+  },
+  "ntep_differentiated_tb_care_2025": {
+   "excerpts": [
+    {
+     "locator": "p. 11 (pdf 23), 2.3.1 Systematic Triaging: red-flag criteria",
+     "text": "Red-flag criteria include the presence of signs and symptoms which are critically important, can be assessed at community level personnel and are to be mandatorily assessed at all levels of … • Patient confined to bed … • Breathlessness - at rest, speaks with difficulty-unable to complete a sentence without a pause, unable to take feed, on 10-15 feet walk or on attending nature’s call … • Severe pain: chest pain/abdominal pain … • Altered consciousness or convulsions or limb weakness … • Coughing out blood ≥ 1 cup … • Recurrent vomiting/ diarrhoea"
+    },
+    {
+     "locator": "p. 11-12 (pdf 24), Box 2.1 Triaging framework",
+     "text": "Box 2.1 Differentiated TB Care (DTC) – Triaging framework … Before diagnosis"
+    },
+    {
+     "locator": "p. 12 (pdf 25), Triaging process: referral of triage-positive patients",
+     "text": "Triage-positive patients are referred immediately to higher-level health facilities, such as CHCs or district hospitals, tertiary level health institutions for hospitalization and further assessment."
+    }
+   ],
+   "id": "ntep_differentiated_tb_care_2025",
+   "publisher": "Central TB Division, MoHFW",
+   "retrieved_on": "2026-11-11",
+   "title": "National Guidance on Differentiated TB Care",
+   "url": "https://tbcindia.mohfw.gov.in/wp-content/uploads/2025/07/National-Guidance-on-Differential-TB-Care_Final_March-2025-3.pdf",
+   "version_or_date": "March 2025"
+  },
+  "ntep_tb_mukt_bharat_abhiyan_2026": {
+   "excerpts": [
+    {
+     "locator": "pdf 7, Community-based services: b. Vulnerable Population",
+     "text": "b. Vulnerable Population - Vulnerable population includes individuals over 60 years … of age, individuals with malnutrition (BMI <18.5), diabetics, People Living with HIV … (PLHIV), smokers, alcoholics, persons with past history of TB disease and … household contacts of TB patients."
+    },
+    {
+     "locator": "pdf 8, Facility-based intensified services: g. Screening using 10-Symptoms (10-S)",
+     "text": "Cough >2 weeks (Any duration for vulnerable population), Fever, Night … sweats, Hemoptysis, Chest pain, Shortness of breath, Weight loss, Loss of … appetite, Fatigue, Lymph node swelling and any other extra pulmonary"
+    },
+    {
+     "locator": "pdf 8, h. Sample Collection and Transport",
+     "text": "Health workers (ASHA/CV) ensure proper … sputum sample collection and transportation to the nearest NAAT facility."
+    }
+   ],
+   "id": "ntep_tb_mukt_bharat_abhiyan_2026",
+   "publisher": "Central TB Division, MoHFW",
+   "retrieved_on": "2026-11-11",
+   "title": "TB Mukt Bharat Abhiyaan — Campaign document 2026 (v6)",
+   "url": "https://tbcindia.mohfw.gov.in/wp-content/uploads/2026/03/TB-Mukt-Bharat-Abhiyan-Campaign-2026-v6.pdf",
+   "version_or_date": "v6; PDF created 2026-03-12"
+  },
+  "ntep_training_modules_1to4": {
+   "excerpts": [
+    {
+     "locator": "Module 2, p. 23 (pdf 39), Definitions: Presumptive Pulmonary TB",
+     "text": "Presumptive Pulmonary TB refers to a person with any of the symptoms and signs suggestive of TB, including: cough for 2 weeks or more, fever for 2 weeks or more, significant weight loss, haemoptysis, any abnormality in chest radiograph."
+    },
+    {
+     "locator": "Module 2, p. 23 (pdf 39), Definitions: also to be investigated as presumptive PTB",
+     "text": "The following are also to be investigated as presumptive PTB … a. Contacts of Microbiologically confirmed TB patients having cough of any duration"
+    },
+    {
+     "locator": "Module 2, p. 24 (pdf 40), Importance of properly identifying Presumptive TB cases",
+     "text": "every case of presumptive pulmonary TB should be referred for sputum examination"
+    }
+   ],
+   "id": "ntep_training_modules_1to4",
+   "publisher": "National TB Elimination Programme, Central TB Division, MoHFW",
+   "retrieved_on": "2026-11-11",
+   "title": "Training Modules (1-4) for Programme Managers & Medical Officers",
+   "url": "https://tbcindia.mohfw.gov.in/wp-content/uploads/2023/05/NTEPTrainingModules1to4.pdf",
+   "version_or_date": "July 2020 (suggested citation; marked 'Live Document')"
+  },
+  "pib_maternal_care_schemes_2026_08": {
+   "excerpts": [
+    {
+     "locator": "JSSK",
+     "text": "Janani Shishu Suraksha Karyakram (JSSK) entitles all pregnant women deliver in public health institutions to have absolutely free and no expense delivery, including caesarean section."
+    },
+    {
+     "locator": "JSSK sick infants",
+     "text": "Similar entitlements are also in place for sick infants up to one year of age."
+    },
+    {
+     "locator": "SUMAN",
+     "text": "Surakshit Matritva Aashwasan (SUMAN) provides assured, dignified, respectful and quality healthcare at no cost and zero tolerance for denial of services for every pregnant woman and newborn visiting public health facilities to end all preventable maternal and newborn deaths."
+    },
+    {
+     "locator": "PMMVY",
+     "text": "cash incentives of ₹5,000/- are provided directly to the Bank/ Post Office account of the beneficiary in Direct Benefit Transfer (DBT) mode for the first child."
+    }
+   ],
+   "id": "pib_maternal_care_schemes_2026_08",
+   "publisher": "Press Information Bureau (MoHFW)",
+   "retrieved_on": "2026-11-12",
+   "title": "Maternal health schemes (Lok Sabha reply)",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296125",
+   "version_or_date": "Posted 07 Aug 2026"
+  },
+  "pib_pmjay_70plus_cabinet_2024": {
+   "excerpts": [
+    {
+     "locator": "release text: 70 years and above",
+     "text": "With this approval, all senior citizens of the age 70 years and above irrespective of their socio- economic status would be eligible to avail the benefits of AB PM-JAY."
+    },
+    {
+     "locator": "release text: cover for other senior citizens",
+     "text": "All other senior citizens of the age 70 years and above will get a cover upto ₹5 lakh per year on a family basis."
+    }
+   ],
+   "id": "pib_pmjay_70plus_cabinet_2024",
+   "publisher": "Press Information Bureau (MoHFW)",
+   "retrieved_on": "2026-11-12",
+   "title": "Cabinet approves health coverage to all senior citizens of age 70 years and above under AB PM-JAY",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2053883",
+   "version_or_date": "Posted 11 Sep 2024"
+  },
+  "pib_pmjay_update_2026_03": {
+   "excerpts": [
+    {
+     "locator": "release text: helpline 14555",
+     "text": "beneficiaries can register their grievances through the Centralized Grievance Redressal Management System (CGRMS) or the 24×7 toll-free helpline number 14555."
+    }
+   ],
+   "id": "pib_pmjay_update_2026_03",
+   "publisher": "Press Information Bureau (MoHFW)",
+   "retrieved_on": "2026-11-12",
+   "title": "PM-JAY: grievance redressal and denial of treatment (PIB release)",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2243769",
+   "version_or_date": "Posted 23 Mar 2026"
+  },
+  "pib_tb_backgrounder_2026_03": {
+   "excerpts": [
+    {
+     "locator": "pdf p4, free services",
+     "text": "The National TB Elimination Programme provides free screening and treatment services"
+    },
+    {
+     "locator": "pdf p4, helpline",
+     "text": "•   Call the toll-free Ni-kshay Sampark TB& Hepatitis helpline: 1800-11-6666 for"
+    },
+    {
+     "locator": "pdf p6, Ni-kshay Poshan Yojana",
+     "text": "1,000 per month to each notified tuberculosis patient. Since its launch in April 2018,"
+    }
+   ],
+   "id": "pib_tb_backgrounder_2026_03",
+   "publisher": "Press Information Bureau (MoHFW)",
+   "retrieved_on": "2026-11-12",
+   "title": "India Speeding Towards TB Elimination (PIB backgrounder)",
+   "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/mar/doc2026324833001.pdf",
+   "version_or_date": "March 24, 2026"
+  },
+  "pib_tb_mukt_bharat_steps_2025_12": {
+   "excerpts": [
+    {
+     "locator": "Ni-kshay Poshan Yojana amount",
+     "text": "For nutrition support, from 1st November, 2024, the Government has doubled the financial assistance under Ni-kshay Poshan Yojana (NPY) to TB patients from Rs 500 to Rs 1,000 per month per patient, for the entire duration of treatment."
+    }
+   ],
+   "id": "pib_tb_mukt_bharat_steps_2025_12",
+   "publisher": "Press Information Bureau (MoHFW)",
+   "retrieved_on": "2026-11-12",
+   "title": "Steps towards TB Mukt Bharat (PIB release)",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2200795",
+   "version_or_date": "Posted 09 Dec 2025"
+  },
+  "pmmvy_contact": {
+   "excerpts": [
+    {
+     "locator": "Helpline",
+     "text": "For Helpline … 1515"
+    }
+   ],
+   "id": "pmmvy_contact",
+   "publisher": "Ministry of Women and Child Development",
+   "retrieved_on": "2026-11-12",
+   "title": "PMMVY — Contact",
+   "url": "https://pmmvy.wcd.gov.in/Home/Contact",
+   "version_or_date": "Undated web page"
+  },
+  "pmmvy_faq": {
+   "excerpts": [
+    {
+     "locator": "Q3 eligibility",
+     "text": "Women belonging to scheduled castes and scheduled tribes … Women holder of BPL ration Card … Women Beneficiaries under Pradhan Mantri Jan Aarogya Yojana (PMJAY) under Ayushman Bharat … Women holding MGNREGA Job Card … Women whose net family income is less than ₹8 Lakh per annum … Women holding Ration Card under NFSA Act 2013"
+    },
+    {
+     "locator": "Q13 states not implementing",
+     "text": "Currently, the scheme is not being implemented in Telangana and Odisha as they are implementing their own respective maternity benefit schemes."
+    },
+    {
+     "locator": "Q21 documents",
+     "text": "Beneficiaries need documents such as their Aadhaar card, Aadhaar mapped bank/post office account details, mobile number, eligibility proof, MCP/RCHI card, LMP date, ANC date, child birth certificate, child immunization details etc."
+    }
+   ],
+   "id": "pmmvy_faq",
+   "publisher": "Ministry of Women and Child Development",
+   "retrieved_on": "2026-11-12",
+   "title": "Pradhan Mantri Matru Vandana Yojana — Frequently Asked Questions",
+   "url": "https://pmmvy.wcd.gov.in/Home/FrequentlyAskedQuestions",
+   "version_or_date": "Undated web page"
+  }
+ },
+ "ruleset_version": "sha256:7c19af243ab471ed"
+}

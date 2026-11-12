@@ -1,0 +1,188 @@
+# Adult cough. DRAFT — not clinically reviewed; the UI shows the demonstration banner.
+# HIGH: NTEP red-flag criteria ("referred immediately to higher-level health facilities, such as
+#   CHCs or district hospitals"). They are framed for people with TB; Box 2.1 assigns ASHA to check
+#   them before diagnosis too. Whether they apply to every undiagnosed adult cough needs a clinician.
+# MEDIUM: presumptive pulmonary TB (NTEP definition; 2026 campaign vulnerable groups), with the
+#   ASHA CBAC action "refer the patient immediately to the nearest facility where a Medical Officer
+#   is available" and sputum collection. "within_24_hours" is our reading of "immediately" for a
+#   non-red-flag referral, pending clinician review.
+# No low_care rule: no official source defines when adult cough may be cared for at home, so this
+#   pathway can never return LOW.
+# applies_when age >= 18 is product scoping (adult vs. child pathways), not a clinical threshold;
+#   NTEP gives no adult age cut-off.
+id: adult_cough
+version: 0.1.0
+title: {en: "Cough in an adult", hi: "वयस्क में खांसी"}
+applies_when: {age_years: {gte: 18}, cough_present: "yes"}
+review: {status: draft, reviewer: null, reviewed_on: null}
+sources: [ntep_differentiated_tb_care_2025, ntep_training_modules_1to4, ntep_tb_mukt_bharat_abhiyan_2026, aam_asha_ncd_module]
+tags: [tb_related]
+
+questions:
+  # Red flags first: they can raise the result to HIGH.
+  - fact: rf_breathless
+    required: true
+    ask:
+      en: "Is the person breathless at rest, unable to finish a sentence without a pause, unable to eat, or breathless after walking 10–15 feet or going to the toilet?"
+      hi: "क्या आराम में भी सांस फूलती है, बिना रुके एक वाक्य पूरा नहीं कर पाते, खा नहीं पाते, या 10–15 फ़ुट चलने या शौच जाने पर सांस फूलती है?"
+    options: ["yes", "no", "unknown"]
+  - fact: rf_altered_consciousness_convulsions_weakness
+    required: true
+    ask: {en: "Is the person confused or drowsy, having fits, or weak in an arm or leg?", hi: "क्या व्यक्ति उलझन में या बेसुध है, दौरे पड़ रहे हैं, या किसी हाथ-पैर में कमज़ोरी है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: rf_coughing_blood_cup
+    required: true
+    ask: {en: "Is the person coughing out blood — one cup or more?", hi: "क्या खांसी में खून आ रहा है — एक कप या ज़्यादा?"}
+    options: ["yes", "no", "unknown"]
+  - fact: rf_severe_chest_or_abdominal_pain
+    required: true
+    ask: {en: "Is there severe chest pain or abdominal pain?", hi: "क्या सीने या पेट में तेज़ दर्द है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: rf_confined_to_bed
+    required: true
+    ask: {en: "Is the person confined to bed, unable to get up?", hi: "क्या व्यक्ति बिस्तर से उठ नहीं पा रहा?"}
+    options: ["yes", "no", "unknown"]
+  - fact: rf_recurrent_vomiting_diarrhoea
+    required: true
+    ask: {en: "Is there repeated vomiting or diarrhoea?", hi: "क्या बार-बार उल्टी या दस्त हो रहे हैं?"}
+    options: ["yes", "no", "unknown"]
+  # Presumptive TB.
+  - fact: cough_duration_days
+    required: true
+    ask: {en: "For how many days has the cough been present?", hi: "खांसी कितने दिन से है?"}
+    input: duration
+  - fact: blood_in_sputum
+    required: true
+    ask: {en: "Is there any blood in the sputum, even a little?", hi: "क्या बलगम में थोड़ा भी खून आता है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: fever_present
+    required: true
+    ask: {en: "Does the person have fever?", hi: "क्या बुखार है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: fever_duration_days
+    required: true
+    ask_when: {fever_present: "yes"}
+    ask: {en: "For how many days has the fever been present?", hi: "बुखार कितने दिन से है?"}
+    input: duration
+  - fact: significant_weight_loss
+    required: true
+    ask: {en: "Has the person noticeably lost weight?", hi: "क्या वज़न साफ़ तौर पर घटा है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: night_sweats
+    required: true
+    ask: {en: "Does the person sweat at night?", hi: "क्या रात को पसीना आता है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: tb_household_contact
+    required: true
+    ask: {en: "Does anyone in the household have TB?", hi: "क्या घर में किसी को टीबी है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: past_tb
+    required: true
+    ask: {en: "Has the person had TB before?", hi: "क्या पहले कभी टीबी हुई है?"}
+    options: ["yes", "no", "unknown"]
+
+danger_signs: []   # universal danger signs (rules/danger_signs.yaml) apply to this pathway
+
+rules:
+  - id: cough.red_flag_breathless
+    level: HIGH
+    when: {rf_breathless: "yes"}
+    rationale: {en: "Breathlessness at rest or on slight effort is a red-flag sign: refer immediately to a higher facility.", hi: "आराम में या थोड़ी मेहनत पर सांस फूलना ख़तरे का संकेत है: तुरंत बड़े अस्पताल भेजें।"}
+    source: {ref: ntep_differentiated_tb_care_2025, locator: "p. 11 (pdf 23), 2.3.1 Systematic Triaging: red-flag criteria"}
+    facility_level: CHC
+    target_window: today
+  - id: cough.red_flag_consciousness_convulsions_weakness
+    level: HIGH
+    when: {rf_altered_consciousness_convulsions_weakness: "yes"}
+    rationale: {en: "Altered consciousness, fits or limb weakness is a red-flag sign: refer immediately to a higher facility.", hi: "बेसुधी, दौरे या हाथ-पैर में कमज़ोरी ख़तरे का संकेत है: तुरंत बड़े अस्पताल भेजें।"}
+    source: {ref: ntep_differentiated_tb_care_2025, locator: "p. 11 (pdf 23), 2.3.1 Systematic Triaging: red-flag criteria"}
+    facility_level: CHC
+    target_window: today
+  - id: cough.red_flag_coughing_blood_cup
+    level: HIGH
+    when: {rf_coughing_blood_cup: "yes"}
+    rationale: {en: "Coughing out a cup of blood or more is a red-flag sign: refer immediately to a higher facility.", hi: "खांसी में एक कप या ज़्यादा खून ख़तरे का संकेत है: तुरंत बड़े अस्पताल भेजें।"}
+    source: {ref: ntep_differentiated_tb_care_2025, locator: "p. 11 (pdf 23), 2.3.1 Systematic Triaging: red-flag criteria"}
+    facility_level: CHC
+    target_window: today
+  - id: cough.red_flag_severe_pain
+    level: HIGH
+    when: {rf_severe_chest_or_abdominal_pain: "yes"}
+    rationale: {en: "Severe chest or abdominal pain is a red-flag sign: refer immediately to a higher facility.", hi: "सीने या पेट में तेज़ दर्द ख़तरे का संकेत है: तुरंत बड़े अस्पताल भेजें।"}
+    source: {ref: ntep_differentiated_tb_care_2025, locator: "p. 11 (pdf 23), 2.3.1 Systematic Triaging: red-flag criteria"}
+    facility_level: CHC
+    target_window: today
+  - id: cough.red_flag_confined_to_bed
+    level: HIGH
+    when: {rf_confined_to_bed: "yes"}
+    rationale: {en: "Being confined to bed is a red-flag sign: refer immediately to a higher facility.", hi: "बिस्तर से न उठ पाना ख़तरे का संकेत है: तुरंत बड़े अस्पताल भेजें।"}
+    source: {ref: ntep_differentiated_tb_care_2025, locator: "p. 11 (pdf 23), 2.3.1 Systematic Triaging: red-flag criteria"}
+    facility_level: CHC
+    target_window: today
+  - id: cough.red_flag_recurrent_vomiting_diarrhoea
+    level: HIGH
+    when: {rf_recurrent_vomiting_diarrhoea: "yes"}
+    rationale: {en: "Repeated vomiting or diarrhoea is a red-flag sign: refer immediately to a higher facility.", hi: "बार-बार उल्टी या दस्त ख़तरे का संकेत है: तुरंत बड़े अस्पताल भेजें।"}
+    source: {ref: ntep_differentiated_tb_care_2025, locator: "p. 11 (pdf 23), 2.3.1 Systematic Triaging: red-flag criteria"}
+    facility_level: CHC
+    target_window: today
+  - id: cough.two_weeks_or_more
+    level: MEDIUM
+    when: {cough_duration_days: {gte: 14}}
+    rationale: {en: "Cough for 2 weeks or more needs a TB test: refer to a facility with a doctor for sputum examination.", hi: "2 हफ़्ते या ज़्यादा की खांसी में टीबी जांच ज़रूरी है: बलगम जांच के लिए डॉक्टर वाले केंद्र भेजें।"}
+    source: {ref: ntep_training_modules_1to4, locator: "Module 2, p. 23 (pdf 39), Definitions: Presumptive Pulmonary TB"}
+    facility_level: PHC
+    target_window: within_24_hours
+  - id: cough.blood_in_sputum
+    level: MEDIUM
+    when: {blood_in_sputum: "yes"}
+    rationale: {en: "Blood in sputum needs a TB test: refer to a facility with a doctor for sputum examination.", hi: "बलगम में खून होने पर टीबी जांच ज़रूरी है: बलगम जांच के लिए डॉक्टर वाले केंद्र भेजें।"}
+    source: {ref: ntep_training_modules_1to4, locator: "Module 2, p. 23 (pdf 39), Definitions: Presumptive Pulmonary TB"}
+    facility_level: PHC
+    target_window: within_24_hours
+  - id: cough.fever_two_weeks_or_more
+    level: MEDIUM
+    when: {fever_present: "yes", fever_duration_days: {gte: 14}}
+    rationale: {en: "Fever for 2 weeks or more needs a TB test: refer to a facility with a doctor.", hi: "2 हफ़्ते या ज़्यादा के बुखार में टीबी जांच ज़रूरी है: डॉक्टर वाले केंद्र भेजें।"}
+    source: {ref: ntep_training_modules_1to4, locator: "Module 2, p. 23 (pdf 39), Definitions: Presumptive Pulmonary TB"}
+    facility_level: PHC
+    target_window: within_24_hours
+  - id: cough.weight_loss
+    level: MEDIUM
+    when: {significant_weight_loss: "yes"}
+    rationale: {en: "Cough with noticeable weight loss needs a TB test: refer to a facility with a doctor.", hi: "खांसी के साथ वज़न घटने पर टीबी जांच ज़रूरी है: डॉक्टर वाले केंद्र भेजें।"}
+    source: {ref: ntep_training_modules_1to4, locator: "Module 2, p. 23 (pdf 39), Definitions: Presumptive Pulmonary TB"}
+    facility_level: PHC
+    target_window: within_24_hours
+  - id: cough.night_sweats
+    level: MEDIUM
+    when: {night_sweats: "yes"}
+    rationale: {en: "Cough with night sweats needs a TB test: refer to a facility with a doctor.", hi: "खांसी के साथ रात को पसीना आने पर टीबी जांच ज़रूरी है: डॉक्टर वाले केंद्र भेजें।"}
+    source: {ref: aam_asha_ncd_module, locator: "Annexure 2 (pdf 68), CBAC Part B1 and action note"}
+    facility_level: PHC
+    target_window: within_24_hours
+  - id: cough.any_duration_over_60
+    level: MEDIUM
+    when: {age_years: {gt: 60}}
+    rationale: {en: "For people over 60, cough of any duration needs a TB test: refer to a facility with a doctor.", hi: "60 साल से ज़्यादा उम्र में किसी भी अवधि की खांसी में टीबी जांच ज़रूरी है: डॉक्टर वाले केंद्र भेजें।"}
+    source: {ref: ntep_tb_mukt_bharat_abhiyan_2026, locator: "pdf 7, Community-based services: b. Vulnerable Population"}
+    facility_level: PHC
+    target_window: within_24_hours
+  - id: cough.any_duration_household_contact
+    level: MEDIUM
+    when: {tb_household_contact: "yes"}
+    rationale: {en: "When someone at home has TB, cough of any duration needs a TB test: refer to a facility with a doctor.", hi: "घर में किसी को टीबी हो तो किसी भी अवधि की खांसी में टीबी जांच ज़रूरी है: डॉक्टर वाले केंद्र भेजें।"}
+    source: {ref: ntep_training_modules_1to4, locator: "Module 2, p. 23 (pdf 39), Definitions: also to be investigated as presumptive PTB"}
+    facility_level: PHC
+    target_window: within_24_hours
+  - id: cough.any_duration_past_tb
+    level: MEDIUM
+    when: {past_tb: "yes"}
+    rationale: {en: "After past TB, cough of any duration needs a TB test: refer to a facility with a doctor.", hi: "पहले टीबी हो चुकी हो तो किसी भी अवधि की खांसी में टीबी जांच ज़रूरी है: डॉक्टर वाले केंद्र भेजें।"}
+    source: {ref: ntep_tb_mukt_bharat_abhiyan_2026, locator: "pdf 7, Community-based services: b. Vulnerable Population"}
+    facility_level: PHC
+    target_window: within_24_hours
+
+referral:
+  bring: [id_document, previous_reports]
+low_care: null

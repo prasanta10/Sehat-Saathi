@@ -1,0 +1,17 @@
+id: ntep_tb_mukt_bharat_abhiyan_2026
+title: "TB Mukt Bharat Abhiyaan — Campaign document 2026 (v6)"
+publisher: "Central TB Division, MoHFW"
+url: "https://tbcindia.mohfw.gov.in/wp-content/uploads/2026/03/TB-Mukt-Bharat-Abhiyan-Campaign-2026-v6.pdf"
+version_or_date: "v6; PDF created 2026-03-12"
+retrieved_on: "2026-11-11"
+jurisdiction: national
+kind: clinical_guidance
+sha256: "2d107b1f8175ba3fdadd4e73f8860355cdb7496a26f727c87ffdd46d4a99f819"
+local_copy: "knowledge/references/files/ntep_tb_mukt_bharat_abhiyan_2026.txt"
+excerpts:
+  - locator: "pdf 7, Community-based services: b. Vulnerable Population"
+    text: "b. Vulnerable Population - Vulnerable population includes individuals over 60 years … of age, individuals with malnutrition (BMI <18.5), diabetics, People Living with HIV … (PLHIV), smokers, alcoholics, persons with past history of TB disease and … household contacts of TB patients."
+  - locator: "pdf 8, Facility-based intensified services: g. Screening using 10-Symptoms (10-S)"
+    text: "Cough >2 weeks (Any duration for vulnerable population), Fever, Night … sweats, Hemoptysis, Chest pain, Shortness of breath, Weight loss, Loss of … appetite, Fatigue, Lymph node swelling and any other extra pulmonary"
+  - locator: "pdf 8, h. Sample Collection and Transport"
+    text: "Health workers (ASHA/CV) ensure proper … sputum sample collection and transportation to the nearest NAAT facility."

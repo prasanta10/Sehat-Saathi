@@ -1,0 +1,13 @@
+id: aam_asha_ncd_module
+title: "Module for ASHA on Non-Communicable Diseases (includes the Community Based Assessment Checklist, CBAC)"
+publisher: "National Health Mission, MoHFW"
+url: "https://aam.mohfw.gov.in/download/document/263f3ca26df87dc44b7687c1b9cf0c15.pdf"
+version_or_date: "No date printed; PDF modified 2019-09-27"
+retrieved_on: "2026-11-11"
+jurisdiction: national
+kind: clinical_guidance
+sha256: "660a636c80d94e2decbbf399e630a4335a754d791de1cc91e29cb3f7dc021e46"
+local_copy: "knowledge/references/files/aam_asha_ncd_module.txt"
+excerpts:
+  - locator: "Annexure 2 (pdf 68), CBAC Part B1 and action note"
+    text: "Coughing more than 2 weeks* … Blood in sputum* … Fever for > 2 weeks* … Loss of weight* … Night Sweats* … History of TB * … In case of individual answers Yes to any one of the above-mentioned symptoms, refer the patient immediately to … the nearest facility where a Medical Officer is available … *If the response is Yes- action suggested: Sputum sample collection and transport to nearest TB testing center"

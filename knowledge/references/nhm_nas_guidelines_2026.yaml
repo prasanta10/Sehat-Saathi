@@ -1,0 +1,17 @@
+id: nhm_nas_guidelines_2026
+title: Operational Guidelines for National Ambulance Service (NAS) 2026
+publisher: National Health Mission, MoHFW
+url: https://nhm.gov.in/New-Update-2025-26/NAS-Guidline/NAS-guidline-June-2026.pdf
+version_or_date: June 2026 (PDF dated 3 Aug 2026)
+retrieved_on: '2026-11-12'
+jurisdiction: national
+kind: helpline
+sha256: 2e8c49c59774251acc2e9e1465553d7daf55299bc8040b8a50083b11ab1fff66
+local_copy: knowledge/references/files/nhm_nas_guidelines_2026.txt
+excerpts:
+- locator: p20, 108 and 102
+  text: (NHM). Dial 108 emerged as an emergency response service, whilew Dial 102 was … used primarily for patient transport, especially for pregnant women, newborns
+- locator: p20, numbers to call
+  text: States and Union Territories can access ambulance service by calling 108, 102, or 112.
+- locator: p124, free of cost (model agreement definitions)
+  text: available free of cost to any one in a situation of medical emergency by dialing … a toll free telephone number “102/108/112”.

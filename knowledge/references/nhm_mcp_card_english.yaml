@@ -1,0 +1,13 @@
+id: nhm_mcp_card_english
+title: "Mother and Child Protection Card (English)"
+publisher: "Ministry of Health and Family Welfare and Ministry of Women and Child Development"
+url: "https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/MCP_Card_English_version.pdf"
+version_or_date: "No date printed; PDF created 2018-02-05. A revised card dated 28-05-2018 exists on hbnc-hbyc.mohfw.gov.in but could not be retrieved (server timeout)."
+retrieved_on: "2026-11-11"
+jurisdiction: national
+kind: clinical_guidance
+sha256: "33fcee5d27acf2fdf39ab1c07484ed94e595d5c3b660f732edb46c39bc1c56d3"
+local_copy: "knowledge/references/files/nhm_mcp_card_english.txt"
+excerpts:
+  - locator: "pdf page 4, pregnancy danger signs"
+    text: "If you or anyone in your family sees any … of these danger signs, take the pregnant … woman to the hospital immediately … • Bleeding during pregnancy … • Excessive bleeding during … delivery or after delivery … Headache, blurring of vision, … High fever during pregnancy … fits and swelling all over the … or within one month of delivery … body … Labour pain for more than … Bursting of water bag without … 12 hours … labour pains"
