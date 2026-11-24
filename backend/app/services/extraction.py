@@ -8,20 +8,32 @@ from app.ai.orchestrator import ExtractionResult, extract
 from app.config import Settings
 from app.domain.facts import FactOrigin, FactStatus
 from app.domain.state_machine import EncounterState as S
+from app.rules import conditions
 from app.rules.loader import RuleSet
-from app.services.encounters import _move
+from app.services.encounters import _move, draft_values
 from app.services.errors import Conflict, DomainError
 from app.store.models import Encounter, ExtractionRow, FactRow, utcnow
 
 
+def fitting_pathways(enc: Encounter, rules: RuleSet) -> list[str]:
+    """Pathways the person's known facts do not rule out (e.g. an adult pathway for a baby)."""
+    values = draft_values(enc)
+    return sorted(
+        pid
+        for pid, p in rules.pathways.items()
+        if conditions.evaluate(p.applies_when, values) is not False
+    )
+
+
 def candidate_facts(enc: Encounter, rules: RuleSet) -> tuple[list[str], list[str]]:
     """Fact keys to extract and candidate pathway ids."""
-    pathways = [enc.pathway_id] if enc.pathway_id else sorted(rules.pathways)
+    fitting = fitting_pathways(enc, rules)
+    pathways = [enc.pathway_id] if enc.pathway_id else fitting
     keys: list[str] = []
     for pid in pathways:
         keys += [q.fact for q in rules.pathway(pid).questions]
     keys += [k for k in ("cough_present", "fever_present") if k in rules.registry.facts]
-    return list(dict.fromkeys(k for k in keys if k in rules.registry.facts)), sorted(rules.pathways)
+    return list(dict.fromkeys(k for k in keys if k in rules.registry.facts)), fitting
 
 
 async def run_extraction(

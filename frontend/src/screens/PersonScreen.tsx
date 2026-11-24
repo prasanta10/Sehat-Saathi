@@ -6,10 +6,10 @@ import { useNavigate } from 'react-router-dom'
 import { api, type PersonIn } from '../api/client'
 import { Button, Screen } from '../components/ui'
 import { useBundle } from '../content/bundle'
+import { fittingPathways } from '../content/conditions'
 
 export function PersonScreen() {
   const bundle = useBundle()
-  const DEFAULT_PATHWAY = Object.keys(bundle.pathways)[0] ?? null
   const { t, i18n } = useTranslation()
   const navigate = useNavigate()
   const qc = useQueryClient()
@@ -19,7 +19,13 @@ export function PersonScreen() {
   const [form, setForm] = useState<PersonIn>({ name: '', pregnant: 'unknown', ayushman_card_held: 'unknown', synthetic: true })
 
   const start = useMutation({
-    mutationFn: (personId: string) => api.createEncounter({ person_id: personId, language: i18n.language === 'en' ? 'en' : 'hi', pathway_id: DEFAULT_PATHWAY }),
+    mutationFn: (personId: string) => {
+      // Preselect the pathway only when exactly one fits the person; otherwise the worker chooses.
+      const person = persons.data?.find((p) => p.id === personId) ?? form
+      const fitting = fittingPathways(Object.values(bundle.pathways), person)
+      const pathway_id = fitting.length === 1 ? fitting[0]!.id : null
+      return api.createEncounter({ person_id: personId, language: i18n.language === 'en' ? 'en' : 'hi', pathway_id })
+    },
     onSuccess: (enc) => {
       void qc.invalidateQueries({ queryKey: ['encounters'] })
       navigate(`/visit/${enc.id}/capture`)

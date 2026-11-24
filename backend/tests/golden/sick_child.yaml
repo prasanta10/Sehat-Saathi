@@ -1,0 +1,131 @@
+pathway: sick_child
+# A fully asked visit for a 2-year-old (26 months) with every answer negative.
+base:
+  age_years: 2
+  age_months: 26
+  ds_child_not_able_to_drink_or_feed: "no"
+  ds_child_vomits_everything: "no"
+  ds_child_lethargic_or_unconscious: "no"
+  ds_child_convulsions: "no"
+  ds_child_breathing_difficulty: "no"
+  ds_child_severe_chest_indrawing: "no"
+  ds_child_fast_breathing: "no"
+  ds_child_fever_over_7_days_no_doctor: "no"
+  ds_child_diarrhoea_over_14_days: "no"
+  ds_child_blood_in_stools: "no"
+  cough_present: "no"
+  diarrhoea_present: "no"
+  fever_present: "no"
+  child_swelling_both_feet: "no"
+  child_severe_palmar_pallor: "no"
+  child_mcp_red_zone: "no"
+cases:
+  # --- whole-pathway behaviour -------------------------------------------------------------
+  - id: child_all_negative_is_not_low
+    expect: {urgency: INCOMPLETE, reason: no_rule_matched, fired: []}
+  - id: child_danger_signs_asked_first
+    no_base: true
+    facts: {age_years: 1, age_months: 14}
+    expect: {urgency: INCOMPLETE, reason: missing_facts, missing_first: ds_child_not_able_to_drink_or_feed}
+  - id: child_under_2_months_not_applicable
+    facts: {age_years: 0, age_months: 1, cough_present: "yes", cough_duration_days: 3}
+    expect: {urgency: INCOMPLETE, reason: pathway_not_applicable, minimum_level: MEDIUM}
+  - id: child_2_months_applies
+    facts: {age_years: 0, age_months: 2, fever_present: "yes", fever_duration_days: 1}
+    expect: {urgency: MEDIUM, fired: [child.sick_prompt_referral]}
+  - id: child_59_months_applies
+    facts: {age_years: 4, age_months: 59, fever_present: "yes", fever_duration_days: 1}
+    expect: {urgency: MEDIUM, fired: [child.sick_prompt_referral]}
+  - id: child_5_years_not_applicable
+    facts: {age_years: 5}
+    unset: [age_months]
+    expect: {urgency: INCOMPLETE, reason: pathway_not_applicable}
+  - id: child_adult_not_applicable
+    facts: {age_years: 30}
+    unset: [age_months]
+    expect: {urgency: INCOMPLETE, reason: pathway_not_applicable}
+  - id: child_months_unknown_asks
+    unset: [age_months]
+    expect: {urgency: INCOMPLETE, reason: missing_facts, missing_includes: [age_months]}
+  - id: child_danger_sign_overrides
+    facts: {ds_child_convulsions: "yes", child_swelling_both_feet: "yes"}
+    expect: {urgency: EMERGENCY, fired: [child.convulsions]}
+  - id: child_high_beats_medium
+    facts: {cough_present: "yes", cough_duration_days: 30, child_swelling_both_feet: "yes"}
+    expect: {urgency: HIGH, fired: [child.swelling_both_feet]}
+  - id: child_dehydration_signs_not_asked_without_diarrhoea
+    expect: {urgency: INCOMPLETE, reason: no_rule_matched}
+
+  # --- HIGH ----------------------------------------------------------------------------------
+  - id: dehydration_sunken_eyes_fires
+    facts: {diarrhoea_present: "yes", child_sunken_eyes: "yes", child_skin_pinch_slow: "no"}
+    expect: {urgency: HIGH, fired: [child.diarrhoea_dehydration]}
+    covers: [{rule: child.diarrhoea_dehydration, kind: firing}]
+  - id: dehydration_skin_pinch_fires
+    facts: {diarrhoea_present: "yes", child_sunken_eyes: "no", child_skin_pinch_slow: "yes"}
+    expect: {urgency: HIGH, fired: [child.diarrhoea_dehydration]}
+  - id: diarrhoea_without_dehydration_is_medium
+    facts: {diarrhoea_present: "yes", child_sunken_eyes: "no", child_skin_pinch_slow: "no"}
+    expect: {urgency: MEDIUM, fired: [child.sick_prompt_referral]}
+  - id: dehydration_sign_unknown
+    facts: {diarrhoea_present: "yes", child_skin_pinch_slow: "no"}
+    expect: {urgency: INCOMPLETE, reason: missing_facts, minimum_level: MEDIUM, missing_includes: [child_sunken_eyes]}
+    covers: [{rule: child.diarrhoea_dehydration, kind: unknown}]
+  - id: swelling_both_feet_fires
+    facts: {child_swelling_both_feet: "yes"}
+    expect: {urgency: HIGH, fired: [child.swelling_both_feet]}
+    covers: [{rule: child.swelling_both_feet, kind: firing}]
+  - id: swelling_both_feet_unknown
+    unset: [child_swelling_both_feet]
+    expect: {urgency: INCOMPLETE, missing_includes: [child_swelling_both_feet]}
+    covers: [{rule: child.swelling_both_feet, kind: unknown}]
+  - id: palmar_pallor_fires
+    facts: {child_severe_palmar_pallor: "yes"}
+    expect: {urgency: HIGH, fired: [child.severe_palmar_pallor]}
+    covers: [{rule: child.severe_palmar_pallor, kind: firing}]
+  - id: palmar_pallor_unknown
+    unset: [child_severe_palmar_pallor]
+    expect: {urgency: INCOMPLETE, missing_includes: [child_severe_palmar_pallor]}
+    covers: [{rule: child.severe_palmar_pallor, kind: unknown}]
+  - id: red_zone_fires
+    facts: {child_mcp_red_zone: "yes"}
+    expect: {urgency: HIGH, fired: [child.sam_red_zone]}
+    covers: [{rule: child.sam_red_zone, kind: firing}]
+  - id: red_zone_unknown
+    unset: [child_mcp_red_zone]
+    expect: {urgency: INCOMPLETE, missing_includes: [child_mcp_red_zone]}
+    covers: [{rule: child.sam_red_zone, kind: unknown}]
+
+  # --- MEDIUM --------------------------------------------------------------------------------
+  - id: cough_21_days_fires
+    facts: {cough_present: "yes", cough_duration_days: 21}
+    expect: {urgency: MEDIUM, fired: [child.cough_21_days]}
+    covers: [{rule: child.cough_21_days, kind: firing}]
+  - id: cough_20_days_boundary
+    facts: {cough_present: "yes", cough_duration_days: 20}
+    expect: {urgency: MEDIUM, fired: [child.sick_prompt_referral]}
+    covers: [{rule: child.cough_21_days, kind: boundary}]
+  - id: cough_duration_unknown
+    facts: {cough_present: "yes"}
+    expect: {urgency: INCOMPLETE, minimum_level: MEDIUM, missing_includes: [cough_duration_days]}
+    covers: [{rule: child.cough_21_days, kind: unknown}]
+  - id: fever_8_days_fires
+    facts: {fever_present: "yes", fever_duration_days: 8}
+    expect: {urgency: MEDIUM, fired: [child.fever_over_7_days]}
+    covers: [{rule: child.fever_over_7_days, kind: firing}]
+  - id: fever_7_days_boundary
+    facts: {fever_present: "yes", fever_duration_days: 7}
+    expect: {urgency: MEDIUM, fired: [child.sick_prompt_referral]}
+    covers: [{rule: child.fever_over_7_days, kind: boundary}]
+  - id: fever_duration_unknown
+    facts: {fever_present: "yes"}
+    expect: {urgency: INCOMPLETE, minimum_level: MEDIUM, missing_includes: [fever_duration_days]}
+    covers: [{rule: child.fever_over_7_days, kind: unknown}]
+  - id: sick_prompt_referral_fires
+    facts: {fever_present: "yes", fever_duration_days: 2}
+    expect: {urgency: MEDIUM, fired: [child.sick_prompt_referral]}
+    covers: [{rule: child.sick_prompt_referral, kind: firing}]
+  - id: sick_prompt_referral_unknown
+    unset: [cough_present]
+    expect: {urgency: INCOMPLETE, missing_includes: [cough_present]}
+    covers: [{rule: child.sick_prompt_referral, kind: unknown}]

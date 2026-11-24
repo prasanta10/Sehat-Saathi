@@ -40,6 +40,8 @@ test('English visit with a red flag reaches HIGH', async ({ page }) => {
   await page.getByLabel('Name').fill('Synthetic Adult')
   await page.getByLabel('Age (years)').fill('50')
   await page.getByTestId('person-start').click()
+  // Sex not given, so the pregnancy pathway is not ruled out: the worker picks the concern.
+  await page.getByTestId('pathway-adult_cough').click()
   await page.getByTestId('capture-continue').click()
   await answerQuestions(page, { cough_present: 'yes', rf_breathless: 'yes', cough_duration_days: 3 })
   await confirmFacts(page)
@@ -54,6 +56,8 @@ test("don't know leaves the result INCOMPLETE and lists what is missing", async 
   await page.getByLabel('Name').fill('Synthetic Adult')
   await page.getByLabel('Age (years)').fill('30')
   await page.getByTestId('person-start').click()
+  // Sex not given, so the pregnancy pathway is not ruled out: the worker picks the concern.
+  await page.getByTestId('pathway-adult_cough').click()
   await page.getByTestId('capture-continue').click()
   await answerQuestions(page, { cough_present: 'yes', cough_duration_days: 4, night_sweats: 'unknown' })
   await confirmFacts(page)

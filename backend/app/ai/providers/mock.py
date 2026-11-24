@@ -40,10 +40,12 @@ LEXICON: dict[str, list[str]] = {
         r"weight loss",
         r"lost weight",
     ],
+    "diarrhoea_present": [r"dast", r"दस्त", r"loose motion", r"diarr"],
     "tb_household_contact": [r"ghar mei?n? .{0,20}(tb|टीबी)", r"घर में .{0,20}टीबी"],
     "past_tb": [r"pehle .{0,15}(tb|टीबी)", r"पहले .{0,15}टीबी"],
 }
 DURATION_OF = {"cough_duration_days": "cough_present", "fever_duration_days": "fever_present"}
+PREGNANCY = [r"garbh", r"गर्भ", r"pregnan", r"प्रेग्नें", r"\banc\b"]
 CONCERNS = [
     r"kiraya",
     r"kiraaya",
@@ -97,17 +99,24 @@ def lexicon_extract(transcript: str, keys: set[str], pathways: list[str]) -> Ext
         facts.get(k, ExtractedFact(key=k, value=None, evidence=None)) for k in sorted(keys)
     ]
     concerns = [c for c in _clauses(transcript) if any(re.search(p, c.lower()) for p in CONCERNS)]
-    suggested = [
-        p
-        for p in pathways
-        if p == "adult_cough"
-        and facts.get("cough_present")
-        and facts["cough_present"].value == "yes"
-    ]
+
+    def said(key: str) -> bool:
+        return key in facts and facts[key].value == "yes"
+
+    # `pathways` holds only those that fit the person (e.g. by age), so cough can map to either
+    # cough pathway: at most one of them is offered for a given person.
+    wanted = set()
+    if said("cough_present"):
+        wanted |= {"adult_cough", "sick_child"}
+    if said("diarrhoea_present") or said("fever_present"):
+        wanted.add("sick_child")
+    if any(re.search(p, transcript.lower()) for p in PREGNANCY):
+        wanted.add("pregnancy_checkup")
+    suggested = [p for p in pathways if p in wanted]
     complaints = [
         k.replace("_present", "")
-        for k in ("cough_present", "fever_present")
-        if k in facts and facts[k].value == "yes"
+        for k in ("cough_present", "fever_present", "diarrhoea_present")
+        if said(k)
     ]
     return ExtractionOutput(
         chief_complaints=complaints,

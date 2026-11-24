@@ -11,3 +11,7 @@ local_copy: knowledge/references/files/nhm_maternal_health_page.txt
 excerpts:
 - locator: 'Flagship Programmes: SUMAN'
   text: Under SUMAN, all the existing schemes for maternal and neonatal health have been brought under one umbrella
+- locator: "Quality Antenatal Care"
+  text: "Quality and comprehensive ANC incorporates minimum of at least four ANCs including early registration and first ANC within 1st trimester."
+- locator: "Flagship Programmes: PMSMA facilities"
+  text: "on the 9th of every month at designated public health facilities (PHCs /CHCs /SDHs /DHs/Urban health facilities etc)"

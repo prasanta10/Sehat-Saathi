@@ -197,7 +197,8 @@
   "bring": {
     "id_document": "Any identity document, if easily available",
     "previous_reports": "Old reports and prescriptions",
-    "current_medicines": "Medicines being taken now"
+    "current_medicines": "Medicines being taken now",
+    "mcp_card": "Mother and Child Protection (MCP) card"
   },
   "extract": {
     "working": "Reading what the family said…",

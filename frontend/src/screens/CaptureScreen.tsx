@@ -7,6 +7,7 @@ import { api } from '../api/client'
 import { Recorder } from '../components/Recorder'
 import { BottomBar, Button, Card, Screen } from '../components/ui'
 import { useBundle } from '../content/bundle'
+import { fittingPathways } from '../content/conditions'
 import type { Recording } from '../hooks/useRecorder'
 import { useLocalized } from '../hooks/useLocalized'
 
@@ -25,7 +26,10 @@ export function CaptureScreen() {
   const [consent, setConsent] = useState<Consent>('unasked')
   const [audioCaptureId, setAudioCaptureId] = useState<string | null>(null)
   const [asrDown, setAsrDown] = useState(false)
-  const pathways = Object.values(bundle.pathways)
+  // Offer only the pathways the person record does not rule out (e.g. by age or sex).
+  const all = Object.values(bundle.pathways)
+  const fitting = fittingPathways(all, enc.data?.person)
+  const pathways = fitting.length > 0 ? fitting : all
   const chosen = pathway ?? enc.data?.pathway_id ?? (pathways.length === 1 ? pathways[0]!.id : null)
 
   const recordConsent = useMutation({
@@ -136,6 +140,7 @@ export function CaptureScreen() {
             <button
               key={p.id}
               type="button"
+              data-testid={`pathway-${p.id}`}
               aria-pressed={chosen === p.id}
               onClick={() => setPathway(p.id)}
               className="min-h-12 rounded-xl border-2 border-brand bg-paper px-3 text-left aria-pressed:bg-brand aria-pressed:text-white"

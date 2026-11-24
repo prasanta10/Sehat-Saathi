@@ -1,0 +1,129 @@
+# Pregnancy check-up (antenatal home visit). DRAFT — not clinically reviewed; the UI shows the
+#   demonstration banner.
+# Danger signs: the pregnancy danger signs in rules/danger_signs.yaml (MCP card p. 4, "take the
+#   pregnant woman to the hospital immediately") are asked first; any "yes" gives EMERGENCY, so they
+#   are not repeated as rules. Severe anaemia (same MCP sentence) was added as a universal danger
+#   sign, ds_preg_severe_anaemia. The card does not say how an ASHA recognises "severe anaemia"; the
+#   question uses the card's words plus what is written on her card or told by the ANM/doctor
+#   (pending clinician review). Delivery and postnatal signs are not asked: this pathway is for
+#   pregnancy, not after delivery.
+# MEDIUM, high-risk pregnancy: SSBSK Fig 1.1 names bad obstetric history and teenage pregnancy as
+#   high-risk pregnancies needing screening and treatment, with 8 ANC visits (3 extra under
+#   E-PMSMA). "Bad obstetric history" is read as any item in the MCP card p. 3 list "Obstetric
+#   complication in previous pregnancy"; "teenage" as age under 20. These go to PHC (PMSMA sessions
+#   with a Medical Officer are held at PHCs/CHCs/SDHs/DHs). A pregnancy already known to be high risk
+#   goes to CHC, because SSBSK Table 4.3 says an HRP mother is "referred to FRU for delivery"; that is
+#   delivery planning, so within_7_days is our reading. The real PMSMA day is the 9th of each month,
+#   which target_window cannot express. All pending clinician review.
+# MEDIUM, registration and first check-up: MCP card p. 2 ("Register with the health centre in the
+#   1st trimester") and NHM Maternal Health page ("first ANC within 1st trimester"). "Health centre"
+#   is read as SC_HWC (the ANM registers and does the first ANC). "First check-up overdue" means
+#   registered, 0 check-ups, month 4 or later (= past the 1st trimester, our reading). within_7_days
+#   is our reading: no source gives a deadline once the first trimester has passed.
+# No rule for "fewer check-ups than expected for her month": official counts disagree (MCP card at
+#   least 3 after registration; NHM at least 4; SSBSK 5) and no cited text gives a month schedule.
+# Not included for lack of a referral sentence: reduced fetal movements, oedema, pallor (ANM exam
+#   fields only on the MCP card).
+# No low_care rule: no official source says when a pregnant woman needs no check-up, so this
+#   pathway can never return LOW.
+# Rule order matters: the first MEDIUM rule that holds is reported, so higher facilities come first.
+id: pregnancy_checkup
+version: 0.1.0
+title: {en: "Pregnancy check-up", hi: "गर्भावस्था जांच"}
+applies_when: {sex: "female", pregnant: "yes"}
+review: {status: draft, reviewer: null, reviewed_on: null}
+sources: [nhm_mcp_card_english, nhm_mcp_card_hindi, nhm_ssbsk_op_guideline_2026, nhm_maternal_health_page]
+tags: [maternal, antenatal]
+
+questions:
+  # Pregnancy danger signs first (universal: any "yes" is EMERGENCY).
+  - fact: ds_preg_bleeding
+    required: true
+    ask: {en: "Is there any bleeding during this pregnancy?", hi: "क्या गर्भावस्था के दौरान रक्तस्राव हो रहा है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: ds_preg_high_fever
+    required: true
+    ask: {en: "Does she have high fever?", hi: "क्या तेज बुखार है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: ds_preg_fits_headache_vision_swelling
+    required: true
+    ask: {en: "Does she have fits, blurring of vision, headache, or swelling all over the body?", hi: "क्या दौरे पड़ना, धुंधला दिखाई देना, सिरदर्द, उल्टी, या पूरे शरीर में सूजन है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: ds_preg_severe_anaemia
+    required: true
+    ask: {en: "Does she have severe anaemia (very low blood), as written on her card or told by the ANM or doctor, with or without breathlessness?", hi: "क्या सांस लेने में कठिनाई के साथ या उसके बिना शरीर में रक्त की गम्भीर कमी है (कार्ड पर लिखा है या एएनएम/डॉक्टर ने बताया)?"}
+    options: ["yes", "no", "unknown"]
+  - fact: ds_waters_broke_without_labour
+    required: true
+    ask: {en: "Has the water bag burst without labour pains?", hi: "क्या प्रसव पीड़ा के बिना ही पानी की थैली फट गई है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: ds_labour_over_12_hours
+    required: true
+    ask: {en: "Has she had labour pain for more than 12 hours?", hi: "क्या 12 घण्टे से अधिक समय से प्रसव पीड़ा है?"}
+    options: ["yes", "no", "unknown"]
+  # High-risk pregnancy.
+  - fact: known_high_risk_pregnancy
+    required: true
+    ask: {en: "Was she told at a check-up, or is it marked on the MCP card, that the pregnancy is high risk?", hi: "क्या जांच में बताया गया, या एमसीपी कार्ड पर लिखा है, कि गर्भावस्था हाई रिस्क है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: prev_obstetric_complication
+    required: true
+    ask: {en: "If she has been pregnant before: was there any complication — bleeding before delivery (APH), eclampsia, high BP (PIH), anaemia, obstructed labour, heavy bleeding after delivery (PPH), caesarean operation (LSCS), or a baby with a birth defect?", hi: "अगर पहले गर्भ रहा है: क्या पूर्व गर्भावस्था में कोई जटिलता हुई — एपीएच, एकलेम्पसिया, पीआईएच, रक्त की कमी, बाधित प्रसव, पीपीएच, एलएससीएस (ऑपरेशन), या शिशु में जन्मजात दोष?"}
+    options: ["yes", "no", "unknown"]
+  # Registration and check-ups.
+  - fact: pregnancy_month
+    required: true
+    ask: {en: "Which month of pregnancy is running now (1st to 9th)?", hi: "गर्भावस्था का कौन सा महीना चल रहा है (पहला से नौवां)?"}
+    input: number
+  - fact: anc_registered
+    required: true
+    ask: {en: "Is the pregnancy registered at the health centre (MCP card made)?", hi: "क्या स्वास्थ्य केन्द्र में गर्भावस्था का पंजीकरण हुआ है (एमसीपी कार्ड बना है)?"}
+    options: ["yes", "no", "unknown"]
+  - fact: anc_checkups_done
+    required: true
+    ask_when: {anc_registered: "yes"}
+    ask: {en: "How many antenatal check-ups has she had so far (see the MCP card)?", hi: "अब तक कितनी बार प्रसव पूर्व जांच हुई है (एमसीपी कार्ड देखें)?"}
+    input: number
+
+danger_signs: []   # universal danger signs (rules/danger_signs.yaml) apply to this pathway
+
+rules:
+  - id: preg.known_high_risk
+    level: MEDIUM
+    when: {known_high_risk_pregnancy: "yes"}
+    rationale: {en: "A high-risk pregnancy should be linked to a First Referral Unit for delivery and get extra check-ups: refer to the CHC or district hospital.", hi: "हाई रिस्क गर्भावस्था में प्रसव के लिए एफआरयू तय करें और अतिरिक्त जांच कराएं: सामुदायिक स्वास्थ्य केंद्र या ज़िला अस्पताल भेजें।"}
+    source: {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 43 (pdf 69), Table 4.3: ASHA role in birth preparedness"}
+    facility_level: CHC
+    target_window: within_7_days
+  - id: preg.previous_complication
+    level: MEDIUM
+    when: {prev_obstetric_complication: "yes"}
+    rationale: {en: "A complication in a previous pregnancy makes this a high-risk pregnancy: she needs screening and extra check-ups by a doctor.", hi: "पिछली गर्भावस्था में जटिलता होने से यह हाई रिस्क गर्भावस्था है: डॉक्टर से जांच और अतिरिक्त प्रसव पूर्व जांच ज़रूरी है।"}
+    source: {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 4 (pdf 30), Figure 1.1: Antenatal Care"}
+    facility_level: PHC
+    target_window: within_7_days
+  - id: preg.teenage
+    level: MEDIUM
+    when: {age_years: {lt: 20}}
+    rationale: {en: "Teenage pregnancy is a high-risk pregnancy: she needs screening and extra check-ups by a doctor.", hi: "किशोरावस्था में गर्भ हाई रिस्क गर्भावस्था है: डॉक्टर से जांच और अतिरिक्त प्रसव पूर्व जांच ज़रूरी है।"}
+    source: {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 4 (pdf 30), Figure 1.1: Antenatal Care"}
+    facility_level: PHC
+    target_window: within_7_days
+  - id: preg.not_registered
+    level: MEDIUM
+    when: {anc_registered: "no"}
+    rationale: {en: "Regular check-up is essential in pregnancy: register the pregnancy at the health centre.", hi: "गर्भावस्था के दौरान नियमित जांच अनिवार्य है: स्वास्थ्य केन्द्र में पंजीकरण कराएं।"}
+    source: {ref: nhm_mcp_card_english, locator: "pdf page 2, Regular checkup is essential during pregnancy"}
+    facility_level: SC_HWC
+    target_window: within_7_days
+  - id: preg.first_checkup_overdue
+    level: MEDIUM
+    when: {anc_registered: "yes", anc_checkups_done: 0, pregnancy_month: {gte: 4}}
+    rationale: {en: "The first antenatal check-up should be in the first trimester and is now overdue: take her for a check-up.", hi: "पहली प्रसव पूर्व जांच पहली तिमाही में होनी चाहिए थी: अब जांच कराएं।"}
+    source: {ref: nhm_maternal_health_page, locator: "Quality Antenatal Care"}
+    facility_level: SC_HWC
+    target_window: within_7_days
+
+referral:
+  bring: [mcp_card, id_document, previous_reports]
+low_care: null

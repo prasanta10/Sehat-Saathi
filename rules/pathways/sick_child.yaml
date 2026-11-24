@@ -1,0 +1,180 @@
+# Sick child, 2 months up to 5 years. DRAFT — not clinically reviewed; the UI shows the
+#   demonstration banner.
+# Scope: age 2–59 months. SSBSK's CHO/MO checklist assesses "Danger Signs of Child (2 -59 months)"
+#   and IMNCI uses "2 months up to 5 years". Children under 2 months stay on the universal newborn
+#   danger signs. SSBSK Form 2 (the main source here) is titled "2-36 months"; using it up to 59
+#   months follows the SSBSK checklist and IMNCI age band, pending clinician review.
+#   applies_when also requires age_years < 5 so adults (who have no age_months) are ruled out.
+# The ten universal child danger signs (SSBSK Table 3.5) are asked first and give EMERGENCY; they
+#   are not repeated as rules.
+# HIGH ("refer URGENTLY to hospital"): signs of dehydration with diarrhoea (SSBSK VHSND
+#   counselling, p. 130; fires on either sunken eyes or slow skin pinch — SSBSK's wording is
+#   ambiguous, IMNCI needs two signs: pending clinician review); swelling of both feet (Form 2 lists
+#   it among the problems to refer); severe palmar pallor and red-zone SAM on the MCP card (Form 2
+#   Decide). "Hospital" is read as CHC (CHC or district hospital, where NRCs usually are) and
+#   "urgently" as today, as in adult_cough. Skin pinch, palmar pallor and the red zone come from
+#   CHO/ANM forms; whether an ASHA can judge them reliably needs a clinician.
+# MEDIUM: cough for 21 days or more (Form 2 "other problem to refer"; IMNCI's older threshold is 30
+#   days); fever every day for more than 7 days ("refer for assessment"; also fires when a doctor
+#   was already seen, unlike the universal sign); any cough, fever or diarrhoea (ASHA task
+#   "Identification and prompt referral of sick child", Table 4.5), sent to the Ayushman Arogya
+#   Mandir, where the CHO manages the sick young child under Form 2. Facility levels and windows for
+#   these are our reading; the sources give no time. Pending clinician review.
+# Left out for lack of an SSBSK/ASHA source: ear problems, visible severe wasting, stiff neck,
+#   stridor (IMNCI only). IMNCI is cited only to corroborate; its treatment content is outdated.
+# No low_care rule: SSBSK's "treat at home" branch is CHO treatment (ORS, zinc, medicines), not
+#   ASHA home care, so this pathway can never return LOW.
+# Rule order matters: the first MEDIUM rule that holds is reported, so the specific ones come first.
+id: sick_child
+version: 0.1.0
+title: {en: "Sick child (2 months to 5 years)", hi: "बीमार बच्चा (2 महीने से 5 साल)"}
+applies_when: {all: [{age_years: {lt: 5}}, {age_months: {gte: 2, lte: 59}}]}
+review: {status: draft, reviewer: null, reviewed_on: null}
+sources: [nhm_ssbsk_op_guideline_2026, nhm_imnci_chart_booklet]
+tags: [child_health]
+
+questions:
+  # Universal child danger signs first: any "yes" means EMERGENCY.
+  - fact: ds_child_not_able_to_drink_or_feed
+    required: true
+    ask: {en: "Is the child not able to drink, breastfeed or feed?", hi: "क्या बच्चा कुछ पी, स्तनपान या खा नहीं पा रहा?"}
+    options: ["yes", "no", "unknown"]
+  - fact: ds_child_vomits_everything
+    required: true
+    ask: {en: "Does the child vomit everything?", hi: "क्या बच्चा जो भी खाए-पिए, सब उल्टी कर देता है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: ds_child_lethargic_or_unconscious
+    required: true
+    ask: {en: "Is the child lethargic (very drowsy) or unconscious?", hi: "क्या बच्चा बहुत सुस्त है या बेहोश है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: ds_child_convulsions
+    required: true
+    ask: {en: "Is the child having convulsions now, or has had them in this illness?", hi: "क्या बच्चे को अभी दौरे पड़ रहे हैं या इस बीमारी में पड़े हैं?"}
+    options: ["yes", "no", "unknown"]
+  - fact: ds_child_breathing_difficulty
+    required: true
+    ask: {en: "Does the child have difficulty in breathing?", hi: "क्या बच्चे को सांस लेने में कठिनाई है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: ds_child_severe_chest_indrawing
+    required: true
+    ask: {en: "Does the child have severe chest in-drawing?", hi: "क्या सांस लेते समय बच्चे की छाती ज़ोर से अंदर धंसती है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: ds_child_fast_breathing
+    required: true
+    ask: {en: "Count the child's breaths for one minute. Is it more than 50 (2–12 months old) or more than 40 (1–5 years old)?", hi: "एक मिनट तक बच्चे की सांस गिनें। क्या 2–12 महीने में 50 से ज़्यादा, या 1–5 साल में 40 से ज़्यादा है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: ds_child_fever_over_7_days_no_doctor
+    required: true
+    ask: {en: "Has the child had fever for more than 7 days without seeing a doctor?", hi: "क्या बच्चे को 7 दिन से ज़्यादा से बुखार है और डॉक्टर को नहीं दिखाया?"}
+    options: ["yes", "no", "unknown"]
+  - fact: ds_child_diarrhoea_over_14_days
+    required: true
+    ask: {en: "Has the child had diarrhoea for more than 14 days?", hi: "क्या बच्चे को 14 दिन से ज़्यादा से दस्त है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: ds_child_blood_in_stools
+    required: true
+    ask: {en: "Is there blood in the child's stools?", hi: "क्या बच्चे के मल में खून है?"}
+    options: ["yes", "no", "unknown"]
+  # Main symptoms.
+  - fact: cough_present
+    required: true
+    ask: {en: "Does the child have a cough?", hi: "क्या बच्चे को खांसी है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: cough_duration_days
+    required: true
+    ask_when: {cough_present: "yes"}
+    ask: {en: "For how many days has the cough been present?", hi: "खांसी कितने दिन से है?"}
+    input: duration
+  - fact: diarrhoea_present
+    required: true
+    ask: {en: "Does the child have diarrhoea (loose stools)?", hi: "क्या बच्चे को दस्त (पतली टट्टी) हो रहे हैं?"}
+    options: ["yes", "no", "unknown"]
+  - fact: child_sunken_eyes
+    required: true
+    ask_when: {diarrhoea_present: "yes"}
+    ask: {en: "Look at the child's eyes. Do they look sunken?", hi: "बच्चे की आँखें देखें। क्या आँखें धंसी हुई लगती हैं?"}
+    options: ["yes", "no", "unknown"]
+  - fact: child_skin_pinch_slow
+    required: true
+    ask_when: {diarrhoea_present: "yes"}
+    ask: {en: "Pinch the skin of the belly and let go. Does it go back slowly?", hi: "पेट की चमड़ी चुटकी से उठाकर छोड़ें। क्या वह धीरे-धीरे वापस जाती है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: fever_present
+    required: true
+    ask: {en: "Does the child have fever (now or in this illness)?", hi: "क्या बच्चे को बुखार है (अभी या इस बीमारी में)?"}
+    options: ["yes", "no", "unknown"]
+  - fact: fever_duration_days
+    required: true
+    ask_when: {fever_present: "yes"}
+    ask: {en: "For how many days has the fever been present?", hi: "बुखार कितने दिन से है?"}
+    input: duration
+  # Nutrition and anaemia (look).
+  - fact: child_swelling_both_feet
+    required: true
+    ask: {en: "Is there swelling of both feet?", hi: "क्या दोनों पैरों में सूजन है?"}
+    options: ["yes", "no", "unknown"]
+  - fact: child_severe_palmar_pallor
+    required: true
+    ask: {en: "Look at the child's palms. Are they very pale?", hi: "बच्चे की हथेलियाँ देखें। क्या वे बहुत ज़्यादा पीली/सफ़ेद हैं?"}
+    options: ["yes", "no", "unknown"]
+  - fact: child_mcp_red_zone
+    required: true
+    ask: {en: "On the MCP card, is the child in the RED zone for weight-for-length/height?", hi: "MCP कार्ड पर क्या बच्चा लंबाई/ऊँचाई के हिसाब से वज़न में लाल रंग में है?"}
+    options: ["yes", "no", "unknown"]
+
+danger_signs: []   # universal danger signs (rules/danger_signs.yaml) apply to this pathway
+
+rules:
+  - id: child.diarrhoea_dehydration
+    level: HIGH
+    when: {all: [{diarrhoea_present: "yes"}, {any: [{child_sunken_eyes: "yes"}, {child_skin_pinch_slow: "yes"}]}]}
+    rationale: {en: "Diarrhoea with signs of dehydration (sunken eyes or slow skin pinch): refer urgently to hospital.", hi: "दस्त के साथ पानी की कमी के लक्षण (धंसी आँखें या चमड़ी धीरे वापस जाना): तुरंत अस्पताल भेजें।"}
+    source: {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 130 (pdf 156), Section 3 VHSND: counselling if danger signs present, signs of dehydration"}
+    facility_level: CHC
+    target_window: today
+  - id: child.swelling_both_feet
+    level: HIGH
+    when: {child_swelling_both_feet: "yes"}
+    rationale: {en: "Swelling of both feet is a sign to refer: refer urgently to hospital.", hi: "दोनों पैरों में सूजन रेफ़र करने का लक्षण है: तुरंत अस्पताल भेजें।"}
+    source: {ref: nhm_ssbsk_op_guideline_2026, locator: "pp. 125–126 (pdf 151–152), Form 2 (sick young child, CHO/ANM): swelling of both feet, refer"}
+    facility_level: CHC
+    target_window: today
+  - id: child.severe_palmar_pallor
+    level: HIGH
+    when: {child_severe_palmar_pallor: "yes"}
+    rationale: {en: "Very pale palms (severe pallor): refer urgently to hospital to find the cause.", hi: "हथेलियाँ बहुत पीली/सफ़ेद (गंभीर खून की कमी): कारण जानने के लिए तुरंत अस्पताल भेजें।"}
+    source: {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 127 (pdf 153), Form 2 Decide: severe palmar pallor"}
+    facility_level: CHC
+    target_window: today
+  - id: child.sam_red_zone
+    level: HIGH
+    when: {child_mcp_red_zone: "yes"}
+    rationale: {en: "A sick child in the red zone on the MCP card (severe acute malnutrition): refer urgently to hospital, keep the child warm on the way.", hi: "MCP कार्ड पर लाल रंग (गंभीर कुपोषण) वाला बीमार बच्चा: तुरंत अस्पताल भेजें, रास्ते में बच्चे को गर्म रखें।"}
+    source: {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 127 (pdf 153), Form 2 Decide: severe acute malnutrition (red on MCP card)"}
+    facility_level: CHC
+    target_window: today
+  - id: child.cough_21_days
+    level: MEDIUM
+    when: {cough_present: "yes", cough_duration_days: {gte: 21}}
+    rationale: {en: "Cough for 21 days or more needs a doctor's check: refer to a facility with a doctor.", hi: "21 दिन या ज़्यादा की खांसी में डॉक्टर की जाँच ज़रूरी है: डॉक्टर वाले केंद्र भेजें।"}
+    source: {ref: nhm_ssbsk_op_guideline_2026, locator: "pp. 125–126 (pdf 151–152), Form 2 (sick young child, CHO/ANM): cough for 21 days or more, refer"}
+    facility_level: PHC
+    target_window: within_24_hours
+  - id: child.fever_over_7_days
+    level: MEDIUM
+    when: {fever_present: "yes", fever_duration_days: {gt: 7}}
+    rationale: {en: "Fever every day for more than 7 days: refer for assessment by a doctor.", hi: "7 दिन से ज़्यादा रोज़ बुखार: डॉक्टर से जाँच के लिए भेजें।"}
+    source: {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 126 (pdf 152), Form 2 Decide: fever every day for more than 7 days"}
+    facility_level: PHC
+    target_window: within_24_hours
+  - id: child.sick_prompt_referral
+    level: MEDIUM
+    when: {any: [{cough_present: "yes"}, {fever_present: "yes"}, {diarrhoea_present: "yes"}]}
+    rationale: {en: "A sick child with cough, fever or diarrhoea should be taken promptly to the Ayushman Arogya Mandir for the CHO to examine.", hi: "खांसी, बुखार या दस्त वाले बीमार बच्चे को जल्दी आयुष्मान आरोग्य मंदिर ले जाएँ, ताकि CHO जाँच करें।"}
+    source: {ref: nhm_ssbsk_op_guideline_2026, locator: "p. 48 (pdf 74), Table 4.5: Tasks for ASHAs for Young Children, prompt referral of sick child"}
+    facility_level: SC_HWC
+    target_window: within_24_hours
+
+referral:
+  bring: [mcp_card, previous_reports]
+low_care: null

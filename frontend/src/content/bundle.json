@@ -296,6 +296,26 @@
     ]
    },
    {
+    "fact": "ds_preg_severe_anaemia",
+    "group": "pregnancy",
+    "id": "pregnancy.severe_anaemia",
+    "label": {
+     "en": "Severe anaemia with or without breathlessness",
+     "hi": "सांस लेने में कठिनाई के साथ या उसके बिना शरीर में रक्त की गम्भीर कमी"
+    },
+    "pictogram": "pallor",
+    "sources": [
+     {
+      "locator": "pdf page 4, pregnancy danger signs: severe anaemia",
+      "ref": "nhm_mcp_card_english"
+     },
+     {
+      "locator": "pdf page 4, pregnancy danger signs: severe anaemia (Hindi)",
+      "ref": "nhm_mcp_card_hindi"
+     }
+    ]
+   },
+   {
     "fact": "ds_postnatal_convulsions",
     "group": "pregnancy",
     "id": "pregnancy.postnatal_convulsions",
@@ -797,6 +817,59 @@
    "value_labels": {},
    "values": []
   },
+  "anc_checkups_done": {
+   "evidence_must_include": [
+    "jaanch",
+    "janch",
+    "जांच",
+    "जाँच",
+    "check",
+    "चेक",
+    "\\banc\\b",
+    "dikha",
+    "दिखा"
+   ],
+   "group": "history",
+   "integer": true,
+   "key": "anc_checkups_done",
+   "label": {
+    "en": "Number of antenatal check-ups done so far",
+    "hi": "अब तक कितनी बार प्रसव पूर्व जांच हुई"
+   },
+   "max": 12.0,
+   "min": 0.0,
+   "note": null,
+   "type": "number",
+   "unit": "count",
+   "value_labels": {},
+   "values": []
+  },
+  "anc_registered": {
+   "evidence_must_include": [
+    "panjik",
+    "पंजीक",
+    "registr",
+    "रजिस्टर",
+    "naam likh",
+    "नाम लिख",
+    "card",
+    "कार्ड"
+   ],
+   "group": "history",
+   "integer": false,
+   "key": "anc_registered",
+   "label": {
+    "en": "Pregnancy registered at the health centre",
+    "hi": "स्वास्थ्य केन्द्र में गर्भावस्था का पंजीकरण हुआ है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
   "ayushman_card_held": {
    "evidence_must_include": [],
    "group": "household",
@@ -831,6 +904,162 @@
    "label": {
     "en": "Blood in sputum (any amount)",
     "hi": "बलगम में खून (थोड़ा भी)"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "child_mcp_red_zone": {
+   "evidence_must_include": [
+    "mcp",
+    "एमसीपी",
+    "\\blaal\\b",
+    "\\blal\\b",
+    "लाल",
+    "\\bred\\b",
+    "रेड",
+    "card",
+    "कार्ड",
+    "\\bsam\\b",
+    "सैम",
+    "कुपोषण",
+    "kuposhan"
+   ],
+   "group": "symptom",
+   "integer": false,
+   "key": "child_mcp_red_zone",
+   "label": {
+    "en": "MCP card shows the child in the RED zone for weight-for-length/height (SAM)",
+    "hi": "MCP कार्ड पर बच्चा लंबाई/ऊँचाई के हिसाब से वज़न में लाल रंग (गंभीर कुपोषण) में है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "child_severe_palmar_pallor": {
+   "evidence_must_include": [
+    "hatheli",
+    "हथेल",
+    "palm",
+    "पाम",
+    "pale",
+    "pallor",
+    "peel",
+    "पीला",
+    "पीली",
+    "safed",
+    "सफ़ेद",
+    "सफेद",
+    "khoon ki kami",
+    "खून की कमी",
+    "anaemi",
+    "anemi",
+    "एनीमि"
+   ],
+   "group": "symptom",
+   "integer": false,
+   "key": "child_severe_palmar_pallor",
+   "label": {
+    "en": "Palms are very pale (severe palmar pallor)",
+    "hi": "हथेलियाँ बहुत ज़्यादा पीली/सफ़ेद हैं"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "child_skin_pinch_slow": {
+   "evidence_must_include": [
+    "chut",
+    "चुट",
+    "pinch",
+    "पिंच",
+    "chamdi",
+    "चमड़ी",
+    "चमडी",
+    "twacha",
+    "त्वचा",
+    "skin",
+    "स्किन",
+    "khaal",
+    "खाल"
+   ],
+   "group": "symptom",
+   "integer": false,
+   "key": "child_skin_pinch_slow",
+   "label": {
+    "en": "Skin of the belly, when pinched, goes back slowly",
+    "hi": "पेट की चमड़ी चुटकी से उठाकर छोड़ने पर धीरे-धीरे वापस जाती है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "child_sunken_eyes": {
+   "evidence_must_include": [
+    "aankh",
+    "ankh",
+    "आंख",
+    "आँख",
+    "eye",
+    "धंस",
+    "धँस",
+    "dhans",
+    "dhas",
+    "sunken",
+    "गड्ढ",
+    "gaddh"
+   ],
+   "group": "symptom",
+   "integer": false,
+   "key": "child_sunken_eyes",
+   "label": {
+    "en": "Child's eyes look sunken",
+    "hi": "बच्चे की आँखें धंसी हुई दिखती हैं"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "child_swelling_both_feet": {
+   "evidence_must_include": [
+    "sooj",
+    "suj",
+    "सूज",
+    "सुज",
+    "swell",
+    "स्वेल",
+    "oedema",
+    "edema",
+    "एडिमा",
+    "phool",
+    "फूल"
+   ],
+   "group": "symptom",
+   "integer": false,
+   "key": "child_swelling_both_feet",
+   "label": {
+    "en": "Swelling of both feet",
+    "hi": "दोनों पैरों में सूजन"
    },
    "max": null,
    "min": null,
@@ -881,6 +1110,36 @@
    "label": {
     "en": "Has a cough",
     "hi": "खांसी है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "diarrhoea_present": {
+   "evidence_must_include": [
+    "dast",
+    "दस्त",
+    "loose motion",
+    "लूज",
+    "मोशन",
+    "diarr",
+    "डायर",
+    "डाइर",
+    "tatti",
+    "टट्टी",
+    "potty",
+    "पॉटी"
+   ],
+   "group": "symptom",
+   "integer": false,
+   "key": "diarrhoea_present",
+   "label": {
+    "en": "Has diarrhoea (loose stools)",
+    "hi": "दस्त (पतली टट्टी) हो रहे हैं"
    },
    "max": null,
    "min": null,
@@ -1366,6 +1625,23 @@
    "value_labels": {},
    "values": []
   },
+  "ds_preg_severe_anaemia": {
+   "evidence_must_include": [],
+   "group": "danger_sign",
+   "integer": false,
+   "key": "ds_preg_severe_anaemia",
+   "label": {
+    "en": "Severe anaemia with or without breathlessness",
+    "hi": "सांस लेने में कठिनाई के साथ या उसके बिना शरीर में रक्त की गम्भीर कमी"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
   "ds_profuse_bleeding": {
    "evidence_must_include": [],
    "group": "danger_sign",
@@ -1571,6 +1847,32 @@
    "value_labels": {},
    "values": []
   },
+  "known_high_risk_pregnancy": {
+   "evidence_must_include": [
+    "high risk",
+    "हाई रिस्क",
+    "\\bhrp\\b",
+    "khatre",
+    "खतरे",
+    "ख़तरे",
+    "jokhim",
+    "जोखिम"
+   ],
+   "group": "history",
+   "integer": false,
+   "key": "known_high_risk_pregnancy",
+   "label": {
+    "en": "Told at a check-up (or marked on the MCP card) that the pregnancy is high risk",
+    "hi": "जांच में बताया गया (या एमसीपी कार्ड पर लिखा है) कि गर्भावस्था हाई रिस्क है"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
   "night_sweats": {
    "evidence_must_include": [
     "pasin",
@@ -1619,6 +1921,30 @@
    "value_labels": {},
    "values": []
   },
+  "pregnancy_month": {
+   "evidence_must_include": [
+    "mahin",
+    "mahee",
+    "महीन",
+    "महिन",
+    "माह",
+    "month"
+   ],
+   "group": "history",
+   "integer": true,
+   "key": "pregnancy_month",
+   "label": {
+    "en": "Month of pregnancy now running (1st to 9th)",
+    "hi": "गर्भावस्था का कौन सा महीना चल रहा है"
+   },
+   "max": 10.0,
+   "min": 1.0,
+   "note": "Running month as on the MCP card month strip (pehla … nauvan), not completed weeks.",
+   "type": "number",
+   "unit": "months",
+   "value_labels": {},
+   "values": []
+  },
   "pregnant": {
    "evidence_must_include": [],
    "group": "person",
@@ -1627,6 +1953,31 @@
    "label": {
     "en": "Currently pregnant",
     "hi": "अभी गर्भवती"
+   },
+   "max": null,
+   "min": null,
+   "note": null,
+   "type": "tristate",
+   "unit": null,
+   "value_labels": {},
+   "values": []
+  },
+  "prev_obstetric_complication": {
+   "evidence_must_include": [
+    "pichl",
+    "पिछल",
+    "pehl",
+    "पहल",
+    "previous",
+    "पूर्व",
+    "last delivery"
+   ],
+   "group": "history",
+   "integer": false,
+   "key": "prev_obstetric_complication",
+   "label": {
+    "en": "Complication in a previous pregnancy (APH, eclampsia, PIH, anaemia, obstructed labour, PPH, caesarean (LSCS), baby with a birth defect)",
+    "hi": "पूर्व गर्भावस्था में प्रसुति संबंधी जटिलता (एपीएच, एकलेम्पसिया, पीआईएच, रक्त की कमी, बाधित प्रसव, पीपीएच, एलएससीएस, शिशु में जन्मजात दोष)"
    },
    "max": null,
    "min": null,
@@ -2384,6 +2735,794 @@
     "hi": "वयस्क में खांसी"
    },
    "version": "0.1.0"
+  },
+  "pregnancy_checkup": {
+   "applies_when": {
+    "pregnant": "yes",
+    "sex": "female"
+   },
+   "danger_signs": [],
+   "id": "pregnancy_checkup",
+   "low_care": null,
+   "questions": [
+    {
+     "ask": {
+      "en": "Is there any bleeding during this pregnancy?",
+      "hi": "क्या गर्भावस्था के दौरान रक्तस्राव हो रहा है?"
+     },
+     "ask_when": null,
+     "fact": "ds_preg_bleeding",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Does she have high fever?",
+      "hi": "क्या तेज बुखार है?"
+     },
+     "ask_when": null,
+     "fact": "ds_preg_high_fever",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Does she have fits, blurring of vision, headache, or swelling all over the body?",
+      "hi": "क्या दौरे पड़ना, धुंधला दिखाई देना, सिरदर्द, उल्टी, या पूरे शरीर में सूजन है?"
+     },
+     "ask_when": null,
+     "fact": "ds_preg_fits_headache_vision_swelling",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Does she have severe anaemia (very low blood), as written on her card or told by the ANM or doctor, with or without breathlessness?",
+      "hi": "क्या सांस लेने में कठिनाई के साथ या उसके बिना शरीर में रक्त की गम्भीर कमी है (कार्ड पर लिखा है या एएनएम/डॉक्टर ने बताया)?"
+     },
+     "ask_when": null,
+     "fact": "ds_preg_severe_anaemia",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Has the water bag burst without labour pains?",
+      "hi": "क्या प्रसव पीड़ा के बिना ही पानी की थैली फट गई है?"
+     },
+     "ask_when": null,
+     "fact": "ds_waters_broke_without_labour",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Has she had labour pain for more than 12 hours?",
+      "hi": "क्या 12 घण्टे से अधिक समय से प्रसव पीड़ा है?"
+     },
+     "ask_when": null,
+     "fact": "ds_labour_over_12_hours",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Was she told at a check-up, or is it marked on the MCP card, that the pregnancy is high risk?",
+      "hi": "क्या जांच में बताया गया, या एमसीपी कार्ड पर लिखा है, कि गर्भावस्था हाई रिस्क है?"
+     },
+     "ask_when": null,
+     "fact": "known_high_risk_pregnancy",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "If she has been pregnant before: was there any complication — bleeding before delivery (APH), eclampsia, high BP (PIH), anaemia, obstructed labour, heavy bleeding after delivery (PPH), caesarean operation (LSCS), or a baby with a birth defect?",
+      "hi": "अगर पहले गर्भ रहा है: क्या पूर्व गर्भावस्था में कोई जटिलता हुई — एपीएच, एकलेम्पसिया, पीआईएच, रक्त की कमी, बाधित प्रसव, पीपीएच, एलएससीएस (ऑपरेशन), या शिशु में जन्मजात दोष?"
+     },
+     "ask_when": null,
+     "fact": "prev_obstetric_complication",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Which month of pregnancy is running now (1st to 9th)?",
+      "hi": "गर्भावस्था का कौन सा महीना चल रहा है (पहला से नौवां)?"
+     },
+     "ask_when": null,
+     "fact": "pregnancy_month",
+     "input": "number",
+     "options": [],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Is the pregnancy registered at the health centre (MCP card made)?",
+      "hi": "क्या स्वास्थ्य केन्द्र में गर्भावस्था का पंजीकरण हुआ है (एमसीपी कार्ड बना है)?"
+     },
+     "ask_when": null,
+     "fact": "anc_registered",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "How many antenatal check-ups has she had so far (see the MCP card)?",
+      "hi": "अब तक कितनी बार प्रसव पूर्व जांच हुई है (एमसीपी कार्ड देखें)?"
+     },
+     "ask_when": {
+      "anc_registered": "yes"
+     },
+     "fact": "anc_checkups_done",
+     "input": "number",
+     "options": [],
+     "required": true
+    }
+   ],
+   "referral": {
+    "bring": [
+     "mcp_card",
+     "id_document",
+     "previous_reports"
+    ]
+   },
+   "review": {
+    "content_hash": null,
+    "reviewed_on": null,
+    "reviewer": null,
+    "status": "draft"
+   },
+   "rules": [
+    {
+     "facility_level": "CHC",
+     "id": "preg.known_high_risk",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "A high-risk pregnancy should be linked to a First Referral Unit for delivery and get extra check-ups: refer to the CHC or district hospital.",
+      "hi": "हाई रिस्क गर्भावस्था में प्रसव के लिए एफआरयू तय करें और अतिरिक्त जांच कराएं: सामुदायिक स्वास्थ्य केंद्र या ज़िला अस्पताल भेजें।"
+     },
+     "source": {
+      "locator": "p. 43 (pdf 69), Table 4.3: ASHA role in birth preparedness",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     "target_window": "within_7_days",
+     "when": {
+      "known_high_risk_pregnancy": "yes"
+     }
+    },
+    {
+     "facility_level": "PHC",
+     "id": "preg.previous_complication",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "A complication in a previous pregnancy makes this a high-risk pregnancy: she needs screening and extra check-ups by a doctor.",
+      "hi": "पिछली गर्भावस्था में जटिलता होने से यह हाई रिस्क गर्भावस्था है: डॉक्टर से जांच और अतिरिक्त प्रसव पूर्व जांच ज़रूरी है।"
+     },
+     "source": {
+      "locator": "p. 4 (pdf 30), Figure 1.1: Antenatal Care",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     "target_window": "within_7_days",
+     "when": {
+      "prev_obstetric_complication": "yes"
+     }
+    },
+    {
+     "facility_level": "PHC",
+     "id": "preg.teenage",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "Teenage pregnancy is a high-risk pregnancy: she needs screening and extra check-ups by a doctor.",
+      "hi": "किशोरावस्था में गर्भ हाई रिस्क गर्भावस्था है: डॉक्टर से जांच और अतिरिक्त प्रसव पूर्व जांच ज़रूरी है।"
+     },
+     "source": {
+      "locator": "p. 4 (pdf 30), Figure 1.1: Antenatal Care",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     "target_window": "within_7_days",
+     "when": {
+      "age_years": {
+       "lt": 20
+      }
+     }
+    },
+    {
+     "facility_level": "SC_HWC",
+     "id": "preg.not_registered",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "Regular check-up is essential in pregnancy: register the pregnancy at the health centre.",
+      "hi": "गर्भावस्था के दौरान नियमित जांच अनिवार्य है: स्वास्थ्य केन्द्र में पंजीकरण कराएं।"
+     },
+     "source": {
+      "locator": "pdf page 2, Regular checkup is essential during pregnancy",
+      "ref": "nhm_mcp_card_english"
+     },
+     "target_window": "within_7_days",
+     "when": {
+      "anc_registered": "no"
+     }
+    },
+    {
+     "facility_level": "SC_HWC",
+     "id": "preg.first_checkup_overdue",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "The first antenatal check-up should be in the first trimester and is now overdue: take her for a check-up.",
+      "hi": "पहली प्रसव पूर्व जांच पहली तिमाही में होनी चाहिए थी: अब जांच कराएं।"
+     },
+     "source": {
+      "locator": "Quality Antenatal Care",
+      "ref": "nhm_maternal_health_page"
+     },
+     "target_window": "within_7_days",
+     "when": {
+      "anc_checkups_done": 0,
+      "anc_registered": "yes",
+      "pregnancy_month": {
+       "gte": 4
+      }
+     }
+    }
+   ],
+   "sources": [
+    "nhm_mcp_card_english",
+    "nhm_mcp_card_hindi",
+    "nhm_ssbsk_op_guideline_2026",
+    "nhm_maternal_health_page"
+   ],
+   "tags": [
+    "maternal",
+    "antenatal"
+   ],
+   "title": {
+    "en": "Pregnancy check-up",
+    "hi": "गर्भावस्था जांच"
+   },
+   "version": "0.1.0"
+  },
+  "sick_child": {
+   "applies_when": {
+    "all": [
+     {
+      "age_years": {
+       "lt": 5
+      }
+     },
+     {
+      "age_months": {
+       "gte": 2,
+       "lte": 59
+      }
+     }
+    ]
+   },
+   "danger_signs": [],
+   "id": "sick_child",
+   "low_care": null,
+   "questions": [
+    {
+     "ask": {
+      "en": "Is the child not able to drink, breastfeed or feed?",
+      "hi": "क्या बच्चा कुछ पी, स्तनपान या खा नहीं पा रहा?"
+     },
+     "ask_when": null,
+     "fact": "ds_child_not_able_to_drink_or_feed",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Does the child vomit everything?",
+      "hi": "क्या बच्चा जो भी खाए-पिए, सब उल्टी कर देता है?"
+     },
+     "ask_when": null,
+     "fact": "ds_child_vomits_everything",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Is the child lethargic (very drowsy) or unconscious?",
+      "hi": "क्या बच्चा बहुत सुस्त है या बेहोश है?"
+     },
+     "ask_when": null,
+     "fact": "ds_child_lethargic_or_unconscious",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Is the child having convulsions now, or has had them in this illness?",
+      "hi": "क्या बच्चे को अभी दौरे पड़ रहे हैं या इस बीमारी में पड़े हैं?"
+     },
+     "ask_when": null,
+     "fact": "ds_child_convulsions",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Does the child have difficulty in breathing?",
+      "hi": "क्या बच्चे को सांस लेने में कठिनाई है?"
+     },
+     "ask_when": null,
+     "fact": "ds_child_breathing_difficulty",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Does the child have severe chest in-drawing?",
+      "hi": "क्या सांस लेते समय बच्चे की छाती ज़ोर से अंदर धंसती है?"
+     },
+     "ask_when": null,
+     "fact": "ds_child_severe_chest_indrawing",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Count the child's breaths for one minute. Is it more than 50 (2–12 months old) or more than 40 (1–5 years old)?",
+      "hi": "एक मिनट तक बच्चे की सांस गिनें। क्या 2–12 महीने में 50 से ज़्यादा, या 1–5 साल में 40 से ज़्यादा है?"
+     },
+     "ask_when": null,
+     "fact": "ds_child_fast_breathing",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Has the child had fever for more than 7 days without seeing a doctor?",
+      "hi": "क्या बच्चे को 7 दिन से ज़्यादा से बुखार है और डॉक्टर को नहीं दिखाया?"
+     },
+     "ask_when": null,
+     "fact": "ds_child_fever_over_7_days_no_doctor",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Has the child had diarrhoea for more than 14 days?",
+      "hi": "क्या बच्चे को 14 दिन से ज़्यादा से दस्त है?"
+     },
+     "ask_when": null,
+     "fact": "ds_child_diarrhoea_over_14_days",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Is there blood in the child's stools?",
+      "hi": "क्या बच्चे के मल में खून है?"
+     },
+     "ask_when": null,
+     "fact": "ds_child_blood_in_stools",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Does the child have a cough?",
+      "hi": "क्या बच्चे को खांसी है?"
+     },
+     "ask_when": null,
+     "fact": "cough_present",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "For how many days has the cough been present?",
+      "hi": "खांसी कितने दिन से है?"
+     },
+     "ask_when": {
+      "cough_present": "yes"
+     },
+     "fact": "cough_duration_days",
+     "input": "duration",
+     "options": [],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Does the child have diarrhoea (loose stools)?",
+      "hi": "क्या बच्चे को दस्त (पतली टट्टी) हो रहे हैं?"
+     },
+     "ask_when": null,
+     "fact": "diarrhoea_present",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Look at the child's eyes. Do they look sunken?",
+      "hi": "बच्चे की आँखें देखें। क्या आँखें धंसी हुई लगती हैं?"
+     },
+     "ask_when": {
+      "diarrhoea_present": "yes"
+     },
+     "fact": "child_sunken_eyes",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Pinch the skin of the belly and let go. Does it go back slowly?",
+      "hi": "पेट की चमड़ी चुटकी से उठाकर छोड़ें। क्या वह धीरे-धीरे वापस जाती है?"
+     },
+     "ask_when": {
+      "diarrhoea_present": "yes"
+     },
+     "fact": "child_skin_pinch_slow",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Does the child have fever (now or in this illness)?",
+      "hi": "क्या बच्चे को बुखार है (अभी या इस बीमारी में)?"
+     },
+     "ask_when": null,
+     "fact": "fever_present",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "For how many days has the fever been present?",
+      "hi": "बुखार कितने दिन से है?"
+     },
+     "ask_when": {
+      "fever_present": "yes"
+     },
+     "fact": "fever_duration_days",
+     "input": "duration",
+     "options": [],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Is there swelling of both feet?",
+      "hi": "क्या दोनों पैरों में सूजन है?"
+     },
+     "ask_when": null,
+     "fact": "child_swelling_both_feet",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "Look at the child's palms. Are they very pale?",
+      "hi": "बच्चे की हथेलियाँ देखें। क्या वे बहुत ज़्यादा पीली/सफ़ेद हैं?"
+     },
+     "ask_when": null,
+     "fact": "child_severe_palmar_pallor",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    },
+    {
+     "ask": {
+      "en": "On the MCP card, is the child in the RED zone for weight-for-length/height?",
+      "hi": "MCP कार्ड पर क्या बच्चा लंबाई/ऊँचाई के हिसाब से वज़न में लाल रंग में है?"
+     },
+     "ask_when": null,
+     "fact": "child_mcp_red_zone",
+     "input": null,
+     "options": [
+      "yes",
+      "no",
+      "unknown"
+     ],
+     "required": true
+    }
+   ],
+   "referral": {
+    "bring": [
+     "mcp_card",
+     "previous_reports"
+    ]
+   },
+   "review": {
+    "content_hash": null,
+    "reviewed_on": null,
+    "reviewer": null,
+    "status": "draft"
+   },
+   "rules": [
+    {
+     "facility_level": "CHC",
+     "id": "child.diarrhoea_dehydration",
+     "level": "HIGH",
+     "rationale": {
+      "en": "Diarrhoea with signs of dehydration (sunken eyes or slow skin pinch): refer urgently to hospital.",
+      "hi": "दस्त के साथ पानी की कमी के लक्षण (धंसी आँखें या चमड़ी धीरे वापस जाना): तुरंत अस्पताल भेजें।"
+     },
+     "source": {
+      "locator": "p. 130 (pdf 156), Section 3 VHSND: counselling if danger signs present, signs of dehydration",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     "target_window": "today",
+     "when": {
+      "all": [
+       {
+        "diarrhoea_present": "yes"
+       },
+       {
+        "any": [
+         {
+          "child_sunken_eyes": "yes"
+         },
+         {
+          "child_skin_pinch_slow": "yes"
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "facility_level": "CHC",
+     "id": "child.swelling_both_feet",
+     "level": "HIGH",
+     "rationale": {
+      "en": "Swelling of both feet is a sign to refer: refer urgently to hospital.",
+      "hi": "दोनों पैरों में सूजन रेफ़र करने का लक्षण है: तुरंत अस्पताल भेजें।"
+     },
+     "source": {
+      "locator": "pp. 125–126 (pdf 151–152), Form 2 (sick young child, CHO/ANM): swelling of both feet, refer",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     "target_window": "today",
+     "when": {
+      "child_swelling_both_feet": "yes"
+     }
+    },
+    {
+     "facility_level": "CHC",
+     "id": "child.severe_palmar_pallor",
+     "level": "HIGH",
+     "rationale": {
+      "en": "Very pale palms (severe pallor): refer urgently to hospital to find the cause.",
+      "hi": "हथेलियाँ बहुत पीली/सफ़ेद (गंभीर खून की कमी): कारण जानने के लिए तुरंत अस्पताल भेजें।"
+     },
+     "source": {
+      "locator": "p. 127 (pdf 153), Form 2 Decide: severe palmar pallor",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     "target_window": "today",
+     "when": {
+      "child_severe_palmar_pallor": "yes"
+     }
+    },
+    {
+     "facility_level": "CHC",
+     "id": "child.sam_red_zone",
+     "level": "HIGH",
+     "rationale": {
+      "en": "A sick child in the red zone on the MCP card (severe acute malnutrition): refer urgently to hospital, keep the child warm on the way.",
+      "hi": "MCP कार्ड पर लाल रंग (गंभीर कुपोषण) वाला बीमार बच्चा: तुरंत अस्पताल भेजें, रास्ते में बच्चे को गर्म रखें।"
+     },
+     "source": {
+      "locator": "p. 127 (pdf 153), Form 2 Decide: severe acute malnutrition (red on MCP card)",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     "target_window": "today",
+     "when": {
+      "child_mcp_red_zone": "yes"
+     }
+    },
+    {
+     "facility_level": "PHC",
+     "id": "child.cough_21_days",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "Cough for 21 days or more needs a doctor's check: refer to a facility with a doctor.",
+      "hi": "21 दिन या ज़्यादा की खांसी में डॉक्टर की जाँच ज़रूरी है: डॉक्टर वाले केंद्र भेजें।"
+     },
+     "source": {
+      "locator": "pp. 125–126 (pdf 151–152), Form 2 (sick young child, CHO/ANM): cough for 21 days or more, refer",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     "target_window": "within_24_hours",
+     "when": {
+      "cough_duration_days": {
+       "gte": 21
+      },
+      "cough_present": "yes"
+     }
+    },
+    {
+     "facility_level": "PHC",
+     "id": "child.fever_over_7_days",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "Fever every day for more than 7 days: refer for assessment by a doctor.",
+      "hi": "7 दिन से ज़्यादा रोज़ बुखार: डॉक्टर से जाँच के लिए भेजें।"
+     },
+     "source": {
+      "locator": "p. 126 (pdf 152), Form 2 Decide: fever every day for more than 7 days",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     "target_window": "within_24_hours",
+     "when": {
+      "fever_duration_days": {
+       "gt": 7
+      },
+      "fever_present": "yes"
+     }
+    },
+    {
+     "facility_level": "SC_HWC",
+     "id": "child.sick_prompt_referral",
+     "level": "MEDIUM",
+     "rationale": {
+      "en": "A sick child with cough, fever or diarrhoea should be taken promptly to the Ayushman Arogya Mandir for the CHO to examine.",
+      "hi": "खांसी, बुखार या दस्त वाले बीमार बच्चे को जल्दी आयुष्मान आरोग्य मंदिर ले जाएँ, ताकि CHO जाँच करें।"
+     },
+     "source": {
+      "locator": "p. 48 (pdf 74), Table 4.5: Tasks for ASHAs for Young Children, prompt referral of sick child",
+      "ref": "nhm_ssbsk_op_guideline_2026"
+     },
+     "target_window": "within_24_hours",
+     "when": {
+      "any": [
+       {
+        "cough_present": "yes"
+       },
+       {
+        "fever_present": "yes"
+       },
+       {
+        "diarrhoea_present": "yes"
+       }
+      ]
+     }
+    }
+   ],
+   "sources": [
+    "nhm_ssbsk_op_guideline_2026",
+    "nhm_imnci_chart_booklet"
+   ],
+   "tags": [
+    "child_health"
+   ],
+   "title": {
+    "en": "Sick child (2 months to 5 years)",
+    "hi": "बीमार बच्चा (2 महीने से 5 साल)"
+   },
+   "version": "0.1.0"
   }
  },
  "references": {
@@ -2480,6 +3619,26 @@
     {
      "locator": "p. 12 (pdf 14), Assess and classify the sick child 2 months up to 5 years: Check for general danger signs",
      "text": "CHECK FOR GENERAL DANGER SIGNS … See if the child is lethargic or unconscious. … Is the child able to drink or breastfeed? … Does the child vomit everything? … Has the child had convulsions? … A child with any general danger sign needs URGENT attention; complete the assessment and … any pre-referral treatment immediately so referral is not delayed."
+    },
+    {
+     "locator": "p. 12 (pdf 14), Assess and classify the sick child: age 2 months up to 5 years",
+     "text": "ASSESS AND CLASSIFY THE SICK CHILD … AGE 2 MONTHS UP TO 5 YEARS"
+    },
+    {
+     "locator": "p. 13 (pdf 15), Diarrhoea: severe dehydration",
+     "text": "Two of the following signs: … Lethargic or unconscious … Sunken eyes … SEVERE … Not able to drink or … Refer URGENTLY to hospital … DEHYDRATION … Skin pinch goes back … very slowly."
+    },
+    {
+     "locator": "p. 14 (pdf 16), Fever: present every day for more than 7 days",
+     "text": "If fever is present every day for more than 7 days, refer for assessment."
+    },
+    {
+     "locator": "p. 16 (pdf 18), Check for malnutrition: severe malnutrition",
+     "text": "Visible severe wasting or … Oedema of both feet. … SEVERE … MALNUTRITION … Refer URGENTLY to hospital"
+    },
+    {
+     "locator": "p. 16 (pdf 18), Check for anaemia: severe anaemia",
+     "text": "Severe palmar pallor SEVERE ANAEMIA … Refer URGENTLY to hospital #."
     }
    ],
    "id": "nhm_imnci_chart_booklet",
@@ -2526,6 +3685,14 @@
     {
      "locator": "Flagship Programmes: SUMAN",
      "text": "Under SUMAN, all the existing schemes for maternal and neonatal health have been brought under one umbrella"
+    },
+    {
+     "locator": "Quality Antenatal Care",
+     "text": "Quality and comprehensive ANC incorporates minimum of at least four ANCs including early registration and first ANC within 1st trimester."
+    },
+    {
+     "locator": "Flagship Programmes: PMSMA facilities",
+     "text": "on the 9th of every month at designated public health facilities (PHCs /CHCs /SDHs /DHs/Urban health facilities etc)"
     }
    ],
    "id": "nhm_maternal_health_page",
@@ -2540,6 +3707,18 @@
     {
      "locator": "pdf page 4, pregnancy danger signs",
      "text": "If you or anyone in your family sees any … of these danger signs, take the pregnant … woman to the hospital immediately … • Bleeding during pregnancy … • Excessive bleeding during … delivery or after delivery … Headache, blurring of vision, … High fever during pregnancy … fits and swelling all over the … or within one month of delivery … body … Labour pain for more than … Bursting of water bag without … 12 hours … labour pains"
+    },
+    {
+     "locator": "pdf page 4, pregnancy danger signs: severe anaemia",
+     "text": "If you or anyone in your family sees any … of these danger signs, take the pregnant … woman to the hospital immediately … Severe Anemia with or without … breathlessness"
+    },
+    {
+     "locator": "pdf page 2, Regular checkup is essential during pregnancy",
+     "text": "Regular checkup is essential during … pregnancy … Register with the health centre in the 1st trimester. … Have at least 3 antenatal checkups, after … registration."
+    },
+    {
+     "locator": "pdf page 3, Antenatal care: obstetric complication in previous pregnancy",
+     "text": "OBSTETRIC COMPLICATION IN PREVIOUS PREGNANCY … A. APH … B. Eclampsia … C. PIH … D. Anaemia … E. Obstructed labor … F. PPH … G. LSCS … H. Congential anomaly … in baby"
     }
    ],
    "id": "nhm_mcp_card_english",
@@ -2554,6 +3733,14 @@
     {
      "locator": "pdf page 4, pregnancy danger signs (Hindi)",
      "text": "यदि आपको अथवा आपके परिवार में किसी अन्य व्यक्ति को खतरे के ये लक्षण दिखाई दें तो गर्भवती महिला को तुरन्त अस्पताल ले जायें … गर्भावस्था के दौरान रक्तस्राव, प्रसव के दौरान अथवा प्रसव के पश्चात् अत्यधिक रक्तस्राव … गर्भावस्था अथवा प्रसव के एक महीने के भीतर तेज बुखार … दौरे पड़ना, धुंधला दिखाई देना, सिरदर्द, उल्टी, पूरे शरीर में सूजन … 12 घण्टे से अधिक समय तक प्रसव पीड़ा … प्रसव पीड़ा के बिना ही पानी की थैली फट जाना"
+    },
+    {
+     "locator": "pdf page 4, pregnancy danger signs: severe anaemia (Hindi)",
+     "text": "यदि आपको अथवा आपके परिवार में किसी अन्य व्यक्ति को खतरे के ये लक्षण दिखाई दें तो गर्भवती महिला को तुरन्त अस्पताल ले जायें … सांस लेने में कठिनाई के साथ या उसके बिना शरीर में रक्त की गम्भीर कमी"
+    },
+    {
+     "locator": "pdf page 2, regular check-up (Hindi)",
+     "text": "गर्भावस्था के दौरान नियमित जांच अनिवार्य है … पहली तिमाही में स्वास्थ्य केन्द्र में पंजीकरण कराएं। … पंजीकरण के बाद कम से कम तीन बार प्रसव पूर्व जांच अवश्य कराएं।"
     }
    ],
    "id": "nhm_mcp_card_hindi",
@@ -2620,6 +3807,58 @@
     {
      "locator": "p. 28 (pdf 54), Figure 3.5: Maternal Danger Signs",
      "text": "Figure 3.5: Maternal Danger Signs … Excessive … Convulsions … Bleeding … Fever … Severe … abdominal pain … Difficulty in … breathing"
+    },
+    {
+     "locator": "p. 4 (pdf 30), Figure 1.1: Antenatal Care",
+     "text": "Antenatal Care … Pregnancy registration in first trimester & issue of digital MCH … Screening & treatment for High-Risk Pregnancies like Severe Anemia, … hypertension & infections (syphilis, malaria, TB, HIV etc.), GDM, … Hepatitis B, bad obstetric history, teenage pregnancy and others … 5 ANC visits for normal pregnant woman (including PMSMA visit) … 8 ANC visits for high-risk pregnant woman (3 additional visits … under E-PMSMA) … Identification of danger signs & early referral"
+    },
+    {
+     "locator": "p. 43 (pdf 69), Table 4.3: ASHA role in birth preparedness",
+     "text": "Check and confirm if the … mother is a High-Risk … Pregnancy (HRP) and if yes, … referred to FRU for delivery"
+    },
+    {
+     "locator": "p. 48 (pdf 74), Table 4.5: Tasks for ASHAs for Young Children, prompt referral of sick child",
+     "text": "Table 4.5: Tasks for ASHAs and AWWs for Young Children (6 weeks to 36 months) … Identification and prompt referral of sick child"
+    },
+    {
+     "locator": "p. 116 (pdf 142), Form 6 (ASHA, 2–36 months): danger signs and referral place",
+     "text": "For Age 2 months to 36 months – Reporting Format (FORM 6) … Ask and Observe danger signs- (Multiple option selection) … (If “YES”, Referral Pop Up- PLACE of referral- For refer to … AAM/CHC/PHC/DH) … Diarrhoea more than 14 days (Signs of dehydration like … sunken eyes and skin pinch goes back slowly"
+    },
+    {
+     "locator": "p. 116 (pdf 142), Form 5 (ASHA): underweight with medical complications, refer to NRC",
+     "text": "Underweight/ severe underweight with medical complications … (Pop up, Counsel & Refer to NRC in consultation with ANM/CHO … if Yes)"
+    },
+    {
+     "locator": "pp. 125–126 (pdf 151–152), Form 2 (sick young child, CHO/ANM): cough for 21 days or more, refer",
+     "text": "FORM 2: Management of sick young child (2-36 months of age) by CHO/ANM … Any DANGER SIGN or … other problem to refer? … □ Cough? If yes, for how long? __ days … □ Cough for 21 days or … more … 2. Decide: Refer or treat child (tick decision) … □ If ANY Danger Sign or other … problem, refer to health facility … If any danger sign, … REFER URGENTLY to health facility:"
+    },
+    {
+     "locator": "pp. 125–126 (pdf 151–152), Form 2 (sick young child, CHO/ANM): swelling of both feet, refer",
+     "text": "FORM 2: Management of sick young child (2-36 months of age) by CHO/ANM … Any DANGER SIGN or … other problem to refer? … □ Swelling of both feet? □ Swelling of both feet … 2. Decide: Refer or treat child (tick decision) … □ If ANY Danger Sign or other … problem, refer to health facility … If any danger sign, … REFER URGENTLY to health facility:"
+    },
+    {
+     "locator": "p. 126 (pdf 152), Form 2 Decide: fever every day for more than 7 days",
+     "text": "2. Decide: Refer or treat child (tick decision) … If fever is present every day for more than 7 days, refer for assess- … ment"
+    },
+    {
+     "locator": "p. 127 (pdf 153), Form 2 Decide: severe palmar pallor",
+     "text": "□ If Severe … □ Refer URGENT- … Palmar Pallor … LY to hospital … to assess the causes and … treat accord- … ingly"
+    },
+    {
+     "locator": "p. 127 (pdf 153), Form 2 Decide: severe acute malnutrition (red on MCP card)",
+     "text": "□ If Severe Acute … Malnutrition … (WFL <-3 SD score: … red color on … MCP card) … Keep the child … warm on the … way to hospital."
+    },
+    {
+     "locator": "p. 130 (pdf 156), Section 3 VHSND: counselling if danger signs present, signs of dehydration",
+     "text": "Counselling if danger signs present in newborns & children … Explain why newborn/ child needs to go to health facility. … If signs of dehydration (like sunken eyes and skin pinch goes back slowly), refer URGENTLY to hospital"
+    },
+    {
+     "locator": "p. 131 (pdf 157), Counselling on Malnutrition: SAM and NRC",
+     "text": "Children with SAM: Explain the need for NRC visit and admission"
+    },
+    {
+     "locator": "p. 133 (pdf 159), Section 4 CHO/MO checklist: danger signs of child 2–59 months",
+     "text": "If child 2 months- 5 years … Danger Signs of Child (2 -59 months)"
     }
    ],
    "id": "nhm_ssbsk_op_guideline_2026",
@@ -2866,5 +4105,5 @@
    "version_or_date": "Undated web page"
   }
  },
- "ruleset_version": "sha256:7c19af243ab471ed"
+ "ruleset_version": "sha256:299e53edf68de60e"
 }

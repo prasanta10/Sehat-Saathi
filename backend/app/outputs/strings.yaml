@@ -52,3 +52,4 @@ bring:
   id_document: {en: "any identity document, if easily available", hi: "कोई भी पहचान पत्र, अगर आसानी से मिले"}
   previous_reports: {en: "old reports and prescriptions", hi: "पुरानी रिपोर्ट और पर्चे"}
   current_medicines: {en: "medicines being taken now", hi: "अभी ली जा रही दवाइयाँ"}
+  mcp_card: {en: "the Mother and Child Protection (MCP) card", hi: "मातृ एवं शिशु सुरक्षा (MCP) कार्ड"}

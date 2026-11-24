@@ -84,6 +84,10 @@ facts:
     type: tristate
     group: danger_sign
     label: {en: "In pregnancy: fits, blurring of vision, headache, or swelling all over the body", hi: "दौरे पड़ना, धुंधला दिखाई देना, सिरदर्द, उल्टी, पूरे शरीर में सूजन"}
+  ds_preg_severe_anaemia:
+    type: tristate
+    group: danger_sign
+    label: {en: "Severe anaemia with or without breathlessness", hi: "सांस लेने में कठिनाई के साथ या उसके बिना शरीर में रक्त की गम्भीर कमी"}
   ds_labour_over_12_hours:
     type: tristate
     group: danger_sign
@@ -271,6 +275,74 @@ facts:
     evidence_must_include: ["ulti", "उल्टी", "उलटी", "dast", "दस्त", "vomit", "वोमिट", "वॉमिट", "loose motion", "लूज", "मोशन", "diarr", "डायर", "डाइर"]
     group: red_flag
     label: {en: "Repeated vomiting or diarrhoea", hi: "बार-बार उल्टी या दस्त"}
+
+  # --- pregnancy check-up pathway --------------------------------------------------------------
+  pregnancy_month:
+    type: number
+    evidence_must_include: ["mahin", "mahee", "महीन", "महिन", "माह", "month"]
+    unit: months
+    min: 1
+    max: 10
+    integer: true
+    group: history
+    label: {en: "Month of pregnancy now running (1st to 9th)", hi: "गर्भावस्था का कौन सा महीना चल रहा है"}
+    note: "Running month as on the MCP card month strip (pehla … nauvan), not completed weeks."
+  anc_registered:
+    type: tristate
+    evidence_must_include: ["panjik", "पंजीक", "registr", "रजिस्टर", "naam likh", "नाम लिख", "card", "कार्ड"]
+    group: history
+    label: {en: "Pregnancy registered at the health centre", hi: "स्वास्थ्य केन्द्र में गर्भावस्था का पंजीकरण हुआ है"}
+  anc_checkups_done:
+    type: number
+    evidence_must_include: ["jaanch", "janch", "जांच", "जाँच", "check", "चेक", "\\banc\\b", "dikha", "दिखा"]
+    unit: count
+    min: 0
+    max: 12
+    integer: true
+    group: history
+    label: {en: "Number of antenatal check-ups done so far", hi: "अब तक कितनी बार प्रसव पूर्व जांच हुई"}
+  known_high_risk_pregnancy:
+    type: tristate
+    evidence_must_include: ["high risk", "हाई रिस्क", "\\bhrp\\b", "khatre", "खतरे", "ख़तरे", "jokhim", "जोखिम"]
+    group: history
+    label: {en: "Told at a check-up (or marked on the MCP card) that the pregnancy is high risk", hi: "जांच में बताया गया (या एमसीपी कार्ड पर लिखा है) कि गर्भावस्था हाई रिस्क है"}
+  prev_obstetric_complication:
+    type: tristate
+    evidence_must_include: ["pichl", "पिछल", "pehl", "पहल", "previous", "पूर्व", "last delivery"]
+    group: history
+    label: {en: "Complication in a previous pregnancy (APH, eclampsia, PIH, anaemia, obstructed labour, PPH, caesarean (LSCS), baby with a birth defect)", hi: "पूर्व गर्भावस्था में प्रसुति संबंधी जटिलता (एपीएच, एकलेम्पसिया, पीआईएच, रक्त की कमी, बाधित प्रसव, पीपीएच, एलएससीएस, शिशु में जन्मजात दोष)"}
+
+  # --- sick child pathway (2–59 months) -------------------------------------------------------
+  diarrhoea_present:
+    type: tristate
+    evidence_must_include: ["dast", "दस्त", "loose motion", "लूज", "मोशन", "diarr", "डायर", "डाइर", "tatti", "टट्टी", "potty", "पॉटी"]
+    group: symptom
+    label: {en: "Has diarrhoea (loose stools)", hi: "दस्त (पतली टट्टी) हो रहे हैं"}
+  child_sunken_eyes:
+    type: tristate
+    evidence_must_include: ["aankh", "ankh", "आंख", "आँख", "eye", "धंस", "धँस", "dhans", "dhas", "sunken", "गड्ढ", "gaddh"]
+    group: symptom
+    label: {en: "Child's eyes look sunken", hi: "बच्चे की आँखें धंसी हुई दिखती हैं"}
+  child_skin_pinch_slow:
+    type: tristate
+    evidence_must_include: ["chut", "चुट", "pinch", "पिंच", "chamdi", "चमड़ी", "चमडी", "twacha", "त्वचा", "skin", "स्किन", "khaal", "खाल"]
+    group: symptom
+    label: {en: "Skin of the belly, when pinched, goes back slowly", hi: "पेट की चमड़ी चुटकी से उठाकर छोड़ने पर धीरे-धीरे वापस जाती है"}
+  child_swelling_both_feet:
+    type: tristate
+    evidence_must_include: ["sooj", "suj", "सूज", "सुज", "swell", "स्वेल", "oedema", "edema", "एडिमा", "phool", "फूल"]
+    group: symptom
+    label: {en: "Swelling of both feet", hi: "दोनों पैरों में सूजन"}
+  child_severe_palmar_pallor:
+    type: tristate
+    evidence_must_include: ["hatheli", "हथेल", "palm", "पाम", "pale", "pallor", "peel", "पीला", "पीली", "safed", "सफ़ेद", "सफेद", "khoon ki kami", "खून की कमी", "anaemi", "anemi", "एनीमि"]
+    group: symptom
+    label: {en: "Palms are very pale (severe palmar pallor)", hi: "हथेलियाँ बहुत ज़्यादा पीली/सफ़ेद हैं"}
+  child_mcp_red_zone:
+    type: tristate
+    evidence_must_include: ["mcp", "एमसीपी", "\\blaal\\b", "\\blal\\b", "लाल", "\\bred\\b", "रेड", "card", "कार्ड", "\\bsam\\b", "सैम", "कुपोषण", "kuposhan"]
+    group: symptom
+    label: {en: "MCP card shows the child in the RED zone for weight-for-length/height (SAM)", hi: "MCP कार्ड पर बच्चा लंबाई/ऊँचाई के हिसाब से वज़न में लाल रंग (गंभीर कुपोषण) में है"}
 
   # --- household (optional, only to refine scheme information; never blocks a visit) ---------
   ayushman_card_held:

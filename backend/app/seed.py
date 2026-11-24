@@ -68,6 +68,13 @@ SYNTHETIC_PEOPLE = [
         "sex": "female",
         "village": "Sitapur (synthetic)",
     },
+    {
+        "name": "Arjun (synthetic)",
+        "age_years": 2,
+        "age_months": 26,
+        "sex": "male",
+        "village": "Rampur (synthetic)",
+    },
 ]
 
 

@@ -1,0 +1,42 @@
+# Hand-authored synthetic sick-child visit accounts (Hinglish and Hindi). All people are invented.
+# gold: facts stated in the text. Any sick_child fact not listed is "not stated" (must stay null).
+# Danger signs are never gold "no": the AI may only suggest "yes" for them.
+# Needs review by a Hindi speaker before being used as a gate set.
+pathway: sick_child
+cases:
+  - id: c01
+    text: "बच्चे को दो दिन से दस्त हो रहे हैं।"
+    gold: {diarrhoea_present: "yes"}
+  - id: c02
+    text: "Bachche ko teen din se bukhar hai, dast nahi hai."
+    gold: {fever_present: "yes", fever_duration_days: 3, diarrhoea_present: "no"}
+  - id: c03
+    text: "बच्चे की आंखें धंसी हुई लग रही हैं, दस्त बहुत हो रहे हैं।"
+    gold: {child_sunken_eyes: "yes", diarrhoea_present: "yes"}
+  - id: c04
+    text: "दस दिन से बुखार है, खांसी नहीं है।"
+    gold: {fever_present: "yes", fever_duration_days: 10, cough_present: "no"}
+  - id: c05
+    text: "Teen hafte se khansi hai bachche ko."
+    gold: {cough_present: "yes", cough_duration_days: 21}
+  - id: c06
+    text: "बच्चे के दोनों पैरों में सूजन है।"
+    gold: {child_swelling_both_feet: "yes"}
+  - id: c07
+    text: "बच्चा कुछ पी नहीं पा रहा, दूध भी नहीं ले रहा।"
+    gold: {ds_child_not_able_to_drink_or_feed: "yes"}
+  - id: c08
+    text: "Kal raat bachche ko jhatke aaye the, bukhar bhi hai."
+    gold: {ds_child_convulsions: "yes", fever_present: "yes"}
+  - id: c09
+    text: "बच्चा जो भी खाता है सब उल्टी कर देता है।"
+    gold: {ds_child_vomits_everything: "yes"}
+  - id: c10
+    text: "Bachche ki tatti mein khoon aa raha hai."
+    gold: {ds_child_blood_in_stools: "yes"}
+  - id: c11
+    text: "बुखार नहीं है, बस पांच दिन से खांसी है।"
+    gold: {fever_present: "no", cough_present: "yes", cough_duration_days: 5}
+  - id: c12
+    text: "बच्चा बहुत सुस्त है, उठ नहीं रहा।"
+    gold: {ds_child_lethargic_or_unconscious: "yes"}

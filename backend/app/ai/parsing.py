@@ -87,6 +87,66 @@ _NUMBER_WORDS: dict[str, float] = {
     "ढाई": 2.5,
 }
 
+# Ordinals ("paanchva mahina" = the 5th month), only for counted facts such as the month of
+# pregnancy: parse_number accepts them, durations do not. Masculine forms only (महीना is
+# masculine); "pehle" (= "earlier") is deliberately absent.
+_ORDINAL_WORDS: dict[str, float] = {
+    "first": 1,
+    "second": 2,
+    "third": 3,
+    "fourth": 4,
+    "fifth": 5,
+    "sixth": 6,
+    "seventh": 7,
+    "eighth": 8,
+    "ninth": 9,
+    "pehla": 1,
+    "pahla": 1,
+    "doosra": 2,
+    "dusra": 2,
+    "teesra": 3,
+    "tisra": 3,
+    "chautha": 4,
+    "chotha": 4,
+    "paanchva": 5,
+    "panchva": 5,
+    "paanchvan": 5,
+    "chhatha": 6,
+    "chhata": 6,
+    "chhatva": 6,
+    "saatva": 7,
+    "satva": 7,
+    "saatvan": 7,
+    "aathva": 8,
+    "athva": 8,
+    "aathvan": 8,
+    "nauva": 9,
+    "nauvan": 9,
+    "navan": 9,
+    "पहला": 1,
+    "दूसरा": 2,
+    "तीसरा": 3,
+    "चौथा": 4,
+    "पांचवा": 5,
+    "पांचवां": 5,
+    "पाँचवाँ": 5,
+    "पाँचवा": 5,
+    "छठा": 6,
+    "छठवां": 6,
+    "छठवाँ": 6,
+    "सातवां": 7,
+    "सातवाँ": 7,
+    "सातवा": 7,
+    "आठवां": 8,
+    "आठवाँ": 8,
+    "आठवा": 8,
+    "नौवां": 9,
+    "नौवाँ": 9,
+    "नौवा": 9,
+    "नवां": 9,
+    "नवाँ": 9,
+}
+
 # Units in days. Months and years are approximate; flagged so the worker checks the number.
 _UNITS: list[tuple[re.Pattern[str], float, bool]] = [
     (re.compile(r"^(day|days|din|dino|dinon|दिन|दिनों)$"), 1, False),
@@ -146,8 +206,9 @@ def normalise(text: str) -> str:
 
 
 def _loosen_tables() -> None:
-    global _NUMBER_WORDS, _YES, _WEAK_YES, _NO, _DONT_KNOW, _UNITS
+    global _NUMBER_WORDS, _ORDINAL_WORDS, _YES, _WEAK_YES, _NO, _DONT_KNOW, _UNITS
     _NUMBER_WORDS = {normalise(k): v for k, v in _NUMBER_WORDS.items()}
+    _ORDINAL_WORDS = {normalise(k): v for k, v in _ORDINAL_WORDS.items()}
     _YES, _WEAK_YES, _NO = ({normalise(w) for w in ws} for ws in (_YES, _WEAK_YES, _NO))
     _DONT_KNOW = {normalise(w) for w in _DONT_KNOW}
     _UNITS = [
@@ -218,9 +279,21 @@ def count_quantities(text: str) -> int:
     )
 
 
+def _ordinal(token: str) -> float | None:
+    m = re.fullmatch(r"(\d+)(st|nd|rd|th|वां|वा|वाँ)", token)
+    if m:
+        return float(m.group(1))
+    return _ORDINAL_WORDS.get(token)
+
+
 def parse_number(text: str) -> float | None:
+    """The single number or ordinal in a phrase ("paanchva mahina" -> 5), else None."""
     tokens = normalise(text).split()
-    nums = [n for n in (_number(t) for t in tokens) if n is not None]
+    nums = [
+        n
+        for n in (_number(t) if _number(t) is not None else _ordinal(t) for t in tokens)
+        if n is not None
+    ]
     return nums[0] if len(nums) == 1 else None
 
 

@@ -12,3 +12,13 @@ notes: "Older document; its treatment content is outdated and must not be used. 
 excerpts:
   - locator: "p. 12 (pdf 14), Assess and classify the sick child 2 months up to 5 years: Check for general danger signs"
     text: "CHECK FOR GENERAL DANGER SIGNS … See if the child is lethargic or unconscious. … Is the child able to drink or breastfeed? … Does the child vomit everything? … Has the child had convulsions? … A child with any general danger sign needs URGENT attention; complete the assessment and … any pre-referral treatment immediately so referral is not delayed."
+  - locator: "p. 12 (pdf 14), Assess and classify the sick child: age 2 months up to 5 years"
+    text: "ASSESS AND CLASSIFY THE SICK CHILD … AGE 2 MONTHS UP TO 5 YEARS"
+  - locator: "p. 13 (pdf 15), Diarrhoea: severe dehydration"
+    text: "Two of the following signs: … Lethargic or unconscious … Sunken eyes … SEVERE … Not able to drink or … Refer URGENTLY to hospital … DEHYDRATION … Skin pinch goes back … very slowly."
+  - locator: "p. 14 (pdf 16), Fever: present every day for more than 7 days"
+    text: "If fever is present every day for more than 7 days, refer for assessment."
+  - locator: "p. 16 (pdf 18), Check for malnutrition: severe malnutrition"
+    text: "Visible severe wasting or … Oedema of both feet. … SEVERE … MALNUTRITION … Refer URGENTLY to hospital"
+  - locator: "p. 16 (pdf 18), Check for anaemia: severe anaemia"
+    text: "Severe palmar pallor SEVERE ANAEMIA … Refer URGENTLY to hospital #."

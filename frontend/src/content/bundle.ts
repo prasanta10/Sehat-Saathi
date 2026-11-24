@@ -3,6 +3,7 @@
 import { useQuery } from '@tanstack/react-query'
 
 import raw from './bundle.json'
+import type { Condition } from './conditions'
 
 export interface I18nText {
   en: string
@@ -43,6 +44,7 @@ export interface Pathway {
   id: string
   version: string
   title: I18nText
+  applies_when: Condition
   review: { status: 'draft' | 'clinician_reviewed' }
   questions: Question[]
   referral: { bring: string[] }

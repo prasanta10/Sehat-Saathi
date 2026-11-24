@@ -1,0 +1,42 @@
+# Hand-authored synthetic antenatal visit accounts (Hinglish and Hindi). All people are invented.
+# gold: facts stated in the text. Any pregnancy_checkup fact not listed is "not stated" (must stay
+# null). Danger signs are never gold "no": the AI may only suggest "yes" for them.
+# Needs review by a Hindi speaker before being used as a gate set.
+pathway: pregnancy_checkup
+cases:
+  - id: p01
+    text: "मेरा पांचवा महीना चल रहा है, अभी तक कोई जांच नहीं हुई।"
+    gold: {pregnancy_month: 5}
+  - id: p02
+    text: "Saatva mahina chal raha hai. Do baar jaanch ho chuki hai."
+    gold: {pregnancy_month: 7, anc_checkups_done: 2}
+  - id: p03
+    text: "गर्भावस्था का पंजीकरण नहीं हुआ है, तीसरा महीना है।"
+    gold: {anc_registered: "no", pregnancy_month: 3}
+  - id: p04
+    text: "Card ban gaya hai, registration ho gaya. Chautha mahina hai."
+    gold: {anc_registered: "yes", pregnancy_month: 4}
+  - id: p05
+    text: "डॉक्टर ने बताया कि यह हाई रिस्क प्रेगनेंसी है।"
+    gold: {known_high_risk_pregnancy: "yes"}
+  - id: p06
+    text: "पिछली डिलीवरी में बहुत खून बहा था, ऑपरेशन हुआ था।"
+    gold: {prev_obstetric_complication: "yes"}
+  - id: p07
+    text: "Pichli baar koi dikkat nahi hui thi, normal delivery thi. Aathva mahina hai."
+    gold: {prev_obstetric_complication: "no", pregnancy_month: 8}
+  - id: p08
+    text: "दो दिन से खून आ रहा है, पांचवा महीना है।"
+    gold: {ds_preg_bleeding: "yes", pregnancy_month: 5}
+  - id: p09
+    text: "Sar mein bahut dard hai, aankhon ke aage dhundhla dikhta hai, poore shareer mein soojan hai."
+    gold: {ds_preg_fits_headache_vision_swelling: "yes"}
+  - id: p10
+    text: "तेज़ बुखार है, नौवां महीना चल रहा है।"
+    gold: {ds_preg_high_fever: "yes", fever_present: "yes", pregnancy_month: 9}
+  - id: p11
+    text: "Bina dard ke paani ki thaili phat gayi hai."
+    gold: {ds_waters_broke_without_labour: "yes"}
+  - id: p12
+    text: "अभी तक तीन बार जांच हो गई है, सब ठीक बताया।"
+    gold: {anc_checkups_done: 3}

@@ -1,0 +1,107 @@
+pathway: pregnancy_checkup
+# A fully asked antenatal visit with nothing wrong: 25 years, 5th month, registered, 2 check-ups.
+base:
+  age_years: 25
+  sex: female
+  pregnant: "yes"
+  ds_preg_bleeding: "no"
+  ds_preg_high_fever: "no"
+  ds_preg_fits_headache_vision_swelling: "no"
+  ds_preg_severe_anaemia: "no"
+  ds_waters_broke_without_labour: "no"
+  ds_labour_over_12_hours: "no"
+  known_high_risk_pregnancy: "no"
+  prev_obstetric_complication: "no"
+  pregnancy_month: 5
+  anc_registered: "yes"
+  anc_checkups_done: 2
+cases:
+  # --- whole-pathway behaviour -------------------------------------------------------------
+  - id: preg_all_negative_is_not_low
+    expect: {urgency: INCOMPLETE, reason: no_rule_matched, fired: []}
+  - id: preg_danger_signs_asked_first
+    no_base: true
+    facts: {age_years: 25, sex: female, pregnant: "yes"}
+    expect: {urgency: INCOMPLETE, reason: missing_facts, missing_first: ds_preg_bleeding}
+  - id: preg_nothing_known_asks_who
+    no_base: true
+    facts: {}
+    expect: {urgency: INCOMPLETE, reason: missing_facts, missing_includes: [sex, pregnant, age_years, pregnancy_month]}
+  - id: preg_not_for_men
+    facts: {sex: male, known_high_risk_pregnancy: "yes"}
+    expect: {urgency: INCOMPLETE, reason: pathway_not_applicable, minimum_level: MEDIUM}
+  - id: preg_not_when_not_pregnant
+    facts: {pregnant: "no"}
+    expect: {urgency: INCOMPLETE, reason: pathway_not_applicable}
+  - id: preg_danger_sign_overrides
+    facts: {ds_preg_bleeding: "yes", known_high_risk_pregnancy: "yes"}
+    expect: {urgency: EMERGENCY, fired: [pregnancy.bleeding]}
+  - id: preg_severe_anaemia_is_emergency
+    facts: {ds_preg_severe_anaemia: "yes"}
+    expect: {urgency: EMERGENCY, fired: [pregnancy.severe_anaemia]}
+  - id: preg_danger_sign_unknown_blocks_result
+    unset: [ds_preg_fits_headache_vision_swelling]
+    expect: {urgency: INCOMPLETE, reason: missing_facts, missing_includes: [ds_preg_fits_headache_vision_swelling]}
+  - id: preg_several_medium_highest_facility_first
+    facts: {age_years: 17, known_high_risk_pregnancy: "yes", anc_registered: "no"}
+    expect: {urgency: MEDIUM, fired: [preg.known_high_risk]}
+  - id: preg_checkups_not_asked_when_unregistered
+    facts: {anc_registered: "no"}
+    unset: [anc_checkups_done]
+    expect: {urgency: MEDIUM, fired: [preg.not_registered]}
+
+  # --- high-risk pregnancy (MEDIUM) ----------------------------------------------------------
+  - id: known_high_risk_fires
+    facts: {known_high_risk_pregnancy: "yes"}
+    expect: {urgency: MEDIUM, fired: [preg.known_high_risk]}
+    covers: [{rule: preg.known_high_risk, kind: firing}]
+  - id: known_high_risk_unknown
+    unset: [known_high_risk_pregnancy]
+    expect: {urgency: INCOMPLETE, missing_includes: [known_high_risk_pregnancy]}
+    covers: [{rule: preg.known_high_risk, kind: unknown}]
+  - id: previous_complication_fires
+    facts: {prev_obstetric_complication: "yes"}
+    expect: {urgency: MEDIUM, fired: [preg.previous_complication]}
+    covers: [{rule: preg.previous_complication, kind: firing}]
+  - id: previous_complication_unknown
+    unset: [prev_obstetric_complication]
+    expect: {urgency: INCOMPLETE, missing_includes: [prev_obstetric_complication]}
+    covers: [{rule: preg.previous_complication, kind: unknown}]
+  - id: teenage_19_fires
+    facts: {age_years: 19}
+    expect: {urgency: MEDIUM, fired: [preg.teenage]}
+    covers: [{rule: preg.teenage, kind: firing}]
+  - id: age_20_boundary
+    facts: {age_years: 20}
+    expect: {urgency: INCOMPLETE, reason: no_rule_matched}
+    covers: [{rule: preg.teenage, kind: boundary}]
+  - id: age_unknown
+    unset: [age_years]
+    expect: {urgency: INCOMPLETE, reason: missing_facts, missing_includes: [age_years]}
+    covers: [{rule: preg.teenage, kind: unknown}]
+
+  # --- registration and first check-up (MEDIUM) ------------------------------------------------
+  - id: not_registered_fires
+    facts: {anc_registered: "no"}
+    expect: {urgency: MEDIUM, fired: [preg.not_registered]}
+    covers: [{rule: preg.not_registered, kind: firing}]
+  - id: registration_unknown
+    unset: [anc_registered]
+    expect: {urgency: INCOMPLETE, missing_includes: [anc_registered]}
+    covers: [{rule: preg.not_registered, kind: unknown}]
+  - id: first_checkup_overdue_month_4_fires
+    facts: {anc_checkups_done: 0, pregnancy_month: 4}
+    expect: {urgency: MEDIUM, fired: [preg.first_checkup_overdue]}
+    covers: [{rule: preg.first_checkup_overdue, kind: firing}]
+  - id: first_checkup_month_3_boundary
+    facts: {anc_checkups_done: 0, pregnancy_month: 3}
+    expect: {urgency: INCOMPLETE, reason: no_rule_matched}
+    covers: [{rule: preg.first_checkup_overdue, kind: boundary}]
+  - id: one_checkup_done_month_8
+    facts: {anc_checkups_done: 1, pregnancy_month: 8}
+    expect: {urgency: INCOMPLETE, reason: no_rule_matched}
+  - id: first_checkup_month_unknown
+    facts: {anc_checkups_done: 0}
+    unset: [pregnancy_month]
+    expect: {urgency: INCOMPLETE, missing_includes: [pregnancy_month]}
+    covers: [{rule: preg.first_checkup_overdue, kind: unknown}]

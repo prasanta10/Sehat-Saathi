@@ -120,6 +120,14 @@ signs:
     sources:
       - {ref: nhm_mcp_card_english, locator: "pdf page 4, pregnancy danger signs"}
       - {ref: nhm_mcp_card_hindi, locator: "pdf page 4, pregnancy danger signs (Hindi)"}
+  - id: pregnancy.severe_anaemia
+    fact: ds_preg_severe_anaemia
+    group: pregnancy
+    label: {en: "Severe anaemia with or without breathlessness", hi: "सांस लेने में कठिनाई के साथ या उसके बिना शरीर में रक्त की गम्भीर कमी"}
+    pictogram: pallor
+    sources:
+      - {ref: nhm_mcp_card_english, locator: "pdf page 4, pregnancy danger signs: severe anaemia"}
+      - {ref: nhm_mcp_card_hindi, locator: "pdf page 4, pregnancy danger signs: severe anaemia (Hindi)"}
   - id: pregnancy.postnatal_convulsions
     fact: ds_postnatal_convulsions
     group: pregnancy

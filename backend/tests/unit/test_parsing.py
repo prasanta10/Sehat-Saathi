@@ -77,3 +77,25 @@ def test_durations_tolerate_spelling_marks(text: str, days: int) -> None:
 
 def test_negation_survives_loose_spelling() -> None:
     assert parse_yes_no("नही") == "no" and parse_yes_no("नहीं") == "no"
+
+
+@pytest.mark.parametrize(
+    ("text", "n"),
+    [
+        ("पांचवा महीना", 5),
+        ("मेरा पाँचवाँ महीना चल रहा है", 5),
+        ("paanchva mahina", 5),
+        ("सातवां महीना", 7),
+        ("नौवां महीना", 9),
+        ("5th month", 5),
+    ],
+)
+def test_ordinals_for_counted_facts(text: str, n: float) -> None:
+    assert parse_number(text) == n
+
+
+def test_ordinals_are_not_durations() -> None:
+    # "the fifth month" is not "five months"; and "pehle" (earlier) is not an ordinal.
+    assert parse_duration_days("पांचवा महीना") is None
+    assert parse_number("pehle") is None
+    assert parse_number("दूसरा और तीसरा") is None  # two numbers: ambiguous

@@ -197,7 +197,8 @@
   "bring": {
     "id_document": "कोई भी पहचान पत्र, अगर आसानी से मिले",
     "previous_reports": "पुरानी रिपोर्ट और पर्चे",
-    "current_medicines": "अभी ली जा रही दवाइयाँ"
+    "current_medicines": "अभी ली जा रही दवाइयाँ",
+    "mcp_card": "मातृ एवं शिशु सुरक्षा (MCP) कार्ड"
   },
   "extract": {
     "working": "परिवार की बात पढ़ी जा रही है…",
