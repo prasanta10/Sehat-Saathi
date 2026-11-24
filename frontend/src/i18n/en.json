@@ -165,7 +165,7 @@
     "to_plan": "See the plan",
     "to_emergency": "What to do now"
   },
-  "draft_banner": "Demonstration pathway — not clinically validated",
+  "draft_banner": "Prototype — rules from official guidelines, awaiting clinical review",
   "plan": {
     "title": "Referral plan",
     "where": "Where to go",

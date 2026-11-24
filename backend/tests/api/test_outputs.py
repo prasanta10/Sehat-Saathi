@@ -44,7 +44,7 @@ def test_template_outputs_are_complete_with_no_model(client: TestClient) -> None
         "Primary Health Centre",
         "within 24 hours",
         "This is not a diagnosis",
-        "Demonstration pathway — not clinically validated",
+        "Prototype — rules from official guidelines, awaiting clinical review",
     ]:
         assert expected in h, expected
     f = outs["family_instructions"]

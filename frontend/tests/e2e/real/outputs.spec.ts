@@ -23,7 +23,7 @@ test('plan shows family instructions in Hindi and the clinician note, both from 
   const note = page.getByTestId('output-clinician_handoff')
   await expect(note).toContainText('Synthetic Kamla Devi')
   await expect(note).toContainText('cough.two_weeks_or_more')
-  await expect(note).toContainText('Demonstration pathway — not clinically validated')
+  await expect(note).toContainText('Prototype — rules from official guidelines, awaiting clinical review')
 })
 
 test('clinician handoff prints on one page', async ({ page, api }) => {

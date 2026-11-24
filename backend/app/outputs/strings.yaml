@@ -1,7 +1,7 @@
 # Fixed text for generated outputs. Hindi needs review by Hindi-speaking health workers.
 not_diagnosis: {en: "This is not a diagnosis. A doctor will examine you.", hi: "यह निदान नहीं है। डॉक्टर आपकी जाँच करेंगे।"}
 not_diagnosis_note: {en: "Referral support only — not a diagnosis. Facts were confirmed with the family by the health worker.", hi: "केवल रेफ़रल सहायता — निदान नहीं। तथ्य स्वास्थ्य कार्यकर्ता ने परिवार के साथ जाँचे हैं।"}
-draft: {en: "Demonstration pathway — not clinically validated.", hi: "प्रदर्शन हेतु पाथवे — चिकित्सकीय रूप से प्रमाणित नहीं।"}
+draft: {en: "Prototype — rules from official guidelines, awaiting clinical review.", hi: "प्रोटोटाइप — नियम सरकारी दिशानिर्देशों से, चिकित्सकीय समीक्षा बाकी।"}
 emergency_call: {en: "If the person gets worse or you see a danger sign, call 108 at once.", hi: "हालत बिगड़े या कोई ख़तरे का लक्षण दिखे तो तुरंत 108 पर कॉल करें।"}
 emergency_now: {en: "Emergency: call 108 or 112 now. Do not wait for documents.", hi: "आपातकाल: अभी 108 या 112 पर कॉल करें। काग़ज़ों का इंतज़ार न करें।"}
 handoff_title: {en: "Referral note from community health worker", hi: "सामुदायिक स्वास्थ्य कार्यकर्ता का रेफ़रल नोट"}

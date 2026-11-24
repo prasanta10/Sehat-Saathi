@@ -3,7 +3,6 @@ import { useTranslation } from 'react-i18next'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 
 import { api } from '../api/client'
-import { DraftBanner } from '../components/DraftBanner'
 import { OutputCard } from '../components/OutputCard'
 import { ReadAloud } from '../components/ReadAloud'
 import { ShareButton } from '../components/ShareButton'
@@ -26,7 +25,6 @@ export function PlanScreen() {
   return (
     <Screen title={t('plan.title')} step="plan">
       <UrgencyBand level={p.urgency as 'EMERGENCY' | 'HIGH' | 'MEDIUM' | 'LOW' | 'INCOMPLETE'} />
-      {p.review_status === 'draft' && <DraftBanner />}
       {p.facility_level ? (
         <dl className="flex flex-col gap-3 text-lg" data-testid="plan">
           <div className="grid grid-cols-2 gap-3">

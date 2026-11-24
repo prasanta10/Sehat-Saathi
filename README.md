@@ -23,7 +23,7 @@ A danger-sign checklist is on every screen and works with no network and no AI.
 - Hindi and English throughout.
 - Synthetic data only.
 
-There are three pathways, all **drafts**: adult cough (NTEP TB guidance), pregnancy check-up (MCP card, SSBSK 2026, NHM) and sick child from 2 months to 5 years (SSBSK 2026, corroborated by IMNCI). Each is shown with a "demonstration pathway — not clinically validated" banner until a clinician reviews it. The worker picks the main concern; only pathways the person's age, sex and pregnancy status do not rule out are offered. Every judgment call (facility level, time window, thresholds) is listed in the comment at the top of each file in `rules/pathways/`.
+There are three pathways, all **drafts**: adult cough (NTEP TB guidance), pregnancy check-up (MCP card, SSBSK 2026, NHM) and sick child from 2 months to 5 years (SSBSK 2026, corroborated by IMNCI). Results and printed notes carry a small "Prototype — rules from official guidelines, awaiting clinical review" line until a clinician reviews them. The worker picks the main concern; only pathways the person's age, sex and pregnancy status do not rule out are offered. Every judgment call (facility level, time window, thresholds) is listed in the comment at the top of each file in `rules/pathways/`.
 
 ## Stack
 

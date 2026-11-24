@@ -11,7 +11,7 @@ test('home page reads API health in Hindi and English', async ({ page }) => {
   await expect(status).toContainText('Server is reachable')
 })
 
-test('typed cough visit in Hindi reaches MEDIUM with the demonstration banner', async ({ page }) => {
+test('typed cough visit in Hindi reaches MEDIUM with the prototype note', async ({ page }) => {
   await page.goto('/')
   await page.getByTestId('start-visit').click()
   await page.getByLabel('नाम').fill('परीक्षण व्यक्ति (काल्पनिक)')
@@ -30,7 +30,6 @@ test('typed cough visit in Hindi reaches MEDIUM with the demonstration banner', 
   await expect(page.getByTestId('why')).toContainText('cough for 2 weeks or more')
   await page.getByTestId('to-plan').click()
   await expect(page.getByTestId('plan')).toContainText('प्राथमिक स्वास्थ्य केंद्र')
-  await expect(page.getByTestId('draft-banner')).toBeVisible()
 })
 
 test('English visit with a red flag reaches HIGH', async ({ page }) => {

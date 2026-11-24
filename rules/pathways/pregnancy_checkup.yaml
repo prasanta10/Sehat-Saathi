@@ -1,5 +1,5 @@
-# Pregnancy check-up (antenatal home visit). DRAFT — not clinically reviewed; the UI shows the
-#   demonstration banner.
+# Pregnancy check-up (antenatal home visit). DRAFT — not clinically reviewed; results carry the
+#   prototype note.
 # Danger signs: the pregnancy danger signs in rules/danger_signs.yaml (MCP card p. 4, "take the
 #   pregnant woman to the hospital immediately") are asked first; any "yes" gives EMERGENCY, so they
 #   are not repeated as rules. Severe anaemia (same MCP sentence) was added as a universal danger

@@ -63,7 +63,7 @@ describe('alert screen', () => {
     expect(band.querySelector('[aria-hidden="true"]')?.textContent).toBeTruthy()
   })
 
-  it('shows the demonstration banner for draft content, and the source on Why?', async () => {
+  it('shows the prototype note for draft content, and the source on Why?', async () => {
     setLanguage('en')
     stubFetch(() => encounter('MEDIUM'))
     renderAt('/visit/e1/alert')
